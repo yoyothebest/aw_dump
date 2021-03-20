@@ -1,0 +1,11 @@
+{
+    "name": "ncs_loc_eng_mp_laser2",
+    "stringType": 5,
+    "sourceType": 2,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "MP_LASER2_MAP_KILLSTREAK_PICKUP"
+        }
+    ]
+}

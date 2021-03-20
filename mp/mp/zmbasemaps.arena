@@ -1,0 +1,60 @@
+{
+	map			"mp_zombie_lab"
+	longname	"MPUI_ZOMBIE_LAB"
+	gametype	"zombies"
+    description "MPUI_DESC_ZOMBIE_LAB"
+    mapimage    "preview_mp_zombie_lab"
+	mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel_zombies"
+    axischar    "atlas"
+    environment	"urban"
+	mappack		"11"
+}
+
+{
+	map			"mp_zombie_brg"
+	longname	"MPUI_ZOMBIE_BRG"
+	gametype	"zombies"
+    description "MPUI_DESC_ZOMBIE_BRG"
+    mapimage    "preview_mp_zombie_brg"
+	mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel_zombies"
+    axischar    "atlas"
+    environment	"urban"
+	mappack		"12"
+}
+
+{
+	map			"mp_zombie_ark"
+	longname	"MPUI_ZOMBIE_ARK"
+	gametype	"zombies"
+    description "MPUI_DESC_ZOMBIE_ARK"
+    mapimage    "preview_mp_zombie_ark"
+	mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel_zombies"
+    axischar    "atlas"
+    environment	"urban"
+	mappack		"13"
+}
+
+{
+	map			"mp_zombie_h2o"
+	longname	"MPUI_ZOMBIE_H2O"
+	gametype	"zombies"
+    description "MPUI_DESC_ZOMBIE_H2O"
+    mapimage    "preview_mp_zombie_h2o"
+	mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel_zombies"
+    axischar    "atlas"
+    environment	"urban"
+	mappack		"14"
+}
+
+{
+    map         "mp_vlobby_room"
+    gametype    "vlobby"
+    allieschar  "sentinel_vl"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "16384"
+}

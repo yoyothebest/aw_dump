@@ -1,0 +1,29 @@
+{
+    "name": "ncs_mat_patch_common_horde_mp",
+    "stringType": 1,
+    "sourceType": 2,
+    "entryCount": 7,
+    "strings": [
+        {
+            "string": "equipment_contact"
+        },
+        {
+            "string": "popup_horde_obj_uplink"
+        },
+        {
+            "string": "waypoint_esports_ctf_flag_neutral"
+        },
+        {
+            "string": "waypoint_esports_losing_blue"
+        },
+        {
+            "string": "waypoint_esports_losing_red"
+        },
+        {
+            "string": "waypoint_esports_taking_blue"
+        },
+        {
+            "string": "waypoint_esports_taking_red"
+        }
+    ]
+}

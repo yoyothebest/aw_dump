@@ -1,0 +1,80 @@
+{
+    "name": "ncs_hnt_eng_patch_mp_zombie_ark",
+    "stringType": 18,
+    "sourceType": 1,
+    "entryCount": 24,
+    "strings": [
+        {
+            "string": "AREA_INVALIDATION_BOMB_DEFUSE"
+        },
+        {
+            "string": "KILLSTREAKS_DLC3_DISRUPTOR_TURRET"
+        },
+        {
+            "string": "ZOMBIE_ARK_DOOR_TO_ARMORY"
+        },
+        {
+            "string": "ZOMBIE_ARK_DOOR_TO_BIOMED"
+        },
+        {
+            "string": "ZOMBIE_ARK_DOOR_TO_CARGOBAY"
+        },
+        {
+            "string": "ZOMBIE_ARK_DOOR_TO_CARGOELEVATOR"
+        },
+        {
+            "string": "ZOMBIE_ARK_DOOR_TO_MEDICAL"
+        },
+        {
+            "string": "ZOMBIE_ARK_DOOR_TO_MOONPOOL"
+        },
+        {
+            "string": "ZOMBIE_ARK_DOOR_TO_REARBAY"
+        },
+        {
+            "string": "ZOMBIE_ARK_DOOR_TO_SIDEBAY"
+        },
+        {
+            "string": "ZOMBIE_ARK_SQ_CAGE"
+        },
+        {
+            "string": "ZOMBIE_ARK_SQ_DIG"
+        },
+        {
+            "string": "ZOMBIE_ARK_SQ_FISH"
+        },
+        {
+            "string": "ZOMBIE_ARK_SQ_FISH_GRAB"
+        },
+        {
+            "string": "ZOMBIE_ARK_SQ_RUM"
+        },
+        {
+            "string": "ZOMBIE_ARK_SQ_TELEPORT"
+        },
+        {
+            "string": "ZOMBIE_ARK_SQ_WEAPON_DISPOSAL"
+        },
+        {
+            "string": "ZOMBIE_ARK_TELEPORT_USE"
+        },
+        {
+            "string": "ZOMBIE_DLC3_REPULSOR"
+        },
+        {
+            "string": "ZOMBIE_DLC3_TELEPORT_GRENADE"
+        },
+        {
+            "string": "ZOMBIE_DLC3_TELEPORT_GRENADE_AMMO"
+        },
+        {
+            "string": "ZOMBIE_SQUADMATE_SQUADMATE"
+        },
+        {
+            "string": "ZOMBIE_WEAPONDLC2_GUN"
+        },
+        {
+            "string": "ZOMBIE_WEAPONDLC3_GUN"
+        }
+    ]
+}

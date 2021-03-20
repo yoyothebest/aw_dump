@@ -1,0 +1,17 @@
+{
+    "name": "ncs_hnt_common_core_mp",
+    "stringType": 18,
+    "sourceType": 2,
+    "entryCount": 3,
+    "strings": [
+        {
+            "string": "PLATFORM_HOLD_TO_DROP"
+        },
+        {
+            "string": "PLATFORM_HOLD_TO_USE"
+        },
+        {
+            "string": "SENTRY_MOVE"
+        }
+    ]
+}

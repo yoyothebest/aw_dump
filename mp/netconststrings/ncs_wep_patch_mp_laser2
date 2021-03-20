@@ -1,0 +1,11 @@
+{
+    "name": "ncs_wep_patch_mp_laser2",
+    "stringType": 16,
+    "sourceType": 1,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "tablet_use_weapon_mp"
+        }
+    ]
+}

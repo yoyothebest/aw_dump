@@ -1,0 +1,14 @@
+{
+    "name": "ncs_sel_common_mp",
+    "stringType": 15,
+    "sourceType": 2,
+    "entryCount": 2,
+    "strings": [
+        {
+            "string": "map_artillery_selector"
+        },
+        {
+            "string": "map_nuke_selector"
+        }
+    ]
+}

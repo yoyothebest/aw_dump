@@ -1,0 +1,56 @@
+{
+    "name": "ncs_att_level",
+    "stringType": 17,
+    "sourceType": 0,
+    "entryCount": 16,
+    "strings": [
+        {
+            "string": "chargezm"
+        },
+        {
+            "string": "directhack"
+        },
+        {
+            "string": "firerate"
+        },
+        {
+            "string": "gm6scope"
+        },
+        {
+            "string": "gm6scopevz"
+        },
+        {
+            "string": "heartbeat"
+        },
+        {
+            "string": "heatsink"
+        },
+        {
+            "string": "ironsights"
+        },
+        {
+            "string": "lasersight"
+        },
+        {
+            "string": "longrange"
+        },
+        {
+            "string": "parabolicmicrophone"
+        },
+        {
+            "string": "quickdraw"
+        },
+        {
+            "string": "sensorheartbeatzm"
+        },
+        {
+            "string": "silencer"
+        },
+        {
+            "string": "stock"
+        },
+        {
+            "string": "trackrounds"
+        }
+    ]
+}

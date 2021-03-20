@@ -1,0 +1,137 @@
+{
+    "name": "ncs_loc_eng_patch_code_post_gfx_zm_mp",
+    "stringType": 5,
+    "sourceType": 2,
+    "entryCount": 43,
+    "strings": [
+        {
+            "string": "ZOMBIES_ACTIVATE_ALL_TRAPS"
+        },
+        {
+            "string": "ZOMBIES_AMMO_FULL"
+        },
+        {
+            "string": "ZOMBIES_ASSAULT_DRONE"
+        },
+        {
+            "string": "ZOMBIES_CRATE_MONEY"
+        },
+        {
+            "string": "ZOMBIES_CRATE_SHIELD"
+        },
+        {
+            "string": "ZOMBIES_DOUBLE_POINTS"
+        },
+        {
+            "string": "ZOMBIES_EMPTY_STRING"
+        },
+        {
+            "string": "ZOMBIES_EQUIPMENT_FULL"
+        },
+        {
+            "string": "ZOMBIES_EXO_SUIT"
+        },
+        {
+            "string": "ZOMBIES_FIRE_SALE"
+        },
+        {
+            "string": "ZOMBIES_HAVE_EXO"
+        },
+        {
+            "string": "ZOMBIES_HAVE_PERK"
+        },
+        {
+            "string": "ZOMBIES_HOST_CURE"
+        },
+        {
+            "string": "ZOMBIES_INSTA_KILL"
+        },
+        {
+            "string": "ZOMBIES_LASER_TURRET"
+        },
+        {
+            "string": "ZOMBIES_MAX_AMMO"
+        },
+        {
+            "string": "ZOMBIES_MAX_LEVEL_20"
+        },
+        {
+            "string": "ZOMBIES_MAX_LEVEL_25"
+        },
+        {
+            "string": "ZOMBIES_MONEY"
+        },
+        {
+            "string": "ZOMBIES_MYSTERY_BOX"
+        },
+        {
+            "string": "ZOMBIES_NEED_EXO_SUIT"
+        },
+        {
+            "string": "ZOMBIES_NEED_MORE_MONEY"
+        },
+        {
+            "string": "ZOMBIES_NUKE"
+        },
+        {
+            "string": "ZOMBIES_PERK_HEALTH"
+        },
+        {
+            "string": "ZOMBIES_PERK_RELOAD"
+        },
+        {
+            "string": "ZOMBIES_PERK_REVIVE"
+        },
+        {
+            "string": "ZOMBIES_PERK_SLAM"
+        },
+        {
+            "string": "ZOMBIES_PERK_STABILIZER"
+        },
+        {
+            "string": "ZOMBIES_PERK_TACTICALARMOR"
+        },
+        {
+            "string": "ZOMBIES_PLUS_CREDITS"
+        },
+        {
+            "string": "ZOMBIES_REQUIRES_LEVEL_20"
+        },
+        {
+            "string": "ZOMBIES_ROCKET_DRONE"
+        },
+        {
+            "string": "ZOMBIES_ROCKET_TURRET"
+        },
+        {
+            "string": "ZOMBIES_SENTRY_TURRET"
+        },
+        {
+            "string": "ZOMBIES_SENTRY_TURRET_MAX"
+        },
+        {
+            "string": "ZOMBIES_STREAK_LIMIT"
+        },
+        {
+            "string": "ZOMBIES_SURVIVORS"
+        },
+        {
+            "string": "ZOMBIES_SURVIVORS_ELIMINATED"
+        },
+        {
+            "string": "ZOMBIES_SURVIVORS_FORFEITED"
+        },
+        {
+            "string": "ZOMBIES_SURVIVORS_SHORT_NAME"
+        },
+        {
+            "string": "ZOMBIES_TERMINAL_COOLDOWN_SEC"
+        },
+        {
+            "string": "ZOMBIES_TERMINAL_COOLDOWN_SECS"
+        },
+        {
+            "string": "ZOMBIES_TOMBSTOME"
+        }
+    ]
+}

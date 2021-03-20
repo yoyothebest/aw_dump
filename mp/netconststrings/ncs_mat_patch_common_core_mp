@@ -1,0 +1,23 @@
+{
+    "name": "ncs_mat_patch_common_core_mp",
+    "stringType": 1,
+    "sourceType": 2,
+    "entryCount": 5,
+    "strings": [
+        {
+            "string": "waypoint_esports_ctf_flag_neutral"
+        },
+        {
+            "string": "waypoint_esports_losing_blue"
+        },
+        {
+            "string": "waypoint_esports_losing_red"
+        },
+        {
+            "string": "waypoint_esports_taking_blue"
+        },
+        {
+            "string": "waypoint_esports_taking_red"
+        }
+    ]
+}

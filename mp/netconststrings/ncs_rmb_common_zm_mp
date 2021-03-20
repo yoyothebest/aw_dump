@@ -1,0 +1,20 @@
+{
+    "name": "ncs_rmb_common_zm_mp",
+    "stringType": 2,
+    "sourceType": 2,
+    "entryCount": 4,
+    "strings": [
+        {
+            "string": "defaultweapon_melee"
+        },
+        {
+            "string": "viewmodel_large"
+        },
+        {
+            "string": "viewmodel_medium"
+        },
+        {
+            "string": "viewmodel_small"
+        }
+    ]
+}

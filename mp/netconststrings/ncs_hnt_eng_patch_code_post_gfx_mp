@@ -1,0 +1,293 @@
+{
+    "name": "ncs_hnt_eng_patch_code_post_gfx_mp",
+    "stringType": 18,
+    "sourceType": 2,
+    "entryCount": 95,
+    "strings": [
+        {
+            "string": "HORDE_ARMORY_EXO"
+        },
+        {
+            "string": "HORDE_ARMORY_WEAPONS"
+        },
+        {
+            "string": "HORDE_HINT_SUPPORT_DROP"
+        },
+        {
+            "string": "HORDE_INFO_DISMISS"
+        },
+        {
+            "string": "HORDE_INTERMISSION_READYUP"
+        },
+        {
+            "string": "HORDE_PICKUP_INTEL"
+        },
+        {
+            "string": "HORDE_RESPAWN"
+        },
+        {
+            "string": "KILLSTREAKS_DRONE_CAREPACKAGE_RELEASE"
+        },
+        {
+            "string": "KILLSTREAKS_HEAVY_EXO_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_NEXT_GEN_EXO_PICKUP"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_DAM_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_DETROIT_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_GREENBAND_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_INSTINCT_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_LAB2_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_LASER2_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_LEVITY_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_PRISON_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_PRISON_Z_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_RECOVERY_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_REFRACTION_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_SOLAR_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_TORQUED_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_VENUS_CAPS"
+        },
+        {
+            "string": "MP_AERIAL_PLACED_MINES_PICKUP"
+        },
+        {
+            "string": "MP_AIRSTRIKE_PICKUP"
+        },
+        {
+            "string": "MP_BOOT_LOCATION_NOT_READY"
+        },
+        {
+            "string": "MP_BOOT_READY"
+        },
+        {
+            "string": "MP_BOOT_USE"
+        },
+        {
+            "string": "MP_EARNED_MISSILE_STRIKE"
+        },
+        {
+            "string": "MP_EARNED_ORBITAL_STRIKE"
+        },
+        {
+            "string": "MP_EMP_PICKUP"
+        },
+        {
+            "string": "MP_ENTER_REMOTE_TURRET"
+        },
+        {
+            "string": "MP_GROUND_ASSAULT_DRONE_PICKUP"
+        },
+        {
+            "string": "MP_HEAVY_EXO_PICKUP"
+        },
+        {
+            "string": "MP_HEAVY_EXO_TROPHY_ROCKETS_PICKUP"
+        },
+        {
+            "string": "MP_HOLD_TO_CARRY"
+        },
+        {
+            "string": "MP_HORDE_BLEED_OUT"
+        },
+        {
+            "string": "MP_IMS_CANNOT_PLACE"
+        },
+        {
+            "string": "MP_JOIN_HEAVY_EXO"
+        },
+        {
+            "string": "MP_JOIN_ORBITALSUPPORT_DEF"
+        },
+        {
+            "string": "MP_JOIN_ORBITALSUPPORT_OFF"
+        },
+        {
+            "string": "MP_JOIN_STRAFING_RUN"
+        },
+        {
+            "string": "MP_JOIN_WARBIRD_DEF"
+        },
+        {
+            "string": "MP_JOIN_WARBIRD_OFF"
+        },
+        {
+            "string": "MP_LASERTURRET_HACK"
+        },
+        {
+            "string": "MP_MISSILE_STRIKE_CHANGE"
+        },
+        {
+            "string": "MP_MISSILE_STRIKE_PICKUP"
+        },
+        {
+            "string": "MP_ORBITALSUPPORT_PICKUP"
+        },
+        {
+            "string": "MP_ORBITALSUPPORT_ROCKETS_PICKUP"
+        },
+        {
+            "string": "MP_ORBITAL_STRIKE_LASER_PICKUP"
+        },
+        {
+            "string": "MP_ORBITAL_STRIKE_LASER_PLUS_TIME_PICKUP"
+        },
+        {
+            "string": "MP_PACKAGE_REROLL"
+        },
+        {
+            "string": "MP_PATCH_DESTROY_TI"
+        },
+        {
+            "string": "MP_PATCH_PICKUP_PORTABLE_RADAR"
+        },
+        {
+            "string": "MP_PATCH_PICKUP_SCRAMBLER"
+        },
+        {
+            "string": "MP_PATCH_PICKUP_TI"
+        },
+        {
+            "string": "MP_PERK_PICKUP_BLINDEYE"
+        },
+        {
+            "string": "MP_PERK_PICKUP_COLDBLOODED"
+        },
+        {
+            "string": "MP_PERK_PICKUP_DEXTERITY"
+        },
+        {
+            "string": "MP_PERK_PICKUP_EXO_BATTERY"
+        },
+        {
+            "string": "MP_PERK_PICKUP_EXO_BLASTSUPPRESSOR"
+        },
+        {
+            "string": "MP_PERK_PICKUP_FASTHANDS"
+        },
+        {
+            "string": "MP_PERK_PICKUP_FLAKJACKET"
+        },
+        {
+            "string": "MP_PERK_PICKUP_GENERIC"
+        },
+        {
+            "string": "MP_PERK_PICKUP_GENERIC_MULTIPLE"
+        },
+        {
+            "string": "MP_PERK_PICKUP_GUNGHO"
+        },
+        {
+            "string": "MP_PERK_PICKUP_HARDLINE"
+        },
+        {
+            "string": "MP_PERK_PICKUP_HARDWIRED"
+        },
+        {
+            "string": "MP_PERK_PICKUP_LIGHTWEIGHT"
+        },
+        {
+            "string": "MP_PERK_PICKUP_LOWPROFILE"
+        },
+        {
+            "string": "MP_PERK_PICKUP_PERIPHERALS"
+        },
+        {
+            "string": "MP_PERK_PICKUP_QUICKDRAW"
+        },
+        {
+            "string": "MP_PERK_PICKUP_SCAVENGER"
+        },
+        {
+            "string": "MP_PERK_PICKUP_TOUGHNESS"
+        },
+        {
+            "string": "MP_PICKUP_EXPLOSIVE_DRONE"
+        },
+        {
+            "string": "MP_PRISON_SENSOR_PICKUP"
+        },
+        {
+            "string": "MP_RECON_UGV_PICKUP"
+        },
+        {
+            "string": "MP_REMOTE_TANK_CANNOT_PLACE"
+        },
+        {
+            "string": "MP_REMOTE_TANK_PLACE"
+        },
+        {
+            "string": "MP_SECURING_POSITION"
+        },
+        {
+            "string": "MP_SENTRY_PICKUP"
+        },
+        {
+            "string": "MP_TURRET_CANNOT_PLACE"
+        },
+        {
+            "string": "MP_TURRET_PICKUP_HEAD"
+        },
+        {
+            "string": "MP_TURRET_PLACE"
+        },
+        {
+            "string": "MP_TURRET_RIP_OFF"
+        },
+        {
+            "string": "MP_UAV_PICKUP"
+        },
+        {
+            "string": "MP_WARBIRD_PICKUP"
+        },
+        {
+            "string": "MP_WARBIRD_PLAYER_PROMPT"
+        },
+        {
+            "string": "MP_WARBIRD_ROCKETS_AI_PICKUP"
+        },
+        {
+            "string": "MP_WARBIRD_ROCKETS_PICKUP"
+        },
+        {
+            "string": "PLATFORM_HOLD_TO_DEFUSE_EXPLOSIVES"
+        },
+        {
+            "string": "PLATFORM_HOLD_TO_PLANT_EXPLOSIVES"
+        },
+        {
+            "string": "PLATFORM_PRESS_TO_COPYCAT"
+        },
+        {
+            "string": "PLATFORM_REVIVE"
+        }
+    ]
+}

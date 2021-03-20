@@ -1,0 +1,32 @@
+{
+    "name": "ncs_acl_level",
+    "stringType": 21,
+    "sourceType": 0,
+    "entryCount": 8,
+    "strings": [
+        {
+            "string": "zombie_animclass"
+        },
+        {
+            "string": "zombie_boss_oz_stage2_animclass"
+        },
+        {
+            "string": "zombie_crawl_animclass"
+        },
+        {
+            "string": "zombie_dog_animclass"
+        },
+        {
+            "string": "zombie_missing_left_arm_animclass"
+        },
+        {
+            "string": "zombie_missing_left_leg_animclass"
+        },
+        {
+            "string": "zombie_missing_right_arm_animclass"
+        },
+        {
+            "string": "zombie_missing_right_leg_animclass"
+        }
+    ]
+}

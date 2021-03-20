@@ -1,0 +1,21 @@
+// Zombie Boss stage 1
+
+zom_boss_st1_idle
+zom_boss_st1_taunt_01
+zom_boss_st1_taunt_02
+
+zom_boss_st1_trap_mid
+zom_boss_st1_trap_right
+zom_boss_st1_trap_left
+
+zom_boss_st1_exposed_react
+zom_boss_st1_exposed_idle
+
+zom_boss_st1_exposed_pain_head
+zom_boss_st1_exposed_pain_left
+zom_boss_st1_exposed_pain_right
+
+zom_boss_st1_teleport_out
+zom_boss_st1_teleport_in
+
+zom_boss_st1_exposed_to_normal

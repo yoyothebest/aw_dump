@@ -1,0 +1,20 @@
+{
+    "name": "ncs_vfx_patch_mp_zombie_h2o",
+    "stringType": 4,
+    "sourceType": 1,
+    "entryCount": 4,
+    "strings": [
+        {
+            "string": "vfx/gameplay/mp/zombie/dlc_pickup_zombies_01_dble_pts"
+        },
+        {
+            "string": "vfx/map/mp_refraction/mp_ref_distant_lightning"
+        },
+        {
+            "string": "vfx/map/mp_refraction/mp_ref_distant_lightning_bolt"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/cloud_oriented_vista_zm_h2o"
+        }
+    ]
+}

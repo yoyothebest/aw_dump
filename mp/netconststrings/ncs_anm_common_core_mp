@@ -1,0 +1,65 @@
+{
+    "name": "ncs_anm_common_core_mp",
+    "stringType": 19,
+    "sourceType": 2,
+    "entryCount": 19,
+    "strings": [
+        {
+            "string": "airstrike_mp_roll"
+        },
+        {
+            "string": "mp_generic_prop_spin"
+        },
+        {
+            "string": "mp_generic_prop_spin_02"
+        },
+        {
+            "string": "mp_goliath_enter"
+        },
+        {
+            "string": "mp_goliath_spawn"
+        },
+        {
+            "string": "mp_goliath_spawn_2_stand_idle"
+        },
+        {
+            "string": "orbital_care_package_fan_spin"
+        },
+        {
+            "string": "orbital_care_package_open"
+        },
+        {
+            "string": "orbital_care_package_open_loop"
+        },
+        {
+            "string": "paladin_ks_callin"
+        },
+        {
+            "string": "paladin_ks_death_loop"
+        },
+        {
+            "string": "paladin_ks_exit"
+        },
+        {
+            "string": "paladin_ks_loop"
+        },
+        {
+            "string": "strafing_run_ks_flyby"
+        },
+        {
+            "string": "vehicle_80s_sedan1_destroy"
+        },
+        {
+            "string": "vehicle_80s_sedan1_flattire_lb"
+        },
+        {
+            "string": "vehicle_80s_sedan1_flattire_lf"
+        },
+        {
+            "string": "vehicle_80s_sedan1_flattire_rb"
+        },
+        {
+            "string": "vehicle_80s_sedan1_flattire_rf"
+        }
+    ]
+}

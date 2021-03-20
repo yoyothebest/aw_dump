@@ -1,0 +1,1184 @@
+{
+    "name": "ncs_snd_patch_mp_sector17",
+    "stringType": 6,
+    "sourceType": 1,
+    "entryCount": 392,
+    "strings": [
+        {
+            "string": "at_0_co_loc_sector17_airgate"
+        },
+        {
+            "string": "at_0_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "at_0_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "at_0_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "at_0_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "at_0_co_loc_sector17_bridge"
+        },
+        {
+            "string": "at_0_co_loc_sector17_centcont"
+        },
+        {
+            "string": "at_0_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "at_0_co_loc_sector17_entgate"
+        },
+        {
+            "string": "at_0_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "at_0_co_loc_sector17_forttop"
+        },
+        {
+            "string": "at_0_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "at_0_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "at_0_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "at_1_co_loc_sector17_airgate"
+        },
+        {
+            "string": "at_1_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "at_1_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "at_1_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "at_1_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "at_1_co_loc_sector17_bridge"
+        },
+        {
+            "string": "at_1_co_loc_sector17_centcont"
+        },
+        {
+            "string": "at_1_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "at_1_co_loc_sector17_entgate"
+        },
+        {
+            "string": "at_1_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "at_1_co_loc_sector17_forttop"
+        },
+        {
+            "string": "at_1_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "at_1_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "at_1_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "at_2_co_loc_sector17_airgate"
+        },
+        {
+            "string": "at_2_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "at_2_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "at_2_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "at_2_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "at_2_co_loc_sector17_bridge"
+        },
+        {
+            "string": "at_2_co_loc_sector17_centcont"
+        },
+        {
+            "string": "at_2_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "at_2_co_loc_sector17_entgate"
+        },
+        {
+            "string": "at_2_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "at_2_co_loc_sector17_forttop"
+        },
+        {
+            "string": "at_2_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "at_2_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "at_2_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "at_3_co_loc_sector17_airgate"
+        },
+        {
+            "string": "at_3_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "at_3_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "at_3_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "at_3_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "at_3_co_loc_sector17_bridge"
+        },
+        {
+            "string": "at_3_co_loc_sector17_centcont"
+        },
+        {
+            "string": "at_3_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "at_3_co_loc_sector17_entgate"
+        },
+        {
+            "string": "at_3_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "at_3_co_loc_sector17_forttop"
+        },
+        {
+            "string": "at_3_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "at_3_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "at_3_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "at_4_co_loc_sector17_airgate"
+        },
+        {
+            "string": "at_4_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "at_4_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "at_4_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "at_4_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "at_4_co_loc_sector17_bridge"
+        },
+        {
+            "string": "at_4_co_loc_sector17_centcont"
+        },
+        {
+            "string": "at_4_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "at_4_co_loc_sector17_entgate"
+        },
+        {
+            "string": "at_4_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "at_4_co_loc_sector17_forttop"
+        },
+        {
+            "string": "at_4_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "at_4_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "at_4_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "at_5_co_loc_sector17_airgate"
+        },
+        {
+            "string": "at_5_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "at_5_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "at_5_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "at_5_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "at_5_co_loc_sector17_bridge"
+        },
+        {
+            "string": "at_5_co_loc_sector17_centcont"
+        },
+        {
+            "string": "at_5_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "at_5_co_loc_sector17_entgate"
+        },
+        {
+            "string": "at_5_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "at_5_co_loc_sector17_forttop"
+        },
+        {
+            "string": "at_5_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "at_5_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "at_5_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "at_6_co_loc_sector17_airgate"
+        },
+        {
+            "string": "at_6_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "at_6_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "at_6_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "at_6_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "at_6_co_loc_sector17_bridge"
+        },
+        {
+            "string": "at_6_co_loc_sector17_centcont"
+        },
+        {
+            "string": "at_6_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "at_6_co_loc_sector17_entgate"
+        },
+        {
+            "string": "at_6_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "at_6_co_loc_sector17_forttop"
+        },
+        {
+            "string": "at_6_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "at_6_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "at_6_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "at_7_co_loc_sector17_airgate"
+        },
+        {
+            "string": "at_7_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "at_7_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "at_7_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "at_7_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "at_7_co_loc_sector17_bridge"
+        },
+        {
+            "string": "at_7_co_loc_sector17_centcont"
+        },
+        {
+            "string": "at_7_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "at_7_co_loc_sector17_entgate"
+        },
+        {
+            "string": "at_7_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "at_7_co_loc_sector17_forttop"
+        },
+        {
+            "string": "at_7_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "at_7_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "at_7_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "at_8_co_loc_sector17_airgate"
+        },
+        {
+            "string": "at_8_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "at_8_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "at_8_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "at_8_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "at_8_co_loc_sector17_bridge"
+        },
+        {
+            "string": "at_8_co_loc_sector17_centcont"
+        },
+        {
+            "string": "at_8_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "at_8_co_loc_sector17_entgate"
+        },
+        {
+            "string": "at_8_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "at_8_co_loc_sector17_forttop"
+        },
+        {
+            "string": "at_8_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "at_8_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "at_8_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "at_w0_co_loc_sector17_airgate"
+        },
+        {
+            "string": "at_w0_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "at_w0_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "at_w0_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "at_w0_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "at_w0_co_loc_sector17_bridge"
+        },
+        {
+            "string": "at_w0_co_loc_sector17_centcont"
+        },
+        {
+            "string": "at_w0_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "at_w0_co_loc_sector17_entgate"
+        },
+        {
+            "string": "at_w0_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "at_w0_co_loc_sector17_forttop"
+        },
+        {
+            "string": "at_w0_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "at_w0_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "at_w0_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "at_w1_co_loc_sector17_airgate"
+        },
+        {
+            "string": "at_w1_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "at_w1_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "at_w1_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "at_w1_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "at_w1_co_loc_sector17_bridge"
+        },
+        {
+            "string": "at_w1_co_loc_sector17_centcont"
+        },
+        {
+            "string": "at_w1_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "at_w1_co_loc_sector17_entgate"
+        },
+        {
+            "string": "at_w1_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "at_w1_co_loc_sector17_forttop"
+        },
+        {
+            "string": "at_w1_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "at_w1_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "at_w1_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "at_w2_co_loc_sector17_airgate"
+        },
+        {
+            "string": "at_w2_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "at_w2_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "at_w2_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "at_w2_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "at_w2_co_loc_sector17_bridge"
+        },
+        {
+            "string": "at_w2_co_loc_sector17_centcont"
+        },
+        {
+            "string": "at_w2_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "at_w2_co_loc_sector17_entgate"
+        },
+        {
+            "string": "at_w2_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "at_w2_co_loc_sector17_forttop"
+        },
+        {
+            "string": "at_w2_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "at_w2_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "at_w2_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "at_w3_co_loc_sector17_airgate"
+        },
+        {
+            "string": "at_w3_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "at_w3_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "at_w3_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "at_w3_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "at_w3_co_loc_sector17_bridge"
+        },
+        {
+            "string": "at_w3_co_loc_sector17_centcont"
+        },
+        {
+            "string": "at_w3_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "at_w3_co_loc_sector17_entgate"
+        },
+        {
+            "string": "at_w3_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "at_w3_co_loc_sector17_forttop"
+        },
+        {
+            "string": "at_w3_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "at_w3_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "at_w3_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "at_w4_co_loc_sector17_airgate"
+        },
+        {
+            "string": "at_w4_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "at_w4_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "at_w4_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "at_w4_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "at_w4_co_loc_sector17_bridge"
+        },
+        {
+            "string": "at_w4_co_loc_sector17_centcont"
+        },
+        {
+            "string": "at_w4_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "at_w4_co_loc_sector17_entgate"
+        },
+        {
+            "string": "at_w4_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "at_w4_co_loc_sector17_forttop"
+        },
+        {
+            "string": "at_w4_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "at_w4_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "at_w4_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "se_0_co_loc_sector17_airgate"
+        },
+        {
+            "string": "se_0_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "se_0_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "se_0_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "se_0_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "se_0_co_loc_sector17_bridge"
+        },
+        {
+            "string": "se_0_co_loc_sector17_centcont"
+        },
+        {
+            "string": "se_0_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "se_0_co_loc_sector17_entgate"
+        },
+        {
+            "string": "se_0_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "se_0_co_loc_sector17_forttop"
+        },
+        {
+            "string": "se_0_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "se_0_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "se_0_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "se_1_co_loc_sector17_airgate"
+        },
+        {
+            "string": "se_1_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "se_1_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "se_1_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "se_1_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "se_1_co_loc_sector17_bridge"
+        },
+        {
+            "string": "se_1_co_loc_sector17_centcont"
+        },
+        {
+            "string": "se_1_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "se_1_co_loc_sector17_entgate"
+        },
+        {
+            "string": "se_1_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "se_1_co_loc_sector17_forttop"
+        },
+        {
+            "string": "se_1_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "se_1_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "se_1_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "se_2_co_loc_sector17_airgate"
+        },
+        {
+            "string": "se_2_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "se_2_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "se_2_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "se_2_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "se_2_co_loc_sector17_bridge"
+        },
+        {
+            "string": "se_2_co_loc_sector17_centcont"
+        },
+        {
+            "string": "se_2_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "se_2_co_loc_sector17_entgate"
+        },
+        {
+            "string": "se_2_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "se_2_co_loc_sector17_forttop"
+        },
+        {
+            "string": "se_2_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "se_2_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "se_2_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "se_3_co_loc_sector17_airgate"
+        },
+        {
+            "string": "se_3_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "se_3_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "se_3_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "se_3_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "se_3_co_loc_sector17_bridge"
+        },
+        {
+            "string": "se_3_co_loc_sector17_centcont"
+        },
+        {
+            "string": "se_3_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "se_3_co_loc_sector17_entgate"
+        },
+        {
+            "string": "se_3_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "se_3_co_loc_sector17_forttop"
+        },
+        {
+            "string": "se_3_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "se_3_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "se_3_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "se_4_co_loc_sector17_airgate"
+        },
+        {
+            "string": "se_4_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "se_4_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "se_4_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "se_4_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "se_4_co_loc_sector17_bridge"
+        },
+        {
+            "string": "se_4_co_loc_sector17_centcont"
+        },
+        {
+            "string": "se_4_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "se_4_co_loc_sector17_entgate"
+        },
+        {
+            "string": "se_4_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "se_4_co_loc_sector17_forttop"
+        },
+        {
+            "string": "se_4_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "se_4_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "se_4_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "se_5_co_loc_sector17_airgate"
+        },
+        {
+            "string": "se_5_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "se_5_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "se_5_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "se_5_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "se_5_co_loc_sector17_bridge"
+        },
+        {
+            "string": "se_5_co_loc_sector17_centcont"
+        },
+        {
+            "string": "se_5_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "se_5_co_loc_sector17_entgate"
+        },
+        {
+            "string": "se_5_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "se_5_co_loc_sector17_forttop"
+        },
+        {
+            "string": "se_5_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "se_5_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "se_5_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "se_6_co_loc_sector17_airgate"
+        },
+        {
+            "string": "se_6_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "se_6_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "se_6_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "se_6_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "se_6_co_loc_sector17_bridge"
+        },
+        {
+            "string": "se_6_co_loc_sector17_centcont"
+        },
+        {
+            "string": "se_6_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "se_6_co_loc_sector17_entgate"
+        },
+        {
+            "string": "se_6_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "se_6_co_loc_sector17_forttop"
+        },
+        {
+            "string": "se_6_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "se_6_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "se_6_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "se_7_co_loc_sector17_airgate"
+        },
+        {
+            "string": "se_7_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "se_7_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "se_7_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "se_7_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "se_7_co_loc_sector17_bridge"
+        },
+        {
+            "string": "se_7_co_loc_sector17_centcont"
+        },
+        {
+            "string": "se_7_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "se_7_co_loc_sector17_entgate"
+        },
+        {
+            "string": "se_7_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "se_7_co_loc_sector17_forttop"
+        },
+        {
+            "string": "se_7_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "se_7_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "se_7_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "se_8_co_loc_sector17_airgate"
+        },
+        {
+            "string": "se_8_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "se_8_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "se_8_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "se_8_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "se_8_co_loc_sector17_bridge"
+        },
+        {
+            "string": "se_8_co_loc_sector17_centcont"
+        },
+        {
+            "string": "se_8_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "se_8_co_loc_sector17_entgate"
+        },
+        {
+            "string": "se_8_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "se_8_co_loc_sector17_forttop"
+        },
+        {
+            "string": "se_8_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "se_8_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "se_8_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "se_w0_co_loc_sector17_airgate"
+        },
+        {
+            "string": "se_w0_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "se_w0_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "se_w0_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "se_w0_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "se_w0_co_loc_sector17_bridge"
+        },
+        {
+            "string": "se_w0_co_loc_sector17_centcont"
+        },
+        {
+            "string": "se_w0_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "se_w0_co_loc_sector17_entgate"
+        },
+        {
+            "string": "se_w0_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "se_w0_co_loc_sector17_forttop"
+        },
+        {
+            "string": "se_w0_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "se_w0_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "se_w0_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "se_w1_co_loc_sector17_airgate"
+        },
+        {
+            "string": "se_w1_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "se_w1_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "se_w1_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "se_w1_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "se_w1_co_loc_sector17_bridge"
+        },
+        {
+            "string": "se_w1_co_loc_sector17_centcont"
+        },
+        {
+            "string": "se_w1_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "se_w1_co_loc_sector17_entgate"
+        },
+        {
+            "string": "se_w1_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "se_w1_co_loc_sector17_forttop"
+        },
+        {
+            "string": "se_w1_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "se_w1_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "se_w1_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "se_w2_co_loc_sector17_airgate"
+        },
+        {
+            "string": "se_w2_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "se_w2_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "se_w2_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "se_w2_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "se_w2_co_loc_sector17_bridge"
+        },
+        {
+            "string": "se_w2_co_loc_sector17_centcont"
+        },
+        {
+            "string": "se_w2_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "se_w2_co_loc_sector17_entgate"
+        },
+        {
+            "string": "se_w2_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "se_w2_co_loc_sector17_forttop"
+        },
+        {
+            "string": "se_w2_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "se_w2_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "se_w2_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "se_w3_co_loc_sector17_airgate"
+        },
+        {
+            "string": "se_w3_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "se_w3_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "se_w3_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "se_w3_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "se_w3_co_loc_sector17_bridge"
+        },
+        {
+            "string": "se_w3_co_loc_sector17_centcont"
+        },
+        {
+            "string": "se_w3_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "se_w3_co_loc_sector17_entgate"
+        },
+        {
+            "string": "se_w3_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "se_w3_co_loc_sector17_forttop"
+        },
+        {
+            "string": "se_w3_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "se_w3_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "se_w3_co_loc_sector17_rustbelt"
+        },
+        {
+            "string": "se_w4_co_loc_sector17_airgate"
+        },
+        {
+            "string": "se_w4_co_loc_sector17_alphabuild"
+        },
+        {
+            "string": "se_w4_co_loc_sector17_alphapath"
+        },
+        {
+            "string": "se_w4_co_loc_sector17_bravobuild"
+        },
+        {
+            "string": "se_w4_co_loc_sector17_bravolot"
+        },
+        {
+            "string": "se_w4_co_loc_sector17_bridge"
+        },
+        {
+            "string": "se_w4_co_loc_sector17_centcont"
+        },
+        {
+            "string": "se_w4_co_loc_sector17_charbuild"
+        },
+        {
+            "string": "se_w4_co_loc_sector17_entgate"
+        },
+        {
+            "string": "se_w4_co_loc_sector17_fortbunk"
+        },
+        {
+            "string": "se_w4_co_loc_sector17_forttop"
+        },
+        {
+            "string": "se_w4_co_loc_sector17_forttunnel"
+        },
+        {
+            "string": "se_w4_co_loc_sector17_hazmat"
+        },
+        {
+            "string": "se_w4_co_loc_sector17_rustbelt"
+        }
+    ]
+}

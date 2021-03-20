@@ -1,0 +1,11 @@
+{
+    "name": "ncs_hnt_eng_mp_seoul2",
+    "stringType": 18,
+    "sourceType": 2,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "MP_SEOUL2_MAP_KILLSTREAK_PICKUP"
+        }
+    ]
+}

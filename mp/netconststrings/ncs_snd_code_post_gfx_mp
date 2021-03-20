@@ -1,0 +1,86 @@
+{
+    "name": "ncs_snd_code_post_gfx_mp",
+    "stringType": 6,
+    "sourceType": 2,
+    "entryCount": 26,
+    "strings": [
+        {
+            "string": "action_denied"
+        },
+        {
+            "string": "consider_prestige"
+        },
+        {
+            "string": "default"
+        },
+        {
+            "string": "enter_prestige"
+        },
+        {
+            "string": "exit_prestige"
+        },
+        {
+            "string": "match_countdown_tick"
+        },
+        {
+            "string": "mouse_click"
+        },
+        {
+            "string": "mouse_negative"
+        },
+        {
+            "string": "mouse_over"
+        },
+        {
+            "string": "mouse_submenu_over"
+        },
+        {
+            "string": "mp_experience_tick"
+        },
+        {
+            "string": "mp_player_join"
+        },
+        {
+            "string": "mp_player_leave"
+        },
+        {
+            "string": "mp_prestige_purchase"
+        },
+        {
+            "string": "null"
+        },
+        {
+            "string": "null_material_default"
+        },
+        {
+            "string": "other_adjust"
+        },
+        {
+            "string": "tabs_slide"
+        },
+        {
+            "string": "ui_button_clear"
+        },
+        {
+            "string": "ui_button_error"
+        },
+        {
+            "string": "ui_enter_screen"
+        },
+        {
+            "string": "ui_leave_menu"
+        },
+        {
+            "string": "ui_leave_screen"
+        },
+        {
+            "string": "ui_mouse_click"
+        },
+        {
+            "string": "ui_mouse_over"
+        },
+        {
+            "string": "volume_adjust"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "name": "ncs_loc_eng_patch_mp_zombie_brg",
+    "stringType": 5,
+    "sourceType": 1,
+    "entryCount": 38,
+    "strings": [
+        {
+            "string": "ZOMBIE_BRG_AIRSTRIKE_TRAP_COOLDOWN"
+        },
+        {
+            "string": "ZOMBIE_BRG_AIRSTRIKE_TRAP_READY"
+        },
+        {
+            "string": "ZOMBIE_BRG_AMBULANCE_TRAP_COOLDOWN"
+        },
+        {
+            "string": "ZOMBIE_BRG_AMBULANCE_TRAP_READY"
+        },
+        {
+            "string": "ZOMBIE_BRG_ATLAS_ZONE"
+        },
+        {
+            "string": "ZOMBIE_BRG_BOMB_THROW"
+        },
+        {
+            "string": "ZOMBIE_BRG_BURGER_TOWN_ZONE"
+        },
+        {
+            "string": "ZOMBIE_BRG_CARWASH_TRAP_COOLDOWN"
+        },
+        {
+            "string": "ZOMBIE_BRG_CARWASH_TRAP_READY"
+        },
+        {
+            "string": "ZOMBIE_BRG_DNA_BOMB_TRAP_COOLDOWN"
+        },
+        {
+            "string": "ZOMBIE_BRG_DNA_BOMB_TRAP_READY"
+        },
+        {
+            "string": "ZOMBIE_BRG_ELECTRIC_FLOOR_TRAP_COOLDOWN"
+        },
+        {
+            "string": "ZOMBIE_BRG_ELECTRIC_FLOOR_TRAP_READY"
+        },
+        {
+            "string": "ZOMBIE_BRG_GAS_ZONE"
+        },
+        {
+            "string": "ZOMBIE_BRG_GATOR_TRAP_COOLDOWN"
+        },
+        {
+            "string": "ZOMBIE_BRG_GATOR_TRAP_READY"
+        },
+        {
+            "string": "ZOMBIE_BRG_SNIPER_TRAP_COOLDOWN"
+        },
+        {
+            "string": "ZOMBIE_BRG_SNIPER_TRAP_READY"
+        },
+        {
+            "string": "ZOMBIE_BRG_STEAM_TRAP_COOLDOWN"
+        },
+        {
+            "string": "ZOMBIE_BRG_STEAM_TRAP_READY"
+        },
+        {
+            "string": "ZOMBIE_BRG_TOXIC_EVENT_START"
+        },
+        {
+            "string": "ZOMBIE_BRG_TOXIC_EVENT_STOP"
+        },
+        {
+            "string": "ZOMBIE_CIVILIANS_1"
+        },
+        {
+            "string": "ZOMBIE_CIVILIANS_2"
+        },
+        {
+            "string": "ZOMBIE_CIVILIANS_3"
+        },
+        {
+            "string": "ZOMBIE_CIVILIANS_4"
+        },
+        {
+            "string": "ZOMBIE_CIVILIANS_5"
+        },
+        {
+            "string": "ZOMBIE_CIVILIANS_FAIL_END_ROUND"
+        },
+        {
+            "string": "ZOMBIE_CIVILIANS_INCOMING_UPGRADE"
+        },
+        {
+            "string": "ZOMBIE_CIVILIANS_POWER_OFF_TRIGGER"
+        },
+        {
+            "string": "ZOMBIE_CIVILIANS_POWER_RESTORED"
+        },
+        {
+            "string": "ZOMBIE_CIVILIANS_RESCUE_FAIL"
+        },
+        {
+            "string": "ZOMBIE_CIVILIANS_RESCUE_START"
+        },
+        {
+            "string": "ZOMBIE_CIVILIANS_RESCUE_SUCCESS"
+        },
+        {
+            "string": "ZOMBIE_CIVILIANS_SUCCESS_END_ROUND"
+        },
+        {
+            "string": "ZOMBIE_CIVILIANS_SUCCESS_GOLD_END_ROUND"
+        },
+        {
+            "string": "ZOMBIE_CIVILIANS_SUCCESS_SILVER_END_ROUND"
+        },
+        {
+            "string": "ZOMBIE_CIVILIANS_SURVIVOR"
+        }
+    ]
+}

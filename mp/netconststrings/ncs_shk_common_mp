@@ -1,0 +1,41 @@
+{
+    "name": "ncs_shk_common_mp",
+    "stringType": 9,
+    "sourceType": 2,
+    "entryCount": 11,
+    "strings": [
+        {
+            "string": "concussion_grenade_mp"
+        },
+        {
+            "string": "damage_mp"
+        },
+        {
+            "string": "default"
+        },
+        {
+            "string": "flashbang_mp"
+        },
+        {
+            "string": "frag_grenade_mp"
+        },
+        {
+            "string": "mp_radiation_med"
+        },
+        {
+            "string": "orbital_laser_mp"
+        },
+        {
+            "string": "pain"
+        },
+        {
+            "string": "stun_grenade_mp"
+        },
+        {
+            "string": "underwater"
+        },
+        {
+            "string": "uts19_mp"
+        }
+    ]
+}

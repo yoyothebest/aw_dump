@@ -1,0 +1,20 @@
+{
+    "name": "ncs_att_patch_common_mp",
+    "stringType": 17,
+    "sourceType": 2,
+    "entryCount": 4,
+    "strings": [
+        {
+            "string": "code_sharedreticles"
+        },
+        {
+            "string": "dragunovdlcscope"
+        },
+        {
+            "string": "dragunovdlcscopevz"
+        },
+        {
+            "string": "dragunovdlcstabilizer"
+        }
+    ]
+}

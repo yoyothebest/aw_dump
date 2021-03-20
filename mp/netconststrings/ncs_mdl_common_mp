@@ -1,0 +1,248 @@
+{
+    "name": "ncs_mdl_common_mp",
+    "stringType": 0,
+    "sourceType": 2,
+    "entryCount": 80,
+    "strings": [
+        {
+            "string": "c130_zoomrig"
+        },
+        {
+            "string": "com_deploy_ballistic_vest_friend_world"
+        },
+        {
+            "string": "defaultvehicle"
+        },
+        {
+            "string": "exo_knife_ball"
+        },
+        {
+            "string": "flag_holo_base_ground"
+        },
+        {
+            "string": "flag_holo_base_stowed"
+        },
+        {
+            "string": "kva_hazmat_body_infected_mp"
+        },
+        {
+            "string": "kva_hazmat_head_infected"
+        },
+        {
+            "string": "mp_boot_01a"
+        },
+        {
+            "string": "mp_exo_01a"
+        },
+        {
+            "string": "mp_eyewear_01a_cormack"
+        },
+        {
+            "string": "mp_eyewear_01j_cormack"
+        },
+        {
+            "string": "mp_glove_03a"
+        },
+        {
+            "string": "mp_head_cormack"
+        },
+        {
+            "string": "mp_headgear_01a_cormack"
+        },
+        {
+            "string": "mp_kneepad_03a"
+        },
+        {
+            "string": "mp_loadouts_m_01a"
+        },
+        {
+            "string": "mp_pants_m_01b_k"
+        },
+        {
+            "string": "mp_pants_m_01x_k"
+        },
+        {
+            "string": "mp_top_m_a_01a"
+        },
+        {
+            "string": "mp_trophy_system"
+        },
+        {
+            "string": "mp_trophy_system_bombsquad"
+        },
+        {
+            "string": "mp_view_exo_01a"
+        },
+        {
+            "string": "mp_view_gloves_03a"
+        },
+        {
+            "string": "mp_view_top_01a"
+        },
+        {
+            "string": "npc_crossbow_bolt"
+        },
+        {
+            "string": "npc_deployable_riot_shield_base"
+        },
+        {
+            "string": "npc_deployable_riot_shield_base_operator01"
+        },
+        {
+            "string": "npc_deployable_riot_shield_base_operator02"
+        },
+        {
+            "string": "npc_deployable_riot_shield_base_pro"
+        },
+        {
+            "string": "npc_deployable_riot_shield_base_standard"
+        },
+        {
+            "string": "npc_drone_explosive_spike"
+        },
+        {
+            "string": "npc_drone_tracking_projectile"
+        },
+        {
+            "string": "npc_exo_arm_launcher_l"
+        },
+        {
+            "string": "npc_exo_arm_launcher_r"
+        },
+        {
+            "string": "npc_exo_launcher_base_l"
+        },
+        {
+            "string": "npc_exo_launcher_base_r"
+        },
+        {
+            "string": "npc_exo_launcher_grenade"
+        },
+        {
+            "string": "npc_exo_riot_shield"
+        },
+        {
+            "string": "npc_mahem_missile_molten_spear"
+        },
+        {
+            "string": "npc_mdl_projectile"
+        },
+        {
+            "string": "npc_search_dstry_bomb"
+        },
+        {
+            "string": "orbital_carepackage_pod_01_logo_atlas"
+        },
+        {
+            "string": "orbital_carepackage_pod_01_logo_sentinel"
+        },
+        {
+            "string": "projectile_bouncing_betty_grenade"
+        },
+        {
+            "string": "projectile_bouncing_betty_grenade_bombsquad"
+        },
+        {
+            "string": "projectile_bouncing_betty_grenade_small"
+        },
+        {
+            "string": "projectile_bouncing_betty_grenade_small_bombsquad"
+        },
+        {
+            "string": "projectile_m203grenade"
+        },
+        {
+            "string": "projectile_m67fraggrenade_bombsquad"
+        },
+        {
+            "string": "projectile_rpg7"
+        },
+        {
+            "string": "projectile_semtex_grenade"
+        },
+        {
+            "string": "projectile_semtex_grenade_bombsquad"
+        },
+        {
+            "string": "projectile_stinger_missile"
+        },
+        {
+            "string": "projectile_us_smoke_grenade"
+        },
+        {
+            "string": "prop_dogtags_future_enemy_animated"
+        },
+        {
+            "string": "prop_dogtags_future_friend_animated"
+        },
+        {
+            "string": "prop_drone_sphere"
+        },
+        {
+            "string": "prop_flag_gign"
+        },
+        {
+            "string": "prop_flag_gign_carry"
+        },
+        {
+            "string": "prop_flag_neutral"
+        },
+        {
+            "string": "prop_suitcase_bomb"
+        },
+        {
+            "string": "tag_origin"
+        },
+        {
+            "string": "tag_origin_col"
+        },
+        {
+            "string": "tag_player"
+        },
+        {
+            "string": "test_sphere_redchrome"
+        },
+        {
+            "string": "test_sphere_silver"
+        },
+        {
+            "string": "viewhands_player_sentinel"
+        },
+        {
+            "string": "viewmodel_riot_shield_mp"
+        },
+        {
+            "string": "vm_kva_hazmat_infected"
+        },
+        {
+            "string": "weapon_c4"
+        },
+        {
+            "string": "weapon_c4_bombsquad"
+        },
+        {
+            "string": "weapon_claymore_bombsquad"
+        },
+        {
+            "string": "weapon_jammer"
+        },
+        {
+            "string": "weapon_jammer_bombsquad"
+        },
+        {
+            "string": "weapon_light_stick_tactical_bombsquad"
+        },
+        {
+            "string": "weapon_parabolic_knife"
+        },
+        {
+            "string": "weapon_radar"
+        },
+        {
+            "string": "weapon_radar_bombsquad"
+        },
+        {
+            "string": "weapon_riot_shield_mp"
+        }
+    ]
+}

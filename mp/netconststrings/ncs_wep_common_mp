@@ -1,0 +1,1244 @@
+{
+    "name": "ncs_wep_common_mp",
+    "stringType": 16,
+    "sourceType": 2,
+    "entryCount": 412,
+    "strings": [
+        {
+            "string": "adrenaline_mp"
+        },
+        {
+            "string": "airdrop_marker_mp"
+        },
+        {
+            "string": "contact_grenade_var_mp"
+        },
+        {
+            "string": "defaultweapon_mp"
+        },
+        {
+            "string": "emp_grenade_mp"
+        },
+        {
+            "string": "emp_grenade_mp_lefthand"
+        },
+        {
+            "string": "emp_grenade_var_mp"
+        },
+        {
+            "string": "emp_grenade_var_mp_lefthand"
+        },
+        {
+            "string": "exocloak_equipment_mp"
+        },
+        {
+            "string": "exohover_equipment_mp"
+        },
+        {
+            "string": "exoknife_jug_mp"
+        },
+        {
+            "string": "exoknife_mp"
+        },
+        {
+            "string": "exoknife_mp_lefthand"
+        },
+        {
+            "string": "exomute_equipment_mp"
+        },
+        {
+            "string": "exoping_equipment_mp"
+        },
+        {
+            "string": "exorepulsor_equipment_mp"
+        },
+        {
+            "string": "exoshield_equipment_mp"
+        },
+        {
+            "string": "explosive_drone_mp"
+        },
+        {
+            "string": "explosive_drone_mp_lefthand"
+        },
+        {
+            "string": "extra_health_mp"
+        },
+        {
+            "string": "frag_grenade_mp"
+        },
+        {
+            "string": "frag_grenade_mp_lefthand"
+        },
+        {
+            "string": "frag_grenade_var_mp"
+        },
+        {
+            "string": "gamemode_ball"
+        },
+        {
+            "string": "gl_mp"
+        },
+        {
+            "string": "iw5_ak12_mp"
+        },
+        {
+            "string": "iw5_ak12ghosts_mp"
+        },
+        {
+            "string": "iw5_ak12loot0_mp"
+        },
+        {
+            "string": "iw5_ak12loot1_mp"
+        },
+        {
+            "string": "iw5_ak12loot2_mp"
+        },
+        {
+            "string": "iw5_ak12loot3_mp"
+        },
+        {
+            "string": "iw5_ak12loot4_mp"
+        },
+        {
+            "string": "iw5_ak12loot5_mp"
+        },
+        {
+            "string": "iw5_ak12loot6_mp"
+        },
+        {
+            "string": "iw5_ak12loot7_mp"
+        },
+        {
+            "string": "iw5_ak12loot8_mp"
+        },
+        {
+            "string": "iw5_ak12loot9_mp"
+        },
+        {
+            "string": "iw5_arx160_mp"
+        },
+        {
+            "string": "iw5_arx160loot0_mp"
+        },
+        {
+            "string": "iw5_arx160loot1_mp"
+        },
+        {
+            "string": "iw5_arx160loot2_mp"
+        },
+        {
+            "string": "iw5_arx160loot3_mp"
+        },
+        {
+            "string": "iw5_arx160loot4_mp"
+        },
+        {
+            "string": "iw5_arx160loot5_mp"
+        },
+        {
+            "string": "iw5_arx160loot6_mp"
+        },
+        {
+            "string": "iw5_arx160loot7_mp"
+        },
+        {
+            "string": "iw5_arx160loot8_mp"
+        },
+        {
+            "string": "iw5_arx160loot9_mp"
+        },
+        {
+            "string": "iw5_asaw_mp"
+        },
+        {
+            "string": "iw5_asawloot0_mp"
+        },
+        {
+            "string": "iw5_asawloot1_mp"
+        },
+        {
+            "string": "iw5_asawloot2_mp"
+        },
+        {
+            "string": "iw5_asawloot3_mp"
+        },
+        {
+            "string": "iw5_asawloot4_mp"
+        },
+        {
+            "string": "iw5_asawloot5_mp"
+        },
+        {
+            "string": "iw5_asawloot6_mp"
+        },
+        {
+            "string": "iw5_asawloot7_mp"
+        },
+        {
+            "string": "iw5_asawloot8_mp"
+        },
+        {
+            "string": "iw5_asawloot9_mp"
+        },
+        {
+            "string": "iw5_asm1_mp"
+        },
+        {
+            "string": "iw5_asm1jugg_mp"
+        },
+        {
+            "string": "iw5_asm1loot0_mp"
+        },
+        {
+            "string": "iw5_asm1loot1_mp"
+        },
+        {
+            "string": "iw5_asm1loot2_mp"
+        },
+        {
+            "string": "iw5_asm1loot3_mp"
+        },
+        {
+            "string": "iw5_asm1loot4_mp"
+        },
+        {
+            "string": "iw5_asm1loot5_mp"
+        },
+        {
+            "string": "iw5_asm1loot6_mp"
+        },
+        {
+            "string": "iw5_asm1loot7_mp"
+        },
+        {
+            "string": "iw5_asm1loot8_mp"
+        },
+        {
+            "string": "iw5_asm1loot9_mp"
+        },
+        {
+            "string": "iw5_bal27_mp"
+        },
+        {
+            "string": "iw5_bal27atlas_mp"
+        },
+        {
+            "string": "iw5_bal27loot0_mp"
+        },
+        {
+            "string": "iw5_bal27loot1_mp"
+        },
+        {
+            "string": "iw5_bal27loot2_mp"
+        },
+        {
+            "string": "iw5_bal27loot3_mp"
+        },
+        {
+            "string": "iw5_bal27loot4_mp"
+        },
+        {
+            "string": "iw5_bal27loot5_mp"
+        },
+        {
+            "string": "iw5_bal27loot6_mp"
+        },
+        {
+            "string": "iw5_bal27loot7_mp"
+        },
+        {
+            "string": "iw5_bal27loot8_mp"
+        },
+        {
+            "string": "iw5_bal27loot9_mp"
+        },
+        {
+            "string": "iw5_carrydrone_mp"
+        },
+        {
+            "string": "iw5_combatknife_mp"
+        },
+        {
+            "string": "iw5_combatknifegoliath_mp"
+        },
+        {
+            "string": "iw5_em1_mp"
+        },
+        {
+            "string": "iw5_em1gold_mp"
+        },
+        {
+            "string": "iw5_em1loot0_mp"
+        },
+        {
+            "string": "iw5_em1loot1_mp"
+        },
+        {
+            "string": "iw5_em1loot2_mp"
+        },
+        {
+            "string": "iw5_em1loot3_mp"
+        },
+        {
+            "string": "iw5_em1loot4_mp"
+        },
+        {
+            "string": "iw5_em1loot5_mp"
+        },
+        {
+            "string": "iw5_em1loot6_mp"
+        },
+        {
+            "string": "iw5_em1loot7_mp"
+        },
+        {
+            "string": "iw5_em1loot8_mp"
+        },
+        {
+            "string": "iw5_em1loot9_mp"
+        },
+        {
+            "string": "iw5_epm3_mp"
+        },
+        {
+            "string": "iw5_epm3loot0_mp"
+        },
+        {
+            "string": "iw5_epm3loot1_mp"
+        },
+        {
+            "string": "iw5_epm3loot2_mp"
+        },
+        {
+            "string": "iw5_epm3loot3_mp"
+        },
+        {
+            "string": "iw5_epm3loot4_mp"
+        },
+        {
+            "string": "iw5_epm3loot5_mp"
+        },
+        {
+            "string": "iw5_epm3loot6_mp"
+        },
+        {
+            "string": "iw5_epm3loot7_mp"
+        },
+        {
+            "string": "iw5_epm3loot8_mp"
+        },
+        {
+            "string": "iw5_epm3loot9_mp"
+        },
+        {
+            "string": "iw5_exocrossbow_mp"
+        },
+        {
+            "string": "iw5_exocrossbowblops2_mp"
+        },
+        {
+            "string": "iw5_exocrossbowloot0_mp"
+        },
+        {
+            "string": "iw5_exocrossbowloot1_mp"
+        },
+        {
+            "string": "iw5_exocrossbowloot2_mp"
+        },
+        {
+            "string": "iw5_exocrossbowloot3_mp"
+        },
+        {
+            "string": "iw5_exominigun_mp"
+        },
+        {
+            "string": "iw5_exoxmg_mp"
+        },
+        {
+            "string": "iw5_exoxmgjugg_mp"
+        },
+        {
+            "string": "iw5_exoxmgloot0_mp"
+        },
+        {
+            "string": "iw5_exoxmgloot1_mp"
+        },
+        {
+            "string": "iw5_exoxmgloot2_mp"
+        },
+        {
+            "string": "iw5_exoxmgloot3_mp"
+        },
+        {
+            "string": "iw5_exoxmgloot4_mp"
+        },
+        {
+            "string": "iw5_exoxmgloot5_mp"
+        },
+        {
+            "string": "iw5_exoxmgloot6_mp"
+        },
+        {
+            "string": "iw5_exoxmgloot7_mp"
+        },
+        {
+            "string": "iw5_exoxmgloot8_mp"
+        },
+        {
+            "string": "iw5_exoxmgloot9_mp"
+        },
+        {
+            "string": "iw5_gm6_mp"
+        },
+        {
+            "string": "iw5_gm6greenband_mp"
+        },
+        {
+            "string": "iw5_gm6loot0_mp"
+        },
+        {
+            "string": "iw5_gm6loot1_mp"
+        },
+        {
+            "string": "iw5_gm6loot2_mp"
+        },
+        {
+            "string": "iw5_gm6loot3_mp"
+        },
+        {
+            "string": "iw5_gm6loot4_mp"
+        },
+        {
+            "string": "iw5_gm6loot5_mp"
+        },
+        {
+            "string": "iw5_gm6loot6_mp"
+        },
+        {
+            "string": "iw5_gm6loot7_mp"
+        },
+        {
+            "string": "iw5_gm6loot8_mp"
+        },
+        {
+            "string": "iw5_gm6loot9_mp"
+        },
+        {
+            "string": "iw5_hbra3_mp"
+        },
+        {
+            "string": "iw5_hbra3loot0_mp"
+        },
+        {
+            "string": "iw5_hbra3loot1_mp"
+        },
+        {
+            "string": "iw5_hbra3loot2_mp"
+        },
+        {
+            "string": "iw5_hbra3loot3_mp"
+        },
+        {
+            "string": "iw5_hbra3loot4_mp"
+        },
+        {
+            "string": "iw5_hbra3loot5_mp"
+        },
+        {
+            "string": "iw5_hbra3loot6_mp"
+        },
+        {
+            "string": "iw5_hbra3loot7_mp"
+        },
+        {
+            "string": "iw5_hbra3loot8_mp"
+        },
+        {
+            "string": "iw5_hbra3loot9_mp"
+        },
+        {
+            "string": "iw5_himar_mp"
+        },
+        {
+            "string": "iw5_himarloot0_mp"
+        },
+        {
+            "string": "iw5_himarloot1_mp"
+        },
+        {
+            "string": "iw5_himarloot2_mp"
+        },
+        {
+            "string": "iw5_himarloot3_mp"
+        },
+        {
+            "string": "iw5_himarloot4_mp"
+        },
+        {
+            "string": "iw5_himarloot5_mp"
+        },
+        {
+            "string": "iw5_himarloot6_mp"
+        },
+        {
+            "string": "iw5_himarloot7_mp"
+        },
+        {
+            "string": "iw5_himarloot8_mp"
+        },
+        {
+            "string": "iw5_himarloot9_mp"
+        },
+        {
+            "string": "iw5_hmr9_mp"
+        },
+        {
+            "string": "iw5_hmr9loot0_mp"
+        },
+        {
+            "string": "iw5_hmr9loot1_mp"
+        },
+        {
+            "string": "iw5_hmr9loot2_mp"
+        },
+        {
+            "string": "iw5_hmr9loot3_mp"
+        },
+        {
+            "string": "iw5_hmr9loot4_mp"
+        },
+        {
+            "string": "iw5_hmr9loot5_mp"
+        },
+        {
+            "string": "iw5_hmr9loot6_mp"
+        },
+        {
+            "string": "iw5_hmr9loot7_mp"
+        },
+        {
+            "string": "iw5_hmr9loot8_mp"
+        },
+        {
+            "string": "iw5_hmr9loot9_mp"
+        },
+        {
+            "string": "iw5_juggernautrockets_mp"
+        },
+        {
+            "string": "iw5_juggmicrodronelauncher_mp"
+        },
+        {
+            "string": "iw5_juggtitan45_mp"
+        },
+        {
+            "string": "iw5_kf5_mp"
+        },
+        {
+            "string": "iw5_kf5loot0_mp"
+        },
+        {
+            "string": "iw5_kf5loot1_mp"
+        },
+        {
+            "string": "iw5_kf5loot2_mp"
+        },
+        {
+            "string": "iw5_kf5loot3_mp"
+        },
+        {
+            "string": "iw5_kf5loot4_mp"
+        },
+        {
+            "string": "iw5_kf5loot5_mp"
+        },
+        {
+            "string": "iw5_kf5loot6_mp"
+        },
+        {
+            "string": "iw5_kf5loot7_mp"
+        },
+        {
+            "string": "iw5_kf5loot8_mp"
+        },
+        {
+            "string": "iw5_kf5loot9_mp"
+        },
+        {
+            "string": "iw5_lsat_mp"
+        },
+        {
+            "string": "iw5_lsatloot0_mp"
+        },
+        {
+            "string": "iw5_lsatloot1_mp"
+        },
+        {
+            "string": "iw5_lsatloot2_mp"
+        },
+        {
+            "string": "iw5_lsatloot3_mp"
+        },
+        {
+            "string": "iw5_lsatloot4_mp"
+        },
+        {
+            "string": "iw5_lsatloot5_mp"
+        },
+        {
+            "string": "iw5_lsatloot6_mp"
+        },
+        {
+            "string": "iw5_lsatloot7_mp"
+        },
+        {
+            "string": "iw5_lsatloot8_mp"
+        },
+        {
+            "string": "iw5_lsatloot9_mp"
+        },
+        {
+            "string": "iw5_m182spr_mp"
+        },
+        {
+            "string": "iw5_m182sprloot0_mp"
+        },
+        {
+            "string": "iw5_m182sprloot1_mp"
+        },
+        {
+            "string": "iw5_m182sprloot2_mp"
+        },
+        {
+            "string": "iw5_m182sprloot3_mp"
+        },
+        {
+            "string": "iw5_m182sprloot4_mp"
+        },
+        {
+            "string": "iw5_m182sprloot5_mp"
+        },
+        {
+            "string": "iw5_m182sprloot6_mp"
+        },
+        {
+            "string": "iw5_m182sprloot7_mp"
+        },
+        {
+            "string": "iw5_m182sprloot8_mp"
+        },
+        {
+            "string": "iw5_m182sprloot9_mp"
+        },
+        {
+            "string": "iw5_m990_mp"
+        },
+        {
+            "string": "iw5_m990loot0_mp"
+        },
+        {
+            "string": "iw5_m990loot1_mp"
+        },
+        {
+            "string": "iw5_m990loot2_mp"
+        },
+        {
+            "string": "iw5_m990loot3_mp"
+        },
+        {
+            "string": "iw5_m990loot4_mp"
+        },
+        {
+            "string": "iw5_m990loot5_mp"
+        },
+        {
+            "string": "iw5_m990loot6_mp"
+        },
+        {
+            "string": "iw5_m990loot7_mp"
+        },
+        {
+            "string": "iw5_m990loot8_mp"
+        },
+        {
+            "string": "iw5_m990loot9_mp"
+        },
+        {
+            "string": "iw5_maaws_mp"
+        },
+        {
+            "string": "iw5_maawsloot0_mp"
+        },
+        {
+            "string": "iw5_maawsloot1_mp"
+        },
+        {
+            "string": "iw5_maawsloot2_mp"
+        },
+        {
+            "string": "iw5_maawsloot3_mp"
+        },
+        {
+            "string": "iw5_mahem_mp"
+        },
+        {
+            "string": "iw5_mahemloot0_mp"
+        },
+        {
+            "string": "iw5_mahemloot1_mp"
+        },
+        {
+            "string": "iw5_mahemloot2_mp"
+        },
+        {
+            "string": "iw5_mahemloot3_mp"
+        },
+        {
+            "string": "iw5_maul_mp"
+        },
+        {
+            "string": "iw5_maulloot0_mp"
+        },
+        {
+            "string": "iw5_maulloot1_mp"
+        },
+        {
+            "string": "iw5_maulloot2_mp"
+        },
+        {
+            "string": "iw5_maulloot3_mp"
+        },
+        {
+            "string": "iw5_maulloot4_mp"
+        },
+        {
+            "string": "iw5_maulloot5_mp"
+        },
+        {
+            "string": "iw5_maulloot6_mp"
+        },
+        {
+            "string": "iw5_maulloot7_mp"
+        },
+        {
+            "string": "iw5_maulloot8_mp"
+        },
+        {
+            "string": "iw5_maulloot9_mp"
+        },
+        {
+            "string": "iw5_mechpunch_mp"
+        },
+        {
+            "string": "iw5_microdronelauncher_mp"
+        },
+        {
+            "string": "iw5_microdronelauncherloot0_mp"
+        },
+        {
+            "string": "iw5_microdronelauncherloot1_mp"
+        },
+        {
+            "string": "iw5_microdronelauncherloot2_mp"
+        },
+        {
+            "string": "iw5_microdronelauncherloot3_mp"
+        },
+        {
+            "string": "iw5_mors_mp"
+        },
+        {
+            "string": "iw5_morsloot0_mp"
+        },
+        {
+            "string": "iw5_morsloot1_mp"
+        },
+        {
+            "string": "iw5_morsloot2_mp"
+        },
+        {
+            "string": "iw5_morsloot3_mp"
+        },
+        {
+            "string": "iw5_morsloot4_mp"
+        },
+        {
+            "string": "iw5_morsloot5_mp"
+        },
+        {
+            "string": "iw5_morsloot6_mp"
+        },
+        {
+            "string": "iw5_morsloot7_mp"
+        },
+        {
+            "string": "iw5_morsloot8_mp"
+        },
+        {
+            "string": "iw5_morsloot9_mp"
+        },
+        {
+            "string": "iw5_mp11_mp"
+        },
+        {
+            "string": "iw5_mp11loot0_mp"
+        },
+        {
+            "string": "iw5_mp11loot1_mp"
+        },
+        {
+            "string": "iw5_mp11loot2_mp"
+        },
+        {
+            "string": "iw5_mp11loot3_mp"
+        },
+        {
+            "string": "iw5_mp11loot4_mp"
+        },
+        {
+            "string": "iw5_mp11loot5_mp"
+        },
+        {
+            "string": "iw5_mp11loot6_mp"
+        },
+        {
+            "string": "iw5_mp11loot7_mp"
+        },
+        {
+            "string": "iw5_mp11loot8_mp"
+        },
+        {
+            "string": "iw5_mp11loot9_mp"
+        },
+        {
+            "string": "iw5_pbw_mp"
+        },
+        {
+            "string": "iw5_pbwloot0_mp"
+        },
+        {
+            "string": "iw5_pbwloot1_mp"
+        },
+        {
+            "string": "iw5_pbwloot2_mp"
+        },
+        {
+            "string": "iw5_pbwloot3_mp"
+        },
+        {
+            "string": "iw5_pbwloot4_mp"
+        },
+        {
+            "string": "iw5_pbwloot5_mp"
+        },
+        {
+            "string": "iw5_pbwloot6_mp"
+        },
+        {
+            "string": "iw5_pbwloot7_mp"
+        },
+        {
+            "string": "iw5_pbwloot8_mp"
+        },
+        {
+            "string": "iw5_pbwloot9_mp"
+        },
+        {
+            "string": "iw5_rhino_mp"
+        },
+        {
+            "string": "iw5_rhinoloot0_mp"
+        },
+        {
+            "string": "iw5_rhinoloot1_mp"
+        },
+        {
+            "string": "iw5_rhinoloot2_mp"
+        },
+        {
+            "string": "iw5_rhinoloot3_mp"
+        },
+        {
+            "string": "iw5_rhinoloot4_mp"
+        },
+        {
+            "string": "iw5_rhinoloot5_mp"
+        },
+        {
+            "string": "iw5_rhinoloot6_mp"
+        },
+        {
+            "string": "iw5_rhinoloot7_mp"
+        },
+        {
+            "string": "iw5_rhinoloot8_mp"
+        },
+        {
+            "string": "iw5_rhinoloot9_mp"
+        },
+        {
+            "string": "iw5_riotshield_mp"
+        },
+        {
+            "string": "iw5_riotshieldjugg_mp"
+        },
+        {
+            "string": "iw5_riotshieldt6_mp"
+        },
+        {
+            "string": "iw5_riotshieldt6loot0_mp"
+        },
+        {
+            "string": "iw5_riotshieldt6loot1_mp"
+        },
+        {
+            "string": "iw5_riotshieldt6loot2_mp"
+        },
+        {
+            "string": "iw5_riotshieldt6loot3_mp"
+        },
+        {
+            "string": "iw5_rw1_mp"
+        },
+        {
+            "string": "iw5_rw1loot0_mp"
+        },
+        {
+            "string": "iw5_rw1loot1_mp"
+        },
+        {
+            "string": "iw5_rw1loot2_mp"
+        },
+        {
+            "string": "iw5_rw1loot3_mp"
+        },
+        {
+            "string": "iw5_rw1loot4_mp"
+        },
+        {
+            "string": "iw5_rw1loot5_mp"
+        },
+        {
+            "string": "iw5_rw1loot6_mp"
+        },
+        {
+            "string": "iw5_rw1loot7_mp"
+        },
+        {
+            "string": "iw5_rw1loot8_mp"
+        },
+        {
+            "string": "iw5_rw1loot9_mp"
+        },
+        {
+            "string": "iw5_sac3_mp"
+        },
+        {
+            "string": "iw5_sac3loot0_mp"
+        },
+        {
+            "string": "iw5_sac3loot1_mp"
+        },
+        {
+            "string": "iw5_sac3loot2_mp"
+        },
+        {
+            "string": "iw5_sac3loot3_mp"
+        },
+        {
+            "string": "iw5_sac3loot4_mp"
+        },
+        {
+            "string": "iw5_sac3loot5_mp"
+        },
+        {
+            "string": "iw5_sac3loot6_mp"
+        },
+        {
+            "string": "iw5_sac3loot7_mp"
+        },
+        {
+            "string": "iw5_sac3loot8_mp"
+        },
+        {
+            "string": "iw5_sac3loot9_mp"
+        },
+        {
+            "string": "iw5_sn6_mp"
+        },
+        {
+            "string": "iw5_sn6loot0_mp"
+        },
+        {
+            "string": "iw5_sn6loot1_mp"
+        },
+        {
+            "string": "iw5_sn6loot2_mp"
+        },
+        {
+            "string": "iw5_sn6loot3_mp"
+        },
+        {
+            "string": "iw5_sn6loot4_mp"
+        },
+        {
+            "string": "iw5_sn6loot5_mp"
+        },
+        {
+            "string": "iw5_sn6loot6_mp"
+        },
+        {
+            "string": "iw5_sn6loot7_mp"
+        },
+        {
+            "string": "iw5_sn6loot8_mp"
+        },
+        {
+            "string": "iw5_sn6loot9_mp"
+        },
+        {
+            "string": "iw5_stingerm7_mp"
+        },
+        {
+            "string": "iw5_stingerm7loot0_mp"
+        },
+        {
+            "string": "iw5_stingerm7loot1_mp"
+        },
+        {
+            "string": "iw5_stingerm7loot2_mp"
+        },
+        {
+            "string": "iw5_stingerm7loot3_mp"
+        },
+        {
+            "string": "iw5_thor_mp"
+        },
+        {
+            "string": "iw5_thorloot0_mp"
+        },
+        {
+            "string": "iw5_thorloot1_mp"
+        },
+        {
+            "string": "iw5_thorloot2_mp"
+        },
+        {
+            "string": "iw5_thorloot3_mp"
+        },
+        {
+            "string": "iw5_thorloot4_mp"
+        },
+        {
+            "string": "iw5_thorloot5_mp"
+        },
+        {
+            "string": "iw5_thorloot6_mp"
+        },
+        {
+            "string": "iw5_thorloot7_mp"
+        },
+        {
+            "string": "iw5_thorloot8_mp"
+        },
+        {
+            "string": "iw5_thorloot9_mp"
+        },
+        {
+            "string": "iw5_titan45_mp"
+        },
+        {
+            "string": "iw5_titan45atlas_mp"
+        },
+        {
+            "string": "iw5_titan45loot0_mp"
+        },
+        {
+            "string": "iw5_titan45loot1_mp"
+        },
+        {
+            "string": "iw5_titan45loot2_mp"
+        },
+        {
+            "string": "iw5_titan45loot3_mp"
+        },
+        {
+            "string": "iw5_titan45loot4_mp"
+        },
+        {
+            "string": "iw5_titan45loot5_mp"
+        },
+        {
+            "string": "iw5_titan45loot6_mp"
+        },
+        {
+            "string": "iw5_titan45loot7_mp"
+        },
+        {
+            "string": "iw5_titan45loot8_mp"
+        },
+        {
+            "string": "iw5_titan45loot9_mp"
+        },
+        {
+            "string": "iw5_uts19_mp"
+        },
+        {
+            "string": "iw5_uts19loot0_mp"
+        },
+        {
+            "string": "iw5_uts19loot1_mp"
+        },
+        {
+            "string": "iw5_uts19loot2_mp"
+        },
+        {
+            "string": "iw5_uts19loot3_mp"
+        },
+        {
+            "string": "iw5_uts19loot4_mp"
+        },
+        {
+            "string": "iw5_uts19loot5_mp"
+        },
+        {
+            "string": "iw5_uts19loot6_mp"
+        },
+        {
+            "string": "iw5_uts19loot7_mp"
+        },
+        {
+            "string": "iw5_uts19loot8_mp"
+        },
+        {
+            "string": "iw5_uts19loot9_mp"
+        },
+        {
+            "string": "iw5_vbr_mp"
+        },
+        {
+            "string": "iw5_vbrloot0_mp"
+        },
+        {
+            "string": "iw5_vbrloot1_mp"
+        },
+        {
+            "string": "iw5_vbrloot2_mp"
+        },
+        {
+            "string": "iw5_vbrloot3_mp"
+        },
+        {
+            "string": "iw5_vbrloot4_mp"
+        },
+        {
+            "string": "iw5_vbrloot5_mp"
+        },
+        {
+            "string": "iw5_vbrloot6_mp"
+        },
+        {
+            "string": "iw5_vbrloot7_mp"
+        },
+        {
+            "string": "iw5_vbrloot8_mp"
+        },
+        {
+            "string": "iw5_vbrloot9_mp"
+        },
+        {
+            "string": "iw5_zombiemelee_mp"
+        },
+        {
+            "string": "juggernaut_sentry_mg_mp"
+        },
+        {
+            "string": "killstreak_goliathsd_mp"
+        },
+        {
+            "string": "killstreakmahem_mp"
+        },
+        {
+            "string": "paint_grenade_mp"
+        },
+        {
+            "string": "paint_grenade_mp_lefthand"
+        },
+        {
+            "string": "paint_grenade_var_mp"
+        },
+        {
+            "string": "paint_grenade_var_mp_lefthand"
+        },
+        {
+            "string": "playermech_rocket_mp"
+        },
+        {
+            "string": "playermech_rocket_swarm_maniac_mp"
+        },
+        {
+            "string": "playermech_rocket_swarm_mp"
+        },
+        {
+            "string": "riotshield_mp"
+        },
+        {
+            "string": "scavenger_bag_mp"
+        },
+        {
+            "string": "search_dstry_bomb_defuse_mp"
+        },
+        {
+            "string": "search_dstry_bomb_mp"
+        },
+        {
+            "string": "semtex_grenade_var_mp"
+        },
+        {
+            "string": "semtex_mp"
+        },
+        {
+            "string": "semtex_mp_lefthand"
+        },
+        {
+            "string": "smoke_grenade_mp"
+        },
+        {
+            "string": "smoke_grenade_mp_lefthand"
+        },
+        {
+            "string": "smoke_grenade_var_mp"
+        },
+        {
+            "string": "smoke_grenade_var_mp_lefthand"
+        },
+        {
+            "string": "stun_grenade_mp"
+        },
+        {
+            "string": "stun_grenade_mp_lefthand"
+        },
+        {
+            "string": "stun_grenade_var_mp"
+        },
+        {
+            "string": "stun_grenade_var_mp_lefthand"
+        },
+        {
+            "string": "throwingknife_mp"
+        },
+        {
+            "string": "throwingknife_rhand_mp"
+        },
+        {
+            "string": "tracking_drone_mp"
+        },
+        {
+            "string": "tracking_drone_mp_lefthand"
+        },
+        {
+            "string": "turretheadrocket_mp"
+        }
+    ]
+}

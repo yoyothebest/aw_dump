@@ -1,0 +1,14 @@
+{
+    "name": "ncs_mdl_patch_common_horde_mp",
+    "stringType": 0,
+    "sourceType": 2,
+    "entryCount": 2,
+    "strings": [
+        {
+            "string": "npc_crossbow_bolt"
+        },
+        {
+            "string": "npc_mdl_projectile"
+        }
+    ]
+}

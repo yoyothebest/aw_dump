@@ -1,0 +1,26 @@
+{
+    "name": "ncs_snd_common_core_mp",
+    "stringType": 6,
+    "sourceType": 2,
+    "entryCount": 6,
+    "strings": [
+        {
+            "string": "sentry_explode"
+        },
+        {
+            "string": "sentry_explode_smoke"
+        },
+        {
+            "string": "sentry_gun_beep"
+        },
+        {
+            "string": "sentry_gun_plant"
+        },
+        {
+            "string": "sentry_minigun_cooldown"
+        },
+        {
+            "string": "sentry_pickup"
+        }
+    ]
+}

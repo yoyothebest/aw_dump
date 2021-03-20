@@ -1,0 +1,50 @@
+{
+    "name": "ncs_snd_patch_common_horde_mp",
+    "stringType": 6,
+    "sourceType": 2,
+    "entryCount": 14,
+    "strings": [
+        {
+            "string": "coop_gdn_get_it_back"
+        },
+        {
+            "string": "coop_gdn_objective_complete"
+        },
+        {
+            "string": "coop_gdn_rockets"
+        },
+        {
+            "string": "coop_gdn_satellite_acquire"
+        },
+        {
+            "string": "coop_gdn_satellite_enemy"
+        },
+        {
+            "string": "coop_gdn_satellite_incoming"
+        },
+        {
+            "string": "coop_gdn_satellite_intercept"
+        },
+        {
+            "string": "coop_gdn_satellite_lost"
+        },
+        {
+            "string": "coop_gdn_satellite_reset"
+        },
+        {
+            "string": "coop_gdn_satellite_returned"
+        },
+        {
+            "string": "coop_gdn_satellite_start"
+        },
+        {
+            "string": "coop_gdn_satellite_success"
+        },
+        {
+            "string": "coop_gdn_uplink_station"
+        },
+        {
+            "string": "coop_gdn_warbird_inc"
+        }
+    ]
+}

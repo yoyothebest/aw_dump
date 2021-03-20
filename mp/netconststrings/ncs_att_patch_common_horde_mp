@@ -1,0 +1,44 @@
+{
+    "name": "ncs_att_patch_common_horde_mp",
+    "stringType": 17,
+    "sourceType": 2,
+    "entryCount": 12,
+    "strings": [
+        {
+            "string": "crossbowscopebase"
+        },
+        {
+            "string": "directhack"
+        },
+        {
+            "string": "foregrip"
+        },
+        {
+            "string": "opticsacog2"
+        },
+        {
+            "string": "opticseotech"
+        },
+        {
+            "string": "opticsreddot"
+        },
+        {
+            "string": "opticstargetenhancer"
+        },
+        {
+            "string": "opticsthermal"
+        },
+        {
+            "string": "parabolicmicrophone"
+        },
+        {
+            "string": "quickdraw"
+        },
+        {
+            "string": "stock"
+        },
+        {
+            "string": "variablereddot"
+        }
+    ]
+}

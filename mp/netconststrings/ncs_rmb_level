@@ -1,0 +1,38 @@
+{
+    "name": "ncs_rmb_level",
+    "stringType": 2,
+    "sourceType": 0,
+    "entryCount": 10,
+    "strings": [
+        {
+            "string": "ac130_40mm_fire"
+        },
+        {
+            "string": "assault_fire"
+        },
+        {
+            "string": "defaultweapon_fire"
+        },
+        {
+            "string": "minigun_rumble"
+        },
+        {
+            "string": "pistol_fire"
+        },
+        {
+            "string": "riotshield_impact"
+        },
+        {
+            "string": "shotgun_fire"
+        },
+        {
+            "string": "silencer_fire"
+        },
+        {
+            "string": "smg_fire"
+        },
+        {
+            "string": "sniper_fire"
+        }
+    ]
+}

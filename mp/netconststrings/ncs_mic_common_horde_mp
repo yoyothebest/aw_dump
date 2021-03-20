@@ -1,0 +1,26 @@
+{
+    "name": "ncs_mic_common_horde_mp",
+    "stringType": 14,
+    "sourceType": 2,
+    "entryCount": 6,
+    "strings": [
+        {
+            "string": "compass_objpoint_airstrike_busy"
+        },
+        {
+            "string": "compass_objpoint_airstrike_friendly"
+        },
+        {
+            "string": "compass_objpoint_b2_airstrike_enemy"
+        },
+        {
+            "string": "compass_objpoint_b2_airstrike_friendly"
+        },
+        {
+            "string": "compass_objpoint_c130_enemy"
+        },
+        {
+            "string": "compass_objpoint_c130_friendly"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "name": "ncs_veh_level",
+    "stringType": 3,
+    "sourceType": 0,
+    "entryCount": 3,
+    "strings": [
+        {
+            "string": "assault_uav_mp"
+        },
+        {
+            "string": "mg_assault_uav_mp"
+        },
+        {
+            "string": "orbital_carepackage_drone_mp"
+        }
+    ]
+}

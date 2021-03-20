@@ -1,0 +1,14 @@
+{
+    "name": "ncs_vfx_patch_mp_blackbox",
+    "stringType": 4,
+    "sourceType": 1,
+    "entryCount": 2,
+    "strings": [
+        {
+            "string": "vfx/code/mp_blackbox_killstreak_screen"
+        },
+        {
+            "string": "vfx/code/mp_blackbox_killstreak_screen_delay"
+        }
+    ]
+}

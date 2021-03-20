@@ -1,0 +1,11 @@
+{
+    "name": "ncs_mdl_patch_mp_zombie_brg",
+    "stringType": 0,
+    "sourceType": 1,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "dlc_npc_microwave_gun_holo"
+        }
+    ]
+}

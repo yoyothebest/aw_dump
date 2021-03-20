@@ -1,0 +1,26 @@
+{
+    "name": "ncs_loc_eng_patch_mp_solar",
+    "stringType": 5,
+    "sourceType": 1,
+    "entryCount": 6,
+    "strings": [
+        {
+            "string": "MP_SOLAR_ELEVATION"
+        },
+        {
+            "string": "MP_SOLAR_IN_PROGRESS"
+        },
+        {
+            "string": "MP_SOLAR_MAP_KILLSTREAK_PICKUP"
+        },
+        {
+            "string": "MP_SOLAR_REFLECTOR_IN_USE"
+        },
+        {
+            "string": "MP_SOLAR_REFLECTOR_RESETTING"
+        },
+        {
+            "string": "MP_SOLAR_RELECTION_TOWER"
+        }
+    ]
+}

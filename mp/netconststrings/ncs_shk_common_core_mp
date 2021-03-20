@@ -1,0 +1,11 @@
+{
+    "name": "ncs_shk_common_core_mp",
+    "stringType": 9,
+    "sourceType": 2,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "mp_lab_gas"
+        }
+    ]
+}

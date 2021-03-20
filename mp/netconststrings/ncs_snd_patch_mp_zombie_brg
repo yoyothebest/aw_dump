@@ -1,0 +1,11 @@
+{
+    "name": "ncs_snd_patch_mp_zombie_brg",
+    "stringType": 6,
+    "sourceType": 1,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "interact_trash_chute"
+        }
+    ]
+}

@@ -1,0 +1,437 @@
+{
+    "name": "ncs_wep_patch_common_mp",
+    "stringType": 16,
+    "sourceType": 2,
+    "entryCount": 143,
+    "strings": [
+        {
+            "string": "iw5_dlcgun10_mp"
+        },
+        {
+            "string": "iw5_dlcgun10loot0_mp"
+        },
+        {
+            "string": "iw5_dlcgun10loot1_mp"
+        },
+        {
+            "string": "iw5_dlcgun10loot2_mp"
+        },
+        {
+            "string": "iw5_dlcgun10loot3_mp"
+        },
+        {
+            "string": "iw5_dlcgun10loot4_mp"
+        },
+        {
+            "string": "iw5_dlcgun10loot5_mp"
+        },
+        {
+            "string": "iw5_dlcgun10loot6_mp"
+        },
+        {
+            "string": "iw5_dlcgun10loot7_mp"
+        },
+        {
+            "string": "iw5_dlcgun10loot8_mp"
+        },
+        {
+            "string": "iw5_dlcgun10loot9_mp"
+        },
+        {
+            "string": "iw5_dlcgun11_mp"
+        },
+        {
+            "string": "iw5_dlcgun11loot0_mp"
+        },
+        {
+            "string": "iw5_dlcgun11loot1_mp"
+        },
+        {
+            "string": "iw5_dlcgun11loot2_mp"
+        },
+        {
+            "string": "iw5_dlcgun11loot3_mp"
+        },
+        {
+            "string": "iw5_dlcgun11loot4_mp"
+        },
+        {
+            "string": "iw5_dlcgun13_mp"
+        },
+        {
+            "string": "iw5_dlcgun14_mp"
+        },
+        {
+            "string": "iw5_dlcgun15_mp"
+        },
+        {
+            "string": "iw5_dlcgun16_mp"
+        },
+        {
+            "string": "iw5_dlcgun17_mp"
+        },
+        {
+            "string": "iw5_dlcgun18_mp"
+        },
+        {
+            "string": "iw5_dlcgun19_mp"
+        },
+        {
+            "string": "iw5_dlcgun1_mp"
+        },
+        {
+            "string": "iw5_dlcgun1loot0_mp"
+        },
+        {
+            "string": "iw5_dlcgun1loot1_mp"
+        },
+        {
+            "string": "iw5_dlcgun1loot2_mp"
+        },
+        {
+            "string": "iw5_dlcgun1loot3_mp"
+        },
+        {
+            "string": "iw5_dlcgun1loot4_mp"
+        },
+        {
+            "string": "iw5_dlcgun1loot5_mp"
+        },
+        {
+            "string": "iw5_dlcgun1loot6_mp"
+        },
+        {
+            "string": "iw5_dlcgun1loot7_mp"
+        },
+        {
+            "string": "iw5_dlcgun1loot8_mp"
+        },
+        {
+            "string": "iw5_dlcgun1loot9_mp"
+        },
+        {
+            "string": "iw5_dlcgun20_mp"
+        },
+        {
+            "string": "iw5_dlcgun21_mp"
+        },
+        {
+            "string": "iw5_dlcgun22_mp"
+        },
+        {
+            "string": "iw5_dlcgun23_mp"
+        },
+        {
+            "string": "iw5_dlcgun24_mp"
+        },
+        {
+            "string": "iw5_dlcgun25_mp"
+        },
+        {
+            "string": "iw5_dlcgun26_mp"
+        },
+        {
+            "string": "iw5_dlcgun27_mp"
+        },
+        {
+            "string": "iw5_dlcgun28_mp"
+        },
+        {
+            "string": "iw5_dlcgun29_mp"
+        },
+        {
+            "string": "iw5_dlcgun2_mp"
+        },
+        {
+            "string": "iw5_dlcgun2loot0_mp"
+        },
+        {
+            "string": "iw5_dlcgun2loot1_mp"
+        },
+        {
+            "string": "iw5_dlcgun2loot2_mp"
+        },
+        {
+            "string": "iw5_dlcgun2loot3_mp"
+        },
+        {
+            "string": "iw5_dlcgun2loot4_mp"
+        },
+        {
+            "string": "iw5_dlcgun2loot5_mp"
+        },
+        {
+            "string": "iw5_dlcgun2loot6_mp"
+        },
+        {
+            "string": "iw5_dlcgun2loot7_mp"
+        },
+        {
+            "string": "iw5_dlcgun2loot8_mp"
+        },
+        {
+            "string": "iw5_dlcgun2loot9_mp"
+        },
+        {
+            "string": "iw5_dlcgun30_mp"
+        },
+        {
+            "string": "iw5_dlcgun31_mp"
+        },
+        {
+            "string": "iw5_dlcgun32_mp"
+        },
+        {
+            "string": "iw5_dlcgun33_mp"
+        },
+        {
+            "string": "iw5_dlcgun34_mp"
+        },
+        {
+            "string": "iw5_dlcgun35_mp"
+        },
+        {
+            "string": "iw5_dlcgun36_mp"
+        },
+        {
+            "string": "iw5_dlcgun37_mp"
+        },
+        {
+            "string": "iw5_dlcgun38_mp"
+        },
+        {
+            "string": "iw5_dlcgun39_mp"
+        },
+        {
+            "string": "iw5_dlcgun3_mp"
+        },
+        {
+            "string": "iw5_dlcgun3loot0_mp"
+        },
+        {
+            "string": "iw5_dlcgun3loot1_mp"
+        },
+        {
+            "string": "iw5_dlcgun3loot2_mp"
+        },
+        {
+            "string": "iw5_dlcgun3loot3_mp"
+        },
+        {
+            "string": "iw5_dlcgun3loot4_mp"
+        },
+        {
+            "string": "iw5_dlcgun3loot5_mp"
+        },
+        {
+            "string": "iw5_dlcgun3loot6_mp"
+        },
+        {
+            "string": "iw5_dlcgun3loot7_mp"
+        },
+        {
+            "string": "iw5_dlcgun3loot8_mp"
+        },
+        {
+            "string": "iw5_dlcgun3loot9_mp"
+        },
+        {
+            "string": "iw5_dlcgun40_mp"
+        },
+        {
+            "string": "iw5_dlcgun41_mp"
+        },
+        {
+            "string": "iw5_dlcgun42_mp"
+        },
+        {
+            "string": "iw5_dlcgun43_mp"
+        },
+        {
+            "string": "iw5_dlcgun4_mp"
+        },
+        {
+            "string": "iw5_dlcgun4loot0_mp"
+        },
+        {
+            "string": "iw5_dlcgun4loot1_mp"
+        },
+        {
+            "string": "iw5_dlcgun4loot2_mp"
+        },
+        {
+            "string": "iw5_dlcgun4loot3_mp"
+        },
+        {
+            "string": "iw5_dlcgun4loot4_mp"
+        },
+        {
+            "string": "iw5_dlcgun4loot5_mp"
+        },
+        {
+            "string": "iw5_dlcgun4loot6_mp"
+        },
+        {
+            "string": "iw5_dlcgun4loot7_mp"
+        },
+        {
+            "string": "iw5_dlcgun4loot8_mp"
+        },
+        {
+            "string": "iw5_dlcgun4loot9_mp"
+        },
+        {
+            "string": "iw5_dlcgun5loot0_mp"
+        },
+        {
+            "string": "iw5_dlcgun5loot1_mp"
+        },
+        {
+            "string": "iw5_dlcgun5loot2_mp"
+        },
+        {
+            "string": "iw5_dlcgun5loot3_mp"
+        },
+        {
+            "string": "iw5_dlcgun5loot4_mp"
+        },
+        {
+            "string": "iw5_dlcgun5loot5_mp"
+        },
+        {
+            "string": "iw5_dlcgun5loot6_mp"
+        },
+        {
+            "string": "iw5_dlcgun6_mp"
+        },
+        {
+            "string": "iw5_dlcgun6loot0_mp"
+        },
+        {
+            "string": "iw5_dlcgun6loot1_mp"
+        },
+        {
+            "string": "iw5_dlcgun6loot2_mp"
+        },
+        {
+            "string": "iw5_dlcgun6loot3_mp"
+        },
+        {
+            "string": "iw5_dlcgun6loot4_mp"
+        },
+        {
+            "string": "iw5_dlcgun6loot5_mp"
+        },
+        {
+            "string": "iw5_dlcgun6loot6_mp"
+        },
+        {
+            "string": "iw5_dlcgun6loot7_mp"
+        },
+        {
+            "string": "iw5_dlcgun6loot8_mp"
+        },
+        {
+            "string": "iw5_dlcgun6loot9_mp"
+        },
+        {
+            "string": "iw5_dlcgun7_mp"
+        },
+        {
+            "string": "iw5_dlcgun7loot0_mp"
+        },
+        {
+            "string": "iw5_dlcgun7loot1_mp"
+        },
+        {
+            "string": "iw5_dlcgun7loot2_mp"
+        },
+        {
+            "string": "iw5_dlcgun7loot3_mp"
+        },
+        {
+            "string": "iw5_dlcgun7loot4_mp"
+        },
+        {
+            "string": "iw5_dlcgun7loot5_mp"
+        },
+        {
+            "string": "iw5_dlcgun7loot6_mp"
+        },
+        {
+            "string": "iw5_dlcgun7loot7_mp"
+        },
+        {
+            "string": "iw5_dlcgun7loot8_mp"
+        },
+        {
+            "string": "iw5_dlcgun7loot9_mp"
+        },
+        {
+            "string": "iw5_dlcgun8_mp"
+        },
+        {
+            "string": "iw5_dlcgun8loot0_mp"
+        },
+        {
+            "string": "iw5_dlcgun8loot1_mp"
+        },
+        {
+            "string": "iw5_dlcgun8loot2_mp"
+        },
+        {
+            "string": "iw5_dlcgun8loot3_mp"
+        },
+        {
+            "string": "iw5_dlcgun8loot4_mp"
+        },
+        {
+            "string": "iw5_dlcgun8loot5_mp"
+        },
+        {
+            "string": "iw5_dlcgun8loot6_mp"
+        },
+        {
+            "string": "iw5_dlcgun8loot7_mp"
+        },
+        {
+            "string": "iw5_dlcgun8loot8_mp"
+        },
+        {
+            "string": "iw5_dlcgun8loot9_mp"
+        },
+        {
+            "string": "iw5_dlcgun9_mp"
+        },
+        {
+            "string": "iw5_dlcgun9loot0_mp"
+        },
+        {
+            "string": "iw5_dlcgun9loot1_mp"
+        },
+        {
+            "string": "iw5_dlcgun9loot2_mp"
+        },
+        {
+            "string": "iw5_dlcgun9loot3_mp"
+        },
+        {
+            "string": "iw5_dlcgun9loot4_mp"
+        },
+        {
+            "string": "iw5_dlcgun9loot5_mp"
+        },
+        {
+            "string": "iw5_dlcgun9loot6_mp"
+        },
+        {
+            "string": "iw5_dlcgun9loot7_mp"
+        },
+        {
+            "string": "iw5_dlcgun9loot8_mp"
+        },
+        {
+            "string": "iw5_dlcgun9loot9_mp"
+        }
+    ]
+}

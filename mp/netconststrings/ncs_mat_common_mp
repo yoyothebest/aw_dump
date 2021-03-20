@@ -1,0 +1,785 @@
+{
+    "name": "ncs_mat_common_mp",
+    "stringType": 1,
+    "sourceType": 2,
+    "entryCount": 259,
+    "strings": [
+        {
+            "string": "black"
+        },
+        {
+            "string": "blue"
+        },
+        {
+            "string": "combathigh_overlay"
+        },
+        {
+            "string": "ctf_flag_carrier_atlas_red"
+        },
+        {
+            "string": "ctf_flag_carrier_sentinel_red"
+        },
+        {
+            "string": "damage_feedback"
+        },
+        {
+            "string": "damage_feedback_headshot"
+        },
+        {
+            "string": "damage_feedback_j"
+        },
+        {
+            "string": "damage_feedback_juggernaut"
+        },
+        {
+            "string": "damage_feedback_killshot"
+        },
+        {
+            "string": "damage_feedback_killshot_headshot"
+        },
+        {
+            "string": "damage_feedback_lightarmor"
+        },
+        {
+            "string": "damage_feedback_morehealth"
+        },
+        {
+            "string": "damage_feedback_motionsensor"
+        },
+        {
+            "string": "dpad_killstreak_airdrop_juggernaut"
+        },
+        {
+            "string": "dpad_killstreak_airdrop_juggernaut_inactive"
+        },
+        {
+            "string": "dpad_killstreak_airdrop_juggernaut_static"
+        },
+        {
+            "string": "dpad_killstreak_assault_ugv_static"
+        },
+        {
+            "string": "dpad_killstreak_emp"
+        },
+        {
+            "string": "dpad_killstreak_emp_inactive"
+        },
+        {
+            "string": "dpad_killstreak_emp_static"
+        },
+        {
+            "string": "dpad_killstreak_nuke"
+        },
+        {
+            "string": "dpad_killstreak_orbitalsupport"
+        },
+        {
+            "string": "dpad_killstreak_orbitalsupport_inactive"
+        },
+        {
+            "string": "dpad_killstreak_orbitalsupport_plus1"
+        },
+        {
+            "string": "dpad_killstreak_orbitalsupport_plus2"
+        },
+        {
+            "string": "dpad_killstreak_orbitalsupport_plus3"
+        },
+        {
+            "string": "dpad_killstreak_orbitalsupport_static"
+        },
+        {
+            "string": "dpad_killstreak_precision_airstrike"
+        },
+        {
+            "string": "dpad_killstreak_precision_airstrike_inactive"
+        },
+        {
+            "string": "dpad_killstreak_precision_airstrike_static"
+        },
+        {
+            "string": "dpad_killstreak_predator_missile"
+        },
+        {
+            "string": "dpad_killstreak_predator_missile_inactive"
+        },
+        {
+            "string": "dpad_killstreak_predator_missile_static"
+        },
+        {
+            "string": "dpad_killstreak_recon_ugv"
+        },
+        {
+            "string": "dpad_killstreak_recon_ugv_inactive"
+        },
+        {
+            "string": "dpad_killstreak_recon_ugv_static"
+        },
+        {
+            "string": "dpad_killstreak_remote_mg_turret"
+        },
+        {
+            "string": "dpad_killstreak_remote_mg_turret_inactive"
+        },
+        {
+            "string": "dpad_killstreak_remote_mg_turret_static"
+        },
+        {
+            "string": "dpad_killstreak_strafing_run_static"
+        },
+        {
+            "string": "dpad_killstreak_uav"
+        },
+        {
+            "string": "dpad_killstreak_uav_inactive"
+        },
+        {
+            "string": "dpad_killstreak_uav_static"
+        },
+        {
+            "string": "dpad_killstreak_warbird"
+        },
+        {
+            "string": "dpad_killstreak_warbird_inactive"
+        },
+        {
+            "string": "dpad_killstreak_warbird_plus1"
+        },
+        {
+            "string": "dpad_killstreak_warbird_plus2"
+        },
+        {
+            "string": "dpad_killstreak_warbird_plus3"
+        },
+        {
+            "string": "dpad_killstreak_warbird_static"
+        },
+        {
+            "string": "dpad_map_killstreak"
+        },
+        {
+            "string": "dpad_map_killstreak_inactive"
+        },
+        {
+            "string": "dpad_map_killstreak_static"
+        },
+        {
+            "string": "exo_hud_cloak_overlay"
+        },
+        {
+            "string": "faction_128_atlas"
+        },
+        {
+            "string": "faction_128_atlas_fade"
+        },
+        {
+            "string": "faction_128_sentinel"
+        },
+        {
+            "string": "faction_128_sentinel_fade"
+        },
+        {
+            "string": "goggles_overlay"
+        },
+        {
+            "string": "headicon_atlas"
+        },
+        {
+            "string": "headicon_dead"
+        },
+        {
+            "string": "headicon_sentinel"
+        },
+        {
+            "string": "hud_battery_bar"
+        },
+        {
+            "string": "hud_battery_bar_ext"
+        },
+        {
+            "string": "hud_battery_border"
+        },
+        {
+            "string": "hud_battery_border_ext"
+        },
+        {
+            "string": "hud_drone_sphere"
+        },
+        {
+            "string": "hud_fofbox_hostile"
+        },
+        {
+            "string": "hud_fofbox_self"
+        },
+        {
+            "string": "hud_icon_ak12"
+        },
+        {
+            "string": "hud_icon_bal27"
+        },
+        {
+            "string": "hud_icon_em1"
+        },
+        {
+            "string": "hud_icon_epm3"
+        },
+        {
+            "string": "hud_killstreak_bar_empty"
+        },
+        {
+            "string": "hud_killstreak_bar_full"
+        },
+        {
+            "string": "hud_killstreak_dpad_arrow_down"
+        },
+        {
+            "string": "hud_killstreak_dpad_arrow_right"
+        },
+        {
+            "string": "hud_killstreak_dpad_arrow_up"
+        },
+        {
+            "string": "hud_killstreak_highlight"
+        },
+        {
+            "string": "hud_suitcase_bomb"
+        },
+        {
+            "string": "hudcolorbar"
+        },
+        {
+            "string": "hudcolorbarsimple"
+        },
+        {
+            "string": "icon_dpad_glow_right"
+        },
+        {
+            "string": "icon_ks_jugg_recon"
+        },
+        {
+            "string": "icon_ks_jugg_recon_hud"
+        },
+        {
+            "string": "icon_ks_jugg_recon_hud_plus1"
+        },
+        {
+            "string": "icon_ks_jugg_recon_hud_plus2"
+        },
+        {
+            "string": "icon_ks_jugg_recon_hud_plus3"
+        },
+        {
+            "string": "icon_ks_odin"
+        },
+        {
+            "string": "icon_ks_odin_hud"
+        },
+        {
+            "string": "icon_ks_odin_hud_plus1"
+        },
+        {
+            "string": "icon_ks_odin_hud_plus2"
+        },
+        {
+            "string": "icon_ks_odin_hud_plus3"
+        },
+        {
+            "string": "infinity"
+        },
+        {
+            "string": "map_border_warning"
+        },
+        {
+            "string": "missilecam_reticle"
+        },
+        {
+            "string": "mtl_em1_heatbar_border"
+        },
+        {
+            "string": "mtl_exo_launcher_base"
+        },
+        {
+            "string": "objpoint_default"
+        },
+        {
+            "string": "objpoint_flag_gign"
+        },
+        {
+            "string": "objpoint_flag_twar_enemy"
+        },
+        {
+            "string": "objpoint_flag_twar_friendly"
+        },
+        {
+            "string": "objpoint_flag_twar_neutral"
+        },
+        {
+            "string": "paint_overlay"
+        },
+        {
+            "string": "progress_bar_bg"
+        },
+        {
+            "string": "progress_bar_fill"
+        },
+        {
+            "string": "rank_1stlt1"
+        },
+        {
+            "string": "rank_1stlt2"
+        },
+        {
+            "string": "rank_1stsgt1"
+        },
+        {
+            "string": "rank_1stsgt2"
+        },
+        {
+            "string": "rank_1stsgt3"
+        },
+        {
+            "string": "rank_2ndlt1"
+        },
+        {
+            "string": "rank_2ndlt2"
+        },
+        {
+            "string": "rank_2ndlt3"
+        },
+        {
+            "string": "rank_bgen1"
+        },
+        {
+            "string": "rank_bgen2"
+        },
+        {
+            "string": "rank_capt1"
+        },
+        {
+            "string": "rank_capt2"
+        },
+        {
+            "string": "rank_cmdsgtmaj1"
+        },
+        {
+            "string": "rank_cmdsgtmaj2"
+        },
+        {
+            "string": "rank_cmdsgtmaj3"
+        },
+        {
+            "string": "rank_col1"
+        },
+        {
+            "string": "rank_col2"
+        },
+        {
+            "string": "rank_comm1"
+        },
+        {
+            "string": "rank_cpl1"
+        },
+        {
+            "string": "rank_cpl2"
+        },
+        {
+            "string": "rank_cpl3"
+        },
+        {
+            "string": "rank_gen1"
+        },
+        {
+            "string": "rank_gen2"
+        },
+        {
+            "string": "rank_ltcol1"
+        },
+        {
+            "string": "rank_ltcol2"
+        },
+        {
+            "string": "rank_ltgen1"
+        },
+        {
+            "string": "rank_ltgen2"
+        },
+        {
+            "string": "rank_maj1"
+        },
+        {
+            "string": "rank_maj2"
+        },
+        {
+            "string": "rank_majgen1"
+        },
+        {
+            "string": "rank_majgen2"
+        },
+        {
+            "string": "rank_msgt1"
+        },
+        {
+            "string": "rank_msgt2"
+        },
+        {
+            "string": "rank_msgt3"
+        },
+        {
+            "string": "rank_pfc1"
+        },
+        {
+            "string": "rank_pfc2"
+        },
+        {
+            "string": "rank_pfc3"
+        },
+        {
+            "string": "rank_prestige1"
+        },
+        {
+            "string": "rank_prestige10"
+        },
+        {
+            "string": "rank_prestige11"
+        },
+        {
+            "string": "rank_prestige12"
+        },
+        {
+            "string": "rank_prestige13"
+        },
+        {
+            "string": "rank_prestige14"
+        },
+        {
+            "string": "rank_prestige15"
+        },
+        {
+            "string": "rank_prestige2"
+        },
+        {
+            "string": "rank_prestige3"
+        },
+        {
+            "string": "rank_prestige4"
+        },
+        {
+            "string": "rank_prestige5"
+        },
+        {
+            "string": "rank_prestige6"
+        },
+        {
+            "string": "rank_prestige7"
+        },
+        {
+            "string": "rank_prestige8"
+        },
+        {
+            "string": "rank_prestige9"
+        },
+        {
+            "string": "rank_pvt1"
+        },
+        {
+            "string": "rank_pvt2"
+        },
+        {
+            "string": "rank_pvt3"
+        },
+        {
+            "string": "rank_sfc1"
+        },
+        {
+            "string": "rank_sfc2"
+        },
+        {
+            "string": "rank_sfc3"
+        },
+        {
+            "string": "rank_sgt1"
+        },
+        {
+            "string": "rank_sgt2"
+        },
+        {
+            "string": "rank_sgt3"
+        },
+        {
+            "string": "rank_sgtmaj1"
+        },
+        {
+            "string": "rank_sgtmaj2"
+        },
+        {
+            "string": "rank_sgtmaj3"
+        },
+        {
+            "string": "rank_spc1"
+        },
+        {
+            "string": "rank_spc2"
+        },
+        {
+            "string": "rank_spc3"
+        },
+        {
+            "string": "rank_ssgt1"
+        },
+        {
+            "string": "rank_ssgt2"
+        },
+        {
+            "string": "rank_ssgt3"
+        },
+        {
+            "string": "scavenger_pickup"
+        },
+        {
+            "string": "scorestreak_cp_assault_drone"
+        },
+        {
+            "string": "scorestreak_cp_assault_drone1"
+        },
+        {
+            "string": "scorestreak_cp_assault_drone2"
+        },
+        {
+            "string": "scorestreak_cp_assault_drone3"
+        },
+        {
+            "string": "scorestreak_cp_emp"
+        },
+        {
+            "string": "scorestreak_cp_emp1"
+        },
+        {
+            "string": "scorestreak_cp_emp2"
+        },
+        {
+            "string": "scorestreak_cp_emp3"
+        },
+        {
+            "string": "scorestreak_cp_missile_strike"
+        },
+        {
+            "string": "scorestreak_cp_missile_strike1"
+        },
+        {
+            "string": "scorestreak_cp_missile_strike2"
+        },
+        {
+            "string": "scorestreak_cp_missile_strike3"
+        },
+        {
+            "string": "scorestreak_cp_paladin"
+        },
+        {
+            "string": "scorestreak_cp_paladin1"
+        },
+        {
+            "string": "scorestreak_cp_paladin2"
+        },
+        {
+            "string": "scorestreak_cp_paladin3"
+        },
+        {
+            "string": "scorestreak_cp_recon_uav"
+        },
+        {
+            "string": "scorestreak_cp_recon_uav1"
+        },
+        {
+            "string": "scorestreak_cp_recon_uav2"
+        },
+        {
+            "string": "scorestreak_cp_recon_uav3"
+        },
+        {
+            "string": "scorestreak_cp_strafe_run"
+        },
+        {
+            "string": "scorestreak_cp_strafe_run1"
+        },
+        {
+            "string": "scorestreak_cp_strafe_run2"
+        },
+        {
+            "string": "scorestreak_cp_strafe_run3"
+        },
+        {
+            "string": "scorestreak_cp_turret"
+        },
+        {
+            "string": "scorestreak_cp_turret1"
+        },
+        {
+            "string": "scorestreak_cp_turret2"
+        },
+        {
+            "string": "scorestreak_cp_turret3"
+        },
+        {
+            "string": "scorestreak_cp_uav"
+        },
+        {
+            "string": "scorestreak_cp_uav1"
+        },
+        {
+            "string": "scorestreak_cp_uav2"
+        },
+        {
+            "string": "scorestreak_cp_uav3"
+        },
+        {
+            "string": "scorestreak_hud_dna_bomb"
+        },
+        {
+            "string": "scorestreak_hud_dna_bomb_lit"
+        },
+        {
+            "string": "scorestreak_render_dna_bomb"
+        },
+        {
+            "string": "specialty_bulletpenetration"
+        },
+        {
+            "string": "specialty_emp_crate"
+        },
+        {
+            "string": "specialty_juggernaut_crate"
+        },
+        {
+            "string": "specialty_juiced"
+        },
+        {
+            "string": "specialty_null"
+        },
+        {
+            "string": "specialty_precision_airstrike_crate"
+        },
+        {
+            "string": "specialty_predator_missile_crate"
+        },
+        {
+            "string": "specialty_recreation_crate"
+        },
+        {
+            "string": "specialty_remote_mg_turret_crate"
+        },
+        {
+            "string": "specialty_s1_cp_battery"
+        },
+        {
+            "string": "specialty_s1_cp_blastsuppressor"
+        },
+        {
+            "string": "specialty_s1_cp_blindeye"
+        },
+        {
+            "string": "specialty_s1_cp_coldblooded"
+        },
+        {
+            "string": "specialty_s1_cp_dexterity"
+        },
+        {
+            "string": "specialty_s1_cp_faster_ads"
+        },
+        {
+            "string": "specialty_s1_cp_fasthands"
+        },
+        {
+            "string": "specialty_s1_cp_flakjacket"
+        },
+        {
+            "string": "specialty_s1_cp_gungho"
+        },
+        {
+            "string": "specialty_s1_cp_hardline"
+        },
+        {
+            "string": "specialty_s1_cp_hardwired"
+        },
+        {
+            "string": "specialty_s1_cp_lightweight"
+        },
+        {
+            "string": "specialty_s1_cp_lowprofile"
+        },
+        {
+            "string": "specialty_s1_cp_peripherals"
+        },
+        {
+            "string": "specialty_s1_cp_scavenger"
+        },
+        {
+            "string": "specialty_s1_cp_toughness"
+        },
+        {
+            "string": "specialty_s1_temp"
+        },
+        {
+            "string": "specialty_sentry_gun_crate"
+        },
+        {
+            "string": "specialty_talon_crate"
+        },
+        {
+            "string": "specialty_uav_crate"
+        },
+        {
+            "string": "waypoint_ball"
+        },
+        {
+            "string": "waypoint_ball_defend"
+        },
+        {
+            "string": "waypoint_ball_download"
+        },
+        {
+            "string": "waypoint_ball_enemy"
+        },
+        {
+            "string": "waypoint_ball_friendly"
+        },
+        {
+            "string": "waypoint_ball_goal"
+        },
+        {
+            "string": "waypoint_ball_pass"
+        },
+        {
+            "string": "waypoint_ball_upload"
+        },
+        {
+            "string": "waypoint_captureneutral"
+        },
+        {
+            "string": "waypoint_dogtags"
+        },
+        {
+            "string": "waypoint_flag_enemy"
+        },
+        {
+            "string": "waypoint_flag_friendly"
+        },
+        {
+            "string": "waypoint_losing"
+        },
+        {
+            "string": "waypoint_taking"
+        },
+        {
+            "string": "waypoint_threat_friendly"
+        },
+        {
+            "string": "waypoint_threat_hostile"
+        },
+        {
+            "string": "white"
+        },
+        {
+            "string": "white_nocull_2d"
+        }
+    ]
+}

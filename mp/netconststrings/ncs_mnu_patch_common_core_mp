@@ -1,0 +1,14 @@
+{
+    "name": "ncs_mnu_patch_common_core_mp",
+    "stringType": 10,
+    "sourceType": 2,
+    "entryCount": 2,
+    "strings": [
+        {
+            "string": "dev_vision_exec"
+        },
+        {
+            "string": "dev_vision_noloc"
+        }
+    ]
+}

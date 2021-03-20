@@ -1,0 +1,17 @@
+{
+    "name": "ncs_lsr_common_zm_mp",
+    "stringType": 23,
+    "sourceType": 2,
+    "entryCount": 3,
+    "strings": [
+        {
+            "string": "mp_attachment_directhack"
+        },
+        {
+            "string": "mp_attachment_lasersight"
+        },
+        {
+            "string": "mp_attachment_lasersight_short"
+        }
+    ]
+}

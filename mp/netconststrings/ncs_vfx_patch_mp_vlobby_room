@@ -1,0 +1,14 @@
+{
+    "name": "ncs_vfx_patch_mp_vlobby_room",
+    "stringType": 4,
+    "sourceType": 1,
+    "entryCount": 2,
+    "strings": [
+        {
+            "string": "vfx/ui/complete_set_crouching"
+        },
+        {
+            "string": "vfx/ui/complete_set_standing"
+        }
+    ]
+}

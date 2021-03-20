@@ -1,0 +1,32 @@
+{
+    "name": "ncs_anm_common_mp",
+    "stringType": 19,
+    "sourceType": 2,
+    "entryCount": 8,
+    "strings": [
+        {
+            "string": "mp_dogtag_spin"
+        },
+        {
+            "string": "mp_orbital_pod_base_unfold"
+        },
+        {
+            "string": "npc_deployable_riotshield_stand_deploy"
+        },
+        {
+            "string": "npc_deployable_riotshield_stand_destroyed"
+        },
+        {
+            "string": "npc_deployable_riotshield_stand_melee_back"
+        },
+        {
+            "string": "npc_deployable_riotshield_stand_melee_front"
+        },
+        {
+            "string": "npc_deployable_riotshield_stand_shot"
+        },
+        {
+            "string": "npc_deployable_riotshield_stand_shot_back"
+        }
+    ]
+}

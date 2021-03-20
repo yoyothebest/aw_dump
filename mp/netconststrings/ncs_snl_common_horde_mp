@@ -1,0 +1,65 @@
+{
+    "name": "ncs_snl_common_horde_mp",
+    "stringType": 8,
+    "sourceType": 2,
+    "entryCount": 19,
+    "strings": [
+        {
+            "string": "det_mus_high_tension1"
+        },
+        {
+            "string": "det_mus_horror_lp_01"
+        },
+        {
+            "string": "det_mus_horror_lp_02"
+        },
+        {
+            "string": "det_mus_low_tension1"
+        },
+        {
+            "string": "det_mus_low_tension2"
+        },
+        {
+            "string": "det_mus_low_tension3"
+        },
+        {
+            "string": "horde_uav_assualt_drones_hi_lp"
+        },
+        {
+            "string": "horde_uav_assualt_drones_lo_lp"
+        },
+        {
+            "string": "pdrn_pink_hipass_lp"
+        },
+        {
+            "string": "pdrn_pink_lopass_lp"
+        },
+        {
+            "string": "pdrn_rotor_main_lp"
+        },
+        {
+            "string": "pdrn_rotor_ww_hi"
+        },
+        {
+            "string": "pdrn_rotor_ww_lw"
+        },
+        {
+            "string": "pdrn_rotor_ww_md"
+        },
+        {
+            "string": "pdrn_whine_lp"
+        },
+        {
+            "string": "sentry_explode_sparks"
+        },
+        {
+            "string": "sentry_gun_hydraulics"
+        },
+        {
+            "string": "sentry_minigun_fire"
+        },
+        {
+            "string": "zombie_fadeout_heartbeat"
+        }
+    ]
+}

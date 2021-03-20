@@ -1,0 +1,14 @@
+{
+    "name": "ncs_hic_common_mp",
+    "stringType": 12,
+    "sourceType": 2,
+    "entryCount": 2,
+    "strings": [
+        {
+            "string": "headicon_atlas"
+        },
+        {
+            "string": "headicon_sentinel"
+        }
+    ]
+}

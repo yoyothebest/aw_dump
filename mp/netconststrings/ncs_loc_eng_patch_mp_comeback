@@ -1,0 +1,20 @@
+{
+    "name": "ncs_loc_eng_patch_mp_comeback",
+    "stringType": 5,
+    "sourceType": 1,
+    "entryCount": 4,
+    "strings": [
+        {
+            "string": "MP_COMEBACK_MAP_KILLSTREAK"
+        },
+        {
+            "string": "MP_COMEBACK_MAP_KILLSTREAK_DESC"
+        },
+        {
+            "string": "MP_COMEBACK_MAP_KILLSTREAK_NOT_AVAILABLE"
+        },
+        {
+            "string": "MP_COMEBACK_MAP_KILLSTREAK_PICKUP"
+        }
+    ]
+}

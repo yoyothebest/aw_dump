@@ -1,0 +1,77 @@
+{
+    "name": "ncs_hnt_eng_patch_mp_zombie_h2o",
+    "stringType": 18,
+    "sourceType": 1,
+    "entryCount": 23,
+    "strings": [
+        {
+            "string": "AREA_INVALIDATION_BOMB_DEFUSE"
+        },
+        {
+            "string": "KILLSTREAKS_DLC3_DISRUPTOR_TURRET"
+        },
+        {
+            "string": "ZOMBIE_DLC3_REPULSOR"
+        },
+        {
+            "string": "ZOMBIE_DLC3_TELEPORT_GRENADE"
+        },
+        {
+            "string": "ZOMBIE_DLC3_TELEPORT_GRENADE_AMMO"
+        },
+        {
+            "string": "ZOMBIE_H2O_AMMO_CRATE"
+        },
+        {
+            "string": "ZOMBIE_H2O_DOOR_TO_ANNEX"
+        },
+        {
+            "string": "ZOMBIE_H2O_DOOR_TO_CONCIERGE"
+        },
+        {
+            "string": "ZOMBIE_H2O_DOOR_TO_GALLERIA"
+        },
+        {
+            "string": "ZOMBIE_H2O_DOOR_TO_GREAT_HALL"
+        },
+        {
+            "string": "ZOMBIE_H2O_DOOR_TO_LANDING"
+        },
+        {
+            "string": "ZOMBIE_H2O_DOOR_TO_LOUNGE"
+        },
+        {
+            "string": "ZOMBIE_H2O_DOOR_TO_PROMENADE"
+        },
+        {
+            "string": "ZOMBIE_H2O_DOOR_TO_RECEPTION"
+        },
+        {
+            "string": "ZOMBIE_H2O_DOOR_TO_SPA"
+        },
+        {
+            "string": "ZOMBIE_H2O_DOOR_TO_TIDAL_GENERATOR"
+        },
+        {
+            "string": "ZOMBIE_H2O_START_HARD_MODE"
+        },
+        {
+            "string": "ZOMBIE_H2O_TELEPORT_USE"
+        },
+        {
+            "string": "ZOMBIE_H2O_USE_TUBE"
+        },
+        {
+            "string": "ZOMBIE_SQUADMATE_SQUADMATE"
+        },
+        {
+            "string": "ZOMBIE_WEAPONDLC2_GUN"
+        },
+        {
+            "string": "ZOMBIE_WEAPONDLC3_GUN"
+        },
+        {
+            "string": "ZOMBIE_WEAPONDLC4_GUN"
+        }
+    ]
+}

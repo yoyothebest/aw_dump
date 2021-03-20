@@ -1,0 +1,11 @@
+{
+    "name": "ncs_acl_code_post_gfx_mp",
+    "stringType": 21,
+    "sourceType": 2,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "default_anim"
+        }
+    ]
+}

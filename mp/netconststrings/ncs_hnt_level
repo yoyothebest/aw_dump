@@ -1,0 +1,14 @@
+{
+    "name": "ncs_hnt_level",
+    "stringType": 18,
+    "sourceType": 0,
+    "entryCount": 2,
+    "strings": [
+        {
+            "string": "PLATFORM_HOLD_TO_DROP"
+        },
+        {
+            "string": "SENTRY_MOVE"
+        }
+    ]
+}

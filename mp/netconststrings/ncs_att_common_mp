@@ -1,0 +1,161 @@
+{
+    "name": "ncs_att_common_mp",
+    "stringType": 17,
+    "sourceType": 2,
+    "entryCount": 51,
+    "strings": [
+        {
+            "string": "akimbo"
+        },
+        {
+            "string": "akimbosac3"
+        },
+        {
+            "string": "akimboxmg"
+        },
+        {
+            "string": "crossbowscopebase"
+        },
+        {
+            "string": "directhack"
+        },
+        {
+            "string": "dualmag"
+        },
+        {
+            "string": "firerate"
+        },
+        {
+            "string": "foregrip"
+        },
+        {
+            "string": "gl"
+        },
+        {
+            "string": "gm6scope"
+        },
+        {
+            "string": "gm6scopevz"
+        },
+        {
+            "string": "gm6stabilizer"
+        },
+        {
+            "string": "heartbeat"
+        },
+        {
+            "string": "heatsink"
+        },
+        {
+            "string": "ironsights"
+        },
+        {
+            "string": "lasersight"
+        },
+        {
+            "string": "longrange"
+        },
+        {
+            "string": "m990scope"
+        },
+        {
+            "string": "m990scopevz"
+        },
+        {
+            "string": "m990stabilizer"
+        },
+        {
+            "string": "mahemscopebase"
+        },
+        {
+            "string": "morsscope"
+        },
+        {
+            "string": "morsscopevz"
+        },
+        {
+            "string": "morsstabilizer"
+        },
+        {
+            "string": "opticsacog2"
+        },
+        {
+            "string": "opticsacog2ar"
+        },
+        {
+            "string": "opticseotech"
+        },
+        {
+            "string": "opticshamrhybrid"
+        },
+        {
+            "string": "opticsreddot"
+        },
+        {
+            "string": "opticstargetenhancer"
+        },
+        {
+            "string": "opticsthermal"
+        },
+        {
+            "string": "opticsthermalar"
+        },
+        {
+            "string": "parabolicmicrophone"
+        },
+        {
+            "string": "quickdraw"
+        },
+        {
+            "string": "rw1scopebase"
+        },
+        {
+            "string": "sensorheartbeat"
+        },
+        {
+            "string": "shieldfastmelee"
+        },
+        {
+            "string": "shieldfastplant"
+        },
+        {
+            "string": "shieldshockplant"
+        },
+        {
+            "string": "silencer"
+        },
+        {
+            "string": "silencer01"
+        },
+        {
+            "string": "silencerpistol"
+        },
+        {
+            "string": "silencersniper"
+        },
+        {
+            "string": "stock"
+        },
+        {
+            "string": "tactical"
+        },
+        {
+            "string": "thorscope"
+        },
+        {
+            "string": "thorscopevz"
+        },
+        {
+            "string": "thorstabilizer"
+        },
+        {
+            "string": "trackrounds"
+        },
+        {
+            "string": "variablereddot"
+        },
+        {
+            "string": "xmags"
+        }
+    ]
+}

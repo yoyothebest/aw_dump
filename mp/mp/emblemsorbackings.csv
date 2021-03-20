@@ -1,0 +1,764 @@
+icon,0,0,,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,1,1,em_icon_satcom,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,2,2,em_icon_agility,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,3,3,em_icon_airsuperiority,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,4,4,em_icon_amplify,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,5,5,em_icon_awareness,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,6,6,em_icon_ballistic_vests,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,7,7,em_icon_blind_eye,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,8,8,em_icon_danger_close,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,9,9,em_icon_dead_silence,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,10,10,em_icon_deadeye,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,11,11,em_icon_extra_attachment,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,12,12,em_icon_extra_lethal,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,13,13,em_icon_extra_tactical,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,14,14,em_icon_focus,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,15,15,em_icon_fully_loaded,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,16,16,em_icon_gambler,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,17,17,em_icon_groundjammer,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,18,18,em_icon_gryphon,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,19,19,em_icon_guarddog,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,20,20,em_icon_hardline,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,21,21,em_icon_icu,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,22,22,em_icon_incog,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,23,23,em_icon_jugg,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,24,24,em_icon_juggerrecon,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,25,25,em_icon_loki,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,26,26,em_icon_maaws,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,27,27,em_icon_maniac,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,28,28,em_icon_marathon,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,29,29,em_icon_nightowl,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,30,30,em_icon_odin,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,31,31,em_icon_off_grid,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,32,32,em_icon_on_the_go,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,33,33,em_icon_oracle,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,34,34,em_icon_overkill,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,35,35,em_icon_ping,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,36,36,em_icon_quickdraw,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,37,37,em_icon_rank_icon_1,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,38,38,em_icon_rank_icon_10,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,39,39,em_icon_rank_icon_11,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,40,40,em_icon_rank_icon_12,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,41,41,em_icon_rank_icon_13,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,42,42,em_icon_rank_icon_14,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,43,43,em_icon_rank_icon_15,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,44,44,em_icon_rank_icon_16,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,45,45,em_icon_rank_icon_17,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,46,46,em_icon_rank_icon_18,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,47,47,em_icon_rank_icon_19,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,48,48,em_icon_rank_icon_2,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,49,49,em_icon_rank_icon_20,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,50,50,em_icon_rank_icon_21,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,51,51,em_icon_rank_icon_22,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,52,52,em_icon_rank_icon_3,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,53,53,em_icon_rank_icon_4,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,54,54,em_icon_rank_icon_5,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,55,55,em_icon_rank_icon_6,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,56,56,em_icon_rank_icon_7,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,57,57,em_icon_rank_icon_8,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,58,58,em_icon_rank_icon_9,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,59,59,em_icon_ready_up,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,60,60,em_icon_recon,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,61,61,em_icon_reflex,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,62,62,em_icon_resilience,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,63,63,em_icon_scavenger,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,64,64,em_icon_sentrygun,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,65,65,em_icon_sit_rep,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,66,66,em_icon_sleight_of_hand,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,67,67,em_icon_stalker,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,68,68,em_icon_steady_aim,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,69,69,em_icon_strongarm,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,70,70,em_icon_supportsquadmate,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,71,71,em_icon_tac_resist,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,72,72,em_icon_takedown,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,73,73,em_icon_trinityrocket,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,74,74,em_icon_vulture,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,75,75,em_icon_weaponcrate,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,76,76,em_icon_wiretap,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,77,77,em_icon_koi,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,78,78,em_icon_rope,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,79,79,em_icon_leaf,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,80,80,em_icon_cone,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,81,81,em_icon_donkey,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,82,82,em_icon_bunny,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,83,83,em_icon_duck,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,84,84,em_icon_thumbs_up,,0,0,0,0,emblems,general,0.35,,-1,,,
+icon,85,85,em_icon_peace_sign,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,86,86,em_icon_scissors,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,87,87,em_icon_bag,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,88,88,em_icon_pill,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,89,89,em_icon_tie,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,90,90,em_icon_mustache,,0,0,0,0,emblems,general,0.35,,-1,,,
+icon,91,91,em_icon_mummy,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,92,92,em_icon_samurai_mask,,0,0,0,0,emblems,general,0.35,,-1,,,
+icon,93,93,em_icon_pirate_skull,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,94,94,em_icon_mask_2,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,95,95,em_icon_unicorn_2,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,96,96,em_icon_scroll_2,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,97,97,em_icon_wing_2,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,98,98,em_icon_spiked_bat,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,99,99,em_icon_straight_razor,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,100,100,em_icon_star,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,101,101,em_icon_bird,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,102,102,em_icon_eye,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,103,103,em_icon_rocking_chair,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,104,104,em_icon_check_mark,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,105,105,em_icon_paint_drip,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,106,106,em_icon_lighter,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,107,107,em_icon_screw,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,108,108,em_icon_crown2,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,109,109,em_icon_spark,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,110,110,em_icon_wave,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,111,111,em_icon_cupcake,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,112,112,em_icon_tank,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,113,113,em_icon_candle,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,114,114,em_icon_cherries,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,115,115,em_icon_claw,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,116,116,em_icon_sunglasses,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,117,117,em_icon_arrow_2,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,118,118,em_icon_eagle_2,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,119,119,em_icon_fire_extinguisher,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,120,120,em_icon_cut,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,121,121,em_icon_rain_drop,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,122,122,em_icon_guitar,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,123,123,em_icon_lock,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,124,124,em_icon_ninja_star,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,125,125,em_icon_bow,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,126,126,em_icon_teeth,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,127,127,em_icon_saftey_pin,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,128,128,em_icon_fern,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,129,129,em_icon_cloud,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,130,130,em_icon_elephant,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,131,131,em_icon_zombie_2,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,132,132,em_icon_note,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,133,133,em_icon_footprint,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,134,134,em_icon_bullseye,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,135,135,em_icon_butterfly,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,136,136,em_icon_links,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,137,137,em_icon_octupuss,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,138,138,em_icon_lightning,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,139,139,em_icon_wavy_line,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,140,140,em_icon_cow_skull,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,141,141,em_icon_scroll,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,142,142,em_icon_bat,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,143,143,em_icon_paperclip,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,144,144,em_icon_camel,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,145,145,em_icon_crack,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,146,146,em_icon_vamp,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,147,147,em_icon_gnome,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,148,148,em_icon_unicorn,,0,0,0,0,emblems,general,0.35,,-1,,,
+icon,149,149,em_icon_shark,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,150,150,em_icon_headphones,,0,0,0,0,emblems,general,0.35,,-1,,,
+icon,151,151,em_icon_bone,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,152,152,em_icon_streak,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,153,153,em_icon_dolphin,,0,0,0,0,emblems,general,0.35,,-1,,,
+icon,154,154,em_icon_cheese,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,155,155,em_icon_stamp,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,156,156,em_icon_sphere,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,157,157,em_icon_spiral,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,158,158,em_icon_anchor,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,159,159,em_icon_horn,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,160,160,em_icon_battery,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,161,161,em_icon_cube,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,162,162,em_icon_finger,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,163,163,em_icon_runner,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,164,164,em_icon_bolt,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,165,165,em_icon_flower,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,166,166,em_icon_crown,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,167,167,em_icon_speech_bubble,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,168,168,em_icon_fangs,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,169,169,em_icon_sports_play,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,170,170,em_icon_light_bulb,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,171,171,em_icon_whip,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,172,172,em_icon_jester_hat,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,173,173,em_icon_music_note,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,174,174,em_icon_4_leaf_clover,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,175,175,em_icon_chain_link,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,176,176,em_icon_bullet,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,177,177,em_icon_medallion,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,178,178,em_icon_bomb,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,179,179,em_icon_mohawk,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,180,180,em_icon_zombie,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,181,181,em_icon_blade,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,182,182,em_icon_toothbrush,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,183,183,em_icon_brain_1,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,184,184,em_icon_target,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,185,185,em_icon_chainsaw,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,186,186,em_icon_mixtape,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,187,187,em_icon_bhs_soldier,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,188,188,em_icon_dice,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,189,189,em_icon_gear,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,190,190,em_icon_revolver,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,191,191,em_icon_ski_mask,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,192,192,em_icon_fireball,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,193,193,em_icon_wing,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,194,194,em_icon_brass_knuckles,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,195,195,em_icon_goldchain,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,196,196,em_icon_ninja,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,197,197,em_icon_ar_perfect,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,198,198,em_icon_bandage01,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,199,199,em_icon_boltcutter01,,0,0,0,0,legacy,general,0.35,,-1,,,
+icon,200,200,em_icon_broom01,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,201,201,em_icon_car01,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,202,202,em_icon_claymore01,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,203,203,em_icon_cleaver01,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,204,204,em_icon_crosshair01,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,205,205,em_icon_ctf_crush_victory,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,206,206,em_icon_dem_bomb,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,207,207,em_icon_dem_bomb_protector,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,208,208,em_icon_dem_crush_victory,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,209,209,em_icon_dem_interruption,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,210,210,em_icon_dem_synch_attack,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,211,211,em_icon_dom_alpha_lockdown,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,212,212,em_icon_dom_bravo_hot,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,213,213,em_icon_dom_bravo_lockdown,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,214,214,em_icon_dom_charlie_lockdown,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,215,215,em_icon_dom_crush_victory,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,216,216,em_icon_dom_double_denied,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,217,217,em_icon_feather_duster01,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,218,218,em_icon_ffa_crush_victory,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,219,219,em_icon_ffa_hard_to_kill,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,220,220,em_icon_ffa_invincible,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,221,221,em_icon_ffa_just_a_gun,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,222,222,em_icon_ffa_unstoppable,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,223,223,em_icon_flak_jacket01,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,224,224,em_icon_gold,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,225,225,em_icon_grenade01,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,226,226,em_icon_grim_reaper01,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,227,227,em_icon_ha_ha01,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,228,228,em_icon_hacker_tool01,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,229,229,em_icon_hq_crush_victory,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,230,230,em_icon_hq_final_defense,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,231,231,em_icon_kc_clean_sweep,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,232,232,em_icon_kc_got_mine,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,233,233,em_icon_koth_annihilation_victory,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,234,234,em_icon_koth_crush_victory,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,235,235,em_icon_koth_shutout,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,236,236,em_icon_ladder01,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,237,237,em_icon_old_gun01,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,238,238,em_icon_phone01,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,239,239,em_icon_pistol_perfect,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,240,240,em_icon_pocketwatch01,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,241,241,em_icon_say_hello,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,242,242,em_icon_sd_bomb_protector,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,243,243,em_icon_sd_clutch,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,244,244,em_icon_sd_crush_victory,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,245,245,em_icon_sd_hard_to_kill,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,246,246,em_icon_sd_interruption,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,247,247,em_icon_sd_last_man,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,248,248,em_icon_sd_shutout,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,249,249,em_icon_sd_targets_down,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,250,250,em_icon_shock_charge01,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,251,251,em_icon_shrunk_head01,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,252,252,em_icon_skull_challenge03,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,253,253,em_icon_soldier_back01,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,254,254,em_icon_soldier_gunfighter01,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,255,255,em_icon_streak_anti_swatter,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,256,256,em_icon_streak_assault_package,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,257,257,em_icon_streak_big_game,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,258,258,em_icon_streak_cancelled_out,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,259,259,em_icon_streak_dog_pound,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,260,260,em_icon_streak_drones_eliminated,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,261,261,em_icon_streak_focus_fire,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,262,262,em_icon_streak_guide_dogs,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,263,263,em_icon_streak_hard_counter,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,264,264,em_icon_streak_heavy_cover,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,265,265,em_icon_streak_hijacked_kills,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,266,266,em_icon_streak_hikacked_kills,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,267,267,em_icon_streak_killjoy,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,268,268,em_icon_streak_max_payload,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,269,269,em_icon_streak_opportunistic,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,270,270,em_icon_streak_overcooked,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,271,271,em_icon_streak_pest_control,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,272,272,em_icon_streak_rc_multi_bomber,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,273,273,em_icon_streak_shredder,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,274,274,em_icon_streak_small_game,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,275,275,em_icon_streak_special_delivery,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,276,276,em_icon_streak_support_package,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,277,277,em_icon_streak_threat_neutral,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,278,278,em_icon_streak_tracker,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,279,279,em_icon_tdm_avenger,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,280,280,em_icon_tdm_crush_victory,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,281,281,em_icon_tdm_merciless,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,282,282,em_icon_tdm_relentless,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,283,283,em_icon_tdm_ruthless,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,284,284,em_icon_tdm_savior,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,285,285,em_icon_tdm_triple_kill,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,286,286,em_icon_thief,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,287,287,em_icon_tin_star01,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,288,288,em_icon_triple_kill,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,289,289,em_icon_weapon_riot_shield,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,290,290,em_icon_letter_!,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,291,291,em_icon_letter_#,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,292,292,em_icon_letter_$,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,293,293,em_icon_letter_%,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,294,294,em_icon_letter_&,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,295,295,em_icon_letter_(,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,296,296,em_icon_letter_01astric,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,297,297,em_icon_letter_01questionmark,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,298,298,em_icon_letter_01{,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,299,299,em_icon_letter_01~,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,300,300,em_icon_letter_@,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,301,301,em_icon_letter_a,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,302,302,em_icon_letter_b,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,303,303,em_icon_letter_c,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,304,304,em_icon_letter_d,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,305,305,em_icon_letter_e,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,306,306,em_icon_letter_f,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,307,307,em_icon_letter_g,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,308,308,em_icon_letter_h,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,309,309,em_icon_letter_i,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,310,310,em_icon_letter_j,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,311,311,em_icon_letter_k,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,312,312,em_icon_letter_l,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,313,313,em_icon_letter_m,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,314,314,em_icon_letter_n,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,315,315,em_icon_letter_o,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,316,316,em_icon_letter_p,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,317,317,em_icon_letter_q,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,318,318,em_icon_letter_r,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,319,319,em_icon_letter_s,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,320,320,em_icon_letter_t,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,321,321,em_icon_letter_u,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,322,322,em_icon_letter_v,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,323,323,em_icon_letter_w,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,324,324,em_icon_letter_x,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,325,325,em_icon_letter_y,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,326,326,em_icon_letter_z,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,327,327,em_icon_lower_letter_a,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,328,328,em_icon_lower_letter_b,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,329,329,em_icon_lower_letter_c,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,330,330,em_icon_lower_letter_d,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,331,331,em_icon_lower_letter_e,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,332,332,em_icon_lower_letter_f,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,333,333,em_icon_lower_letter_g,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,334,334,em_icon_lower_letter_h,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,335,335,em_icon_lower_letter_i,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,336,336,em_icon_lower_letter_j,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,337,337,em_icon_lower_letter_k,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,338,338,em_icon_lower_letter_l,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,339,339,em_icon_lower_letter_m,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,340,340,em_icon_lower_letter_n,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,341,341,em_icon_lower_letter_o,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,342,342,em_icon_lower_letter_p,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,343,343,em_icon_lower_letter_q,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,344,344,em_icon_lower_letter_r,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,345,345,em_icon_lower_letter_s,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,346,346,em_icon_lower_letter_t,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,347,347,em_icon_lower_letter_u,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,348,348,em_icon_lower_letter_v,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,349,349,em_icon_lower_letter_w,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,350,350,em_icon_lower_letter_x,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,351,351,em_icon_lower_letter_y,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,352,352,em_icon_lower_letter_z,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,353,353,em_icon_num_0,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,354,354,em_icon_num_1,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,355,355,em_icon_num_2,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,356,356,em_icon_num_3,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,357,357,em_icon_num_4,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,358,358,em_icon_num_5,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,359,359,em_icon_num_6,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,360,360,em_icon_num_7,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,361,361,em_icon_num_8,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,362,362,em_icon_num_9,,0,0,0,0,alphanumeric,general,0.35,,-1,,,
+icon,363,363,em_icon_circle,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,364,364,em_icon_explode01,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,365,365,em_icon_koth_point_man,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,366,366,em_icon_plus_sign01,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,367,367,em_icon_rank_bgen_full_1024,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,368,368,em_icon_shape_circle_half,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,369,369,em_icon_shape_circle_quarter,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,370,370,em_icon_shape_diamond02,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,371,371,em_icon_shape_diamond02_half,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,372,372,em_icon_shape_odd_002,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,373,373,em_icon_shape_odd_003,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,374,374,em_icon_shape_odd_004,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,375,375,em_icon_shape_odd_005,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,376,376,em_icon_shape_odd_006,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,377,377,em_icon_shape_odd_008,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,378,378,em_icon_shape_odd_009,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,379,379,em_icon_shape_odd_010,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,380,380,em_icon_shape_odd_011,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,381,381,em_icon_shape_odd_012,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,382,382,em_icon_shape_odd_013,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,383,383,em_icon_shape_odd_014,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,384,384,em_icon_shape_odd_015,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,385,385,em_icon_shape_odd_016,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,386,386,em_icon_shape_odd_017,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,387,387,em_icon_shape_odd_018,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,388,388,em_icon_shape_odd_019,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,389,389,em_icon_shape_odd_020,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,390,390,em_icon_shape_odd_021,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,391,391,em_icon_shape_odd_022,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,392,392,em_icon_shape_odd_023,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,393,393,em_icon_shape_odd_024,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,394,394,em_icon_shape_odd_026,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,395,395,em_icon_shape_odd_027,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,396,396,em_icon_shape_odd_028,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,397,397,em_icon_shape_odd_029,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,398,398,em_icon_shape_odd_030,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,399,399,em_icon_shape_odd_031,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,400,400,em_icon_shape_odd_032,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,401,401,em_icon_shape_odd_033,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,402,402,em_icon_shape_odd_034,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,403,403,em_icon_shape_odd_035,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,404,404,em_icon_shape_odd_036,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,405,405,em_icon_shape_odd_037,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,406,406,em_icon_shape_odd_038,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,407,407,em_icon_shape_scribble01,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,408,408,em_icon_shape_square_rounded,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,409,409,em_icon_shape_star01,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,410,410,em_icon_shape_star01_half,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,411,411,em_icon_shape_star02,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,412,412,em_icon_shape_star02_half,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,413,413,em_icon_shape_star03,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,414,414,em_icon_shape_star03_half,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,415,415,em_icon_shape_trap01,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,416,416,em_icon_shape_triangle_rounded,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,417,417,em_icon_shape_tube01_half,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,418,418,em_icon_square,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,419,419,em_icon_triangle,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,420,420,em_icon_wire,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,421,421,em_icon_handcuffs,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,422,422,em_icon_ice_pick,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,423,423,em_icon_body_count,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,424,424,em_icon_poison_bottle,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,425,425,em_icon_mace,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,426,426,em_icon_barbwire,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,427,427,em_icon_dna,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,428,428,em_icon_biohazard,,0,0,0,0,emblems,general,0.35,,-1,,,
+icon,429,429,em_icon_gas_mask,,0,0,0,0,emblems,general,0.35,,-1,,,
+icon,430,430,em_icon_cop_car,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,431,431,em_icon_underwear,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,432,432,em_icon_can,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,433,433,em_icon_toilet,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,434,434,em_icon_tooth,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,435,435,em_icon_severed_foot,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,436,436,em_icon_torn_eyeball,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,437,437,em_icon_severed_head,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,438,438,em_icon_severed_leg,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,439,439,em_icon_severed_arm,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,440,440,em_icon_devil,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,441,441,em_icon_ghost,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,442,442,em_icon_goblin,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,443,443,em_icon_werewolf,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,444,444,em_icon_witch,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,445,445,em_icon_space_craft,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,446,446,em_icon_alien,,0,0,0,0,emblems,general,0.35,,-1,,,
+icon,447,447,em_icon_falling_star,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,448,448,em_icon_satellite,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,449,449,em_icon_astronaut,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,450,450,em_icon_clown,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,451,451,em_icon_balloons,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,452,452,em_icon_beer_bottle,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,453,453,em_icon_present,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,454,454,em_icon_cake,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,455,455,em_icon_soccer_ball,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,456,456,em_icon_football,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,457,457,em_icon_baseball,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,458,458,em_icon_basketball,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,459,459,em_icon_skate_board,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,460,460,em_icon_pose_2,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,461,461,em_icon_pose_with_cape,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,462,462,em_icon_pose_1,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,463,463,em_icon_spider_web,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,464,464,em_icon_mask,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,465,465,em_icon_scorpion,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,466,466,em_icon_snake,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,467,467,em_icon_eagle,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,468,468,em_icon_spider,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,469,469,em_icon_dragon,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,470,470,em_icon_treasure_chest,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,471,471,em_icon_pirate_sword,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,472,472,em_icon_mermaid,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,473,473,em_icon_boat,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,474,474,em_icon_compass,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,475,475,em_icon_viking_shield,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,476,476,em_icon_viking_axe,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,477,477,em_icon_viking_hammer,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,478,478,em_icon_viking_helmet,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,479,479,em_icon_turkey_leg,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,480,480,em_icon_dynamite,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,481,481,em_icon_arrow,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,482,482,em_icon_indian_headdress,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,483,483,em_icon_bull,,0,0,0,0,emblems,general,0.35,,-1,,,
+icon,484,484,em_icon_cowboy_hat,,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,485,485,em_icon_entitlement_sentinel,CALLINGCARDS_ICON_SENTINEL,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,486,486,em_icon_entitlement_atlas_pro,CALLINGCARDS_ICON_ATLAS_PRO,0,0,0,0,legacy2,general,0.35,,-1,,,
+icon,487,487,em_icon_ar_ak12,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_ak12_3,0,,,# needs matching unlockTable entry
+icon,488,488,em_icon_ar_arx160,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_arx160_3,1,,,# needs matching unlockTable entry
+icon,489,489,em_icon_ar_bal27,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_bal27_3,2,,,# needs matching unlockTable entry
+icon,490,490,em_icon_ar_hbra3,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_hbra3_3,3,,,# needs matching unlockTable entry
+icon,491,491,em_icon_ar_himar,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_himar_3,4,,,# needs matching unlockTable entry
+icon,492,492,em_icon_ar_mk14,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_m182spr_3,5,,,# needs matching unlockTable entry
+icon,493,493,em_icon_shotgun_maul,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_maul_3,6,,,# needs matching unlockTable entry
+icon,494,494,em_icon_shotgun_rhino,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_rhino_3,7,,,# needs matching unlockTable entry
+icon,495,495,em_icon_shotgun_uts19,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_uts19_3,8,,,# needs matching unlockTable entry
+icon,496,496,em_icon_smg_asm1,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_asm1_3,9,,,# needs matching unlockTable entry
+icon,497,497,em_icon_smg_hmr9,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_hmr9_3,10,,,# needs matching unlockTable entry
+icon,498,498,em_icon_smg_mp11,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_mp11_3,11,,,# needs matching unlockTable entry
+icon,499,499,em_icon_smg_sac3,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_sac3_3,12,,,# needs matching unlockTable entry
+icon,500,500,em_icon_smg_sn6,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_sn6_3,13,,,# needs matching unlockTable entry
+icon,501,501,em_icon_sniper_gm6,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_gm6_3,14,,,# needs matching unlockTable entry
+icon,502,502,em_icon_sniper_m990,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_m990_3,15,,,# needs matching unlockTable entry
+icon,503,503,em_icon_sniper_mors,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_mors_3,16,,,# needs matching unlockTable entry
+icon,504,504,em_icon_sniper_thor,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_thor_3,17,,,# needs matching unlockTable entry
+icon,505,505,em_icon_heavy_em1,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_em1_3,18,,,# needs matching unlockTable entry
+icon,506,506,em_icon_heavy_epm3,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_epm3_3,19,,,# needs matching unlockTable entry
+icon,507,507,em_icon_heavy_lsat,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_lsat_3,20,,,# needs matching unlockTable entry
+icon,508,508,em_icon_heavy_xmg,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_exoxmg_3,21,,,# needs matching unlockTable entry
+icon,509,509,em_icon_heavy_asaw,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_asaw_3,22,,,# needs matching unlockTable entry
+icon,510,510,em_icon_pistol_atlas45,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_titan45_3,23,,,# needs matching unlockTable entry
+icon,511,511,em_icon_pistol_mp443,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_pbw_3,24,,,# needs matching unlockTable entry
+icon,512,512,em_icon_pistol_rw1,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_rw1_3,25,,,# needs matching unlockTable entry
+icon,513,513,em_icon_pistol_vbr,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_vbr_3,26,,,# needs matching unlockTable entry
+icon,514,514,em_icon_launcher_m7,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_stingerm7_3,27,,,# needs matching unlockTable entry
+icon,515,515,em_icon_launcher_maaws,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_maaws_3,28,,,# needs matching unlockTable entry
+icon,516,516,em_icon_launcher_mahem,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_mahem_3,29,,,# needs matching unlockTable entry
+icon,517,517,em_icon_special_crossbow,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_exocrossbow_3,30,,,# needs matching unlockTable entry
+icon,518,518,em_icon_special_mdl,,0,0,0,0,emblems,general,0.35,ch_marksman_iw5_microdronelauncher_3,31,,,# needs matching unlockTable entry
+icon,519,519,em_icon_attach_acog,,0,0,0,0,emblems,general,0.35,ch_attach_kill_opticsacog2_2,32,,,# needs matching unlockTable entry
+icon,520,520,em_icon_attach_auto_focus,,0,0,0,0,emblems,general,0.35,ch_attach_kill_opticseotech_2,33,,,# needs matching unlockTable entry
+icon,521,521,em_icon_attach_red_dot,,0,0,0,0,emblems,general,0.35,ch_attach_kill_opticsreddot_2,34,,,# needs matching unlockTable entry
+icon,522,522,em_icon_attach_target_enhance,,0,0,0,0,emblems,general,0.35,ch_attach_kill_opticstargetenhancer_2,35,,,# needs matching unlockTable entry
+icon,523,523,em_icon_attach_var_sight,,0,0,0,0,emblems,general,0.35,ch_attach_kill_variablereddot_2,36,,,# needs matching unlockTable entry
+icon,524,524,em_icon_attach_rw_scope,,0,0,0,0,optic_special,general,0.35,,-1,,,
+icon,525,525,em_icon_attach_var_scope,,0,0,0,0,emblems,general,0.35,ch_attach_kill_scopevz_2,37,,,# needs matching unlockTable entry
+icon,526,526,em_icon_attach_thermal,,0,0,0,0,emblems,general,0.35,ch_attach_kill_opticsthermal_2,38,,,# needs matching unlockTable entry
+icon,527,527,em_icon_attach_advance_rifle,,0,0,0,0,emblems,general,0.35,ch_attach_kill_longrange_2,39,,,# needs matching unlockTable entry
+icon,528,528,em_icon_attach_akimbo,,0,0,0,0,emblems,general,0.35,ch_attach_kill_akimbo_2,40,,,# needs matching unlockTable entry
+icon,529,529,em_icon_attach_ballistic_cpu,,0,0,0,0,emblems,general,0.35,ch_attach_kill_stabilizer_2,41,,,# needs matching unlockTable entry
+icon,530,530,em_icon_attach_extend_mag,,0,0,0,0,emblems,general,0.35,ch_attach_kill_xmags_2,42,,,# needs matching unlockTable entry
+icon,531,531,em_icon_attach_gl,,0,0,0,0,emblems,general,0.35,ch_attach_kill_gl_2,43,,,# needs matching unlockTable entry
+icon,532,532,em_icon_attach_grip,,0,0,0,0,emblems,general,0.35,ch_attach_kill_foregrip_2,44,,,# needs matching unlockTable entry
+icon,533,533,em_icon_attach_heat_sink,,0,0,0,0,emblems,general,0.35,ch_attach_kill_heatsink_2,45,,,# needs matching unlockTable entry
+icon,534,534,em_icon_attach_iron_sight,,0,0,0,0,emblems,general,0.35,ch_attach_kill_ironsights_2,46,,,# needs matching unlockTable entry
+icon,535,535,em_icon_attach_laser,,0,0,0,0,emblems,general,0.35,ch_attach_kill_lasersight_2,47,,,# needs matching unlockTable entry
+icon,536,536,em_icon_attach_par_mic,,0,0,0,0,emblems,general,0.35,ch_attach_kill_parabolicmicrophone_2,48,,,# needs matching unlockTable entry
+icon,537,537,em_icon_attach_quickdraw,,0,0,0,0,emblems,general,0.35,ch_attach_kill_quickdraw_2,49,,,# needs matching unlockTable entry
+icon,538,538,em_icon_attach_rapid_fire,,0,0,0,0,emblems,general,0.35,ch_attach_kill_firerate_2,50,,,# needs matching unlockTable entry
+icon,539,539,em_icon_attach_silencer,,0,0,0,0,emblems,general,0.35,ch_attach_kill_silencer01_2,51,,,# needs matching unlockTable entry
+icon,540,540,em_icon_attach_stock,,0,0,0,0,emblems,general,0.35,ch_attach_kill_stock_2,52,,,# needs matching unlockTable entry
+icon,541,541,em_icon_attach_tac_knife,,0,0,0,0,emblems,general,0.35,ch_attach_kill_tactical_2,53,,,# needs matching unlockTable entry
+icon,542,542,em_icon_attach_tracking,,0,0,0,0,emblems,general,0.35,ch_attach_kill_trackrounds_2,54,,,# needs matching unlockTable entry
+icon,543,543,em_icon_bootcamp_cars,,0,0,0,0,emblems,general,0.35,ch_boot_vandalism_1,55,,,# needs matching unlockTable entry
+icon,544,544,em_icon_bootcamp_diving,,0,0,0,0,emblems,general,0.35,ch_boot_hero_2,56,,,# needs matching unlockTable entry
+icon,545,545,em_icon_bootcamp_emp_death,,0,0,0,0,emblems,general,0.35,ch_boot_prone_2,57,,,# needs matching unlockTable entry
+icon,546,546,em_icon_bootcamp_emp_survive,,0,0,0,0,emblems,general,0.35,ch_boot_crouch_2,58,,,# needs matching unlockTable entry
+icon,547,547,em_icon_bootcamp_window,,0,0,0,0,emblems,general,0.35,ch_boot_xray_3,59,,,# needs matching unlockTable entry
+icon,548,548,em_icon_bootcamp_stolen,,0,0,0,0,emblems,general,0.35,ch_boot_stolen_3,60,,,# needs matching unlockTable entry
+icon,549,549,em_icon_camo_blood_01,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_bal27_5,61,,,# needs matching unlockTable entry
+icon,550,550,em_icon_camo_blood_02,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_ak12_5,62,,,# needs matching unlockTable entry
+icon,551,551,em_icon_camo_blood_03,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_m182spr_5,63,,,# needs matching unlockTable entry
+icon,552,552,em_icon_camo_blood_04,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_hbra3_5,64,,,# needs matching unlockTable entry
+icon,553,553,em_icon_camo_blood_05,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_himar_5,65,,,# needs matching unlockTable entry
+icon,554,554,em_icon_camo_blue_orange,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_arx160_5,66,,,# needs matching unlockTable entry
+icon,555,555,em_icon_camo_bronze,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_sn6_5,67,,,# needs matching unlockTable entry
+icon,556,556,em_icon_camo_carbon_fiber,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_hmr9_5,68,,,# needs matching unlockTable entry
+icon,557,557,em_icon_camo_cloud,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_mp11_5,69,,,# needs matching unlockTable entry
+icon,558,558,em_icon_camo_digital,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_sac3_5,70,,,# needs matching unlockTable entry
+icon,559,559,em_icon_camo_digital_01,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_asm1_5,71,,,# needs matching unlockTable entry
+icon,560,560,em_icon_camo_digital_02,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_kf5_5,72,,,# needs matching unlockTable entry
+icon,561,561,em_icon_camo_dollar_sign,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_maul_5,73,,,# needs matching unlockTable entry
+icon,562,562,em_icon_camo_flames_01,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_rhino_5,74,,,# needs matching unlockTable entry
+icon,563,563,em_icon_camo_flames_02,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_uts19_5,75,,,# needs matching unlockTable entry
+icon,564,564,em_icon_camo_flames_03,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_mors_5,76,,,# needs matching unlockTable entry
+icon,565,565,em_icon_camo_flames_04,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_gm6_5,77,,,# needs matching unlockTable entry
+icon,566,566,em_icon_camo_flames_05,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_thor_5,78,,,# needs matching unlockTable entry
+icon,567,567,em_icon_camo_grid,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_m990_5,79,,,# needs matching unlockTable entry
+icon,568,568,em_icon_camo_hive,,0,0,0,0,emblems,general,0.35,ch_longshot_iw5_epm3_5,80,,,# needs matching unlockTable entry
+icon,569,569,em_icon_camo_jungle_01,,0,0,0,0,emblems,general,0.35,ch_longshot_iw5_em1_5,81,,,# needs matching unlockTable entry
+icon,570,570,em_icon_camo_jungle_02,,0,0,0,0,emblems,general,0.35,ch_longshot_iw5_asaw_5,82,,,# needs matching unlockTable entry
+icon,571,571,em_icon_camo_leopard_01,,0,0,0,0,emblems,general,0.35,ch_longshot_iw5_lsat_5,83,,,# needs matching unlockTable entry
+icon,572,572,em_icon_camo_leopard_02,,0,0,0,0,emblems,general,0.35,ch_longshot_iw5_exoxmg_5,84,,,# needs matching unlockTable entry
+icon,573,573,em_icon_camo_tape_01,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_titan45_5,85,,,# needs matching unlockTable entry
+icon,574,574,em_icon_camo_tape_02,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_vbr_5,86,,,# needs matching unlockTable entry
+icon,575,575,em_icon_camo_tread,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_pbw_5,87,,,# needs matching unlockTable entry
+icon,576,576,em_icon_camo_tread_02,,0,0,0,0,emblems,general,0.35,ch_headshot_iw5_rw1_5,88,,,# needs matching unlockTable entry
+icon,577,577,em_icon_exo_ab_cloak,,0,0,0,0,emblems,general,0.35,ch_exoability_cloak_4,89,,,# needs matching unlockTable entry
+icon,578,578,em_icon_exo_ab_hover,,0,0,0,0,emblems,general,0.35,ch_exoability_hover_4,90,,,# needs matching unlockTable entry
+icon,579,579,em_icon_exo_ab_mute,,0,0,0,0,emblems,general,0.35,ch_exoability_mute_4,91,,,# needs matching unlockTable entry
+icon,580,580,em_icon_exo_ab_overclock,,0,0,0,0,emblems,general,0.35,ch_exoability_overclock_4,92,,,# needs matching unlockTable entry
+icon,581,581,em_icon_exo_ab_shield,,0,0,0,0,emblems,general,0.35,ch_exoability_shield_4,93,,,# needs matching unlockTable entry
+icon,582,582,em_icon_exo_ab_stim,,0,0,0,0,emblems,general,0.35,ch_exoability_health_4,94,,,# needs matching unlockTable entry
+icon,583,583,em_icon_exo_ab_triangle,,0,0,0,0,emblems,general,0.35,ch_exoability_ping_4,95,,,# needs matching unlockTable entry
+icon,584,584,em_icon_exo_ab_trophy,,0,0,0,0,emblems,general,0.35,ch_exoability_repulser_4,96,,,# needs matching unlockTable entry
+icon,585,585,em_icon_exo_boost_dodge,,0,0,0,0,emblems,general,0.35,ch_exomech_evasive_4,97,,,# needs matching unlockTable entry
+icon,586,586,em_icon_exo_boot_slams,,0,0,0,0,emblems,general,0.35,ch_exomech_hot_4,98,,,# needs matching unlockTable entry
+icon,587,587,em_icon_exo_dogfight,,0,0,0,0,emblems,general,0.35,ch_exomech_redbaron_4,99,,,# needs matching unlockTable entry
+icon,588,588,em_icon_exo_skeet_shooter,,0,0,0,0,emblems,general,0.35,ch_exomech_pull_4,100,,,# needs matching unlockTable entry
+icon,589,589,em_icon_exo_strafe,,0,0,0,0,emblems,general,0.35,ch_exomech_buzz_4,101,,,# needs matching unlockTable entry
+icon,590,590,em_icon_exo_launch_emp,,0,0,0,0,emblems,general,0.35,ch_exolauncher_emp_4,102,,,# needs matching unlockTable entry
+icon,591,591,em_icon_exo_launch_explode,,0,0,0,0,emblems,general,0.35,ch_exolauncher_explosive_drone_4,103,,,# needs matching unlockTable entry
+icon,592,592,em_icon_exo_launch_frag,,0,0,0,0,emblems,general,0.35,ch_exolauncher_frag_4,104,,,# needs matching unlockTable entry
+icon,593,593,em_icon_exo_launch_semtex,,0,0,0,0,emblems,general,0.35,ch_exolauncher_semtex_4,105,,,# needs matching unlockTable entry
+icon,594,594,em_icon_exo_launch_smoke,,0,0,0,0,emblems,general,0.35,ch_exolauncher_smoke_4,106,,,# needs matching unlockTable entry
+icon,595,595,em_icon_exo_launch_spike,,0,0,0,0,emblems,general,0.35,ch_exolauncher_knife_4,107,,,# needs matching unlockTable entry
+icon,596,596,em_icon_exo_launch_stun,,0,0,0,0,emblems,general,0.35,ch_exolauncher_stun_4,108,,,# needs matching unlockTable entry
+icon,597,597,em_icon_exo_launch_threat,,0,0,0,0,emblems,general,0.35,ch_exolauncher_threat_4,109,,,# needs matching unlockTable entry
+icon,598,598,em_icon_exo_launch_tracking,,0,0,0,0,emblems,general,0.35,ch_exolauncher_tracking_4,110,,,# needs matching unlockTable entry
+icon,599,599,em_icon_gamemode_ctf_01,,0,0,0,0,emblems,general,0.35,ch_ctf_crushing_1,111,,,# needs matching unlockTable entry
+icon,600,600,em_icon_gamemode_ctf_02,,0,0,0,0,emblems,general,0.35,ch_ctf_flag_defend_1,112,,,# needs matching unlockTable entry
+icon,601,601,em_icon_gamemode_ctf_03,,0,0,0,0,emblems,general,0.35,ch_ctf_flag_carry_1,113,,,# needs matching unlockTable entry
+icon,602,602,em_icon_gamemode_ctf_04,,0,0,0,0,emblems,general,0.35,ch_ctf_flag_return_1,114,,,# needs matching unlockTable entry
+icon,603,603,em_icon_gamemode_ctf_05,,0,0,0,0,emblems,general,0.35,ch_ctf_flag_capture_1,115,,,# needs matching unlockTable entry
+icon,604,604,em_icon_gamemode_dom_01,,0,0,0,0,emblems,general,0.35,ch_dom_aggression_1,116,,,# needs matching unlockTable entry
+icon,605,605,em_icon_gamemode_dom_02,,0,0,0,0,emblems,general,0.35,ch_dom_alphalock_1,117,,,# needs matching unlockTable entry
+icon,606,606,em_icon_gamemode_dom_03,,0,0,0,0,emblems,general,0.35,ch_dom_bravolock_1,118,,,# needs matching unlockTable entry
+icon,607,607,em_icon_gamemode_dom_04,,0,0,0,0,emblems,general,0.35,ch_dom_charlielock_1,119,,,# needs matching unlockTable entry
+icon,608,608,em_icon_gamemode_dom_05,,0,0,0,0,emblems,general,0.35,ch_dom_tripcap_1,120,,,# needs matching unlockTable entry
+icon,609,609,em_icon_gamemode_ffa_01,,0,0,0,0,emblems,general,0.35,ch_dm_merciless_1,121,,,# needs matching unlockTable entry
+icon,610,610,em_icon_gamemode_ffa_02,,0,0,0,0,emblems,general,0.35,ch_dm_crushing_1,122,,,# needs matching unlockTable entry
+icon,611,611,em_icon_gamemode_ffa_03,,0,0,0,0,emblems,general,0.35,ch_dm_star_1,123,,,# needs matching unlockTable entry
+icon,612,612,em_icon_gamemode_ffa_04,,0,0,0,0,emblems,general,0.35,ch_dm_double_1,124,,,# needs matching unlockTable entry
+icon,613,613,em_icon_gamemode_ffa_05,,0,0,0,0,emblems,general,0.35,ch_dm_triple_1,125,,,# needs matching unlockTable entry
+icon,614,614,em_icon_gamemode_hardpoint_01,,0,0,0,0,emblems,general,0.35,ch_hp_aggression_1,126,,,# needs matching unlockTable entry
+icon,615,615,em_icon_gamemode_hardpoint_02,,0,0,0,0,emblems,general,0.35,ch_hp_attacker_1,127,,,# needs matching unlockTable entry
+icon,616,616,em_icon_gamemode_hardpoint_03,,0,0,0,0,emblems,general,0.35,ch_hp_defender_1,128,,,# needs matching unlockTable entry
+icon,617,617,em_icon_gamemode_hardpoint_04,,0,0,0,0,emblems,general,0.35,ch_hp_crushing_1,129,,,# needs matching unlockTable entry
+icon,618,618,em_icon_gamemode_hardpoint_05,,0,0,0,0,emblems,general,0.35,ch_hp_star_1,130,,,# needs matching unlockTable entry
+icon,619,619,em_icon_gamemode_infected_01,,0,0,0,0,emblems,general,0.35,ch_infect_crushing_1,131,,,# needs matching unlockTable entry
+icon,620,620,em_icon_gamemode_infected_02,,0,0,0,0,emblems,general,0.35,ch_infect_survivor_1,132,,,# needs matching unlockTable entry
+icon,621,621,em_icon_gamemode_infected_03,,0,0,0,0,emblems,general,0.35,ch_infect_patientzero_1,133,,,# needs matching unlockTable entry
+icon,622,622,em_icon_gamemode_infected_04,,0,0,0,0,emblems,general,0.35,ch_infect_cleanup_1,134,,,# needs matching unlockTable entry
+icon,623,623,em_icon_gamemode_infected_05,,0,0,0,0,emblems,general,0.35,ch_infect_tooclose_1,135,,,# needs matching unlockTable entry
+icon,624,624,em_icon_gamemode_kc_01,,0,0,0,0,emblems,general,0.35,ch_conf_collector_1,136,,,# needs matching unlockTable entry
+icon,625,625,em_icon_gamemode_kc_02,,0,0,0,0,emblems,general,0.35,ch_conf_denial_1,137,,,# needs matching unlockTable entry
+icon,626,626,em_icon_gamemode_kc_03,,0,0,0,0,emblems,general,0.35,ch_conf_save_yourself_1,138,,,# needs matching unlockTable entry
+icon,627,627,em_icon_gamemode_kc_04,,0,0,0,0,emblems,general,0.35,ch_conf_crushing_1,139,,,# needs matching unlockTable entry
+icon,628,628,em_icon_gamemode_kc_05,,0,0,0,0,emblems,general,0.35,ch_conf_savior_1,140,,,# needs matching unlockTable entry
+icon,629,629,em_icon_gamemode_momentum_01,,0,0,0,0,emblems,general,0.35,ch_twar_aggression_1,141,,,# needs matching unlockTable entry
+icon,630,630,em_icon_gamemode_momentum_02,,0,0,0,0,emblems,general,0.35,ch_twar_attacker_1,142,,,# needs matching unlockTable entry
+icon,631,631,em_icon_gamemode_momentum_03,,0,0,0,0,emblems,general,0.35,ch_twar_defender_1,143,,,# needs matching unlockTable entry
+icon,632,632,em_icon_gamemode_momentum_04,,0,0,0,0,emblems,general,0.35,ch_twar_crushing_1,144,,,# needs matching unlockTable entry
+icon,633,633,em_icon_gamemode_momentum_05,,0,0,0,0,emblems,general,0.35,ch_twar_blitzkrieg_1,145,,,# needs matching unlockTable entry
+icon,634,634,em_icon_gamemode_snd_01,,0,0,0,0,emblems,general,0.35,ch_sd_destroyer_1,146,,,# needs matching unlockTable entry
+icon,635,635,em_icon_gamemode_snd_02,,0,0,0,0,emblems,general,0.35,ch_sd_bombdefuse_1,147,,,# needs matching unlockTable entry
+icon,636,636,em_icon_gamemode_snd_03,,0,0,0,0,emblems,general,0.35,ch_sd_ninja_1,148,,,# needs matching unlockTable entry
+icon,637,637,em_icon_gamemode_snd_04,,0,0,0,0,emblems,general,0.35,ch_sd_protector_1,149,,,# needs matching unlockTable entry
+icon,638,638,em_icon_gamemode_snd_05,,0,0,0,0,emblems,general,0.35,ch_sd_interrupt_1,150,,,# needs matching unlockTable entry
+icon,639,639,em_icon_gamemode_snr_01,,0,0,0,0,emblems,general,0.35,ch_sr_destroyer_1,151,,,# needs matching unlockTable entry
+icon,640,640,em_icon_gamemode_snr_02,,0,0,0,0,emblems,general,0.35,ch_sr_bombdefuse_1,152,,,# needs matching unlockTable entry
+icon,641,641,em_icon_gamemode_snr_03,,0,0,0,0,emblems,general,0.35,ch_sr_medic_1,153,,,# needs matching unlockTable entry
+icon,642,642,em_icon_gamemode_snr_04,,0,0,0,0,emblems,general,0.35,ch_sr_protector_1,154,,,# needs matching unlockTable entry
+icon,643,643,em_icon_gamemode_snr_05,,0,0,0,0,emblems,general,0.35,ch_sr_interrupt_1,155,,,# needs matching unlockTable entry
+icon,644,644,em_icon_gamemode_tdm_01,,0,0,0,0,emblems,general,0.35,ch_war_triple_1,156,,,# needs matching unlockTable entry
+icon,645,645,em_icon_gamemode_tdm_02,,0,0,0,0,emblems,general,0.35,ch_war_avenger_1,157,,,# needs matching unlockTable entry
+icon,646,646,em_icon_gamemode_tdm_03,,0,0,0,0,emblems,general,0.35,ch_war_savior_1,158,,,# needs matching unlockTable entry
+icon,647,647,em_icon_gamemode_tdm_04,,0,0,0,0,emblems,general,0.35,ch_war_star_1,159,,,# needs matching unlockTable entry
+icon,648,648,em_icon_gamemode_tdm_05,,0,0,0,0,emblems,general,0.35,ch_war_crushing_1,160,,,# needs matching unlockTable entry
+icon,649,649,em_icon_gamemode_uplink_01,,0,0,0,0,emblems,general,0.35,ch_ball_touchdown_1,161,,,# needs matching unlockTable entry
+icon,650,650,em_icon_gamemode_uplink_02,,0,0,0,0,emblems,general,0.35,ch_ball_fieldgoal_1,162,,,# needs matching unlockTable entry
+icon,651,651,em_icon_gamemode_uplink_03,,0,0,0,0,emblems,general,0.35,ch_ball_crushing_1,163,,,# needs matching unlockTable entry
+icon,652,652,em_icon_gamemode_uplink_04,,0,0,0,0,emblems,general,0.35,ch_ball_assist_1,164,,,# needs matching unlockTable entry
+icon,653,653,em_icon_gamemode_uplink_05,,0,0,0,0,emblems,general,0.35,ch_ball_alleyoop_1,165,,,# needs matching unlockTable entry
+icon,654,654,em_icon_humiliation_boomerang,,0,0,0,0,emblems,general,0.35,ch_humiliation_boomerang_1,166,,,# needs matching unlockTable entry
+icon,655,655,em_icon_humiliation_exo_knife,,0,0,0,0,emblems,general,0.35,ch_humiliation_hailmary_1,167,,,# needs matching unlockTable entry
+icon,656,656,em_icon_humiliation_pick_up_gun,,0,0,0,0,emblems,general,0.35,ch_humiliation_finders_1,168,,,# needs matching unlockTable entry
+icon,657,657,em_icon_perk_blast_suppress,,0,0,0,0,emblems,general,0.35,ch_perk_blast_4,169,,,# needs matching unlockTable entry
+icon,658,658,em_icon_perk_blind_eye,,0,0,0,0,emblems,general,0.35,ch_perk_blindeye_4,170,,,# needs matching unlockTable entry
+icon,659,659,em_icon_perk_cold_blood,,0,0,0,0,emblems,general,0.35,ch_perk_coldblood_4,171,,,# needs matching unlockTable entry
+icon,660,660,em_icon_perk_danger_close,,0,0,0,0,emblems,general,0.35,ch_perk_dangerclose_4,172,,,# needs matching unlockTable entry
+icon,661,661,em_icon_perk_fast_hands,,0,0,0,0,emblems,general,0.35,ch_perk_fasthand_4,173,,,# needs matching unlockTable entry
+icon,662,662,em_icon_perk_flak_jacket,,0,0,0,0,emblems,general,0.35,ch_perk_flakjack_4,174,,,# needs matching unlockTable entry
+icon,663,663,em_icon_perk_gungho,,0,0,0,0,emblems,general,0.35,ch_perk_gungho_4,175,,,# needs matching unlockTable entry
+icon,664,664,em_icon_perk_hardline,,0,0,0,0,emblems,general,0.35,ch_perk_hardline_4,176,,,# needs matching unlockTable entry
+icon,665,665,em_icon_perk_hard_wired,,0,0,0,0,emblems,general,0.35,ch_perk_hardwire_4,177,,,# needs matching unlockTable entry
+icon,666,666,em_icon_perk_lightweight,,0,0,0,0,emblems,general,0.35,ch_perk_lightweight_4,178,,,# needs matching unlockTable entry
+icon,667,667,em_icon_perk_low_profile,,0,0,0,0,emblems,general,0.35,ch_perk_lowprofile_4,179,,,# needs matching unlockTable entry
+icon,668,668,em_icon_perk_overcharged,,0,0,0,0,emblems,general,0.35,ch_perk_overcharge_4,180,,,# needs matching unlockTable entry
+icon,669,669,em_icon_perk_peripherals,,0,0,0,0,emblems,general,0.35,ch_perk_peripheral_4,181,,,# needs matching unlockTable entry
+icon,670,670,em_icon_perk_scavenger,,0,0,0,0,emblems,general,0.35,ch_perk_scavenge_4,182,,,# needs matching unlockTable entry
+icon,671,671,em_icon_perk_toughness,,0,0,0,0,emblems,general,0.35,ch_perk_tough_4,183,,,# needs matching unlockTable entry
+icon,672,672,em_icon_precision_assult_rifle,,0,0,0,0,emblems,general,0.35,ch_precision_headhunt_1,184,,,# needs matching unlockTable entry
+icon,673,673,em_icon_precision_bombadier,,0,0,0,0,emblems,general,0.35,ch_precision_dangerclose_1,185,,,# needs matching unlockTable entry
+icon,674,674,em_icon_precision_booby_trap,,0,0,0,0,emblems,general,0.35,ch_precision_surprise_1,186,,,# needs matching unlockTable entry
+icon,675,675,em_icon_precision_coldblood,,0,0,0,0,emblems,general,0.35,ch_precision_airhunt_1,187,,,# needs matching unlockTable entry
+icon,676,676,em_icon_precision_combat_knife,,0,0,0,0,emblems,general,0.35,ch_precision_slice_1,188,,,# needs matching unlockTable entry
+icon,677,677,em_icon_precision_flak_jacket,,0,0,0,0,emblems,general,0.35,ch_precision_protected_1,189,,,# needs matching unlockTable entry
+icon,678,678,em_icon_precision_goliath,,0,0,0,0,emblems,general,0.35,ch_precision_closecall_1,190,,,# needs matching unlockTable entry
+icon,679,679,em_icon_precision_heavy_weapon,,0,0,0,0,emblems,general,0.35,ch_precision_hello_1,191,,,# needs matching unlockTable entry
+icon,680,680,em_icon_precision_kill_all,,0,0,0,0,emblems,general,0.35,ch_precision_cleanhouse_1,192,,,# needs matching unlockTable entry
+icon,681,681,em_icon_precision_longshot,,0,0,0,0,emblems,general,0.35,ch_precision_farsight_1,193,,,# needs matching unlockTable entry
+icon,682,682,em_icon_precision_merciless,,0,0,0,0,emblems,general,0.35,ch_precision_wetwork_1,194,,,# needs matching unlockTable entry
+icon,683,683,em_icon_precision_pistol,,0,0,0,0,emblems,general,0.35,ch_precision_pistoleer_1,195,,,# needs matching unlockTable entry
+icon,684,684,em_icon_precision_recon_drone,,0,0,0,0,emblems,general,0.35,ch_precision_knife_1,196,,,# needs matching unlockTable entry
+icon,685,685,em_icon_precision_shotgun,,0,0,0,0,emblems,general,0.35,ch_precision_cqexpert_1,197,,,# needs matching unlockTable entry
+icon,686,686,em_icon_precision_sniper_rifle,,0,0,0,0,emblems,general,0.35,ch_precision_sharpshoot_1,198,,,# needs matching unlockTable entry
+icon,687,687,em_icon_precision_stick,,0,0,0,0,emblems,general,0.35,ch_precision_ticktick_1,199,,,# needs matching unlockTable entry
+icon,688,688,em_icon_precision_triple_kills,,0,0,0,0,emblems,general,0.35,ch_precision_sitcrit_1,200,,,# needs matching unlockTable entry
+icon,689,689,em_icon_streak_assault_drone,,0,0,0,0,emblems,general,0.35,ch_streak_assault_3,201,,,# needs matching unlockTable entry
+icon,690,690,em_icon_streak_carepackage,,0,0,0,0,emblems,general,0.35,ch_streak_orbitalcare_3,202,,,# needs matching unlockTable entry
+icon,691,691,em_icon_streak_goliath,,0,0,0,0,emblems,general,0.35,ch_streak_goliath_3,203,,,# needs matching unlockTable entry
+icon,692,692,em_icon_streak_missile,,0,0,0,0,emblems,general,0.35,ch_streak_missle_3,204,,,# needs matching unlockTable entry
+icon,693,693,em_icon_streak_paladin,,0,0,0,0,emblems,general,0.35,ch_streak_paladin_3,205,,,# needs matching unlockTable entry
+icon,694,694,em_icon_streak_recon,,0,0,0,0,emblems,general,0.35,ch_streak_recon_3,206,,,# needs matching unlockTable entry
+icon,695,695,em_icon_streak_straferun,,0,0,0,0,emblems,general,0.35,ch_streak_strafing_3,207,,,# needs matching unlockTable entry
+icon,696,696,em_icon_streak_system_hack,,0,0,0,0,emblems,general,0.35,ch_streak_emp_3,208,,,# needs matching unlockTable entry
+icon,697,697,em_icon_streak_turret,,0,0,0,0,emblems,general,0.35,ch_streak_sentry_3,209,,,# needs matching unlockTable entry
+icon,698,698,em_icon_streak_uav,,0,0,0,0,emblems,general,0.35,ch_streak_uav_3,210,,,# needs matching unlockTable entry
+icon,699,699,em_icon_streak_vulcan,,0,0,0,0,emblems,general,0.35,ch_streak_orbitallaser_3,211,,,# needs matching unlockTable entry
+icon,700,700,em_icon_streak_warbird,,0,0,0,0,emblems,general,0.35,ch_streak_warbird_3,212,,,# needs matching unlockTable entry
+icon,701,701,em_icon_wc_bomb,,0,0,0,0,emblems,general,0.35,ch_wild_exobomb_4,213,,,# needs matching unlockTable entry
+icon,702,702,em_icon_wc_overkill,,0,0,0,0,emblems,general,0.35,ch_wild_overkill_4,214,,,# needs matching unlockTable entry
+icon,703,703,em_icon_wc_perk1,,0,0,0,0,emblems,general,0.35,ch_wild_perk1_4,215,,,# needs matching unlockTable entry
+icon,704,704,em_icon_wc_perk2,,0,0,0,0,emblems,general,0.35,ch_wild_perk2_4,216,,,# needs matching unlockTable entry
+icon,705,705,em_icon_wc_perk3,,0,0,0,0,emblems,general,0.35,ch_wild_perk3_4,217,,,# needs matching unlockTable entry
+icon,706,706,em_icon_wc_primary,,0,0,0,0,emblems,general,0.35,ch_wild_primary_4,218,,,# needs matching unlockTable entry
+icon,707,707,em_icon_wc_secondary,,0,0,0,0,emblems,general,0.35,ch_wild_secondary_4,219,,,# needs matching unlockTable entry
+icon,708,708,em_icon_wc_streaker,,0,0,0,0,emblems,general,0.35,ch_wild_fourthscore_4,220,,,# needs matching unlockTable entry
+icon,709,709,em_icon_wc_tactician,,0,0,0,0,emblems,general,0.35,ch_wild_exotac_4,221,,,# needs matching unlockTable entry
+icon,710,710,em_icon_shape_new01,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,711,711,em_icon_shape_new02,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,712,712,em_icon_shape_new03,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,713,713,em_icon_shape_new04,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,714,714,em_icon_shape_new05,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,715,715,em_icon_shape_new06,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,716,716,em_icon_shape_new07,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,717,717,em_icon_shape_new08,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,718,718,em_icon_shape_new09,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,719,719,em_icon_shape_new10,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,720,720,em_icon_shape_new11,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,721,721,em_icon_shape_new12,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,722,722,em_icon_shape_new13,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,723,723,em_icon_shape_new14,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,724,724,em_icon_shape_new15,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,725,725,em_icon_shape_new16,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,726,726,em_icon_shape_new17,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,727,727,em_icon_shape_new18,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,728,728,em_icon_shape_new19,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,729,729,em_icon_shape_new20,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,730,730,em_icon_shape_new21,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,731,731,em_icon_shape_new22,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,732,732,em_icon_shape_new23,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,733,733,em_icon_shape_new24,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,734,734,em_icon_shape_new25,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,735,735,em_icon_shape_new26,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,736,736,em_icon_shape_new27,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,737,737,em_icon_shape_new28,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,738,738,em_icon_shape_new29,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,739,739,em_icon_shape_new30,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,740,740,em_icon_shape_new31,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,741,741,em_icon_shape_new32,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,742,742,em_icon_shape_new33,,0,0,0,0,shapes,general,0.35,,-1,,,
+icon,743,743,em_icon_entitlement_atlas_pro,CALLINGCARDS_ICON_ATLAS_PRO,0,0,0,0,emblems,general,0.35,,-1,,,
+icon,744,744,em_icon_entitlement_sentinel,CALLINGCARDS_ICON_SENTINEL,0,0,0,0,emblems,general,0.35,,-1,,,
+icon,745,745,em_icon_humiliation_explosion,,0,0,0,0,cut,general,0.35,,-1,,,
+icon,746,746,em_icon_special_01,,0,0,0,0,cut,general,0.35,,-1,,,
+icon,747,747,Em_icon_killer01,,0,0,0,0,emblems,general,0.35,ch_killer_brutal_1,222,,,# needs matching unlockTable entry
+icon,748,748,Em_icon_killer02,,0,0,0,0,emblems,general,0.35,ch_killer_fury_1,223,,,# needs matching unlockTable entry
+icon,749,749,Em_icon_killer03,,0,0,0,0,emblems,general,0.35,ch_killer_frenzy_1,224,,,# needs matching unlockTable entry
+icon,750,750,Em_icon_killer04,,0,0,0,0,emblems,general,0.35,ch_killer_super_1,225,,,# needs matching unlockTable entry
+icon,751,751,Em_icon_killer05,,0,0,0,0,emblems,general,0.35,ch_killer_mega_1,226,,,# needs matching unlockTable entry
+icon,752,752,Em_icon_killer06,,0,0,0,0,emblems,general,0.35,ch_killer_ultra_1,227,,,# needs matching unlockTable entry
+icon,753,753,Em_icon_killer07,,0,0,0,0,emblems,general,0.35,ch_killer_chain_1,228,,,# needs matching unlockTable entry
+icon,754,754,Em_icon_killer08,,0,0,0,0,cut,general,0.35,,-1,,,
+icon,755,755,em_icon_camo_creature,CALLINGCARDS_ICON_CREATURE,0,0,0,0,emblems,general,0.35,,-1,Hide;PremHide,,
+icon,756,756,em_icon_camo_lava,CALLINGCARDS_ICON_MAGMA,0,0,0,0,emblems,general,0.35,,-1,Magma;PremMagma,,
+icon,757,757,em_icon_camo_lightning,CALLINGCARDS_ICON_LIGHTNING,0,0,0,0,emblems,general,0.35,,-1,Lightning;PremLightning,,
+icon,758,758,em_icon_camo_tech,CALLINGCARDS_ICON_NANOTECH,0,0,0,0,emblems,general,0.35,,-1,NanoTech;PremNanoTech,,
+icon,759,759,em_icon_dlc_champs,CALLINGCARDS_ICON_CHAMPIONSHIP,0,0,0,0,emblems,general,0.35,,-1,CoDChamps,,
+icon,760,760,em_icon_dlc_psychedelic,CALLINGCARDS_ICON_PSYC,0,0,0,0,emblems,general,0.35,,-1,PremPsychadelic;Psychadelic,,
+icon,761,761,em_icon_dlc_tiki,CALLINGCARDS_ICON_TIKI,0,0,0,0,emblems,general,0.35,,-1,PremTiki;Tiki,,
+icon,762,762,em_icon_dlc_jungle,CALLINGCARDS_ICON_JUNGLE,0,0,0,0,emblems,general,0.35,,-1,Leaf;PremLeaf,,
+icon,763,763,em_icon_dlc_gas_fire,CALLINGCARDS_ICON_GASFLAMES,0,0,0,0,emblems,general,0.35,,-1,GasFire;PremGasFire,,

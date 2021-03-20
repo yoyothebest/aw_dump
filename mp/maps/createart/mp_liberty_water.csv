@@ -1,0 +1,2 @@
+client trigger name,plunge vfx,plunge sfx,emerge vfx,emerge sfx,bubble vfx,underwater vision set,underwater light set,breath sfx,dof f-stop,dof focal distance,dof focus speed,dof aperature speed,bubble update ms,shellshock,shellshock mS,abovewater light set
+generic_underwater,vfx/water/screen_fx_plunge,underwater_enter,vfx/water/screen_fx_emerge,underwater_exit,vfx/water/player_bubbles_breath,mp_liberty_underwater,mp_liberty_underwater,breathing_better,1.4,30,1,1,150,,20000,mp_liberty

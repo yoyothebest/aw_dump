@@ -1,0 +1,368 @@
+{
+    "name": "ncs_snd_common_horde_mp",
+    "stringType": 6,
+    "sourceType": 2,
+    "entryCount": 120,
+    "strings": [
+        {
+            "string": "bagh_dna_bombs_main"
+        },
+        {
+            "string": "bagh_dna_drone_flyby_01"
+        },
+        {
+            "string": "bagh_dna_drone_flyby_02"
+        },
+        {
+            "string": "bagh_dna_drone_swarm_layer"
+        },
+        {
+            "string": "coop_gdn_allgodtagssecured"
+        },
+        {
+            "string": "coop_gdn_allhardpointsdefended"
+        },
+        {
+            "string": "coop_gdn_alliedforcesthisisgideon"
+        },
+        {
+            "string": "coop_gdn_allintelaquired"
+        },
+        {
+            "string": "coop_gdn_allydown"
+        },
+        {
+            "string": "coop_gdn_allydownedrepeat"
+        },
+        {
+            "string": "coop_gdn_armoriesaredownexosareoffline"
+        },
+        {
+            "string": "coop_gdn_badguysincoming"
+        },
+        {
+            "string": "coop_gdn_chemsignaturesincoming"
+        },
+        {
+            "string": "coop_gdn_cloakedunitesshowingonflir"
+        },
+        {
+            "string": "coop_gdn_doesanyonehaveme"
+        },
+        {
+            "string": "coop_gdn_dogtagsareinthefield"
+        },
+        {
+            "string": "coop_gdn_empallequipmentandexo"
+        },
+        {
+            "string": "coop_gdn_emparmoriesandexos"
+        },
+        {
+            "string": "coop_gdn_empbombsshowingonsensors"
+        },
+        {
+            "string": "coop_gdn_enemyairsupport"
+        },
+        {
+            "string": "coop_gdn_enemydronehandlers"
+        },
+        {
+            "string": "coop_gdn_enemydrones"
+        },
+        {
+            "string": "coop_gdn_enemyforcesinbound"
+        },
+        {
+            "string": "coop_gdn_enemyhazmat"
+        },
+        {
+            "string": "coop_gdn_enemyk9units"
+        },
+        {
+            "string": "coop_gdn_enemyunitsapproaching"
+        },
+        {
+            "string": "coop_gdn_epm3"
+        },
+        {
+            "string": "coop_gdn_exoarmoryisup"
+        },
+        {
+            "string": "coop_gdn_exolauncherupgrages"
+        },
+        {
+            "string": "coop_gdn_exosarebackupuseboostjump"
+        },
+        {
+            "string": "coop_gdn_exosarebackupuseyourboosters"
+        },
+        {
+            "string": "coop_gdn_eyesopenteam"
+        },
+        {
+            "string": "coop_gdn_friendlydowned"
+        },
+        {
+            "string": "coop_gdn_friendlyisdownlocate"
+        },
+        {
+            "string": "coop_gdn_goodeffortteam"
+        },
+        {
+            "string": "coop_gdn_goodjobbutyoucandobetter"
+        },
+        {
+            "string": "coop_gdn_hardpoint"
+        },
+        {
+            "string": "coop_gdn_headsupteamsomthings"
+        },
+        {
+            "string": "coop_gdn_heretheycome"
+        },
+        {
+            "string": "coop_gdn_hitthedeck"
+        },
+        {
+            "string": "coop_gdn_hostileemtroops"
+        },
+        {
+            "string": "coop_gdn_hostilesincoming"
+        },
+        {
+            "string": "coop_gdn_hostilesincomingsearchdowned"
+        },
+        {
+            "string": "coop_gdn_htthedeck"
+        },
+        {
+            "string": "coop_gdn_iaminboundwithanextraction"
+        },
+        {
+            "string": "coop_gdn_iedsshowingonthesensor"
+        },
+        {
+            "string": "coop_gdn_imcominggasattackteam"
+        },
+        {
+            "string": "coop_gdn_incomingemp"
+        },
+        {
+            "string": "coop_gdn_incomingmechs"
+        },
+        {
+            "string": "coop_gdn_intelaquired"
+        },
+        {
+            "string": "coop_gdn_intro"
+        },
+        {
+            "string": "coop_gdn_irsisshowingfastmovers"
+        },
+        {
+            "string": "coop_gdn_isanyoneoutthere"
+        },
+        {
+            "string": "coop_gdn_isrshowingalarge"
+        },
+        {
+            "string": "coop_gdn_jobwelldone"
+        },
+        {
+            "string": "coop_gdn_locationdefended"
+        },
+        {
+            "string": "coop_gdn_moveitteam15sec"
+        },
+        {
+            "string": "coop_gdn_moveitteam30sec"
+        },
+        {
+            "string": "coop_gdn_nanostrike"
+        },
+        {
+            "string": "coop_gdn_nicelydoneletstryagain"
+        },
+        {
+            "string": "coop_gdn_notagoodeffort"
+        },
+        {
+            "string": "coop_gdn_notgoodenough"
+        },
+        {
+            "string": "coop_gdn_notimpressed"
+        },
+        {
+            "string": "coop_gdn_objectivefailedteam"
+        },
+        {
+            "string": "coop_gdn_readyupenemy"
+        },
+        {
+            "string": "coop_gdn_roundover"
+        },
+        {
+            "string": "coop_gdn_sensorsareshowing"
+        },
+        {
+            "string": "coop_gdn_sensorsareshowingmanticore"
+        },
+        {
+            "string": "coop_gdn_sensorsshowingem"
+        },
+        {
+            "string": "coop_gdn_sentryguns"
+        },
+        {
+            "string": "coop_gdn_statupgradesavailable"
+        },
+        {
+            "string": "coop_gdn_supportdropincoming"
+        },
+        {
+            "string": "coop_gdn_systemhack"
+        },
+        {
+            "string": "coop_gdn_takecover"
+        },
+        {
+            "string": "coop_gdn_tangosarepoppingsmoke"
+        },
+        {
+            "string": "coop_gdn_tangosinbound"
+        },
+        {
+            "string": "coop_gdn_teambeadvisedenemiesareusing"
+        },
+        {
+            "string": "coop_gdn_teammatewounded"
+        },
+        {
+            "string": "coop_gdn_teammoveyourasses"
+        },
+        {
+            "string": "coop_gdn_teamreportstatus"
+        },
+        {
+            "string": "coop_gdn_teamreportwhatthehell"
+        },
+        {
+            "string": "coop_gdn_teamtangosareinboundlockdown"
+        },
+        {
+            "string": "coop_gdn_thatdnabombshouldhavetaken"
+        },
+        {
+            "string": "coop_gdn_theenemyhascalledinanemp"
+        },
+        {
+            "string": "coop_gdn_watchout"
+        },
+        {
+            "string": "coop_gdn_weaponsarmory"
+        },
+        {
+            "string": "coop_gdn_weaponsoffline"
+        },
+        {
+            "string": "coop_gdn_wegothammeredoutthere"
+        },
+        {
+            "string": "coop_gdn_welcomebackteam"
+        },
+        {
+            "string": "coop_gdn_welldonegentlemen"
+        },
+        {
+            "string": "coop_gdn_welldonteam"
+        },
+        {
+            "string": "coop_gdn_wereseeingmicrodronesignature"
+        },
+        {
+            "string": "coop_gdn_wevelostitfallback"
+        },
+        {
+            "string": "coop_gdn_whatthebloddyhell"
+        },
+        {
+            "string": "coop_gdn_whatthehellisgoingon"
+        },
+        {
+            "string": "coop_gdn_yougotmassacredoutthere"
+        },
+        {
+            "string": "det_mus_exit_drive"
+        },
+        {
+            "string": "dna_bomb_gas_end"
+        },
+        {
+            "string": "dna_bomb_gas_start"
+        },
+        {
+            "string": "horde_uav_assault_drone_exp"
+        },
+        {
+            "string": "horde_uav_assault_drone_exp_accent"
+        },
+        {
+            "string": "horde_uav_assault_drone_exp_lfe"
+        },
+        {
+            "string": "horde_uav_assault_drone_exp_tail"
+        },
+        {
+            "string": "horde_wave_end"
+        },
+        {
+            "string": "horde_wave_start"
+        },
+        {
+            "string": "lag_dog_bark"
+        },
+        {
+            "string": "pdrn_by_1"
+        },
+        {
+            "string": "pdrn_by_2"
+        },
+        {
+            "string": "sentry_explode"
+        },
+        {
+            "string": "sentry_explode_smoke"
+        },
+        {
+            "string": "sentry_gun_beep"
+        },
+        {
+            "string": "sentry_gun_plant"
+        },
+        {
+            "string": "sentry_minigun_cooldown"
+        },
+        {
+            "string": "sentry_pickup"
+        },
+        {
+            "string": "zombie_attack_hit"
+        },
+        {
+            "string": "zombie_attack_miss"
+        },
+        {
+            "string": "zombie_death"
+        },
+        {
+            "string": "zombie_idle"
+        },
+        {
+            "string": "zombie_pain"
+        },
+        {
+            "string": "zombie_screech"
+        }
+    ]
+}

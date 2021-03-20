@@ -1,0 +1,29 @@
+{
+    "name": "ncs_att_patch_mp_zombie_brg",
+    "stringType": 17,
+    "sourceType": 1,
+    "entryCount": 7,
+    "strings": [
+        {
+            "string": "foregrip"
+        },
+        {
+            "string": "opticsacog2"
+        },
+        {
+            "string": "opticseotech"
+        },
+        {
+            "string": "opticsreddot"
+        },
+        {
+            "string": "opticstargetenhancer"
+        },
+        {
+            "string": "opticsthermal"
+        },
+        {
+            "string": "variablereddot"
+        }
+    ]
+}

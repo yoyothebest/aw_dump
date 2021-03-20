@@ -1,0 +1,1178 @@
+{
+    "name": "ncs_vfx_level",
+    "stringType": 4,
+    "sourceType": 0,
+    "entryCount": 390,
+    "strings": [
+        {
+            "string": "fx/explosions/aerial_explosion_large"
+        },
+        {
+            "string": "fx/impacts/small_snowhit"
+        },
+        {
+            "string": "fx/misc/electrical_arc"
+        },
+        {
+            "string": "fx/props/american_smoke_grenade_mp"
+        },
+        {
+            "string": "vfx/blood/dlc_mutator_dna_emitter"
+        },
+        {
+            "string": "vfx/blood/dlc_zm_blood_no_drips_view"
+        },
+        {
+            "string": "vfx/blood/dlc_zm_exploder_blood_view"
+        },
+        {
+            "string": "vfx/blood/dlc_zombie_arm_loss_impact_le"
+        },
+        {
+            "string": "vfx/blood/dlc_zombie_arm_loss_impact_ri"
+        },
+        {
+            "string": "vfx/blood/dlc_zombie_blood_tread_fx"
+        },
+        {
+            "string": "vfx/blood/dlc_zombie_gib_bloodpool"
+        },
+        {
+            "string": "vfx/blood/dlc_zombie_gib_burst"
+        },
+        {
+            "string": "vfx/blood/dlc_zombie_gib_full_body"
+        },
+        {
+            "string": "vfx/blood/dlc_zombie_gib_full_body_cheap"
+        },
+        {
+            "string": "vfx/blood/dlc_zombie_head_loss_impact"
+        },
+        {
+            "string": "vfx/blood/dlc_zombie_limb_loss_impact_le"
+        },
+        {
+            "string": "vfx/blood/dlc_zombie_limb_loss_impact_ri"
+        },
+        {
+            "string": "vfx/blood/dlc_zombie_spike_explosion"
+        },
+        {
+            "string": "vfx/blood/dlc_zombie_spike_explosion_2"
+        },
+        {
+            "string": "vfx/blood/dlc_zombie_torso_loss_arm_le"
+        },
+        {
+            "string": "vfx/blood/dlc_zombie_torso_loss_arm_ri"
+        },
+        {
+            "string": "vfx/blood/dlc_zombie_torso_loss_head"
+        },
+        {
+            "string": "vfx/blood/dlc_zombie_torso_loss_impact_le"
+        },
+        {
+            "string": "vfx/blood/dlc_zombie_torso_loss_impact_ri"
+        },
+        {
+            "string": "vfx/code/dodge_back_jetpack"
+        },
+        {
+            "string": "vfx/code/dodge_forward_jetpack"
+        },
+        {
+            "string": "vfx/code/dodge_left_jetpack"
+        },
+        {
+            "string": "vfx/code/dodge_right_jetpack"
+        },
+        {
+            "string": "vfx/code/high_jump_jetpack"
+        },
+        {
+            "string": "vfx/distortion/sentrygun_overheat"
+        },
+        {
+            "string": "vfx/explosion/ambient_explosion_fireball"
+        },
+        {
+            "string": "vfx/explosion/bouncing_betty_explosion"
+        },
+        {
+            "string": "vfx/explosion/electrical_sparks_runner_slit_sm"
+        },
+        {
+            "string": "vfx/explosion/emp_grenade_lrg_mp"
+        },
+        {
+            "string": "vfx/explosion/exo_droppod_explosion"
+        },
+        {
+            "string": "vfx/explosion/exo_droppod_split"
+        },
+        {
+            "string": "vfx/explosion/exo_repulsor_impact"
+        },
+        {
+            "string": "vfx/explosion/explosive_drone_explosion"
+        },
+        {
+            "string": "vfx/explosion/goliath_pod_opening"
+        },
+        {
+            "string": "vfx/explosion/goliath_self_destruct"
+        },
+        {
+            "string": "vfx/explosion/impact_sparks_01"
+        },
+        {
+            "string": "vfx/explosion/remote_sentry_death"
+        },
+        {
+            "string": "vfx/explosion/remote_sentry_death_smoke"
+        },
+        {
+            "string": "vfx/explosion/sparks_burst_lrg_c"
+        },
+        {
+            "string": "vfx/explosion/tracking_drone_explosion"
+        },
+        {
+            "string": "vfx/explosion/vehicle_assault_drone_death"
+        },
+        {
+            "string": "vfx/explosion/vehicle_pdrone_explosion"
+        },
+        {
+            "string": "vfx/fire/dlc_dmg_fire_box"
+        },
+        {
+            "string": "vfx/fire/fire_lp_m_dim"
+        },
+        {
+            "string": "vfx/fire/goliath_death_fire"
+        },
+        {
+            "string": "vfx/fire/remote_sentry_laser_flash"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/dlc_campbell_eyes_host"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/dlc_exo_slam_impact"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/dlc_orbiter"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/dlc_pickup_zombies_01_apocalypse"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/dlc_pickup_zombies_01_camo"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/dlc_pickup_zombies_01_inf_ammo"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/dlc_pickup_zombies_01_insta_kill"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/dlc_pickup_zombies_01_max_ammo"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/dlc_pickup_zombies_01_overcharge"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/dlc_pickup_zombies_01_power_surge"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/dlc_pickup_zombies_01_tombstone"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/dlc_pickup_zombies_01_trap"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/dlc_repulsor"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/dlc_zombie_attack_combo_emp_spike"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/executive_eyes_host"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/janitor_eyes_host_"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/lilith_eyes_host"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/securityguard_eyes_host"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_attack_emz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_attack_emz_lrg"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_cmb_tele_exp_back"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_cmb_tele_exp_detonate_charge"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_cmb_tele_exp_detonate_lrg"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_cmb_tele_exp_detonate_sml"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_cmb_tele_exp_head"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_cmb_tele_exp_upperarm_lt"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_cmb_tele_exp_upperarm_rt"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_dog_eye_base"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_dog_eye_emp"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_dog_eye_exploder"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_emp_back"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_emp_head"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_emp_upperarm_lt"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_emp_upperarm_rt"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_armored"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_boss_oz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_boss_oz_fade"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_cmb_emp_armor_cau_dlc_a"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_cmb_emp_armor_cau_dlc_b"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_cmb_emp_armor_cau_dlc_c"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_cmb_emp_spike_cau_dlc_a"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_cmb_emp_spike_cau_dlc_b"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_cmb_emp_spike_cau_dlc_c"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_cmb_tele_exp_dlc"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_cmb_tele_spike_dlc"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_emp"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_emp_afr_dlc_a"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_emp_afr_dlc_b"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_emp_afr_dlc_c"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_emp_cau_dlc_a"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_emp_cau_dlc_b"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_emp_cau_dlc_c"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_emp_shg_dlc_b"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_exploder"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_exploder_afr_dlc_a"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_exploder_afr_dlc_b"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_exploder_afr_dlc_c"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_exploder_cau_dlc_a"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_exploder_cau_dlc_b"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_exploder_cau_dlc_c"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_exploder_shg_dlc_b"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_fast"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_fast_afr_dlc_a"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_fast_afr_dlc_b"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_fast_afr_dlc_c"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_fast_cau_dlc_a"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_fast_cau_dlc_b"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_fast_cau_dlc_c"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_fast_shg_dlc_b"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_host"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_vanilla"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_vanilla_afr_dlc_a"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_vanilla_afr_dlc_b"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_vanilla_afr_dlc_c"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_vanilla_cau_dlc_a"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_vanilla_cau_dlc_b"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_vanilla_cau_dlc_c"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_eye_vanilla_shg_dlc_b"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_fast_head"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_fire_back"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_fire_head"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_fire_upperarm_lt"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_fire_upperarm_rt"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_gib_full_body_emz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_gib_full_body_ovrchrz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_gib_full_body_xplod"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_host_hand"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_limb_dismem_arm_le_emz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_limb_dismem_arm_le_ovrchrz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_limb_dismem_arm_le_xplod"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_limb_dismem_arm_ri_emz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_limb_dismem_arm_ri_ovrchrz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_limb_dismem_arm_ri_xplod"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_limb_dismem_head_emz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_limb_dismem_head_ovrchrz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_limb_dismem_head_xplod"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_limb_dismem_leg_le_emz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_limb_dismem_leg_le_ovrchrz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_limb_dismem_leg_le_xplod"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_limb_dismem_leg_ri_emz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_limb_dismem_leg_ri_ovrchrz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_limb_dismem_leg_ri_xplod"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_nuke_burst"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_torso_dismem_arm_le_chrz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_torso_dismem_arm_le_emz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_torso_dismem_arm_le_xplod"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_torso_dismem_arm_ri_chrz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_torso_dismem_arm_ri_emz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_torso_dismem_arm_ri_xplod"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_torso_dismem_head_emz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_torso_dismem_head_ovrchrz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_torso_dismem_head_xplod"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_torso_dismem_leg_le_chrz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_torso_dismem_leg_le_emz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_torso_dismem_leg_le_xplod"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_torso_dismem_leg_ri_chrz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_torso_dismem_leg_ri_emz"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_torso_dismem_leg_ri_xplod"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_xplod_detonate_charge"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_xplod_detonate_lrg"
+        },
+        {
+            "string": "vfx/gameplay/mp/zombie/zombie_xplod_detonate_sml"
+        },
+        {
+            "string": "vfx/lensflare/dlc/dlc_flare_light_spot_6_red_sm"
+        },
+        {
+            "string": "vfx/lights/aircraft_light_wingtip_green"
+        },
+        {
+            "string": "vfx/lights/irons_estate/ie_underwater_godrays"
+        },
+        {
+            "string": "vfx/lights/light_detonator_blink"
+        },
+        {
+            "string": "vfx/lights/mp_zombie_h2o/h2o_ee_underwater_valve_flare_off"
+        },
+        {
+            "string": "vfx/lights/mp_zombie_h2o/h2o_ee_underwater_valve_flare_on"
+        },
+        {
+            "string": "vfx/lights/mp_zombie_h2o/h2o_ee_valve_light_flare"
+        },
+        {
+            "string": "vfx/lights/mp_zombie_h2o/h2o_flare_a"
+        },
+        {
+            "string": "vfx/lights/mp_zombie_h2o/h2o_flare_a_bright"
+        },
+        {
+            "string": "vfx/lights/mp_zombie_h2o/h2o_flare_b"
+        },
+        {
+            "string": "vfx/lights/mp_zombie_h2o/h2o_flare_c"
+        },
+        {
+            "string": "vfx/map/dlc_mp_zombie_lab/dlc_courtyard_flare_warm"
+        },
+        {
+            "string": "vfx/map/dlc_mp_zombie_lab/dlc_courtyard_tower_firefall"
+        },
+        {
+            "string": "vfx/map/dlc_mp_zombie_lab/dlc_damage_sparks_lp"
+        },
+        {
+            "string": "vfx/map/dlc_mp_zombie_lab/dlc_flare_mist"
+        },
+        {
+            "string": "vfx/map/lagos/lag_roundabout_tanker_explosion"
+        },
+        {
+            "string": "vfx/map/mp_dam/electrical_arc_coil_cg"
+        },
+        {
+            "string": "vfx/map/mp_zombie_ark/ark_light_vol_smoke_closets"
+        },
+        {
+            "string": "vfx/map/mp_zombie_ark/ark_mp_hr2_water_spray_narrow"
+        },
+        {
+            "string": "vfx/map/mp_zombie_ark/ark_steam_ambient_vents"
+        },
+        {
+            "string": "vfx/map/mp_zombie_ark/h2o_steam_ambient_vents"
+        },
+        {
+            "string": "vfx/map/mp_zombie_brg/brg_dust_mote_ambient_interior"
+        },
+        {
+            "string": "vfx/map/mp_zombie_brg/electrified_floor"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/electrified_floor_warning"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_beacon_light_red_blink"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_beacon_light_red_blink_runner"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_beacon_light_trident_tower_blink"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_blood_drip_chum"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_blood_drip_splash_impact_lp"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_blood_drips_dark_lp"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_blood_drips_lp"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_boss_blood_spit"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_boss_blood_spit_lp"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_boss_contam_1"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_boss_laser_grid_active"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_boss_laser_grid_warning"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_clouds_moving_fast"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_courtyard_flare_warm"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_deck_lamp_flare"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_deck_mist_static"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_distant_lightning_bolt"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_distant_lightning_bolt_sm"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_dmg_fire_box"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_ee_capacitor_charge"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_ee_capacitor_charge_complete"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_ee_capacitor_charge_hint_lp"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_ee_diving_suit_bubble_trail_lp"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_ee_jumping_goal"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_ee_light_puzzle_0"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_ee_light_puzzle_1"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_ee_light_puzzle_2"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_ee_light_puzzle_3"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_ee_light_puzzle_4"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_ee_player_bubbles_breath"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_ee_steam_vents"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_ee_wave_hit_large"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_ee_wave_hit_med"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_ee_wave_hit_sm"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_electrical_sparks_runner_slit_sm"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_fire_lp_l_base_calm"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_fire_lp_m_base_calm"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_fire_lp_s_base_calm"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_jellyfish"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_jellyfish_02"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_jellyfish_02_sm"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_jellyfish_sm"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_light_vol_smoke_closets"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_light_vol_smoke_closets_dim"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_light_vol_smoke_closets_white_dim"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_light_vol_smoke_closets_xtra_dim"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_lightning_cloud_a"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_mp_hr2_water_spray_narrow"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_ocean_splashes"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_particle_bubbles"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_particle_bubbles_bright"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_particle_bubbles_dim"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_particle_bubbles_lg"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_particle_bubbles_reef_column"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_particle_bubbles_short"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_particle_bubbles_sm"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_rain_splash_sm_lp"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_rain_splash_xsm_lp"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_screen_rain"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_sprinkler_splash"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_sprinkler_splash_lp"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_sq_emz_explode"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_teleport_tunnel_player"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_turbine_splashes"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_underwater_particles_lp"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_underwater_vent_bubbles_lp"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_underwater_waves_crashing"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_underwater_waves_crashing_calm"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_water_bubble_column_narrow_lp"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_water_bubble_column_runner_lp"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_water_bubble_column_thin_lp"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_water_edge_splashes"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_water_edge_splashes_bright"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_water_edge_splashes_sm"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_water_stairs_splashes_lp"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_waterfall_ripples_lp"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_waterfall_splashes"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_waterfall_splashes_2_lp"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_waterfall_splashes_3_lp"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_wave_hit_large_runner"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_wavebreak_med_lp"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_whale_holo"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/h2o_whale_holo_project"
+        },
+        {
+            "string": "vfx/map/mp_zombie_h2o/rain_volume_windy_zm_h2o"
+        },
+        {
+            "string": "vfx/muzzleflash/dlc_sentry_disruptor_wave"
+        },
+        {
+            "string": "vfx/muzzleflash/exo_armor_gun_barrel_heat_view_loop"
+        },
+        {
+            "string": "vfx/muzzleflash/exo_armor_gun_barrel_overheat_view"
+        },
+        {
+            "string": "vfx/muzzleflash/playermech_lethal_flash_wv"
+        },
+        {
+            "string": "vfx/muzzleflash/playermech_tactical_wv_run"
+        },
+        {
+            "string": "vfx/muzzleflash/rpg_flash_view"
+        },
+        {
+            "string": "vfx/muzzleflash/rpg_flash_wv"
+        },
+        {
+            "string": "vfx/props/dlc4_prop_mystery_box_weap_lp"
+        },
+        {
+            "string": "vfx/props/dlc4_prop_mystery_box_weap_lp_fast"
+        },
+        {
+            "string": "vfx/props/dlc_cash_drone_drop"
+        },
+        {
+            "string": "vfx/props/dlc_prop_cashbox_cash_shooter"
+        },
+        {
+            "string": "vfx/props/dlc_prop_distract_drone_fx_main"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_buy_fx_character"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_buy_fx_main"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_buy_icon_pwr_off"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_buy_icon_pwr_on"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_teleport_pwr_off"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_teleport_pwr_on"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_upg_icon_health_pwr_off"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_upg_icon_health_pwr_on"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_upg_icon_memory_pwr_off"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_upg_icon_memory_pwr_on"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_upg_icon_reload_pwr_off"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_upg_icon_reload_pwr_on"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_upg_icon_revive_pwr_off"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_upg_icon_revive_pwr_on"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_upg_icon_slam_pwr_off"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_upg_icon_slam_pwr_on"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_upg_icon_stble_pwr_off"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_upg_icon_stble_pwr_on"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_upg_icon_stock_pwr_off"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_upg_icon_stock_pwr_on"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_upg_icon_tact_pwr_off"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_upg_icon_tact_pwr_on"
+        },
+        {
+            "string": "vfx/props/dlc_prop_exo_upgrade_fx_main"
+        },
+        {
+            "string": "vfx/props/dlc_prop_health_station_cooldown"
+        },
+        {
+            "string": "vfx/props/dlc_prop_health_station_cure"
+        },
+        {
+            "string": "vfx/props/dlc_prop_health_station_idle"
+        },
+        {
+            "string": "vfx/props/dlc_prop_mystery_box_fx_main"
+        },
+        {
+            "string": "vfx/props/dlc_prop_mystery_box_icon_money"
+        },
+        {
+            "string": "vfx/props/dlc_prop_mystery_box_icon_pwr_off"
+        },
+        {
+            "string": "vfx/props/dlc_prop_mystery_box_icon_pwr_on"
+        },
+        {
+            "string": "vfx/props/dlc_prop_mystery_box_use"
+        },
+        {
+            "string": "vfx/props/dlc_prop_mystery_box_weap_broken"
+        },
+        {
+            "string": "vfx/props/dlc_prop_mystery_box_weap_lp"
+        },
+        {
+            "string": "vfx/props/dlc_prop_mystery_box_weap_lp_fast"
+        },
+        {
+            "string": "vfx/props/dlc_prop_power_station_fx_beacon"
+        },
+        {
+            "string": "vfx/props/dlc_prop_power_station_fx_exhaust"
+        },
+        {
+            "string": "vfx/props/dlc_prop_power_station_fx_main"
+        },
+        {
+            "string": "vfx/props/dlc_prop_power_station_fx_off"
+        },
+        {
+            "string": "vfx/props/dlc_prop_trash_chute_burst"
+        },
+        {
+            "string": "vfx/props/dlc_prop_weapon_dispenser_fx_main"
+        },
+        {
+            "string": "vfx/props/dlc_prop_weapon_dispenser_icon_pwr_on"
+        },
+        {
+            "string": "vfx/props/dlc_prop_weapon_dispenser_use"
+        },
+        {
+            "string": "vfx/props/dlc_prop_weapon_upg_fanfare"
+        },
+        {
+            "string": "vfx/props/dlc_prop_weapon_upg_icon_pwr_on"
+        },
+        {
+            "string": "vfx/props/dlc_prop_weapon_upgrade_fx_main"
+        },
+        {
+            "string": "vfx/rain/dlc_raindrop_rings_area"
+        },
+        {
+            "string": "vfx/rain/zombie_lab_rain_small_outside"
+        },
+        {
+            "string": "vfx/shelleject/dlc_drone_drop_shell_eject_loop"
+        },
+        {
+            "string": "vfx/smoke/vehicle_sentrygun_damaged_smoke"
+        },
+        {
+            "string": "vfx/smoke/zombie_lab_crashed_vtol"
+        },
+        {
+            "string": "vfx/sparks/direct_hack_stun"
+        },
+        {
+            "string": "vfx/sparks/welding_sparks_a"
+        },
+        {
+            "string": "vfx/steam/vfx_ocp_steam"
+        },
+        {
+            "string": "vfx/steam/vfx_ocp_steam2"
+        },
+        {
+            "string": "vfx/test/hms_mutant_ooze_impact_burst"
+        },
+        {
+            "string": "vfx/test/test_fx"
+        },
+        {
+            "string": "vfx/test/zombie_explosive_drone_beacon"
+        },
+        {
+            "string": "vfx/test/zombies_light_green"
+        },
+        {
+            "string": "vfx/test/zombies_light_orange"
+        },
+        {
+            "string": "vfx/test/zombies_light_red"
+        },
+        {
+            "string": "vfx/trail/trail_trident_green"
+        },
+        {
+            "string": "vfx/trail/trail_trident_purple"
+        },
+        {
+            "string": "vfx/treadfx/body_wake_water"
+        },
+        {
+            "string": "vfx/treadfx/body_wake_water_stationary"
+        },
+        {
+            "string": "vfx/treadfx/dlc/crawl_dust"
+        },
+        {
+            "string": "vfx/ui/dlc/dlc3_orbiter_screen"
+        },
+        {
+            "string": "vfx/ui/vfx_marker_drone_assault"
+        },
+        {
+            "string": "vfx/unique/dlc_teleport_grenade"
+        },
+        {
+            "string": "vfx/unique/dlc_teleport_in"
+        },
+        {
+            "string": "vfx/unique/dlc_teleport_player"
+        },
+        {
+            "string": "vfx/unique/dlc_teleport_soldier_bad"
+        },
+        {
+            "string": "vfx/unique/dlc_teleport_soldier_good"
+        },
+        {
+            "string": "vfx/unique/dlc_teleport_tunnel_player"
+        },
+        {
+            "string": "vfx/unique/dlc_teleport_zm_cmb_tele_exp"
+        },
+        {
+            "string": "vfx/unique/dlc_teleport_zm_cmb_tele_exp_start"
+        },
+        {
+            "string": "vfx/unique/dlc_teleport_zm_cmb_tele_spike"
+        },
+        {
+            "string": "vfx/unique/dlc_teleport_zm_cmb_tele_spike_start"
+        },
+        {
+            "string": "vfx/unique/dlc_teleport_zm_start"
+        },
+        {
+            "string": "vfx/unique/dlc_teleport_zombie"
+        },
+        {
+            "string": "vfx/unique/forward_view_radial_blur"
+        },
+        {
+            "string": "vfx/unique/orbital_carepackage_glow"
+        },
+        {
+            "string": "vfx/unique/vfx_killstreak_missilestrike_dna_friendly_sml"
+        },
+        {
+            "string": "vfx/unique/vfx_marker_killstreak_guide_carepackage"
+        },
+        {
+            "string": "vfx/unique/vfx_marker_killstreak_guide_carepackage_fizzle"
+        },
+        {
+            "string": "vfx/unique/vfx_marker_killstreak_guide_goliath"
+        },
+        {
+            "string": "vfx/vehicle/dlc_drone_thrusters_small"
+        },
+        {
+            "string": "vfx/vehicle/vehicle_assault_drone_rocket"
+        },
+        {
+            "string": "vfx/vehicle/vehicle_mp_assault_drone_exhaust"
+        },
+        {
+            "string": "vfx/vehicle/vehicle_mp_assault_drone_thruster"
+        },
+        {
+            "string": "vfx/vehicle/vehicle_ocp_exhaust"
+        },
+        {
+            "string": "vfx/vehicle/vehicle_ocp_thrusters_small"
+        },
+        {
+            "string": "vfx/water/body_splash"
+        },
+        {
+            "string": "vfx/water/body_splash_exit"
+        },
+        {
+            "string": "vfx/water/screen_fx_emerge"
+        },
+        {
+            "string": "vfx/water/screen_fx_plunge"
+        },
+        {
+            "string": "vfx/water/wave_hit_large"
+        },
+        {
+            "string": "vfx/weaponimpact/dlc_ash_ee_impact"
+        },
+        {
+            "string": "vfx/wind/wind_gust_river_mist_ark"
+        }
+    ]
+}

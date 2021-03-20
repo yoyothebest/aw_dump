@@ -1,0 +1,11 @@
+{
+    "name": "ncs_hnt_eng_mp_zombie_h2o",
+    "stringType": 18,
+    "sourceType": 2,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "ZOMBIE_WEAPON_TRIDENT_PICKUP"
+        }
+    ]
+}

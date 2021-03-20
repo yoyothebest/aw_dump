@@ -1,0 +1,410 @@
+{
+    "name": "ncs_lui_patch_common_mp",
+    "stringType": 22,
+    "sourceType": 2,
+    "entryCount": 134,
+    "strings": [
+        {
+            "string": "adrenaline_mp"
+        },
+        {
+            "string": "battle_spawn"
+        },
+        {
+            "string": "battlebuddy_update"
+        },
+        {
+            "string": "bot_select"
+        },
+        {
+            "string": "cac"
+        },
+        {
+            "string": "cao"
+        },
+        {
+            "string": "clan_highlight_data"
+        },
+        {
+            "string": "clanprofile"
+        },
+        {
+            "string": "class"
+        },
+        {
+            "string": "class_select"
+        },
+        {
+            "string": "classpreview"
+        },
+        {
+            "string": "classpreview_postcopy"
+        },
+        {
+            "string": "collect_time"
+        },
+        {
+            "string": "costume_apply"
+        },
+        {
+            "string": "costume_preview"
+        },
+        {
+            "string": "costume_set_apply"
+        },
+        {
+            "string": "costumes"
+        },
+        {
+            "string": "dead"
+        },
+        {
+            "string": "defense_try_upgrade"
+        },
+        {
+            "string": "defuse_time"
+        },
+        {
+            "string": "demolition"
+        },
+        {
+            "string": "drone"
+        },
+        {
+            "string": "end_game"
+        },
+        {
+            "string": "equipment_armory"
+        },
+        {
+            "string": "err_combat"
+        },
+        {
+            "string": "err_pos"
+        },
+        {
+            "string": "escape_time"
+        },
+        {
+            "string": "exo_armory"
+        },
+        {
+            "string": "exocloak_equipment_mp"
+        },
+        {
+            "string": "exocloakhorde_equipment_mp"
+        },
+        {
+            "string": "exohover_equipment_mp"
+        },
+        {
+            "string": "exohoverhorde_equipment_mp"
+        },
+        {
+            "string": "exomute_equipment_mp"
+        },
+        {
+            "string": "exoping_equipment_mp"
+        },
+        {
+            "string": "exorepulsor_equipment_mp"
+        },
+        {
+            "string": "exoshield_equipment_mp"
+        },
+        {
+            "string": "exoshieldhorde_equipment_mp"
+        },
+        {
+            "string": "extra_health_mp"
+        },
+        {
+            "string": "final_killcam"
+        },
+        {
+            "string": "first_infected_in"
+        },
+        {
+            "string": "headshot"
+        },
+        {
+            "string": "heavy"
+        },
+        {
+            "string": "hitblastshield"
+        },
+        {
+            "string": "hitjuggernaut"
+        },
+        {
+            "string": "hitlightarmor"
+        },
+        {
+            "string": "hitmorehealth"
+        },
+        {
+            "string": "hitmotionsensor"
+        },
+        {
+            "string": "hitspecialarmor"
+        },
+        {
+            "string": "horde_ability_upgrade"
+        },
+        {
+            "string": "horde_armory_closed"
+        },
+        {
+            "string": "horde_beam_upgrade"
+        },
+        {
+            "string": "horde_close_armory"
+        },
+        {
+            "string": "horde_collect"
+        },
+        {
+            "string": "horde_defend"
+        },
+        {
+            "string": "horde_defuse"
+        },
+        {
+            "string": "horde_equipment_upgrade"
+        },
+        {
+            "string": "horde_exo_class"
+        },
+        {
+            "string": "horde_exo_upgrade"
+        },
+        {
+            "string": "horde_give_reward"
+        },
+        {
+            "string": "horde_intel"
+        },
+        {
+            "string": "horde_killstreak_upgrade"
+        },
+        {
+            "string": "horde_perk_upgrade"
+        },
+        {
+            "string": "horde_reset_armory"
+        },
+        {
+            "string": "horde_stat_upgrade"
+        },
+        {
+            "string": "horde_uplink"
+        },
+        {
+            "string": "horde_weapon_attachment"
+        },
+        {
+            "string": "horde_weapon_upgrade"
+        },
+        {
+            "string": "incoming"
+        },
+        {
+            "string": "intermission"
+        },
+        {
+            "string": "iw5_dlcgun12loot7_mp"
+        },
+        {
+            "string": "killcam"
+        },
+        {
+            "string": "killcam_agent"
+        },
+        {
+            "string": "killcam_dog"
+        },
+        {
+            "string": "killshot"
+        },
+        {
+            "string": "killshot_headshot"
+        },
+        {
+            "string": "killstreak_armory"
+        },
+        {
+            "string": "leave_lobby"
+        },
+        {
+            "string": "light"
+        },
+        {
+            "string": "lootscreen_gear_highlighted"
+        },
+        {
+            "string": "lootscreen_weapon_highlighted"
+        },
+        {
+            "string": "member_select"
+        },
+        {
+            "string": "munition_try_upgrade"
+        },
+        {
+            "string": "none"
+        },
+        {
+            "string": "odin_zoom_down"
+        },
+        {
+            "string": "odin_zoom_up"
+        },
+        {
+            "string": "odin_zoom_up_with_collision"
+        },
+        {
+            "string": "offense_try_upgrade"
+        },
+        {
+            "string": "on_you"
+        },
+        {
+            "string": "orbital_laser_killcam"
+        },
+        {
+            "string": "over_shoulder"
+        },
+        {
+            "string": "perk_0_try_upgrade"
+        },
+        {
+            "string": "perk_1_try_upgrade"
+        },
+        {
+            "string": "perk_armory"
+        },
+        {
+            "string": "playing"
+        },
+        {
+            "string": "preview_attach1"
+        },
+        {
+            "string": "preview_attach2"
+        },
+        {
+            "string": "preview_attach3"
+        },
+        {
+            "string": "reset"
+        },
+        {
+            "string": "respawn"
+        },
+        {
+            "string": "reward_armory"
+        },
+        {
+            "string": "round_time"
+        },
+        {
+            "string": "scavenger"
+        },
+        {
+            "string": "skip"
+        },
+        {
+            "string": "specialty_class_blindeye"
+        },
+        {
+            "string": "specialty_class_coldblooded"
+        },
+        {
+            "string": "specialty_class_dexterity"
+        },
+        {
+            "string": "specialty_class_fasthands"
+        },
+        {
+            "string": "specialty_class_flakjacket"
+        },
+        {
+            "string": "specialty_class_hardline"
+        },
+        {
+            "string": "specialty_class_hardwired"
+        },
+        {
+            "string": "specialty_class_lightweight"
+        },
+        {
+            "string": "specialty_class_lowprofile"
+        },
+        {
+            "string": "specialty_class_peripherals"
+        },
+        {
+            "string": "specialty_class_quickdraw"
+        },
+        {
+            "string": "specialty_class_scavenger"
+        },
+        {
+            "string": "specialty_class_toughness"
+        },
+        {
+            "string": "specialty_exo_blastsuppressor"
+        },
+        {
+            "string": "specialty_extended_battery"
+        },
+        {
+            "string": "spectator"
+        },
+        {
+            "string": "standard"
+        },
+        {
+            "string": "start_time"
+        },
+        {
+            "string": "support"
+        },
+        {
+            "string": "support_try_upgrade"
+        },
+        {
+            "string": "tactic_select"
+        },
+        {
+            "string": "tactics_menu"
+        },
+        {
+            "string": "team_select"
+        },
+        {
+            "string": "throwingknife"
+        },
+        {
+            "string": "ui_horde_secondary_index"
+        },
+        {
+            "string": "unknown"
+        },
+        {
+            "string": "uplink_time"
+        },
+        {
+            "string": "vlpresentable"
+        },
+        {
+            "string": "wait_combat"
+        },
+        {
+            "string": "wait_pos"
+        },
+        {
+            "string": "weapon_highlighted"
+        }
+    ]
+}

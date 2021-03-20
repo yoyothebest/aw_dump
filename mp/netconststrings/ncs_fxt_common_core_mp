@@ -1,0 +1,65 @@
+{
+    "name": "ncs_fxt_common_core_mp",
+    "stringType": 20,
+    "sourceType": 2,
+    "entryCount": 19,
+    "strings": [
+        {
+            "string": "bi_base"
+        },
+        {
+            "string": "jnt_rotor_bm"
+        },
+        {
+            "string": "jnt_rotor_fl"
+        },
+        {
+            "string": "jnt_rotor_fr"
+        },
+        {
+            "string": "mg01"
+        },
+        {
+            "string": "tag_aim"
+        },
+        {
+            "string": "tag_barrel"
+        },
+        {
+            "string": "tag_butt"
+        },
+        {
+            "string": "tag_dummy"
+        },
+        {
+            "string": "tag_flash"
+        },
+        {
+            "string": "tag_fx"
+        },
+        {
+            "string": "tag_fx1"
+        },
+        {
+            "string": "tag_fx2"
+        },
+        {
+            "string": "tag_fx3"
+        },
+        {
+            "string": "tag_laser"
+        },
+        {
+            "string": "tag_pivot"
+        },
+        {
+            "string": "tag_player"
+        },
+        {
+            "string": "tag_turret"
+        },
+        {
+            "string": "tag_weapon"
+        }
+    ]
+}

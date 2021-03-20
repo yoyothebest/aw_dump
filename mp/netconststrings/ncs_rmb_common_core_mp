@@ -1,0 +1,26 @@
+{
+    "name": "ncs_rmb_common_core_mp",
+    "stringType": 2,
+    "sourceType": 2,
+    "entryCount": 6,
+    "strings": [
+        {
+            "string": "ac130_105mm_fire"
+        },
+        {
+            "string": "ac130_25mm_fire"
+        },
+        {
+            "string": "orbital_laser_charge"
+        },
+        {
+            "string": "orbital_laser_charge_quick"
+        },
+        {
+            "string": "orbital_laser_fire"
+        },
+        {
+            "string": "tank_rumble"
+        }
+    ]
+}

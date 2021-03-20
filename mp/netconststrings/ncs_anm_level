@@ -1,0 +1,125 @@
+{
+    "name": "ncs_anm_level",
+    "stringType": 19,
+    "sourceType": 0,
+    "entryCount": 39,
+    "strings": [
+        {
+            "string": "dlc3_explosive_touch_prop_anim"
+        },
+        {
+            "string": "dlc_power_station_activate"
+        },
+        {
+            "string": "dlc_weapon_box_01_activate"
+        },
+        {
+            "string": "dlc_weapon_mystery_box_01_close"
+        },
+        {
+            "string": "dlc_weapon_mystery_box_01_idle_open"
+        },
+        {
+            "string": "dlc_weapon_mystery_box_01_malfunction"
+        },
+        {
+            "string": "dlc_weapon_mystery_box_01_open"
+        },
+        {
+            "string": "incinerator_hatch_close"
+        },
+        {
+            "string": "incinerator_hatch_open"
+        },
+        {
+            "string": "mp_generic_prop_spin_02"
+        },
+        {
+            "string": "mp_goliath_enter"
+        },
+        {
+            "string": "mp_goliath_spawn"
+        },
+        {
+            "string": "mp_goliath_spawn_2_stand_idle"
+        },
+        {
+            "string": "orbital_care_package_fan_spin"
+        },
+        {
+            "string": "orbital_care_package_open"
+        },
+        {
+            "string": "orbital_care_package_open_loop"
+        },
+        {
+            "string": "xom_host_cure_station_loop"
+        },
+        {
+            "string": "xom_host_cure_station_start"
+        },
+        {
+            "string": "xom_host_cure_station_stop"
+        },
+        {
+            "string": "zom_boss_st1_exposed_idle"
+        },
+        {
+            "string": "zom_boss_st1_exposed_pain_head"
+        },
+        {
+            "string": "zom_boss_st1_exposed_pain_left"
+        },
+        {
+            "string": "zom_boss_st1_exposed_pain_right"
+        },
+        {
+            "string": "zom_boss_st1_exposed_react"
+        },
+        {
+            "string": "zom_boss_st1_exposed_to_normal"
+        },
+        {
+            "string": "zom_boss_st1_idle"
+        },
+        {
+            "string": "zom_boss_st1_taunt_01"
+        },
+        {
+            "string": "zom_boss_st1_taunt_02"
+        },
+        {
+            "string": "zom_boss_st1_teleport_in"
+        },
+        {
+            "string": "zom_boss_st1_teleport_out"
+        },
+        {
+            "string": "zom_boss_st1_trap_left"
+        },
+        {
+            "string": "zom_boss_st1_trap_mid"
+        },
+        {
+            "string": "zom_boss_st1_trap_right"
+        },
+        {
+            "string": "zom_h2o_floater_enter"
+        },
+        {
+            "string": "zom_h2o_floater_exit"
+        },
+        {
+            "string": "zom_h2o_floater_loop"
+        },
+        {
+            "string": "zom_h2o_manta_ray_flyby_01"
+        },
+        {
+            "string": "zom_h2o_manta_ray_flyby_02"
+        },
+        {
+            "string": "zombie_bink_env_camera_dlc4"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "name": "ncs_hnt_eng_patch_mp_zombie_brg",
+    "stringType": 18,
+    "sourceType": 1,
+    "entryCount": 28,
+    "strings": [
+        {
+            "string": "ZOMBIE_BRG_AIRSTRIKE_TRAP_COOLDOWN"
+        },
+        {
+            "string": "ZOMBIE_BRG_AIRSTRIKE_TRAP_READY"
+        },
+        {
+            "string": "ZOMBIE_BRG_AMBULANCE_TRAP_COOLDOWN"
+        },
+        {
+            "string": "ZOMBIE_BRG_AMBULANCE_TRAP_READY"
+        },
+        {
+            "string": "ZOMBIE_BRG_CARWASH_TRAP_COOLDOWN"
+        },
+        {
+            "string": "ZOMBIE_BRG_CARWASH_TRAP_READY"
+        },
+        {
+            "string": "ZOMBIE_BRG_DNA_BOMB_TRAP_COOLDOWN"
+        },
+        {
+            "string": "ZOMBIE_BRG_DNA_BOMB_TRAP_READY"
+        },
+        {
+            "string": "ZOMBIE_BRG_DOOR_TO_ATLAS"
+        },
+        {
+            "string": "ZOMBIE_BRG_DOOR_TO_ATLAS_COMMAND"
+        },
+        {
+            "string": "ZOMBIE_BRG_DOOR_TO_BURGERTOWN"
+        },
+        {
+            "string": "ZOMBIE_BRG_DOOR_TO_BURGER_STORAGE"
+        },
+        {
+            "string": "ZOMBIE_BRG_DOOR_TO_GAS_INTERIOR"
+        },
+        {
+            "string": "ZOMBIE_BRG_DOOR_TO_GAS_STATION"
+        },
+        {
+            "string": "ZOMBIE_BRG_DOOR_TO_SEWER"
+        },
+        {
+            "string": "ZOMBIE_BRG_DOOR_TO_SEWER_CAVE"
+        },
+        {
+            "string": "ZOMBIE_BRG_DOOR_TO_SEWER_JUNC"
+        },
+        {
+            "string": "ZOMBIE_BRG_DOOR_TO_SEWER_TUNNELS"
+        },
+        {
+            "string": "ZOMBIE_BRG_DOOR_TO_WAREHOUSE"
+        },
+        {
+            "string": "ZOMBIE_BRG_ELECTRIC_FLOOR_TRAP_COOLDOWN"
+        },
+        {
+            "string": "ZOMBIE_BRG_ELECTRIC_FLOOR_TRAP_READY"
+        },
+        {
+            "string": "ZOMBIE_BRG_GATOR_TRAP_COOLDOWN"
+        },
+        {
+            "string": "ZOMBIE_BRG_GATOR_TRAP_READY"
+        },
+        {
+            "string": "ZOMBIE_BRG_SNIPER_TRAP_COOLDOWN"
+        },
+        {
+            "string": "ZOMBIE_BRG_SNIPER_TRAP_READY"
+        },
+        {
+            "string": "ZOMBIE_BRG_STEAM_TRAP_COOLDOWN"
+        },
+        {
+            "string": "ZOMBIE_BRG_STEAM_TRAP_READY"
+        },
+        {
+            "string": "ZOMBIE_CIVILIANS_POWER_OFF_TRIGGER"
+        }
+    ]
+}

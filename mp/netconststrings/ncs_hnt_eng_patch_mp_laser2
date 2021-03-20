@@ -1,0 +1,11 @@
+{
+    "name": "ncs_hnt_eng_patch_mp_laser2",
+    "stringType": 18,
+    "sourceType": 1,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "MP_LASER2_MAP_KILLSTREAK_PICKUP"
+        }
+    ]
+}

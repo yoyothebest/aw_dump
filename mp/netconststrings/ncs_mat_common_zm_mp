@@ -1,0 +1,350 @@
+{
+    "name": "ncs_mat_common_zm_mp",
+    "stringType": 1,
+    "sourceType": 2,
+    "entryCount": 114,
+    "strings": [
+        {
+            "string": "black"
+        },
+        {
+            "string": "blue"
+        },
+        {
+            "string": "damage_feedback"
+        },
+        {
+            "string": "damage_feedback_headshot"
+        },
+        {
+            "string": "damage_feedback_juggernaut"
+        },
+        {
+            "string": "damage_feedback_killshot"
+        },
+        {
+            "string": "damage_feedback_killshot_headshot"
+        },
+        {
+            "string": "damage_feedback_lightarmor"
+        },
+        {
+            "string": "damage_feedback_morehealth"
+        },
+        {
+            "string": "damage_feedback_motionsensor"
+        },
+        {
+            "string": "faction_128_atlas"
+        },
+        {
+            "string": "faction_128_atlas_fade"
+        },
+        {
+            "string": "faction_128_sentinel"
+        },
+        {
+            "string": "faction_128_sentinel_fade"
+        },
+        {
+            "string": "headicon_atlas"
+        },
+        {
+            "string": "headicon_dead"
+        },
+        {
+            "string": "headicon_sentinel"
+        },
+        {
+            "string": "hud_battery_bar"
+        },
+        {
+            "string": "hud_battery_bar_ext"
+        },
+        {
+            "string": "hud_battery_border"
+        },
+        {
+            "string": "hud_battery_border_ext"
+        },
+        {
+            "string": "hud_carepkg_world_cammo"
+        },
+        {
+            "string": "hud_carepkg_world_credits"
+        },
+        {
+            "string": "hud_carepkg_world_drone"
+        },
+        {
+            "string": "hud_carepkg_world_turret"
+        },
+        {
+            "string": "hud_drop_sm_apocalypse"
+        },
+        {
+            "string": "hud_drop_sm_instakill"
+        },
+        {
+            "string": "hud_drop_sm_maxammo"
+        },
+        {
+            "string": "hud_drop_sm_points2x"
+        },
+        {
+            "string": "hud_drop_sm_powersurge"
+        },
+        {
+            "string": "hud_drop_sm_tombstone"
+        },
+        {
+            "string": "hud_fofbox_hostile"
+        },
+        {
+            "string": "hud_fofbox_self"
+        },
+        {
+            "string": "hud_icon_ak12"
+        },
+        {
+            "string": "hud_icon_bal27"
+        },
+        {
+            "string": "hud_icon_em1"
+        },
+        {
+            "string": "hudcolorbar"
+        },
+        {
+            "string": "hudcolorbarsimple"
+        },
+        {
+            "string": "icon_dpad_glow_right"
+        },
+        {
+            "string": "mtl_em1_heatbar_border"
+        },
+        {
+            "string": "objpoint_default"
+        },
+        {
+            "string": "paint_overlay"
+        },
+        {
+            "string": "progress_bar_bg"
+        },
+        {
+            "string": "progress_bar_fill"
+        },
+        {
+            "string": "rank_1stlt1"
+        },
+        {
+            "string": "rank_1stlt2"
+        },
+        {
+            "string": "rank_1stsgt1"
+        },
+        {
+            "string": "rank_1stsgt2"
+        },
+        {
+            "string": "rank_1stsgt3"
+        },
+        {
+            "string": "rank_2ndlt1"
+        },
+        {
+            "string": "rank_2ndlt2"
+        },
+        {
+            "string": "rank_2ndlt3"
+        },
+        {
+            "string": "rank_bgen1"
+        },
+        {
+            "string": "rank_bgen2"
+        },
+        {
+            "string": "rank_capt1"
+        },
+        {
+            "string": "rank_capt2"
+        },
+        {
+            "string": "rank_cmdsgtmaj1"
+        },
+        {
+            "string": "rank_cmdsgtmaj2"
+        },
+        {
+            "string": "rank_cmdsgtmaj3"
+        },
+        {
+            "string": "rank_col1"
+        },
+        {
+            "string": "rank_col2"
+        },
+        {
+            "string": "rank_comm1"
+        },
+        {
+            "string": "rank_cpl1"
+        },
+        {
+            "string": "rank_cpl2"
+        },
+        {
+            "string": "rank_cpl3"
+        },
+        {
+            "string": "rank_gen1"
+        },
+        {
+            "string": "rank_gen2"
+        },
+        {
+            "string": "rank_ltcol1"
+        },
+        {
+            "string": "rank_ltcol2"
+        },
+        {
+            "string": "rank_ltgen1"
+        },
+        {
+            "string": "rank_ltgen2"
+        },
+        {
+            "string": "rank_maj1"
+        },
+        {
+            "string": "rank_maj2"
+        },
+        {
+            "string": "rank_majgen1"
+        },
+        {
+            "string": "rank_majgen2"
+        },
+        {
+            "string": "rank_msgt1"
+        },
+        {
+            "string": "rank_msgt2"
+        },
+        {
+            "string": "rank_msgt3"
+        },
+        {
+            "string": "rank_pfc1"
+        },
+        {
+            "string": "rank_pfc2"
+        },
+        {
+            "string": "rank_pfc3"
+        },
+        {
+            "string": "rank_prestige1"
+        },
+        {
+            "string": "rank_prestige10"
+        },
+        {
+            "string": "rank_prestige2"
+        },
+        {
+            "string": "rank_prestige3"
+        },
+        {
+            "string": "rank_prestige4"
+        },
+        {
+            "string": "rank_prestige5"
+        },
+        {
+            "string": "rank_prestige6"
+        },
+        {
+            "string": "rank_prestige7"
+        },
+        {
+            "string": "rank_prestige8"
+        },
+        {
+            "string": "rank_prestige9"
+        },
+        {
+            "string": "rank_pvt1"
+        },
+        {
+            "string": "rank_pvt2"
+        },
+        {
+            "string": "rank_pvt3"
+        },
+        {
+            "string": "rank_sfc1"
+        },
+        {
+            "string": "rank_sfc2"
+        },
+        {
+            "string": "rank_sfc3"
+        },
+        {
+            "string": "rank_sgt1"
+        },
+        {
+            "string": "rank_sgt2"
+        },
+        {
+            "string": "rank_sgt3"
+        },
+        {
+            "string": "rank_sgtmaj1"
+        },
+        {
+            "string": "rank_sgtmaj2"
+        },
+        {
+            "string": "rank_sgtmaj3"
+        },
+        {
+            "string": "rank_spc1"
+        },
+        {
+            "string": "rank_spc2"
+        },
+        {
+            "string": "rank_spc3"
+        },
+        {
+            "string": "rank_ssgt1"
+        },
+        {
+            "string": "rank_ssgt2"
+        },
+        {
+            "string": "rank_ssgt3"
+        },
+        {
+            "string": "scavenger_pickup"
+        },
+        {
+            "string": "waypoint_dogtags"
+        },
+        {
+            "string": "waypoint_threat_hostile"
+        },
+        {
+            "string": "white"
+        },
+        {
+            "string": "white_nocull_2d"
+        }
+    ]
+}

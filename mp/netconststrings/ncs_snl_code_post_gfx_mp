@@ -1,0 +1,71 @@
+{
+    "name": "ncs_snl_code_post_gfx_mp",
+    "stringType": 8,
+    "sourceType": 2,
+    "entryCount": 21,
+    "strings": [
+        {
+            "string": "mus_main_menu"
+        },
+        {
+            "string": "music_challenge_factory"
+        },
+        {
+            "string": "music_mainmenu"
+        },
+        {
+            "string": "music_mainmenu_mp"
+        },
+        {
+            "string": "music_mp_main_menu_lp_01"
+        },
+        {
+            "string": "music_mp_main_menu_lp_02"
+        },
+        {
+            "string": "music_mp_main_menu_lp_03"
+        },
+        {
+            "string": "music_mp_main_menu_lp_04"
+        },
+        {
+            "string": "music_mp_main_menu_lp_05"
+        },
+        {
+            "string": "music_mp_main_menu_lp_06"
+        },
+        {
+            "string": "music_mp_main_menu_lp_07"
+        },
+        {
+            "string": "music_mp_main_menu_lp_08"
+        },
+        {
+            "string": "music_mp_main_menu_lp_09"
+        },
+        {
+            "string": "music_mp_main_menu_lp_10"
+        },
+        {
+            "string": "music_mp_main_menu_lp_11"
+        },
+        {
+            "string": "music_mp_main_menu_lp_12"
+        },
+        {
+            "string": "music_mp_main_menu_lp_13"
+        },
+        {
+            "string": "music_mp_main_menu_lp_14"
+        },
+        {
+            "string": "music_mp_main_menu_lp_15"
+        },
+        {
+            "string": "music_opening"
+        },
+        {
+            "string": "null_loop"
+        }
+    ]
+}

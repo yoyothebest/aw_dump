@@ -1,0 +1,11 @@
+{
+    "name": "ncs_veh_patch_common_horde_mp",
+    "stringType": 3,
+    "sourceType": 2,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "warbird_horde"
+        }
+    ]
+}

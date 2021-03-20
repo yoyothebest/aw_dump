@@ -1,0 +1,29 @@
+{
+    "name": "ncs_rmb_code_post_gfx_mp",
+    "stringType": 2,
+    "sourceType": 2,
+    "entryCount": 7,
+    "strings": [
+        {
+            "string": "artillery_rumble"
+        },
+        {
+            "string": "damage_heavy"
+        },
+        {
+            "string": "damage_light"
+        },
+        {
+            "string": "grenade_rumble"
+        },
+        {
+            "string": "heavygun_fire"
+        },
+        {
+            "string": "slide_loop"
+        },
+        {
+            "string": "slide_start"
+        }
+    ]
+}

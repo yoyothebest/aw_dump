@@ -1,0 +1,278 @@
+{
+    "name": "ncs_mdl_common_horde_mp",
+    "stringType": 0,
+    "sourceType": 2,
+    "entryCount": 90,
+    "strings": [
+        {
+            "string": "animal_dobernan"
+        },
+        {
+            "string": "com_deploy_ballistic_vest_friend_hand"
+        },
+        {
+            "string": "generic_prop_raven"
+        },
+        {
+            "string": "greece_drone_control_pad"
+        },
+        {
+            "string": "head_hero_cormack_sentinel_halo"
+        },
+        {
+            "string": "mil_grenade_box"
+        },
+        {
+            "string": "model_tracking_drone_cloaked_mp"
+        },
+        {
+            "string": "model_tracking_drone_mp"
+        },
+        {
+            "string": "mp_weapon_upgrade_screen_01_glass"
+        },
+        {
+            "string": "npc_drone_explosive_main"
+        },
+        {
+            "string": "npc_drone_tracking"
+        },
+        {
+            "string": "npc_exo_armor_ingress"
+        },
+        {
+            "string": "npc_exo_armor_minigun_barrel"
+        },
+        {
+            "string": "npc_exo_armor_minigun_handle"
+        },
+        {
+            "string": "npc_exo_armor_mp_base"
+        },
+        {
+            "string": "npc_heavy_exo_armor_jetpack_base"
+        },
+        {
+            "string": "npc_heavy_exo_armor_maniac_l_base"
+        },
+        {
+            "string": "npc_heavy_exo_armor_maniac_r_base"
+        },
+        {
+            "string": "npc_heavy_exo_armor_missile_pack_base"
+        },
+        {
+            "string": "npc_heavy_exo_armor_recon_back_base"
+        },
+        {
+            "string": "npc_heavy_exo_armor_trophy_l_base"
+        },
+        {
+            "string": "npc_heavy_exo_armor_trophy_r_base"
+        },
+        {
+            "string": "npc_heavy_exo_armor_turret_base"
+        },
+        {
+            "string": "npc_remote_turret_base"
+        },
+        {
+            "string": "npc_sentry_energy_turret_base"
+        },
+        {
+            "string": "npc_sentry_energy_turret_base_red_obj"
+        },
+        {
+            "string": "npc_sentry_energy_turret_base_yellow_obj"
+        },
+        {
+            "string": "npc_sentry_energy_turret_empty_base"
+        },
+        {
+            "string": "npc_sentry_minigun_base"
+        },
+        {
+            "string": "npc_sentry_minigun_turret_base"
+        },
+        {
+            "string": "npc_sentry_minigun_turret_base_red_obj"
+        },
+        {
+            "string": "npc_sentry_minigun_turret_base_yellow_obj"
+        },
+        {
+            "string": "npc_sentry_minigun_turret_empty_base"
+        },
+        {
+            "string": "npc_sentry_rocket_turret_base"
+        },
+        {
+            "string": "npc_sentry_rocket_turret_base_red_obj"
+        },
+        {
+            "string": "npc_sentry_rocket_turret_base_yellow_obj"
+        },
+        {
+            "string": "npc_sentry_rocket_turret_empty_base"
+        },
+        {
+            "string": "npc_tactical_insertion_device"
+        },
+        {
+            "string": "npc_variable_grenade_lethal"
+        },
+        {
+            "string": "orbital_carepackage_pod_01_ai"
+        },
+        {
+            "string": "orbital_carepackage_pod_01_ai_bombsquad"
+        },
+        {
+            "string": "orbital_carepackage_pod_01_clr_01_ai"
+        },
+        {
+            "string": "orbital_carepackage_pod_01_logo_trap_ai"
+        },
+        {
+            "string": "orbital_carepackage_pod_01_projectile_invis"
+        },
+        {
+            "string": "orbital_carepackage_pod_01_vehicle"
+        },
+        {
+            "string": "orbitalsupport_big_turret"
+        },
+        {
+            "string": "orbitalsupport_medium_turret"
+        },
+        {
+            "string": "orbitalsupport_small_turret"
+        },
+        {
+            "string": "projectile_at4"
+        },
+        {
+            "string": "projectile_javelin_missile"
+        },
+        {
+            "string": "projectile_m67fraggrenade"
+        },
+        {
+            "string": "projectile_pod_care_package"
+        },
+        {
+            "string": "projectile_tag"
+        },
+        {
+            "string": "scorestreak_missile"
+        },
+        {
+            "string": "scorestreak_missile_small"
+        },
+        {
+            "string": "static_tactical_insertion_device"
+        },
+        {
+            "string": "tag_laser"
+        },
+        {
+            "string": "tag_turret"
+        },
+        {
+            "string": "uav_drone_static"
+        },
+        {
+            "string": "vehicle_airplane_shrike"
+        },
+        {
+            "string": "vehicle_atlas_aerial_drone_01_assult_mp_noturret_clr_50p"
+        },
+        {
+            "string": "vehicle_atlas_aerial_drone_01_mp_turret_50p"
+        },
+        {
+            "string": "vehicle_atlas_aerial_drone_01_patrol_mp_static_clr_01_50p"
+        },
+        {
+            "string": "vehicle_atlas_aerial_drone_02_patrol_mp_static_75p"
+        },
+        {
+            "string": "vehicle_atlas_aerial_drone_02_patrol_mp_turret_75p"
+        },
+        {
+            "string": "vehicle_atlas_assault_drone"
+        },
+        {
+            "string": "vehicle_atlas_assault_drone_large"
+        },
+        {
+            "string": "vehicle_drop_pod"
+        },
+        {
+            "string": "vehicle_drop_pod_base"
+        },
+        {
+            "string": "vehicle_drop_pod_part_hatch_b"
+        },
+        {
+            "string": "vehicle_drop_pod_part_hatch_f"
+        },
+        {
+            "string": "vehicle_drop_pod_part_housing_l"
+        },
+        {
+            "string": "vehicle_drop_pod_part_housing_r"
+        },
+        {
+            "string": "vehicle_drop_pod_part_shield_panel_l"
+        },
+        {
+            "string": "vehicle_drop_pod_part_shield_panel_r"
+        },
+        {
+            "string": "vehicle_drop_pod_part_top_cap"
+        },
+        {
+            "string": "vehicle_mil_blimp_orbital_platform_ai"
+        },
+        {
+            "string": "vehicle_mil_ugv"
+        },
+        {
+            "string": "vehicle_mil_ugv_cloaked_mp"
+        },
+        {
+            "string": "vehicle_pdrone"
+        },
+        {
+            "string": "vehicle_ugv_talon_cloaked_mp"
+        },
+        {
+            "string": "vehicle_ugv_talon_gun_cloaked_mp"
+        },
+        {
+            "string": "vehicle_ugv_talon_gun_mp"
+        },
+        {
+            "string": "vehicle_ugv_talon_mp"
+        },
+        {
+            "string": "vehicle_xh9_warbird_low_cloaked_in_out_mp_cloak"
+        },
+        {
+            "string": "vehicle_xh9_warbird_turret_cloaked_inout_killstreak_mp_cloak"
+        },
+        {
+            "string": "vehicle_xh9_warbird_turret_coop"
+        },
+        {
+            "string": "vehicle_xh9_warbird_turret_left"
+        },
+        {
+            "string": "viewhands_juggernaut_ally"
+        },
+        {
+            "string": "vm_view_arms_mech_mp"
+        }
+    ]
+}

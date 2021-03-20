@@ -1,0 +1,36 @@
+zone_names,ambience,ambient_name,mix,reverb,filter,occlusion,player_adsr,,
+mp_dam,amb_ext_wind_leaves_front,,mp_ext_zone_mix,mp_dam_ext,,mp_tuned_default,,,
+mp_dam_ext_coils_bldg,amb_int_booth_sm_front,,mp_ext_zone_mix,mp_dam_ext_slap,,mp_tuned_default,,,
+mp_dam_int_pipe,amb_int_pipe_front,,mp_ext_zone_mix,mp_dam_int_slap,,mp_tuned_default,,,
+mp_dam_int_coils_bldg,amb_int_underground_front,,mp_int_zone_mix,mp_dam_int,,mp_tuned_default,,,
+mp_dam_int_n_bldg_sml,amb_int_office_front,,mp_int_zone_mix,mp_dam_int,,mp_tuned_default,,,
+mp_dam_int_w_bldg_lrg,amb_int_warehouse_front,,mp_int_zone_mix,mp_dam_int,,mp_tuned_default,,,
+mp_dam_int_w_bldg_sml,amb_int_office_front,,mp_int_zone_mix,mp_dam_int,,mp_tuned_default,,,
+mp_dam_int_e_bldg_lrg,amb_int_warehouse_front,,mp_int_zone_mix,mp_dam_int,,mp_tuned_default,,,
+mp_dam_int_e_bldg_top,amb_int_fan_room_front,,mp_int_zone_mix,mp_dam_int,,mp_tuned_default,,,
+mp_dam_int_e_bldg_dock,amb_int_office_front,,mp_int_zone_mix,mp_dam_int,,mp_tuned_default,,,
+mp_dam_int_s_bldg_sml,amb_int_booth_sm_front,,mp_int_zone_mix,mp_dam_int,,mp_tuned_default,,,
+mp_dam_int_sw_access,amb_int_office_front,,mp_int_zone_mix,mp_dam_int,,mp_tuned_default,,,
+mp_dam_int_tunnels,amb_int_underground_front,dam_tunnels,mp_int_zone_mix,mp_dam_int_slap,,mp_tuned_default,,,
+mp_killcam_slomo,,,,,,,default,,
+painvision,,,,,,,default,,
+filter_names,channel,band,type,freq,gain,q,,,
+reverb_names,roomtype,drylevel,wetlevel,fade,,,,,
+mp_dam_ext,courtyard,1,0.6,2,,,,,
+mp_dam_ext_slap,courtyard,1,0.7,2,,,,,
+mp_dam_int,elevator_shaft,0.75,1,2,,,,,
+mp_dam_int_slap,elevator_shaft,0.75,1,2,,,,,
+dynamic_component,alias,first_event_time_min,first_event_time_max,event_time_min,event_time_max,range_min,range_max,cone_min,cone_max
+helis,dyn_helis_dist,10,15,30,60,1000,2000,0,360
+commercial_jets,dyn_commercial_jet_flyby_dist,5,10,30,60,1000,2000,0,360
+news_chopper,dyn_news_chopper_flyby_dist,20,25,30,60,100,2500,0,360
+int_metal_stress_sml,emt_metal_stress_sml,3,8,3,6,200,600,0,360
+int_metal_movement_large,emt_metal_movement_large_int,2,9,4,5,200,600,0,360
+int_pipe_stress,emt_pipe_stress_int,2,6,2,5,200,600,0,360
+dynamic_ambience_names,components,,,,,,,,
+dam_outside,helis + commercial_jets,,,,,,,,
+dam_tunnels,int_metal_stress_sml + int_metal_movement_large + int_pipe_stress,,,,,,,,
+adsr_zone_player,weapon,adsr,,,,,,,
+adsr_zone_npc,weapon,adsr,,,,,,,
+adsr_name,att_len,dec_len,sus_len,sus_level,rel_len,,,,
+mix_names,volmod,value,fadein,fadeout,,,,,

@@ -1,0 +1,62 @@
+{
+    "name": "ncs_snd_patch_common_mp",
+    "stringType": 6,
+    "sourceType": 2,
+    "entryCount": 18,
+    "strings": [
+        {
+            "string": "AT_anr0_dom_losta"
+        },
+        {
+            "string": "MP_solar_hit_alert"
+        },
+        {
+            "string": "mp_s1_challenge_complete"
+        },
+        {
+            "string": "mp_s1_challenge_complete_lyr"
+        },
+        {
+            "string": "mp_s1_challenge_complete_lyr2"
+        },
+        {
+            "string": "mp_s1_earn_medal"
+        },
+        {
+            "string": "mp_s1_earn_medal_lyr"
+        },
+        {
+            "string": "mp_s1_earn_medal_lyr2"
+        },
+        {
+            "string": "mp_s1_level_up"
+        },
+        {
+            "string": "mp_s1_level_up_lfe"
+        },
+        {
+            "string": "mp_s1_level_up_rears"
+        },
+        {
+            "string": "npc_exo_punch_hit_01"
+        },
+        {
+            "string": "npc_exo_punch_hit_02"
+        },
+        {
+            "string": "npc_exo_punch_hit_03"
+        },
+        {
+            "string": "npc_exo_punch_hit_07"
+        },
+        {
+            "string": "se_anr0_dom_losta"
+        },
+        {
+            "string": "ui_cac_reinforce_reveal_item_legendary"
+        },
+        {
+            "string": "ui_cac_reinforce_reveal_power_02_lyr"
+        }
+    ]
+}

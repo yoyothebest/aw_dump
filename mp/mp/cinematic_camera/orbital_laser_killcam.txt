@@ -1,0 +1,43 @@
+//==========================================================================
+// Orbital Laser Killstreak
+// USAGE: \game\share\raw\mp\cinematic_camera\_usage.txt
+//==========================================================================
+
+// update the version only when code parser has changed
+<version> 4
+
+// 7 second killcam (5 before death, 2 after): see maps\mp\gametypes\_killcam::killcamTime
+
+// see attacker view for 3 seconds
+<cut>
+<movement> wait
+<orientation> none
+<time> 3.0
+
+// view 3rd person for 2 seconds
+<cut>
+<movement> fixed 
+<orientation> attached
+<tag> j_neck
+<tag_pitch> 10
+<tag_yaw> 0
+<tag_range> 200
+<fixed_use_supporting_actor> 1
+<collision> 1
+<time> 2
+
+// pan around victim for 2 seconds
+<cut>
+<movement> rotate 
+<orientation> target
+<tag> j_neck
+<angles_pitch> 60
+<angles_yaw> 0
+<angles_range_start> 200
+<angles_range_end> 200
+<rotate_degrees_yaw> 359
+<rotate_angles_world> 0
+<rotate_focus_supporting_actor> 1
+<collision> 1
+<time> 2.5
+<lerp> 0.2

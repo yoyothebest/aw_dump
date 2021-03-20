@@ -1,0 +1,14 @@
+{
+    "name": "ncs_snd_patch_common_zm_mp",
+    "stringType": 6,
+    "sourceType": 2,
+    "entryCount": 2,
+    "strings": [
+        {
+            "string": "AT_anr0_dom_losta"
+        },
+        {
+            "string": "se_anr0_dom_losta"
+        }
+    ]
+}

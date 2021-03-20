@@ -1,0 +1,26 @@
+{
+    "name": "ncs_wep_common_zm_mp",
+    "stringType": 16,
+    "sourceType": 2,
+    "entryCount": 6,
+    "strings": [
+        {
+            "string": "defaultweapon_mp"
+        },
+        {
+            "string": "iw5_combatknife_mp"
+        },
+        {
+            "string": "iw5_sword_mp"
+        },
+        {
+            "string": "iw5_zombiemelee_mp"
+        },
+        {
+            "string": "killstreakmahem_mp"
+        },
+        {
+            "string": "turretheadrocket_mp"
+        }
+    ]
+}

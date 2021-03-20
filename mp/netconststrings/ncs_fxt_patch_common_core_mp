@@ -1,0 +1,11 @@
+{
+    "name": "ncs_fxt_patch_common_core_mp",
+    "stringType": 20,
+    "sourceType": 2,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "tag_origin"
+        }
+    ]
+}

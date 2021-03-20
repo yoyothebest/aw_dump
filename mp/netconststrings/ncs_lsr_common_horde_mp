@@ -1,0 +1,14 @@
+{
+    "name": "ncs_lsr_common_horde_mp",
+    "stringType": 23,
+    "sourceType": 2,
+    "entryCount": 2,
+    "strings": [
+        {
+            "string": "mp_sentry_turret"
+        },
+        {
+            "string": "tracking_drone_laser"
+        }
+    ]
+}

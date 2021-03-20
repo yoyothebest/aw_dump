@@ -1,0 +1,74 @@
+{
+    "name": "ncs_att_ffotd_mp",
+    "stringType": 17,
+    "sourceType": 1,
+    "entryCount": 22,
+    "strings": [
+        {
+            "string": "directhack"
+        },
+        {
+            "string": "dualmag"
+        },
+        {
+            "string": "firerate"
+        },
+        {
+            "string": "foregrip"
+        },
+        {
+            "string": "gl"
+        },
+        {
+            "string": "lasersight"
+        },
+        {
+            "string": "longrange"
+        },
+        {
+            "string": "opticsacog2"
+        },
+        {
+            "string": "opticsacog2ar"
+        },
+        {
+            "string": "opticseotech"
+        },
+        {
+            "string": "opticsreddot"
+        },
+        {
+            "string": "opticstargetenhancer"
+        },
+        {
+            "string": "opticsthermal"
+        },
+        {
+            "string": "opticsthermalar"
+        },
+        {
+            "string": "parabolicmicrophone"
+        },
+        {
+            "string": "quickdraw"
+        },
+        {
+            "string": "silencer01"
+        },
+        {
+            "string": "silencerpistol"
+        },
+        {
+            "string": "stock"
+        },
+        {
+            "string": "trackrounds"
+        },
+        {
+            "string": "variablereddot"
+        },
+        {
+            "string": "xmags"
+        }
+    ]
+}

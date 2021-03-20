@@ -1,0 +1,95 @@
+{
+    "name": "ncs_att_common_zm_mp",
+    "stringType": 17,
+    "sourceType": 2,
+    "entryCount": 29,
+    "strings": [
+        {
+            "string": "akimbo"
+        },
+        {
+            "string": "akimbosac3"
+        },
+        {
+            "string": "akimboxmg"
+        },
+        {
+            "string": "crossbowscopebase"
+        },
+        {
+            "string": "dualmag"
+        },
+        {
+            "string": "foregrip"
+        },
+        {
+            "string": "gl"
+        },
+        {
+            "string": "gm6stabilizer"
+        },
+        {
+            "string": "m990stabilizer"
+        },
+        {
+            "string": "mahemscopebase"
+        },
+        {
+            "string": "morsscopevz"
+        },
+        {
+            "string": "morsstabilizer"
+        },
+        {
+            "string": "opticsacog2"
+        },
+        {
+            "string": "opticsacog2ar"
+        },
+        {
+            "string": "opticseotech"
+        },
+        {
+            "string": "opticsreddot"
+        },
+        {
+            "string": "opticstargetenhancer"
+        },
+        {
+            "string": "opticsthermal"
+        },
+        {
+            "string": "opticsthermalar"
+        },
+        {
+            "string": "rw1scopebase"
+        },
+        {
+            "string": "shieldfastmelee"
+        },
+        {
+            "string": "shieldfastplant"
+        },
+        {
+            "string": "shieldshockplant"
+        },
+        {
+            "string": "silencer01"
+        },
+        {
+            "string": "silencerpistol"
+        },
+        {
+            "string": "silencersniper"
+        },
+        {
+            "string": "tactical"
+        },
+        {
+            "string": "variablereddot"
+        },
+        {
+            "string": "xmags"
+        }
+    ]
+}

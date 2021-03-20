@@ -1,0 +1,26 @@
+{
+    "name": "ncs_tag_level",
+    "stringType": 11,
+    "sourceType": 0,
+    "entryCount": 6,
+    "strings": [
+        {
+            "string": "j_wrist_ri"
+        },
+        {
+            "string": "l_frontleg1_jnt"
+        },
+        {
+            "string": "neck0_jnt"
+        },
+        {
+            "string": "r_frontleg1_jnt"
+        },
+        {
+            "string": "spine4_jnt"
+        },
+        {
+            "string": "tag_eye"
+        }
+    ]
+}

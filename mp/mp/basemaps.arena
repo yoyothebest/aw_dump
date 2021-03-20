@@ -1,0 +1,399 @@
+{
+	map			"mp_dam"
+	longname	"MPUI_DAM"
+	gametype	"dm war dom conf sd hp sr twar infect ball"
+	description	"MPUI_DESC_MAP_DAM"
+	mapimage	"preview_mp_dam"
+	mapoverlay	"compass_overlay_map_blank"
+	allieschar	"sentinel"
+	axischar	"atlas"
+	environment	"woodland"
+	mappack		"10"
+}
+
+{
+    map         "mp_refraction"
+    longname    "MPUI_REFRACTION"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_REFRACTION"
+    mapimage    "preview_mp_refraction"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "0"
+}
+
+{
+    map         "mp_lab2"
+    longname    "MPUI_LAB2"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_LAB2"
+    mapimage    "preview_mp_lab2"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "snow"
+    mappack     "0"
+}
+
+{
+    map         "mp_comeback"
+    longname    "MPUI_COMEBACK"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_COMEBACK"
+    mapimage    "preview_mp_comeback"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "0"
+}
+
+{
+    map         "mp_laser2"
+    longname    "MPUI_LASER2"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_LASER2"
+    mapimage    "preview_mp_laser2"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "woodland"
+    mappack     "0"
+}
+
+{
+    map         "mp_detroit"
+    longname    "MPUI_DETROIT"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_DETROIT"
+    mapimage    "preview_mp_detroit"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "0"
+}
+
+{
+    map         "mp_greenband"
+    longname    "MPUI_GREENBAND"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_GREENBAND"
+    mapimage    "preview_mp_greenband"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "woodland"
+    mappack     "0"
+}
+
+{
+    map         "mp_levity"
+    longname    "MPUI_LEVITY"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_LEVITY"
+    mapimage    "preview_mp_levity"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "snow"
+    mappack     "0"
+}
+
+{
+    map         "mp_instinct"
+    longname    "MPUI_INSTINCT"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_INSTINCT"
+    mapimage    "preview_mp_instinct"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "woodland"
+    mappack     "0"
+}
+
+{
+    map         "mp_recovery"
+    longname    "MPUI_RECOVERY"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_RECOVERY"
+    mapimage    "preview_mp_recovery"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "0"
+}
+
+{
+    map         "mp_venus"
+    longname    "MPUI_VENUS"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_VENUS"
+    mapimage    "preview_mp_venus"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "woodland"
+    mappack     "0"
+
+}
+
+{
+    map         "mp_prison"
+    longname    "MPUI_PRISON"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_PRISON"
+    mapimage    "preview_mp_prison"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "0"
+}
+
+{
+    map         "mp_solar"
+    longname    "MPUI_SOLAR"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_SOLAR"
+    mapimage    "preview_mp_solar"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "desert"
+    mappack     "0"
+}
+
+{
+    map         "mp_terrace"
+    longname    "MPUI_TERRACE"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_TERRACE"
+    mapimage    "preview_mp_terrace"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "0"
+}
+
+{
+    map         "mp_vlobby_room"
+    gametype    "vlobby"
+    allieschar  "sentinel_vl"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "16384"
+}
+
+{
+    map         "mp_torqued"
+    longname    "MPUI_TORQUED"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_TORQUED"
+    mapimage    "preview_mp_torqued"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "11"
+}
+
+{
+    map         "mp_clowntown3"
+    longname    "MPUI_CLOWNTOWN"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_CLOWNTOWN"
+    mapimage    "preview_mp_clowntown3"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "11"
+}
+
+{
+    map         "mp_lost"
+    longname    "MPUI_LOST"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_LOST"
+    mapimage    "preview_mp_lost"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "11"
+}
+
+{
+    map         "mp_urban"
+    longname    "MPUI_URBAN"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_URBAN"
+    mapimage    "preview_mp_urban"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "11"
+}
+
+{
+    map         "mp_blackbox"
+    longname    "MPUI_BLACKBOX"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_BLACKBOX"
+    mapimage    "preview_mp_blackbox"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "12"
+}
+
+{
+    map         "mp_climate_3"
+    longname    "MPUI_CLIMATE"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_CLIMATE"
+    mapimage    "preview_mp_climate_3"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "12"
+}
+
+{
+    map         "mp_perplex_1"
+    longname    "MPUI_PERPLEX"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_PERPLEX"
+    mapimage    "preview_mp_perplex_1"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "12"
+}
+
+{
+    map         "mp_spark"
+    longname    "MPUI_SPARK"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_SPARK"
+    mapimage    "preview_mp_spark"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "12"
+}
+
+{
+    map         "mp_highrise2"
+    longname    "MPUI_HIGHRISE2"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_HIGHRISE2"
+    mapimage    "preview_mp_highrise2"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "13"
+}
+
+{
+    map         "mp_kremlin"
+    longname    "MPUI_KREMLIN"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_KREMLIN"
+    mapimage    "preview_mp_kremlin"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "13"
+}
+
+{
+    map         "mp_bigben2"
+    longname    "MPUI_BIGBEN2"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_BIGBEN2"
+    mapimage    "preview_mp_bigben2"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "13"
+}
+
+{
+    map         "mp_sector17"
+    longname    "MPUI_SECTOR17"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_SECTOR17"
+    mapimage    "preview_mp_sector17"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "13"
+}
+
+{
+    map         "mp_fracture"
+    longname    "MPUI_FRACTURE"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_FRACTURE"
+    mapimage    "preview_mp_fracture"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "14"
+}
+
+{
+    map         "mp_lair"
+    longname    "MPUI_LAIR"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_LAIR"
+    mapimage    "preview_mp_lair"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "14"
+}
+
+{
+    map         "mp_liberty"
+    longname    "MPUI_LIBERTY"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_LIBERTY"
+    mapimage    "preview_mp_liberty"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "14"
+}
+
+{
+    map         "mp_seoul2"
+    longname    "MPUI_SEOUL2"
+    gametype    "dm war dom conf sd hp sr twar infect ball"
+    description "MPUI_DESC_MAP_SEOUL2"
+    mapimage    "preview_mp_seoul2"
+    mapoverlay  "compass_overlay_map_blank"
+    allieschar  "sentinel"
+    axischar    "atlas"
+    environment "urban"
+    mappack     "14"
+}

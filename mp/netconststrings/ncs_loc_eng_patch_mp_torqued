@@ -1,0 +1,11 @@
+{
+    "name": "ncs_loc_eng_patch_mp_torqued",
+    "stringType": 5,
+    "sourceType": 1,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "MP_TORQUED_MAP_KILLSTREAK_PICKUP"
+        }
+    ]
+}

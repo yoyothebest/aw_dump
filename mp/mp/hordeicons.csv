@@ -1,0 +1,12 @@
+a0,b1,c1,d1,e1
+1,specialty_lightweight,PERKS_LIGHTWEIGHT,specialty_s1_lightweight,
+2,specialty_marathon,PERKS_UNLIMITED_SPRINT,specialty_s1_longsprint,
+3,specialty_class_flakjacket,PERKS_FLAKJACKET,specialty_s1_flakjacket,
+4,specialty_exo_shoulderlauncher,PERKS_EXO_SHOULDERLAUNCHER,specialty_s1_temp,
+5,specialty_exo_slamboots,PERKS_EXO_SLAMBOOTS,specialty_s1_slamboots,
+6,specialty_class_toughness,PERKS_TOUGHNESS,specialty_s1_toughness,
+7,specialty_class_dexterity,PERKS_DEXTERITY,specialty_s1_dexterity,
+8,specialty_class_quickdraw,PERKS_QUICKDRAW,specialty_s1_quickdraw,
+9,specialty_class_fasthands,PERKS_FASTHANDS,specialty_s1_fasthands,
+10,specialty_class_gungho,PERKS_GUNGHO,specialty_s1_gungho,
+11,specialty_horde_weaponsfree,PERKS_GUNGHO,specialty_s1_temp,

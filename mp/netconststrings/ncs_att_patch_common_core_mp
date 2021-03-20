@@ -1,0 +1,41 @@
+{
+    "name": "ncs_att_patch_common_core_mp",
+    "stringType": 17,
+    "sourceType": 2,
+    "entryCount": 11,
+    "strings": [
+        {
+            "string": "directhack"
+        },
+        {
+            "string": "foregrip"
+        },
+        {
+            "string": "opticsacog2"
+        },
+        {
+            "string": "opticseotech"
+        },
+        {
+            "string": "opticsreddot"
+        },
+        {
+            "string": "opticstargetenhancer"
+        },
+        {
+            "string": "opticsthermal"
+        },
+        {
+            "string": "parabolicmicrophone"
+        },
+        {
+            "string": "quickdraw"
+        },
+        {
+            "string": "stock"
+        },
+        {
+            "string": "variablereddot"
+        }
+    ]
+}

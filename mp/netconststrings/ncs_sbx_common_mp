@@ -1,0 +1,80 @@
+{
+    "name": "ncs_sbx_common_mp",
+    "stringType": 7,
+    "sourceType": 2,
+    "entryCount": 24,
+    "strings": [
+        {
+            "string": "debug_mute_dialog"
+        },
+        {
+            "string": "debug_mute_music"
+        },
+        {
+            "string": "debug_mute_vo"
+        },
+        {
+            "string": "debug_reference_calibration"
+        },
+        {
+            "string": "debug_solo_amb_emitter"
+        },
+        {
+            "string": "debug_solo_dialog"
+        },
+        {
+            "string": "debug_solo_foley"
+        },
+        {
+            "string": "debug_solo_footstep"
+        },
+        {
+            "string": "debug_solo_impact"
+        },
+        {
+            "string": "debug_solo_music"
+        },
+        {
+            "string": "debug_solo_vehicle_plr"
+        },
+        {
+            "string": "debug_solo_vehicles"
+        },
+        {
+            "string": "debug_solo_vo"
+        },
+        {
+            "string": "debug_solo_whizby"
+        },
+        {
+            "string": "mp_ext_zone_mix"
+        },
+        {
+            "string": "mp_init_mix"
+        },
+        {
+            "string": "mp_int_zone_mix"
+        },
+        {
+            "string": "mp_no_foley"
+        },
+        {
+            "string": "mp_post_event_mix"
+        },
+        {
+            "string": "mp_pre_event_mix"
+        },
+        {
+            "string": "mute_all"
+        },
+        {
+            "string": "mute_device"
+        },
+        {
+            "string": "sonar_vision"
+        },
+        {
+            "string": "unmute_all"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+//==========================================================================
+// Killcam scene
+// USAGE: \game\share\raw\mp\cinematic_camera\_usage.txt
+//==========================================================================
+
+// update the version only when code parser has changed
+<version> 4
+
+// rotate to the back of the killer
+<cut>
+<movement> rotate 
+<orientation> target
+<tag> j_neck
+<angles_pitch> -10
+<angles_yaw> -225
+<angles_range_start> 60
+//<angles_range_end> 60
+<rotate_degrees_yaw> 225
+<rotate_degrees_pitch> 20
+<time> 2.75
+//<lerp> 0.5
+
+// slam zoom into killer's head
+<cut>
+<movement> zoom
+<orientation> target
+<tag_start> tag_eye
+<tag_start_pitch> 0
+<tag_start_range> 60
+<tag_end> tag_eye
+<tag_end_pitch> 5
+<zoom_end_radius> 15
+<collision> 0
+<time> 0.160
+<lerp> 0.05
+
+// slam zoom flash
+<vision>
+<vision_start_time> 2.75
+<vision_name> "coup_sunblind"
+<vision_blend_duration> 200
+
+<vision>
+<vision_start_time> 2.85
+<vision_name> ""
+<vision_blend_duration> 450
+
+// blur background
+<dof>
+<dof_start_time> 0.5
+<dof_blend_duration> 250
+<dof_far_start> 100
+<dof_far_end> 500
+<dof_far_blur> 3.5
+
+// blend back to default
+<dof>
+<dof_start_time> 2.15
+<dof_blend_duration> 500
+
+// SOUNDS
+<sound>
+<sound_start_time> 0
+<sound_name> "mp_killcam_slomo_in"
+
+<sound>
+<sound_start_time> 2.25
+<sound_name> "mp_killcam_slomo_out"
+
+// audio zone overrides
+<sound>
+<sound_is_zone_override> 1
+<sound_start_time> 0
+<sound_fade_duration> 750
+<sound_name> "mp_killcam_slomo"

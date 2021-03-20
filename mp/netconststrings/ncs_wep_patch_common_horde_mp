@@ -1,0 +1,14 @@
+{
+    "name": "ncs_wep_patch_common_horde_mp",
+    "stringType": 16,
+    "sourceType": 2,
+    "entryCount": 2,
+    "strings": [
+        {
+            "string": "iw5_exocrossbowcoop_mp"
+        },
+        {
+            "string": "iw5_microdronelaunchercoop_mp"
+        }
+    ]
+}

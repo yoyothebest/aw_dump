@@ -1,0 +1,47 @@
+a0,b1,c2,d3,f5,g6,h7,i8,j9,,,,,
+0,1,12,7,shotgun,,,,,,,,,
+1,2,13,7,shotgun,,,,,,,,,
+2,3,14,7,shotgun,smg,4,,,,,,,
+3,4,15,8,smg,,,dog,3,,,,,
+4,5,8,5,,,,drone_mg,8,,,,,
+5,6,16,8,smg,,,drone_mg,3,,,,,
+6,7,16,9,smg,em1,5,,,,,,,
+7,8,14,8,cloak,,,,,,,,,
+8,9,16,9,cloak,em1,4,drone_mg,4,,,,,
+9,10,2,2,jugg_handler,,,,,,,,,
+10,11,16,10,assault,,,dog,4,,,,,
+11,12,16,10,assault,epm3,5,,,,,,,
+12,13,16,10,assault,epm3 jugg_handler,5 1,,,,,,,
+13,14,16,10,assault,handler,4,,,,,,,
+14,15,16,10,assault,em1 handler,4 3,warbird,1,,,,,
+15,16,18,12,assault,handler jugg_handler,3 1,dog,4,,,,,
+16,17,18,12,assault_elite,,,drone_energy,3,,,,,
+17,18,18,13,assault_elite,rocket,6,,,,,,,
+18,19,19,13,assault_elite,rocket cloak,4 4,drone_energy,3,,,,,
+19,20,20,14,assault_elite,rocket cloak jugg_handler,4 4 2,,,,,,,
+20,21,20,14,epm3,em1_heavy,5,dog,4,,,,,
+21,22,20,14,epm3,em1_heavy handler,4 4,,,,,,,
+22,23,22,14,em1_heavy,rocket jugg_handler,4 2,warbird,1,,,,,
+23,24,24,15,em1_heavy,epm3 handler,5 4,dog,2,,,,,
+24,25,24,16,em1_heavy,epm3 jugg_handler,5 3,drone_energy,2,,,,,
+25,26,100,5,zombie,,,,,,,,,
+100,shotgun,HORDE_GRUNT,shotgun guys,iw5_maul,none,,50,0.9,100,iw5_rhino,none,none,150
+101,smg,HORDE_GUNNER,smg guys,iw5_kf5,frag_grenade_mp,,90,1,125,iw5_exoxmg,lasersight,stun_grenade_mp,200
+102,em1,HORDE_BEAMER,em1 guys,iw5_em1,none,,160,1,150,iw5_em1loot4,none,frag_grenade_mp,260
+103,em1_heavy,HORDE_BEAMER_HEAVY,purple em1 guys,iw5_em1loot8,semtex_mp,,400,0.8,200,iw5_em1loot1,heatsink,semtex_mp,450
+104,jugg,HORDE_AST,heavy mech,iw5_exominigun,none,,300,1,500,iw5_exominigun,none,none,400
+105,assault,HORDE_ASSAULT,AR guys,iw5_bal27,frag_grenade_mp,,200,1.1,150,iw5_bal27,firerate,frag_grenade_mp,300
+106,assault_elite,HORDE_ELITE,gnarly AR guys,iw5_himar,emp_grenade_mp,,300,1.3,175,iw5_himar,none,emp_grenade_mp,350
+107,rocket,HORDE_LAUNCHER,microdrone launcher guys,iw5_microdronelauncher,stun_grenade_mp,,350,0.9,250,iw5_microdronelauncher,none,stun_grenade_mp,450
+108,cloak,HORDE_ASSASSIN,invisible dudes,iw5_mp11,none,,160,1.5,150,iw5_mp11,silencer01,none,300
+109,handler,HORDE_HANDLER,guy with little drone pets that seek and explode,iw5_exoxmg,frag_grenade_mp,,250,1,200,iw5_exoxmg,firerate,frag_grenade_mp,300
+110,jugg_handler,HORDE_AST,juggernaut with companion drones,iw5_exominigun,none,,300,,500,iw5_exominigun,none,none,400
+111,epm3,HORDE_EPM3,epm3 guys,iw5_epm3,emp_grenade_mp,,300,,200,iw5_epm3,none,emp_grenade_mp,350
+112,dog,HORDE_DOG,,,,,,,100,,,,
+113,drone_mg,,,remote_turret_mp,,,20,,125,,,,
+114,drone_energy,,,remote_energy_turret_mp,,,30,,175,,,,
+115,drone_large_energy,,,remote_energy_turret_mp,,,300,,250,,,,
+116,zombie,,,iw5_zombiemelee,none,,70,1,150,,,,
+117,warbird,,,warbird_remote_turret_mp,,,2000,,500,,,,
+117,,,,,,,,,,,,,
+118,,,,,,,,,,,,,

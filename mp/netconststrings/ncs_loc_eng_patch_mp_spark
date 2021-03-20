@@ -1,0 +1,17 @@
+{
+    "name": "ncs_loc_eng_patch_mp_spark",
+    "stringType": 5,
+    "sourceType": 1,
+    "entryCount": 3,
+    "strings": [
+        {
+            "string": "MP_SPARK_MAP_KILLSTREAK"
+        },
+        {
+            "string": "MP_SPARK_MAP_KILLSTREAK_DESC"
+        },
+        {
+            "string": "MP_SPARK_MAP_KILLSTREAK_PICKUP"
+        }
+    ]
+}

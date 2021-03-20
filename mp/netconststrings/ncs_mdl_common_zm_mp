@@ -1,0 +1,80 @@
+{
+    "name": "ncs_mdl_common_zm_mp",
+    "stringType": 0,
+    "sourceType": 2,
+    "entryCount": 24,
+    "strings": [
+        {
+            "string": "c130_zoomrig"
+        },
+        {
+            "string": "defaultvehicle"
+        },
+        {
+            "string": "flag_holo_base_ground"
+        },
+        {
+            "string": "flag_holo_base_stowed"
+        },
+        {
+            "string": "npc_exo_arm_launcher_l"
+        },
+        {
+            "string": "npc_exo_arm_launcher_r"
+        },
+        {
+            "string": "npc_exo_launcher_base_l"
+        },
+        {
+            "string": "npc_exo_launcher_base_r"
+        },
+        {
+            "string": "npc_mahem_missile_molten_spear"
+        },
+        {
+            "string": "orbital_carepackage_pod_01_logo_atlas"
+        },
+        {
+            "string": "orbital_carepackage_pod_01_logo_sentinel"
+        },
+        {
+            "string": "projectile_bouncing_betty_grenade_small_bombsquad"
+        },
+        {
+            "string": "projectile_rpg7"
+        },
+        {
+            "string": "prop_dogtags_future_enemy_animated"
+        },
+        {
+            "string": "prop_flag_gign"
+        },
+        {
+            "string": "prop_flag_gign_carry"
+        },
+        {
+            "string": "tag_origin"
+        },
+        {
+            "string": "tag_origin_col"
+        },
+        {
+            "string": "tag_player"
+        },
+        {
+            "string": "test_sphere_redchrome"
+        },
+        {
+            "string": "test_sphere_silver"
+        },
+        {
+            "string": "weapon_c4"
+        },
+        {
+            "string": "weapon_radar"
+        },
+        {
+            "string": "weapon_riot_shield_mp"
+        }
+    ]
+}

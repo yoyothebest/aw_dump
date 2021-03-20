@@ -1,0 +1,194 @@
+//
+// Player xanims refix convention:
+//
+// Torso only animation are prefixed with pt_
+// Legs only animations are prefixed with pl_
+// Full body animations (both) are prefixed with pb_
+//
+
+virtual_lobby
+{
+	pb_lobby_operator_pose_a
+	pb_lobby_operator_pose_b
+	pb_lobby_operator_pose_c
+	pb_lobby_operator_pose_d
+	pb_lobby_operator_pose_e
+
+	pb_lobby_assault_checkgun
+	pb_lobby_assault_face
+	pb_lobby_assault_gear
+	pb_lobby_assault_gloves
+	pb_lobby_assault_idle
+	pb_lobby_assault_shoes
+
+	pb_poses_elysium_1
+	pb_poses_elysium_2
+	pb_poses_elysium_3
+	pb_poses_elysium_4
+	pb_poses_elysium_5
+
+	pb_assault_pose_01  
+	pb_assault_pose_02	
+	pb_assault_pose_03	
+	pb_assault_pose_04	
+	pb_assault_pose_05
+	pb_assault_pose_06
+	pb_assault_pose_07 
+	pb_assault_pose_08	
+	pb_assault_pose_09	
+	pb_assault_pose_10	
+	pb_assault_pose_11
+	pb_assault_pose_12
+	pb_assault_pose_13	
+	pb_assault_pose_14	
+	pb_assault_pose_15	
+	pb_assault_pose_16
+	pb_assault_pose_17
+	pb_assault_pose_18
+
+	pb_energy_pose_01
+	pb_energy_pose_02
+	pb_energy_pose_03
+	pb_energy_pose_04
+	pb_energy_pose_05
+	pb_energy_pose_06
+	pb_energy_pose_07
+	pb_energy_pose_08
+	pb_energy_pose_09
+	pb_energy_pose_10
+	pb_energy_pose_11
+	pb_energy_pose_12
+	pb_energy_pose_13
+	pb_energy_pose_14
+	pb_energy_pose_15
+	pb_energy_pose_16
+	pb_energy_pose_17
+	pb_energy_pose_18
+
+	pb_akimbo_pose_01
+	pb_akimbo_pose_02
+	pb_akimbo_pose_03
+	pb_akimbo_pose_04
+	pb_akimbo_pose_05
+	pb_akimbo_pose_06
+	pb_akimbo_pose_07
+	pb_akimbo_pose_08
+	pb_akimbo_pose_09
+	pb_akimbo_pose_10
+	pb_akimbo_pose_11
+	pb_akimbo_pose_12
+	pb_akimbo_pose_13
+	pb_akimbo_pose_14
+	pb_akimbo_pose_15
+	pb_akimbo_pose_16
+	pb_akimbo_pose_17
+	pb_akimbo_pose_18
+
+	pb_lsat_pose_01
+	pb_lsat_pose_02
+	pb_lsat_pose_03
+	pb_lsat_pose_04
+	pb_lsat_pose_06
+	pb_lsat_pose_07
+	pb_lsat_pose_08
+	pb_lsat_pose_09
+	pb_lsat_pose_10
+	pb_lsat_pose_12
+	pb_lsat_pose_14
+	pb_lsat_pose_15
+	pb_lsat_pose_18
+
+	pb_shotgun_pose_01
+	pb_shotgun_pose_02
+	pb_shotgun_pose_04
+	pb_shotgun_pose_05
+	pb_shotgun_pose_06
+	pb_shotgun_pose_07
+	pb_shotgun_pose_08
+	pb_shotgun_pose_09
+	pb_shotgun_pose_11
+	pb_shotgun_pose_12
+	pb_shotgun_pose_13
+	pb_shotgun_pose_17
+	pb_shotgun_pose_18
+
+	pb_sniper_pose_01
+	pb_sniper_pose_02
+	pb_sniper_pose_03
+	pb_sniper_pose_04
+	pb_sniper_pose_05
+	pb_sniper_pose_06
+	pb_sniper_pose_07
+	pb_sniper_pose_08
+	pb_sniper_pose_09
+	pb_sniper_pose_10
+	pb_sniper_pose_11
+	pb_sniper_pose_12
+	pb_sniper_pose_13
+	pb_sniper_pose_14
+	pb_sniper_pose_15
+	pb_sniper_pose_17
+	pb_sniper_pose_18
+	pb_sniper_pose_06
+
+	pb_gm6_pose_01
+	pb_gm6_pose_02
+	pb_gm6_pose_03
+	pb_gm6_pose_04
+	pb_gm6_pose_05
+	pb_gm6_pose_06
+	pb_gm6_pose_07
+	pb_gm6_pose_08
+	pb_gm6_pose_09
+	pb_gm6_pose_10
+	pb_gm6_pose_11
+	pb_gm6_pose_12
+	pb_gm6_pose_13
+	pb_gm6_pose_14
+	pb_gm6_pose_15
+	pb_gm6_pose_16
+	pb_gm6_pose_17
+	pb_gm6_pose_18
+
+	pb_thor_pose_01
+	pb_thor_pose_02
+	pb_thor_pose_03
+	pb_thor_pose_06
+	pb_thor_pose_07
+	pb_thor_pose_08
+	pb_thor_pose_09
+	pb_thor_pose_17
+	pb_thor_pose_18
+
+	pb_knife_pose_06
+	pb_knife_pose_12
+
+	pb_exo_pose_02
+	pb_exo_pose_04
+	pb_exo_pose_05
+	pb_exo_pose_12
+	pb_exo_pose_16
+
+	pb_shield_pose_01
+	pb_shield_pose_06
+	pb_shield_pose_12
+
+	pb_microdrone_pose_01
+	pb_microdrone_pose_04
+	pb_microdrone_pose_09
+	pb_microdrone_pose_12
+
+	pb_crossbow_pose_04
+	pb_crossbow_pose_06
+	pb_crossbow_pose_07
+	pb_crossbow_pose_12
+	pb_crossbow_pose_17
+
+	pb_cao_pose_01
+	pb_selfie_pose_01
+}
+
+
+
+
+

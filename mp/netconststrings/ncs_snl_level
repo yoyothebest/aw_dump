@@ -1,0 +1,446 @@
+{
+    "name": "ncs_snl_level",
+    "stringType": 8,
+    "sourceType": 0,
+    "entryCount": 146,
+    "strings": [
+        {
+            "string": "amb_zmb_h2o_bus_ext"
+        },
+        {
+            "string": "amb_zmb_h2o_bus_rear"
+        },
+        {
+            "string": "amb_zmb_h2o_ext_front"
+        },
+        {
+            "string": "amb_zmb_h2o_ext_rear"
+        },
+        {
+            "string": "amb_zmb_h2o_int_front"
+        },
+        {
+            "string": "amb_zmb_h2o_int_rear"
+        },
+        {
+            "string": "boss_fire_large"
+        },
+        {
+            "string": "cash_machine_malfunction_loop"
+        },
+        {
+            "string": "det_mus_high_tension1"
+        },
+        {
+            "string": "det_mus_horror_lp_01"
+        },
+        {
+            "string": "det_mus_horror_lp_02"
+        },
+        {
+            "string": "det_mus_low_tension1"
+        },
+        {
+            "string": "det_mus_low_tension2"
+        },
+        {
+            "string": "det_mus_low_tension3"
+        },
+        {
+            "string": "distraction_drone_alarm"
+        },
+        {
+            "string": "dna_grenade_front_lp"
+        },
+        {
+            "string": "dna_grenade_rear_lp"
+        },
+        {
+            "string": "ee_capacitor_electricity_loop"
+        },
+        {
+            "string": "ee_computer_loop"
+        },
+        {
+            "string": "ee_depressurize_loop"
+        },
+        {
+            "string": "ee_fire_loop"
+        },
+        {
+            "string": "ee_fire_loop_02"
+        },
+        {
+            "string": "ee_lightbulb_buzz_int_lp"
+        },
+        {
+            "string": "electric_floor_loop"
+        },
+        {
+            "string": "exo_station_active_lp"
+        },
+        {
+            "string": "h2o_alarm1"
+        },
+        {
+            "string": "h2o_ambient_water"
+        },
+        {
+            "string": "h2o_bad_tv"
+        },
+        {
+            "string": "h2o_bubbles_01"
+        },
+        {
+            "string": "h2o_bubbles_02"
+        },
+        {
+            "string": "h2o_bubbles_03"
+        },
+        {
+            "string": "h2o_bubbles_04"
+        },
+        {
+            "string": "h2o_bubbles_05"
+        },
+        {
+            "string": "h2o_bubbles_06"
+        },
+        {
+            "string": "h2o_dist_int_door_rain"
+        },
+        {
+            "string": "h2o_hot_tub"
+        },
+        {
+            "string": "h2o_int_door_rain"
+        },
+        {
+            "string": "h2o_large_vent_01"
+        },
+        {
+            "string": "h2o_large_vent_02"
+        },
+        {
+            "string": "h2o_large_vent_03"
+        },
+        {
+            "string": "h2o_monster_closet"
+        },
+        {
+            "string": "h2o_roomtone_high_01"
+        },
+        {
+            "string": "h2o_roomtone_high_02"
+        },
+        {
+            "string": "h2o_roomtone_high_03"
+        },
+        {
+            "string": "h2o_roomtone_high_04"
+        },
+        {
+            "string": "h2o_roomtone_high_05"
+        },
+        {
+            "string": "h2o_roomtone_high_06"
+        },
+        {
+            "string": "h2o_roomtone_high_07"
+        },
+        {
+            "string": "h2o_roomtone_high_08"
+        },
+        {
+            "string": "h2o_roomtone_low_01"
+        },
+        {
+            "string": "h2o_roomtone_low_02"
+        },
+        {
+            "string": "h2o_roomtone_low_03"
+        },
+        {
+            "string": "h2o_roomtone_low_04"
+        },
+        {
+            "string": "h2o_roomtone_low_05"
+        },
+        {
+            "string": "h2o_roomtone_low_06"
+        },
+        {
+            "string": "h2o_roomtone_low_07"
+        },
+        {
+            "string": "h2o_roomtone_low_08"
+        },
+        {
+            "string": "h2o_roomtone_mid_01"
+        },
+        {
+            "string": "h2o_roomtone_mid_02"
+        },
+        {
+            "string": "h2o_roomtone_mid_03"
+        },
+        {
+            "string": "h2o_roomtone_mid_04"
+        },
+        {
+            "string": "h2o_roomtone_mid_05"
+        },
+        {
+            "string": "h2o_roomtone_mid_06"
+        },
+        {
+            "string": "h2o_roomtone_mid_07"
+        },
+        {
+            "string": "h2o_roomtone_mid_08"
+        },
+        {
+            "string": "h2o_shimmer"
+        },
+        {
+            "string": "h2o_spa_room_water"
+        },
+        {
+            "string": "h2o_transit_station_amb"
+        },
+        {
+            "string": "h2o_turbine"
+        },
+        {
+            "string": "h2o_turbine_lyr2"
+        },
+        {
+            "string": "h2o_vent_01"
+        },
+        {
+            "string": "h2o_vent_02"
+        },
+        {
+            "string": "h2o_vent_03"
+        },
+        {
+            "string": "h2o_vent_04"
+        },
+        {
+            "string": "h2o_vent_05"
+        },
+        {
+            "string": "h2o_vent_06"
+        },
+        {
+            "string": "h2o_water_column"
+        },
+        {
+            "string": "h2o_water_drainage_1"
+        },
+        {
+            "string": "h2o_water_drips_bus_01"
+        },
+        {
+            "string": "h2o_water_drips_bus_02"
+        },
+        {
+            "string": "h2o_water_drips_bus_03"
+        },
+        {
+            "string": "h2o_waterfall"
+        },
+        {
+            "string": "h2o_waterfall_splashy"
+        },
+        {
+            "string": "incinerator_room_machine_loop"
+        },
+        {
+            "string": "interact_credit_machine_attract"
+        },
+        {
+            "string": "interact_decontam_zone_attract"
+        },
+        {
+            "string": "interact_exo_buy_attract"
+        },
+        {
+            "string": "interact_exo_upgrade_attract"
+        },
+        {
+            "string": "interact_generator_lp"
+        },
+        {
+            "string": "interact_mystery_box_attract"
+        },
+        {
+            "string": "interact_weapon_box_attract"
+        },
+        {
+            "string": "interact_weapon_upgrade_attract"
+        },
+        {
+            "string": "mp_barrel_large_exp_burn_lp"
+        },
+        {
+            "string": "refraction_turret_scan"
+        },
+        {
+            "string": "sentry_minigun_fire"
+        },
+        {
+            "string": "trap_laser_alarm"
+        },
+        {
+            "string": "trap_laser_loop"
+        },
+        {
+            "string": "trap_scanner_beam_lp"
+        },
+        {
+            "string": "trap_scanner_spark_lp"
+        },
+        {
+            "string": "treasure_drone_jet_lp"
+        },
+        {
+            "string": "treasure_drone_vox_lp"
+        },
+        {
+            "string": "underwater_bubble_lp_player"
+        },
+        {
+            "string": "underwater_bubble_lp_sm_01"
+        },
+        {
+            "string": "underwater_bubbles_lp"
+        },
+        {
+            "string": "underwater_bubbles_lp_silent"
+        },
+        {
+            "string": "underwater_main_lp"
+        },
+        {
+            "string": "wpn_disruptor_beam_hi_npc"
+        },
+        {
+            "string": "wpn_disruptor_beam_low_npc"
+        },
+        {
+            "string": "wpn_linegun_beam_hi"
+        },
+        {
+            "string": "wpn_trident_prj_loop"
+        },
+        {
+            "string": "zlab_bio_tank_loop_01"
+        },
+        {
+            "string": "zlab_bio_tank_loop_02"
+        },
+        {
+            "string": "zlab_bio_tank_loop_03"
+        },
+        {
+            "string": "zlab_computer_01"
+        },
+        {
+            "string": "zlab_computer_02"
+        },
+        {
+            "string": "zlab_computer_03"
+        },
+        {
+            "string": "zlab_fire_1"
+        },
+        {
+            "string": "zlab_fire_2"
+        },
+        {
+            "string": "zlab_fire_3"
+        },
+        {
+            "string": "zlab_light_hum_01"
+        },
+        {
+            "string": "zlab_light_hum_02"
+        },
+        {
+            "string": "zlab_light_hum_03"
+        },
+        {
+            "string": "zlab_light_hum_04"
+        },
+        {
+            "string": "zlab_light_hum_wide_01"
+        },
+        {
+            "string": "zlab_light_hum_wide_02"
+        },
+        {
+            "string": "zlab_light_hum_wide_03"
+        },
+        {
+            "string": "zlab_light_hum_wide_04"
+        },
+        {
+            "string": "zmb_emz_crackle_loop"
+        },
+        {
+            "string": "zmb_exploder_ambient_loop"
+        },
+        {
+            "string": "zmb_horde_dog"
+        },
+        {
+            "string": "zmb_horde_general"
+        },
+        {
+            "string": "zmb_horde_host"
+        },
+        {
+            "string": "zmb_mus_bossfight_01"
+        },
+        {
+            "string": "zmb_mus_bossfight_02"
+        },
+        {
+            "string": "zmb_mus_memory_bus"
+        },
+        {
+            "string": "zmb_mus_postround"
+        },
+        {
+            "string": "zmb_mus_spec_01_lp"
+        },
+        {
+            "string": "zmb_mus_spec_02_lp"
+        },
+        {
+            "string": "zmb_mus_spec_03_lp"
+        },
+        {
+            "string": "zmb_mus_wave_01_lp"
+        },
+        {
+            "string": "zmb_mus_wave_02_lp"
+        },
+        {
+            "string": "zmb_mus_wave_03_lp"
+        },
+        {
+            "string": "zmb_pickup_timer"
+        },
+        {
+            "string": "zmb_runner_ambient_loop"
+        },
+        {
+            "string": "zom_boss_trap_laser_alarm"
+        },
+        {
+            "string": "zombie_fadeout_heartbeat"
+        }
+    ]
+}

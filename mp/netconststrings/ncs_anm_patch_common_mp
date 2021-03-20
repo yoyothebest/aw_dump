@@ -1,0 +1,11 @@
+{
+    "name": "ncs_anm_patch_common_mp",
+    "stringType": 19,
+    "sourceType": 2,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "mp_goliath_spawn_2_stand_idle"
+        }
+    ]
+}

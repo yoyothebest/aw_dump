@@ -1,0 +1,16 @@
+warehouse_to_gas_station,1500,Starting Room Exit
+warehouse_to_atlas,1500,Starting Room Exit
+gas_station_interior,1000,
+gas_station_to_sewer,2000,
+atlas_command,1000,
+atlas_to_sewer,2000,
+sewertrans_to_sewertunnel,2000,
+sewermain_to_sewercave,250,
+sewer_to_burgertown,2000,
+burgertown_storage,1000,
+trap_snipers,500,
+trap_gators,500,
+trap_airstrike,500,
+trap_electric_floor,500,
+trap_sewer_steam,500,
+trap_ambulance,500,

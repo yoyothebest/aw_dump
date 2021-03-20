@@ -1,0 +1,50 @@
+{
+    "name": "ncs_sbx_level",
+    "stringType": 7,
+    "sourceType": 0,
+    "entryCount": 14,
+    "strings": [
+        {
+            "string": "bink_mix"
+        },
+        {
+            "string": "boss_oz"
+        },
+        {
+            "string": "boss_oz_2"
+        },
+        {
+            "string": "h2o_bus_sequence"
+        },
+        {
+            "string": "h2o_dim_mall_music"
+        },
+        {
+            "string": "h2o_exterior"
+        },
+        {
+            "string": "h2o_interior"
+        },
+        {
+            "string": "h2o_semi_open"
+        },
+        {
+            "string": "h2o_spa_room"
+        },
+        {
+            "string": "horde_silent"
+        },
+        {
+            "string": "infected"
+        },
+        {
+            "string": "master_mix"
+        },
+        {
+            "string": "silent"
+        },
+        {
+            "string": "underwater"
+        }
+    ]
+}

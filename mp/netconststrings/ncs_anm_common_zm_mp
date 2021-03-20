@@ -1,0 +1,14 @@
+{
+    "name": "ncs_anm_common_zm_mp",
+    "stringType": 19,
+    "sourceType": 2,
+    "entryCount": 2,
+    "strings": [
+        {
+            "string": "mp_dogtag_spin"
+        },
+        {
+            "string": "mp_orbital_pod_base_unfold"
+        }
+    ]
+}

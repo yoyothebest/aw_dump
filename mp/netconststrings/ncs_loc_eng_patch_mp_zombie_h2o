@@ -1,0 +1,59 @@
+{
+    "name": "ncs_loc_eng_patch_mp_zombie_h2o",
+    "stringType": 5,
+    "sourceType": 1,
+    "entryCount": 17,
+    "strings": [
+        {
+            "string": "KILLSTREAKS_DLC3_DISRUPTOR_TURRET"
+        },
+        {
+            "string": "ZOMBIE_DLC3_REPULSOR"
+        },
+        {
+            "string": "ZOMBIE_DLC3_TELEPORT_GRENADE"
+        },
+        {
+            "string": "ZOMBIE_DLC3_TELEPORT_GRENADE_AMMO"
+        },
+        {
+            "string": "ZOMBIE_H2O_AMMO_CRATE"
+        },
+        {
+            "string": "ZOMBIE_H2O_CHALLENGE_DRONES"
+        },
+        {
+            "string": "ZOMBIE_H2O_CHALLENGE_FAILURE"
+        },
+        {
+            "string": "ZOMBIE_H2O_CHALLENGE_FRIENDLY"
+        },
+        {
+            "string": "ZOMBIE_H2O_CHALLENGE_GRENADES"
+        },
+        {
+            "string": "ZOMBIE_H2O_CHALLENGE_MOVEMENT"
+        },
+        {
+            "string": "ZOMBIE_H2O_CHALLENGE_ROCKETS"
+        },
+        {
+            "string": "ZOMBIE_H2O_CHALLENGE_SUCCESS"
+        },
+        {
+            "string": "ZOMBIE_H2O_HARD_MODE_VOTE"
+        },
+        {
+            "string": "ZOMBIE_H2O_SQ_WPN_UPGRADE"
+        },
+        {
+            "string": "ZOMBIE_H2O_START_HARD_MODE"
+        },
+        {
+            "string": "ZOMBIE_SQUADMATE_SENTINEL"
+        },
+        {
+            "string": "ZOMBIE_SQUADMATE_SQUADMATE"
+        }
+    ]
+}

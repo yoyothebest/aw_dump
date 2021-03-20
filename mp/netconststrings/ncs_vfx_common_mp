@@ -1,0 +1,287 @@
+{
+    "name": "ncs_vfx_common_mp",
+    "stringType": 4,
+    "sourceType": 2,
+    "entryCount": 93,
+    "strings": [
+        {
+            "string": "fx/explosions/aerial_explosion_large"
+        },
+        {
+            "string": "fx/explosions/clusterbomb_exp_direct_runner_stealth"
+        },
+        {
+            "string": "fx/fire/ballistic_vest_death"
+        },
+        {
+            "string": "fx/impacts/large_metalhit_1"
+        },
+        {
+            "string": "fx/muzzleflashes/shotgunflash"
+        },
+        {
+            "string": "fx/props/barrelexp"
+        },
+        {
+            "string": "vfx/beam/orbital_laser"
+        },
+        {
+            "string": "vfx/code/slam_jetpack_kneeslide"
+        },
+        {
+            "string": "vfx/dust/bouncing_betty_swirl"
+        },
+        {
+            "string": "vfx/dust/sniper_dust_kickup"
+        },
+        {
+            "string": "vfx/dust/sniper_dust_kickup_accum_suppress"
+        },
+        {
+            "string": "vfx/explosion/bouncing_betty_explosion"
+        },
+        {
+            "string": "vfx/explosion/electrical_sparks_runner"
+        },
+        {
+            "string": "vfx/explosion/electrical_sparks_small_emp_runner"
+        },
+        {
+            "string": "vfx/explosion/electrical_sparks_small_runner"
+        },
+        {
+            "string": "vfx/explosion/emp_grenade_mp"
+        },
+        {
+            "string": "vfx/explosion/exo_repulsor_impact"
+        },
+        {
+            "string": "vfx/explosion/frag_grenade_default"
+        },
+        {
+            "string": "vfx/explosion/frag_grenade_default_nodecal"
+        },
+        {
+            "string": "vfx/explosion/mp_gametype_bomb"
+        },
+        {
+            "string": "vfx/explosion/mp_tac_explosion"
+        },
+        {
+            "string": "vfx/explosion/riotshield_stun"
+        },
+        {
+            "string": "vfx/explosion/rocket_explosion_airburst"
+        },
+        {
+            "string": "vfx/lensflare/flares_warbird"
+        },
+        {
+            "string": "vfx/lights/exo_overclock_hip_le_inactive"
+        },
+        {
+            "string": "vfx/lights/exo_overclock_hip_le_start"
+        },
+        {
+            "string": "vfx/lights/exo_overclock_hip_ri_inactive"
+        },
+        {
+            "string": "vfx/lights/exo_overclock_hip_ri_start"
+        },
+        {
+            "string": "vfx/lights/light_beacon_crossbow"
+        },
+        {
+            "string": "vfx/lights/light_beacon_m990_spike"
+        },
+        {
+            "string": "vfx/lights/light_beacon_sdbomb"
+        },
+        {
+            "string": "vfx/lights/light_c4_blink"
+        },
+        {
+            "string": "vfx/lights/light_drone_beacon_red"
+        },
+        {
+            "string": "vfx/lights/light_mine_blink_friendly"
+        },
+        {
+            "string": "vfx/lights/light_sdbomb_blinking"
+        },
+        {
+            "string": "vfx/lights/light_semtex_blinking"
+        },
+        {
+            "string": "vfx/lights/riotshield_deploy_lights"
+        },
+        {
+            "string": "vfx/muzzleflash/exo_launcher_flash_view"
+        },
+        {
+            "string": "vfx/props/cash_player_drop"
+        },
+        {
+            "string": "vfx/props/flare_ambient"
+        },
+        {
+            "string": "vfx/props/flare_ambient_green"
+        },
+        {
+            "string": "vfx/props/tac_insert_enemy"
+        },
+        {
+            "string": "vfx/props/tac_insert_friendly"
+        },
+        {
+            "string": "vfx/smoke/exohover_exhaust_continuous"
+        },
+        {
+            "string": "vfx/smoke/exohover_exhaust_continuous_suppressed"
+        },
+        {
+            "string": "vfx/smoke/riotshield_deploy_smoke"
+        },
+        {
+            "string": "vfx/sparks/emp_drone_damage"
+        },
+        {
+            "string": "vfx/test/mp_gamemode_ball_trail"
+        },
+        {
+            "string": "vfx/trail/smoke_trail_white_heli_emitter"
+        },
+        {
+            "string": "vfx/trail/smoketrail_uav"
+        },
+        {
+            "string": "vfx/trail/vfx_uplink_ball_trl"
+        },
+        {
+            "string": "vfx/trail/vfx_uplink_ball_trl2"
+        },
+        {
+            "string": "vfx/treadfx/footstep_dust"
+        },
+        {
+            "string": "vfx/treadfx/heli_dust_default"
+        },
+        {
+            "string": "vfx/ui/exo_overclock_overlay"
+        },
+        {
+            "string": "vfx/ui/ui_exo_health_overlay"
+        },
+        {
+            "string": "vfx/unique/dogtag_vanish"
+        },
+        {
+            "string": "vfx/unique/exo_health_le_active"
+        },
+        {
+            "string": "vfx/unique/exo_health_le_inactive"
+        },
+        {
+            "string": "vfx/unique/exo_health_rt_active"
+        },
+        {
+            "string": "vfx/unique/exo_health_rt_inactive"
+        },
+        {
+            "string": "vfx/unique/exo_mute_3p"
+        },
+        {
+            "string": "vfx/unique/exo_ping_active"
+        },
+        {
+            "string": "vfx/unique/exo_ping_active_1p"
+        },
+        {
+            "string": "vfx/unique/exo_ping_inactive"
+        },
+        {
+            "string": "vfx/unique/exo_repulsor_emitter"
+        },
+        {
+            "string": "vfx/unique/exo_repulsor_inactive"
+        },
+        {
+            "string": "vfx/unique/orbital_dome_ground_friendly"
+        },
+        {
+            "string": "vfx/unique/repulsor_bubble"
+        },
+        {
+            "string": "vfx/unique/repulsor_bubble_deactivate"
+        },
+        {
+            "string": "vfx/unique/vfx_flag_project_atlas_enemy"
+        },
+        {
+            "string": "vfx/unique/vfx_flag_project_atlas_friendly"
+        },
+        {
+            "string": "vfx/unique/vfx_flag_project_neutral"
+        },
+        {
+            "string": "vfx/unique/vfx_flag_project_sentinel_enemy"
+        },
+        {
+            "string": "vfx/unique/vfx_flag_project_sentinel_friendly"
+        },
+        {
+            "string": "vfx/unique/vfx_flag_project_stowed_atlas_enemy"
+        },
+        {
+            "string": "vfx/unique/vfx_flag_project_stowed_atlas_friendly"
+        },
+        {
+            "string": "vfx/unique/vfx_flag_project_stowed_sentinel_enemy"
+        },
+        {
+            "string": "vfx/unique/vfx_flag_project_stowed_sentinel_friendly"
+        },
+        {
+            "string": "vfx/unique/vfx_marker_ctf"
+        },
+        {
+            "string": "vfx/unique/vfx_marker_ctf_red"
+        },
+        {
+            "string": "vfx/unique/vfx_marker_dom"
+        },
+        {
+            "string": "vfx/unique/vfx_marker_dom_red"
+        },
+        {
+            "string": "vfx/unique/vfx_marker_dom_white"
+        },
+        {
+            "string": "vfx/unique/vfx_uplink_ball_glow"
+        },
+        {
+            "string": "vfx/unique/vfx_uplink_ball_idle"
+        },
+        {
+            "string": "vfx/unique/vfx_uplink_ball_impact"
+        },
+        {
+            "string": "vfx/unique/vfx_uplink_ball_score"
+        },
+        {
+            "string": "vfx/unique/vfx_uplink_ball_score_friendly"
+        },
+        {
+            "string": "vfx/unique/vfx_uplink_goal"
+        },
+        {
+            "string": "vfx/unique/vfx_uplink_goal_friendly"
+        },
+        {
+            "string": "vfx/weaponimpact/bouncing_betty_launch_dirt"
+        },
+        {
+            "string": "vfx/weaponimpact/flesh_impact_head_fatal_exit"
+        }
+    ]
+}

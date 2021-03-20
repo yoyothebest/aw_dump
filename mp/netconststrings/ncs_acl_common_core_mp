@@ -1,0 +1,11 @@
+{
+    "name": "ncs_acl_common_core_mp",
+    "stringType": 21,
+    "sourceType": 2,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "dog_animclass"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+zone_names,ambience,ambient_name,mix,reverb,filter,occlusion,player_adsr,,
+mp_bigben2,amb_ext_bigben2_rain,bigben2_exterior,mp_ext_zone_mix,mp_bigben2_ext,,mp_tuned_default,,,
+int_machine_hall_open,amb_ext_bigben2_rain,,,mp_bigben2_int,,mp_tuned_default,,,
+int_storage_sml_open,amb_ext_bigben2_rain,,,mp_bigben2_int_slap,,mp_tuned_default,,,
+ext_cargo_bay,amb_ext_bigben2_rain,bigben2_exterior,mp_ext_zone_mix,mp_bigben2_ext_slap,,mp_tuned_default,,,
+mp_killcam_slomo,,,,,,,default,,
+painvision,,,,,,,default,,
+filter_names,dsp_bus_name,type,freq,gain,q,,,,
+reverb_names,roomtype,drylevel,wetlevel,fade,,,,,
+mp_bigben2_ext,courtyard,1,0.8,2,,,,,
+mp_bigben2_ext_slap,courtyard,1,0.8,2,,,,,
+mp_bigben2_int,hall_marble,0.7,0.8,2,,,,,
+mp_bigben2_int_slap,elevator_shaft,0.7,0.8,2,,,,,
+dynamic_component,alias,first_event_time_min,first_event_time_max,event_time_min,event_time_max,range_min,range_max,cone_min,cone_max
+thunder,dyn_thunder_dist,1,2,15,30,1000,2000,0,360
+commercial_jets,dyn_commercial_jet_flyby_dist,10,20,15,30,1000,2000,0,360
+dynamic_ambience_names,components,,,,,,,,
+bigben2_exterior,thunder + commercial_jets,,,,,,,,
+adsr_zone_player,weapon,adsr,,,,,,,
+adsr_zone_npc,weapon,adsr,,,,,,,
+adsr_name,att_len,dec_len,sus_len,sus_level,rel_len,,,,
+mix_names,volmod,value,fadein,fadeout,,,,,

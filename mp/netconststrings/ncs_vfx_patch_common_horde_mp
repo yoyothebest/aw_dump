@@ -1,0 +1,17 @@
+{
+    "name": "ncs_vfx_patch_common_horde_mp",
+    "stringType": 4,
+    "sourceType": 2,
+    "entryCount": 3,
+    "strings": [
+        {
+            "string": "vfx/lights/light_drone_beacon_red"
+        },
+        {
+            "string": "vfx/props/flare_ambient_green"
+        },
+        {
+            "string": "vfx/sparks/emp_drone_damage"
+        }
+    ]
+}

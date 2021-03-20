@@ -1,0 +1,54 @@
+iw5_titan45zm_mp,Pistol,10,1.75,false,false,Default pistol,Atlas 45
+iw5_rw1zm_mp,Pistol,1.65,.75,true,false,Heavy 1 shot pistol,RW1
+iw5_mp11zm_mp,Pistol,3,2.15,false,false,Machine pistol,MP11
+iw5_asm1zm_mp,SMG,2.5,1.75,false,false,Large clip fast SMG,ASM1
+iw5_sn6zm_mp,SMG,2.3,1.85,false,false,Average SMG,SN6
+iw5_hbra3zm_mp,SMG,2.45,1.65,true,false,Heavy SMG,HBRa3
+iw5_sac3zm_mp,SMG,3,2.15,false,false,Akimbo SMG,SAC3
+iw5_hmr9zm_mp,SMG,2.65,2.25,true,false,5 Round Burst,AMR9
+iw5_ak12zm_mp,Assault,2.55,1.75,true,false,Average Assault,AK12
+iw5_bal27zm_mp,Assault,2.7,1.85,false,false,Accurate Assault,Bal-27
+iw5_arx160zm_mp,Assault,2.15,1.35,true,false,3 Round Burst,ARX-160
+iw5_himarzm_mp,Assault,2.05,1.25,true,false,4 Round Burst,IMR
+iw5_maulzm_mp,Shotgun,2.5,1.75,false,false,Basic shotgun,Bulldog
+iw5_uts19zm_mp,Shotgun,3,2.25,true,true,Energy shotgun,Tac-19
+iw5_fusionzm_mp,Shotgun,2.85,2,true,false,Charge Shotgun,Fusion Shotgun
+iw5_lsatzm_mp,LMG,3.45,2.75,true,false,Heavy LMG,Pyaek
+iw5_asawzm_mp,LMG,3.95,3,true,false,Accurate LMG,Ameli
+iw5_dlcgun1zm_mp,Energy SMG,2.2,1.45,true,false,DLC 1 Energy SMG,AE4
+iw5_dlcgun2zm_mp,LMG,3.95,3,true,false,DLC 2 Energy LMG Shotgun,OHM
+iw5_dlcgun3zm_mp,Pistol,1.65,.75,true,false,Heavy Akimbo Pistols,M1 Irons
+iw5_dlcgun4zm_mp,Shotgun,0.25,0.25,true,true,Heavy Shotgun,Blunderbuss
+iw5_em1zm_mp,Energy,4.5,3.75,true,false,Laser,EM1
+iw5_m182sprzm_mp,Rifle,2,1.25,true,false,Bolt Action Rifle,MK14
+drone_assault_remote_turret_mp,Turret,4.5,,true,false,Assault Drone Killstreak,Assault Drone
+sentry_minigun_mp,Turret,4.5,,false,true,Sentry Gun Killstreak,Remote Turret
+iw5_linegundamagezm_mp,Projectile,.25,.25,true,false,Expanding damge line,Line Gun
+iw5_mahemzm_mp,Projectile,.25,.25,true,true,RPG,MAHEM
+iw5_exocrossbowzm_mp,Projectile,2,1,true,false,Explosive Crossbow,Crossbow
+iw5_tridentzm_mp,Projectile,.25,.25,true,false,Large Projectile,Trident
+iw5_microwavezm_mp,Energy,10000,10000,false,true,Laser,Microwave
+orbital_carepackage_pod_zm_mp,Projectile,0,0,true,true,Orbital Drop Pod,Care Package Killstreak
+dna_aoe_grenade_zombie_mp,Grenade,10000,,false,false,Damage over time grenade,DNA Grenade
+dna_aoe_grenade_throw_zombie_mp,Grenade,10000,,false,false,Damage over time grenade,DNA Grenade
+frag_grenade_zombies_mp,Grenade,.85,,true,true,Default Grenade,Frag Grenade
+frag_grenade_throw_zombies_mp,Grenade,.85,,true,true,Default Grenade,Frag Grenade
+distraction_drone_zombie_mp,Grenade,1.5,,true,true,Distraction Drone,Distraction Drone
+distraction_drone_throw_zombie_mp,Grenade,1.5,,true,true,Distraction Drone,Distraction Drone
+contact_grenade_zombies_mp,Grenade,.75,,true,true,Contact Grenade,Contact Grenade
+contact_grenade_throw_zombies_mp,Grenade,.75,,true,true,Contact Grenade,Contact Grenade
+teleport_zombies_mp,Grenade,.75,,true,true,Teleport Grenade,Teleport Grenade
+teleport_throw_zombies_mp,Grenade,.75,,true,true,Teleport Grenade,Teleport Grenade
+explosive_drone_zombie_mp,Mine,.95,,true,true,Explosive Mine,Explosive Drone
+explosive_drone_throw_zombie_mp,Mine,.95,,true,true,Explosive Mine,Explosive Drone
+boost_slam_mp,Exo Perk,.75,,true,true,Exo Slam Perk,Exo Slam
+iw5_exominigunzm_mp,LMG,3.95,3,true,false,Goliath Killstreak,Exo Minigun
+MOD_EXPLOSIVE,DAMAGE_MOD,.25,,true,true,Explosive Damage,
+MOD_EXPLOSIVE_SPLASH,DAMAGE_MOD,.75,,false,true,Explosive Splash Damage,
+MOD_MELEE,DAMAGE_MOD,.75,,true,false,Melee attack,
+MOD_IMPACT,DAMAGE_MOD,10000,,false,false,Impact damage mod,
+MOD_CRUSH,DAMAGE_MOD,1,,true,true,Crushed by mover,
+MOD_GRENADE,DAMAGE_MOD,.35,,true,true,Grenade Damage,
+MOD_GRENADE_SPLASH,DAMAGE_MOD,.75,,false,true,Grenade Splash Damage,
+MOD_PROJECTILE,DAMAGE_MOD,.45,,true,false,Projectile,
+MOD_PROJECTILE_SPLASH,DAMAGE_MOD,.75,,true,true,Projectile Splash,

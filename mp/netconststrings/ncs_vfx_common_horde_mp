@@ -1,0 +1,404 @@
+{
+    "name": "ncs_vfx_common_horde_mp",
+    "stringType": 4,
+    "sourceType": 2,
+    "entryCount": 132,
+    "strings": [
+        {
+            "string": "fx/explosions/aerial_explosion"
+        },
+        {
+            "string": "fx/explosions/emp_flash_mp"
+        },
+        {
+            "string": "fx/explosions/helicopter_explosion_secondary_small"
+        },
+        {
+            "string": "fx/explosions/javelin_explosion"
+        },
+        {
+            "string": "fx/explosions/sparks_a"
+        },
+        {
+            "string": "fx/impacts/small_snowhit"
+        },
+        {
+            "string": "fx/maps/mp_siege_dam/mp_siege_spawn"
+        },
+        {
+            "string": "fx/props/american_smoke_grenade_mp"
+        },
+        {
+            "string": "fx/smoke/airdrop_flare_mp_effect_now"
+        },
+        {
+            "string": "fx/smoke/signal_smoke_airdrop"
+        },
+        {
+            "string": "fx/smoke/smoke_geotrail_rpg"
+        },
+        {
+            "string": "vfx/beam/orbital_laser_ending"
+        },
+        {
+            "string": "vfx/beam/orbital_laser_fire_large"
+        },
+        {
+            "string": "vfx/beam/orbital_laser_fire_lightshow"
+        },
+        {
+            "string": "vfx/beam/orbital_laser_fire_lightshow_large"
+        },
+        {
+            "string": "vfx/beam/orbital_laser_fire_small"
+        },
+        {
+            "string": "vfx/beam/orbital_laser_lightbeam"
+        },
+        {
+            "string": "vfx/beam/orbital_laser_lightbeam_burnmark"
+        },
+        {
+            "string": "vfx/beam/orbital_laser_lightbeam_lg"
+        },
+        {
+            "string": "vfx/beam/orbital_laser_lightbeam_lightshow"
+        },
+        {
+            "string": "vfx/beam/orbital_laser_lightbeam_lightshow_lg"
+        },
+        {
+            "string": "vfx/beam/orbital_laser_smoldering"
+        },
+        {
+            "string": "vfx/beam/orbital_laser_warmup"
+        },
+        {
+            "string": "vfx/beam/orbital_laser_warmup_large"
+        },
+        {
+            "string": "vfx/beam/orbital_laser_warmup_lightshow"
+        },
+        {
+            "string": "vfx/beam/orbital_laser_warmup_lightshow_large"
+        },
+        {
+            "string": "vfx/beam/orbital_laser_water_aftermath"
+        },
+        {
+            "string": "vfx/beam/orbital_laser_water_boiling"
+        },
+        {
+            "string": "vfx/beam/orbital_laser_water_sm"
+        },
+        {
+            "string": "vfx/cloud/orbitalsupport_cloud"
+        },
+        {
+            "string": "vfx/distortion/distortion_warbird_mp"
+        },
+        {
+            "string": "vfx/distortion/drone_fan_distortion"
+        },
+        {
+            "string": "vfx/distortion/drone_fan_distortion_large"
+        },
+        {
+            "string": "vfx/distortion/drone_thruster_distortion"
+        },
+        {
+            "string": "vfx/distortion/sentrygun_overheat"
+        },
+        {
+            "string": "vfx/distortion/tracking_drone_distortion_down"
+        },
+        {
+            "string": "vfx/distortion/tracking_drone_distortion_hemi"
+        },
+        {
+            "string": "vfx/distortion/tracking_drone_distortion_up"
+        },
+        {
+            "string": "vfx/dust/nuke_aftermath_mp"
+        },
+        {
+            "string": "vfx/explosion/clusterbomb_explode"
+        },
+        {
+            "string": "vfx/explosion/dna_bomb_body_gas"
+        },
+        {
+            "string": "vfx/explosion/dna_bomb_flash_mp"
+        },
+        {
+            "string": "vfx/explosion/emp_grenade_explosion"
+        },
+        {
+            "string": "vfx/explosion/exo_droppod_explosion"
+        },
+        {
+            "string": "vfx/explosion/exo_droppod_groundhit"
+        },
+        {
+            "string": "vfx/explosion/exo_droppod_split"
+        },
+        {
+            "string": "vfx/explosion/explosive_drone_explosion"
+        },
+        {
+            "string": "vfx/explosion/goliath_pod_opening"
+        },
+        {
+            "string": "vfx/explosion/goliath_self_destruct"
+        },
+        {
+            "string": "vfx/explosion/remote_sentry_death"
+        },
+        {
+            "string": "vfx/explosion/remote_sentry_death_smoke"
+        },
+        {
+            "string": "vfx/explosion/rocket_explosion_distant"
+        },
+        {
+            "string": "vfx/explosion/sparks_burst_lrg_c"
+        },
+        {
+            "string": "vfx/explosion/tracking_drone_explosion"
+        },
+        {
+            "string": "vfx/explosion/vehicle_assault_drone_death"
+        },
+        {
+            "string": "vfx/explosion/vehicle_mil_blimp_explosion"
+        },
+        {
+            "string": "vfx/explosion/vehicle_mil_blimp_explosion_jet"
+        },
+        {
+            "string": "vfx/explosion/vehicle_osp_explosion_midair"
+        },
+        {
+            "string": "vfx/explosion/vehicle_pdrone_explosion"
+        },
+        {
+            "string": "vfx/explosion/vehicle_pdrone_large_explosion"
+        },
+        {
+            "string": "vfx/explosion/vehicle_uav_explosion"
+        },
+        {
+            "string": "vfx/explosion/vehicle_warbird_explosion_midair"
+        },
+        {
+            "string": "vfx/explosion/vfx_clusterbomb"
+        },
+        {
+            "string": "vfx/fire/goliath_death_fire"
+        },
+        {
+            "string": "vfx/fire/helicopter_damaged_fire_m"
+        },
+        {
+            "string": "vfx/fire/jet_afterburner"
+        },
+        {
+            "string": "vfx/fire/remote_sentry_laser_flash"
+        },
+        {
+            "string": "vfx/lights/air_light_wingtip_red"
+        },
+        {
+            "string": "vfx/lights/aircraft_light_wingtip_green"
+        },
+        {
+            "string": "vfx/lights/light_detonator_blink"
+        },
+        {
+            "string": "vfx/lights/light_drone_beacon_blue_fast"
+        },
+        {
+            "string": "vfx/lights/light_drone_beacon_blue_slow_nolight"
+        },
+        {
+            "string": "vfx/lights/light_drone_beacon_red_fast"
+        },
+        {
+            "string": "vfx/lights/light_drone_beacon_red_slow_nolight"
+        },
+        {
+            "string": "vfx/lights/light_drone_beacon_red_sm_nolight"
+        },
+        {
+            "string": "vfx/lights/light_explosive_drone_beacon_enemy"
+        },
+        {
+            "string": "vfx/lights/light_explosive_drone_beacon_friendly"
+        },
+        {
+            "string": "vfx/lights/light_reconugv_antenna"
+        },
+        {
+            "string": "vfx/lights/light_tracking_drone_blink_enemy"
+        },
+        {
+            "string": "vfx/lights/light_tracking_drone_blink_friendly"
+        },
+        {
+            "string": "vfx/lights/light_tracking_drone_blink_warning"
+        },
+        {
+            "string": "vfx/lights/tracking_drone_laser_blue"
+        },
+        {
+            "string": "vfx/lights/vehicle_osp_light"
+        },
+        {
+            "string": "vfx/muzzleflash/exo_armor_gun_barrel_heat_view_loop"
+        },
+        {
+            "string": "vfx/muzzleflash/exo_armor_gun_barrel_overheat_view"
+        },
+        {
+            "string": "vfx/muzzleflash/orbitalsupport_105mm_wv"
+        },
+        {
+            "string": "vfx/muzzleflash/orbitalsupport_40mm_wv"
+        },
+        {
+            "string": "vfx/muzzleflash/pdrone_flash_wv"
+        },
+        {
+            "string": "vfx/muzzleflash/playermech_lethal_flash_wv"
+        },
+        {
+            "string": "vfx/muzzleflash/playermech_tactical_wv_run"
+        },
+        {
+            "string": "vfx/muzzleflash/rocket_launch_air_to_ground"
+        },
+        {
+            "string": "vfx/muzzleflash/rpg_flash_view"
+        },
+        {
+            "string": "vfx/muzzleflash/rpg_flash_wv"
+        },
+        {
+            "string": "vfx/smoke/vehicle_sentrygun_damaged_smoke"
+        },
+        {
+            "string": "vfx/sparks/direct_hack_stun"
+        },
+        {
+            "string": "vfx/steam/steam_pipe_burst"
+        },
+        {
+            "string": "vfx/steam/steam_wide_vent_burst"
+        },
+        {
+            "string": "vfx/steam/vfx_ocp_steam"
+        },
+        {
+            "string": "vfx/steam/vfx_ocp_steam2"
+        },
+        {
+            "string": "vfx/trail/explosive_drone_thruster_large"
+        },
+        {
+            "string": "vfx/trail/explosive_drone_thruster_small"
+        },
+        {
+            "string": "vfx/trail/jet_contrail"
+        },
+        {
+            "string": "vfx/trail/smoke_trail_black_heli_emitter"
+        },
+        {
+            "string": "vfx/trail/tracking_grenade_hovering"
+        },
+        {
+            "string": "vfx/trail/tracking_grenade_spay_small"
+        },
+        {
+            "string": "vfx/trail/tracking_grenade_trail"
+        },
+        {
+            "string": "vfx/trail/trail_drone_fire_smk_sm_runner_1"
+        },
+        {
+            "string": "vfx/treadfx/tread_dust_reconugv_default"
+        },
+        {
+            "string": "vfx/ui/vfx_marker_drone_assault"
+        },
+        {
+            "string": "vfx/ui/vfx_marker_drone_recon"
+        },
+        {
+            "string": "vfx/ui/vfx_marker_drone_recon2"
+        },
+        {
+            "string": "vfx/unique/forward_view_radial_blur"
+        },
+        {
+            "string": "vfx/unique/orbital_carepackage_glow"
+        },
+        {
+            "string": "vfx/unique/vfx_killstreak_missilestrike_dna"
+        },
+        {
+            "string": "vfx/unique/vfx_killstreak_missilestrike_dna_friendly"
+        },
+        {
+            "string": "vfx/unique/vfx_marker_killstreak_guide"
+        },
+        {
+            "string": "vfx/unique/vfx_marker_killstreak_guide_carepackage"
+        },
+        {
+            "string": "vfx/unique/vfx_marker_killstreak_guide_carepackage_fizzle"
+        },
+        {
+            "string": "vfx/unique/vfx_marker_killstreak_guide_goliath"
+        },
+        {
+            "string": "vfx/unique/vfx_odin_parallax_clouds"
+        },
+        {
+            "string": "vfx/vehicle/vehicle_assault_drone_rocket"
+        },
+        {
+            "string": "vfx/vehicle/vehicle_mp_assault_drone_exhaust"
+        },
+        {
+            "string": "vfx/vehicle/vehicle_mp_assault_drone_thruster"
+        },
+        {
+            "string": "vfx/vehicle/vehicle_mp_recon_drone_smoke"
+        },
+        {
+            "string": "vfx/vehicle/vehicle_ocp_exhaust"
+        },
+        {
+            "string": "vfx/vehicle/vehicle_ocp_thrusters_small"
+        },
+        {
+            "string": "vfx/vehicle/vehicle_osp_enter_clouds_parent"
+        },
+        {
+            "string": "vfx/vehicle/vehicle_osp_enter_flash"
+        },
+        {
+            "string": "vfx/vehicle/vehicle_osp_enter_shock"
+        },
+        {
+            "string": "vfx/vehicle/vehicle_osp_jet"
+        },
+        {
+            "string": "vfx/vehicle/vehicle_osp_jet_lg"
+        },
+        {
+            "string": "vfx/vehicle/vehicle_osp_jet_lg_trl"
+        }
+    ]
+}

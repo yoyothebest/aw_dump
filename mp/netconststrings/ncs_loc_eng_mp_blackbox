@@ -1,0 +1,11 @@
+{
+    "name": "ncs_loc_eng_mp_blackbox",
+    "stringType": 5,
+    "sourceType": 2,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "MP_BLACKBOX_MAP_KILLSTREAK_PICKUP"
+        }
+    ]
+}

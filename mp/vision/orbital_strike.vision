@@ -1,0 +1,26 @@
+r_glow                    "0"
+r_glowRadius0             "5"
+r_glowBloomCutoff         "0.5"
+r_glowBloomDesaturation   "0"
+r_glowBloomIntensity0     "1"
+ 
+r_filmEnable              "0"
+r_filmContrast            "1.4"
+r_filmBrightness          "0"
+r_filmDesaturation        "0.2"
+r_filmDesaturationDark    "0.2"
+r_filmInvert              "0"
+r_filmLightTint           "1.1 1.05 0.85"
+r_filmMediumTint          "1.06875 1.1875 1.06875"
+r_filmDarkTint            "0.940625 1.14219 1.34375"
+ 
+r_primaryLightUseTweaks              "0"
+r_primaryLightTweakDiffuseStrength   "1"
+r_primaryLightTweakSpecularStrength  "1"
+ 
+r_charLightAmbient                   "0 0 0"
+r_viewModelLightAmbient              "0 0 0"
+ 
+r_viewModelPrimaryLightUseTweaks     "0"
+r_viewModelPrimaryLightTweakDiffuseStrength "1"
+r_viewModelPrimaryLightTweakSpecularStrength "1"

@@ -1,0 +1,16 @@
+dm
+dom
+sd
+war
+ctf
+gun
+infect
+conf
+vlobby
+hp
+sr
+horde
+ball
+twar
+zombies
+goliath

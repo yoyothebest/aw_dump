@@ -1,0 +1,17 @@
+{
+    "name": "ncs_snl_common_core_mp",
+    "stringType": 8,
+    "sourceType": 2,
+    "entryCount": 3,
+    "strings": [
+        {
+            "string": "sentry_explode_sparks"
+        },
+        {
+            "string": "sentry_gun_hydraulics"
+        },
+        {
+            "string": "sentry_minigun_fire"
+        }
+    ]
+}

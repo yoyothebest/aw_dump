@@ -1,0 +1,23 @@
+{
+    "name": "ncs_loc_eng_patch_mp_detroit",
+    "stringType": 5,
+    "sourceType": 1,
+    "entryCount": 5,
+    "strings": [
+        {
+            "string": "MP_DETROIT_DESTROYED_TRAMTURRET"
+        },
+        {
+            "string": "MP_DETROIT_MAP_KILLSTREAK"
+        },
+        {
+            "string": "MP_DETROIT_MAP_KILLSTREAK_DESC"
+        },
+        {
+            "string": "MP_DETROIT_MAP_KILLSTREAK_NOT_AVAILABLE"
+        },
+        {
+            "string": "MP_DETROIT_MAP_KILLSTREAK_PICKUP"
+        }
+    ]
+}

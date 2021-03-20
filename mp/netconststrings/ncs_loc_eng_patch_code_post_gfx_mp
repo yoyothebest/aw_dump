@@ -1,0 +1,1712 @@
+{
+    "name": "ncs_loc_eng_patch_code_post_gfx_mp",
+    "stringType": 5,
+    "sourceType": 2,
+    "entryCount": 568,
+    "strings": [
+        {
+            "string": "HORDE_AIR_DROP"
+        },
+        {
+            "string": "HORDE_ARMORY_EXO"
+        },
+        {
+            "string": "HORDE_ARMORY_WEAPONS"
+        },
+        {
+            "string": "HORDE_ASSASSIN"
+        },
+        {
+            "string": "HORDE_ASSAULT"
+        },
+        {
+            "string": "HORDE_AST"
+        },
+        {
+            "string": "HORDE_BEAMER"
+        },
+        {
+            "string": "HORDE_BEAMER_HEAVY"
+        },
+        {
+            "string": "HORDE_DOG"
+        },
+        {
+            "string": "HORDE_ELITE"
+        },
+        {
+            "string": "HORDE_EPM3"
+        },
+        {
+            "string": "HORDE_GRUNT"
+        },
+        {
+            "string": "HORDE_GUNNER"
+        },
+        {
+            "string": "HORDE_HAMMER"
+        },
+        {
+            "string": "HORDE_HANDLER"
+        },
+        {
+            "string": "HORDE_HINT_SUPPORT_DROP"
+        },
+        {
+            "string": "HORDE_INFO_DISMISS"
+        },
+        {
+            "string": "HORDE_INTERMISSION_READYUP"
+        },
+        {
+            "string": "HORDE_KILLSTREAK_LIMIT"
+        },
+        {
+            "string": "HORDE_LAUNCHER"
+        },
+        {
+            "string": "HORDE_LOOT_ROUND"
+        },
+        {
+            "string": "HORDE_LOOT_ROUND_DESC"
+        },
+        {
+            "string": "HORDE_OBJECTIVE"
+        },
+        {
+            "string": "HORDE_OBJECTIVE_HINT"
+        },
+        {
+            "string": "HORDE_OBJECTIVE_SCORE"
+        },
+        {
+            "string": "HORDE_PICKUP_INTEL"
+        },
+        {
+            "string": "HORDE_QUAD"
+        },
+        {
+            "string": "HORDE_REVIVER_DESC"
+        },
+        {
+            "string": "HORDE_TEAM_RESTOCK"
+        },
+        {
+            "string": "HORDE_TEAM_RESTOCK_DESC"
+        },
+        {
+            "string": "HORDE_WEAPON_LEVEL"
+        },
+        {
+            "string": "KILLSTREAKS_ASSAULT_DRONE_UAV"
+        },
+        {
+            "string": "KILLSTREAKS_DRONE_CAREPACKAGE_RELEASE"
+        },
+        {
+            "string": "KILLSTREAKS_EMP"
+        },
+        {
+            "string": "KILLSTREAKS_GOLIATH_FAIL"
+        },
+        {
+            "string": "KILLSTREAKS_HEAVY_EXO"
+        },
+        {
+            "string": "KILLSTREAKS_HEAVY_EXO_COOLDOWN_OVER"
+        },
+        {
+            "string": "KILLSTREAKS_HEAVY_EXO_MANIAC"
+        },
+        {
+            "string": "KILLSTREAKS_HEAVY_EXO_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HEAVY_EXO_PUNCH"
+        },
+        {
+            "string": "KILLSTREAKS_HEAVY_EXO_PUNCH_RECHARGE"
+        },
+        {
+            "string": "KILLSTREAKS_HEAVY_EXO_RADAR"
+        },
+        {
+            "string": "KILLSTREAKS_HEAVY_EXO_RADAR_HELP"
+        },
+        {
+            "string": "KILLSTREAKS_HEAVY_EXO_ROCKETS"
+        },
+        {
+            "string": "KILLSTREAKS_HEAVY_EXO_ROCKETS_HELP"
+        },
+        {
+            "string": "KILLSTREAKS_HEAVY_EXO_ROCKETS_RELOAD"
+        },
+        {
+            "string": "KILLSTREAKS_HEAVY_EXO_SENTRY"
+        },
+        {
+            "string": "KILLSTREAKS_HEAVY_EXO_SENTRY_LOST"
+        },
+        {
+            "string": "KILLSTREAKS_HEAVY_EXO_TROPHY"
+        },
+        {
+            "string": "KILLSTREAKS_HEAVY_EXO_WEAK_BACK"
+        },
+        {
+            "string": "KILLSTREAKS_LASER_ENERGY"
+        },
+        {
+            "string": "KILLSTREAKS_MAP_KILLSTREAK"
+        },
+        {
+            "string": "KILLSTREAKS_MISSILE_STRIKE"
+        },
+        {
+            "string": "KILLSTREAKS_MP_BLACKBOX"
+        },
+        {
+            "string": "KILLSTREAKS_MP_LAB2"
+        },
+        {
+            "string": "KILLSTREAKS_MP_LASER2"
+        },
+        {
+            "string": "KILLSTREAKS_MP_PRISON"
+        },
+        {
+            "string": "KILLSTREAKS_MP_TORQUED"
+        },
+        {
+            "string": "KILLSTREAKS_NEXT_GEN_EXO_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_NUKE_ALREADY_INBOUND"
+        },
+        {
+            "string": "KILLSTREAKS_ORBITALSUPPORT"
+        },
+        {
+            "string": "KILLSTREAKS_ORBITAL_CAREPACKAGE"
+        },
+        {
+            "string": "KILLSTREAKS_ORBITAL_CAREPACKAGE_FAIL"
+        },
+        {
+            "string": "KILLSTREAKS_ORBITAL_CAREPACKAGE_SAFE"
+        },
+        {
+            "string": "KILLSTREAKS_ORBITAL_CAREPACKAGE_UNSAFE"
+        },
+        {
+            "string": "KILLSTREAKS_ORBITAL_LASER"
+        },
+        {
+            "string": "KILLSTREAKS_ORBITAL_STRIKE_LASER"
+        },
+        {
+            "string": "KILLSTREAKS_ORBITAL_STRIKE_LASER_BURSTS"
+        },
+        {
+            "string": "KILLSTREAKS_OSPREY_GUNNER"
+        },
+        {
+            "string": "KILLSTREAKS_RECON_UGV"
+        },
+        {
+            "string": "KILLSTREAKS_REMOTE_UAV"
+        },
+        {
+            "string": "KILLSTREAKS_SENTRY"
+        },
+        {
+            "string": "KILLSTREAKS_SENTRY_IN_USE"
+        },
+        {
+            "string": "KILLSTREAKS_STRAFING_RUN_AIRSTRIKE"
+        },
+        {
+            "string": "KILLSTREAKS_SUPPORT_DEFENSIVE"
+        },
+        {
+            "string": "KILLSTREAKS_SUPPORT_OFFENSIVE"
+        },
+        {
+            "string": "KILLSTREAKS_TACTICAL_NUKE"
+        },
+        {
+            "string": "KILLSTREAKS_UAV"
+        },
+        {
+            "string": "KILLSTREAKS_UAV_SCRAMBLER"
+        },
+        {
+            "string": "KILLSTREAKS_WARBIRD"
+        },
+        {
+            "string": "LUA_MENU_ACQUIRING_INTEL"
+        },
+        {
+            "string": "LUA_MENU_EXO_SHIELD_DEPLOY"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_DAM_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_DETROIT_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_GREENBAND_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_INSTINCT_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_LAB2_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_LASER2_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_LEVITY_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_PRISON_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_PRISON_Z_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_RECOVERY_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_REFRACTION_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_SOLAR_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_TORQUED_CAPS"
+        },
+        {
+            "string": "LUA_MENU_MAPNAME_VENUS_CAPS"
+        },
+        {
+            "string": "MPUI_BEING_REVIVED"
+        },
+        {
+            "string": "MPUI_C4_DEATH"
+        },
+        {
+            "string": "MPUI_CHANGING_KIT"
+        },
+        {
+            "string": "MPUI_FINAL_STAND"
+        },
+        {
+            "string": "MPUI_LAST_STAND"
+        },
+        {
+            "string": "MPUI_REVIVING"
+        },
+        {
+            "string": "MP_AERIAL_PLACED_MINES_PICKUP"
+        },
+        {
+            "string": "MP_AIRSTRIKE_PICKUP"
+        },
+        {
+            "string": "MP_AIR_SPACE_TOO_CROWDED"
+        },
+        {
+            "string": "MP_ASSAULTDRONE_ASCEND"
+        },
+        {
+            "string": "MP_ASSAULTDRONE_CHANGEWEAPON"
+        },
+        {
+            "string": "MP_ASSAULTDRONE_CLOAK"
+        },
+        {
+            "string": "MP_ASSAULTDRONE_CLOAK_RECHARGING"
+        },
+        {
+            "string": "MP_ASSAULTDRONE_DESCEND"
+        },
+        {
+            "string": "MP_ASSAULTDRONE_FIREC4"
+        },
+        {
+            "string": "MP_ASSAULTDRONE_FIREDRONE"
+        },
+        {
+            "string": "MP_ASSAULTDRONE_FIREMG"
+        },
+        {
+            "string": "MP_ASSAULTDRONE_FIREROCKETS_1"
+        },
+        {
+            "string": "MP_ASSAULTDRONE_FIREROCKETS_2"
+        },
+        {
+            "string": "MP_ASSAULTDRONE_FIREROCKETS_3"
+        },
+        {
+            "string": "MP_ASSAULTDRONE_RELOADING"
+        },
+        {
+            "string": "MP_ASSAULTDRONE_UNCLOAK"
+        },
+        {
+            "string": "MP_ASSIST"
+        },
+        {
+            "string": "MP_ASSIST_TO_KILL"
+        },
+        {
+            "string": "MP_ASSIST_UAV"
+        },
+        {
+            "string": "MP_ATLAS"
+        },
+        {
+            "string": "MP_ATLAS_ELIMINATED"
+        },
+        {
+            "string": "MP_ATLAS_FORFEITED"
+        },
+        {
+            "string": "MP_ATLAS_SHORT_NAME"
+        },
+        {
+            "string": "MP_BALL_ENEMY_SCORED"
+        },
+        {
+            "string": "MP_BALL_PASS"
+        },
+        {
+            "string": "MP_BALL_PICKUP"
+        },
+        {
+            "string": "MP_BALL_RESET"
+        },
+        {
+            "string": "MP_BALL_SHOOT"
+        },
+        {
+            "string": "MP_BALL_TEAM_SCORED"
+        },
+        {
+            "string": "MP_BOMBSITE_IN_USE"
+        },
+        {
+            "string": "MP_BOMB_A_TIMER"
+        },
+        {
+            "string": "MP_BOMB_B_TIMER"
+        },
+        {
+            "string": "MP_BOMB_DEFUSED"
+        },
+        {
+            "string": "MP_BOOT_ADD_TIME"
+        },
+        {
+            "string": "MP_BOOT_ENEMY_READY"
+        },
+        {
+            "string": "MP_BOOT_ENEMY_TIMER"
+        },
+        {
+            "string": "MP_BOOT_LOCATION_NOT_READY"
+        },
+        {
+            "string": "MP_BOOT_READY"
+        },
+        {
+            "string": "MP_BOOT_TIMER"
+        },
+        {
+            "string": "MP_BOOT_USE"
+        },
+        {
+            "string": "MP_BOOT_USE_BAR"
+        },
+        {
+            "string": "MP_CANT_PLANT_WITHOUT_BOMB"
+        },
+        {
+            "string": "MP_CAPTURE_KOTH"
+        },
+        {
+            "string": "MP_CAPTURING_CRATE"
+        },
+        {
+            "string": "MP_CAPTURING_HQ"
+        },
+        {
+            "string": "MP_CAPTURING_NUKE"
+        },
+        {
+            "string": "MP_CAPTURING_OBJECTIVE"
+        },
+        {
+            "string": "MP_CHALLENGE_COMPLETED"
+        },
+        {
+            "string": "MP_CHANGE_CLASS_CANCEL"
+        },
+        {
+            "string": "MP_CHANGE_CLASS_NEXT_SPAWN"
+        },
+        {
+            "string": "MP_CHANGE_CLASS_WAIT"
+        },
+        {
+            "string": "MP_CIVILIAN_AIR_TRAFFIC"
+        },
+        {
+            "string": "MP_CLOAK"
+        },
+        {
+            "string": "MP_CONTROL_KOTH"
+        },
+        {
+            "string": "MP_DAM_IN_USE"
+        },
+        {
+            "string": "MP_DAM_SWITCH_TURRET"
+        },
+        {
+            "string": "MP_DEFEAT"
+        },
+        {
+            "string": "MP_DEFENDED_VIP"
+        },
+        {
+            "string": "MP_DEFEND_AIRDROP_PACKAGES"
+        },
+        {
+            "string": "MP_DEFEND_KOTH"
+        },
+        {
+            "string": "MP_DEFEND_ORBITALSUPPORT"
+        },
+        {
+            "string": "MP_DEFUSING_EXPLOSIVE"
+        },
+        {
+            "string": "MP_DESTROYING_HQ"
+        },
+        {
+            "string": "MP_DESTROY_TI"
+        },
+        {
+            "string": "MP_DEV_AVAILABLE_SPAWNS"
+        },
+        {
+            "string": "MP_DEV_AVAILABLE_SPAWNS_SCORE"
+        },
+        {
+            "string": "MP_DOM_NEUTRAL_FLAG_CAPTURED"
+        },
+        {
+            "string": "MP_DOUBLE_TAP_TO_CARRY"
+        },
+        {
+            "string": "MP_DRAFT_STARTS_IN"
+        },
+        {
+            "string": "MP_DRAW"
+        },
+        {
+            "string": "MP_DRONE_PLACEMENT_INVALID"
+        },
+        {
+            "string": "MP_EARLY_EXIT"
+        },
+        {
+            "string": "MP_EARNED_AIRDROP"
+        },
+        {
+            "string": "MP_EARNED_EMP"
+        },
+        {
+            "string": "MP_EARNED_HEAVY_EXO"
+        },
+        {
+            "string": "MP_EARNED_MAP_KILLSTREAK"
+        },
+        {
+            "string": "MP_EARNED_MISSILE_STRIKE"
+        },
+        {
+            "string": "MP_EARNED_MP_DAM"
+        },
+        {
+            "string": "MP_EARNED_MP_LASER2"
+        },
+        {
+            "string": "MP_EARNED_MP_SOLAR"
+        },
+        {
+            "string": "MP_EARNED_NUKE"
+        },
+        {
+            "string": "MP_EARNED_ORBITALSUPPORT"
+        },
+        {
+            "string": "MP_EARNED_ORBITAL_CAREPACKAGE"
+        },
+        {
+            "string": "MP_EARNED_ORBITAL_STRIKE"
+        },
+        {
+            "string": "MP_EARNED_RECON_UGV"
+        },
+        {
+            "string": "MP_EARNED_REMOTE_MG_TURRET"
+        },
+        {
+            "string": "MP_EARNED_UAV"
+        },
+        {
+            "string": "MP_EARNED_WARBIRD"
+        },
+        {
+            "string": "MP_ELEVATOR_ARRIVAL"
+        },
+        {
+            "string": "MP_ELIMINATED_VIP"
+        },
+        {
+            "string": "MP_EMP_PICKUP"
+        },
+        {
+            "string": "MP_EMP_REBOOTING"
+        },
+        {
+            "string": "MP_ENDED_GAME"
+        },
+        {
+            "string": "MP_ENEMIES_ELIMINATED"
+        },
+        {
+            "string": "MP_ENEMY_FLAG_CAPTURED_BY"
+        },
+        {
+            "string": "MP_ENEMY_FLAG_DROPPED_BY"
+        },
+        {
+            "string": "MP_ENEMY_FLAG_RETURNED"
+        },
+        {
+            "string": "MP_ENEMY_FLAG_RETURNING_IN"
+        },
+        {
+            "string": "MP_ENEMY_FLAG_TAKEN_BY"
+        },
+        {
+            "string": "MP_ENTER_REMOTE_TURRET"
+        },
+        {
+            "string": "MP_EXIT"
+        },
+        {
+            "string": "MP_EXO_OVERLAY_CLOAK"
+        },
+        {
+            "string": "MP_EXPLOSIVES_DEFUSED_BY"
+        },
+        {
+            "string": "MP_EXPLOSIVES_DROPPED_BY"
+        },
+        {
+            "string": "MP_EXPLOSIVES_PLANTED_BY"
+        },
+        {
+            "string": "MP_EXPLOSIVES_RECOVERED_BY"
+        },
+        {
+            "string": "MP_EXPLOSIVES_UNAVAILABLE_FOR_N"
+        },
+        {
+            "string": "MP_FIRE"
+        },
+        {
+            "string": "MP_FIRE_ROCKETS"
+        },
+        {
+            "string": "MP_FIRST_BLOOD"
+        },
+        {
+            "string": "MP_FLAG_CAPTURED_BY"
+        },
+        {
+            "string": "MP_FLAG_RETURNED"
+        },
+        {
+            "string": "MP_FLAG_TAKEN_BY"
+        },
+        {
+            "string": "MP_FLIR"
+        },
+        {
+            "string": "MP_FRIENDLY_FIRE_WILL_NOT"
+        },
+        {
+            "string": "MP_FRIENDLY_TACTICAL_NUKE"
+        },
+        {
+            "string": "MP_GAME_END"
+        },
+        {
+            "string": "MP_GL_TURRET_PICKUP"
+        },
+        {
+            "string": "MP_GRABBED_FLAG_FIRST"
+        },
+        {
+            "string": "MP_GRABBING_FLAG"
+        },
+        {
+            "string": "MP_GROUND_ASSAULT_DRONE_PICKUP"
+        },
+        {
+            "string": "MP_HALFTIME"
+        },
+        {
+            "string": "MP_HEAVY_EXO_PICKUP"
+        },
+        {
+            "string": "MP_HEAVY_EXO_TROPHY_ROCKETS_PICKUP"
+        },
+        {
+            "string": "MP_HELI_IN_QUEUE"
+        },
+        {
+            "string": "MP_HOLD_TO_CARRY"
+        },
+        {
+            "string": "MP_HORDE_BLEED_OUT"
+        },
+        {
+            "string": "MP_HOST_ENDED_GAME"
+        },
+        {
+            "string": "MP_HOST_ENDGAME_RESPONSE"
+        },
+        {
+            "string": "MP_IMS_CANNOT_PLACE"
+        },
+        {
+            "string": "MP_INTERMISSION"
+        },
+        {
+            "string": "MP_JOINED_ORBITALSUPPORT"
+        },
+        {
+            "string": "MP_JOINED_WARBIRD"
+        },
+        {
+            "string": "MP_JOINING_WARBIRD"
+        },
+        {
+            "string": "MP_JOIN_HEAVY_EXO"
+        },
+        {
+            "string": "MP_JOIN_ORBITALSUPPORT_DEF"
+        },
+        {
+            "string": "MP_JOIN_ORBITALSUPPORT_OFF"
+        },
+        {
+            "string": "MP_JOIN_STRAFING_RUN"
+        },
+        {
+            "string": "MP_JOIN_WARBIRD_DEF"
+        },
+        {
+            "string": "MP_JOIN_WARBIRD_OFF"
+        },
+        {
+            "string": "MP_KILLSTREAK_N"
+        },
+        {
+            "string": "MP_KOTH_AVAILABLE_IN"
+        },
+        {
+            "string": "MP_KOTH_CAPTURED_BY"
+        },
+        {
+            "string": "MP_KOTH_MOVING_IN"
+        },
+        {
+            "string": "MP_KOTM_HACKING_CONSOLE_00"
+        },
+        {
+            "string": "MP_KOTM_HACKING_CONSOLE_01"
+        },
+        {
+            "string": "MP_KOTM_HACKING_CONSOLE_02"
+        },
+        {
+            "string": "MP_KOTM_HACKING_CONSOLE_03"
+        },
+        {
+            "string": "MP_LASERTURRET_BUSY"
+        },
+        {
+            "string": "MP_LASERTURRET_ENEMY"
+        },
+        {
+            "string": "MP_LASERTURRET_HACK"
+        },
+        {
+            "string": "MP_LASERTURRET_HACKING"
+        },
+        {
+            "string": "MP_LEAVING_PLAYSPACE"
+        },
+        {
+            "string": "MP_MARK_ORBITALSUPPORT"
+        },
+        {
+            "string": "MP_MATCH_BONUS_IS"
+        },
+        {
+            "string": "MP_MATCH_RESUMING_IN"
+        },
+        {
+            "string": "MP_MATCH_STARTING"
+        },
+        {
+            "string": "MP_MATCH_STARTING_IN"
+        },
+        {
+            "string": "MP_MATCH_TIE"
+        },
+        {
+            "string": "MP_MINION"
+        },
+        {
+            "string": "MP_MISSILE_STRIKE_CHANGE"
+        },
+        {
+            "string": "MP_MISSILE_STRIKE_PICKUP"
+        },
+        {
+            "string": "MP_NEUTRAL_FLAG_CAPTURED_BY"
+        },
+        {
+            "string": "MP_NEUTRAL_FLAG_DROPPED_BY"
+        },
+        {
+            "string": "MP_NEXT_DEATH_DROPS_FLAG"
+        },
+        {
+            "string": "MP_NEXT_DROP_ZONE_IN"
+        },
+        {
+            "string": "MP_NEXT_KILL_DROPS_FLAG"
+        },
+        {
+            "string": "MP_NOTARGET_ORBITALSUPPORT"
+        },
+        {
+            "string": "MP_NO_RESPAWN"
+        },
+        {
+            "string": "MP_NUKE_ALREADY_INBOUND"
+        },
+        {
+            "string": "MP_OBITUARY_ENEMY"
+        },
+        {
+            "string": "MP_OBITUARY_FRIENDLY"
+        },
+        {
+            "string": "MP_OBITUARY_NEUTRAL"
+        },
+        {
+            "string": "MP_OPPONENT_FORFEITING_IN"
+        },
+        {
+            "string": "MP_ORBITALSUPPORT_IN_USE"
+        },
+        {
+            "string": "MP_ORBITALSUPPORT_PICKUP"
+        },
+        {
+            "string": "MP_ORBITALSUPPORT_ROCKETS_PICKUP"
+        },
+        {
+            "string": "MP_ORBITAL_STRIKE_LASER_PICKUP"
+        },
+        {
+            "string": "MP_ORBITAL_STRIKE_LASER_PLUS_TIME_PICKUP"
+        },
+        {
+            "string": "MP_OVERTIME"
+        },
+        {
+            "string": "MP_PACKAGE_REROLL"
+        },
+        {
+            "string": "MP_PERK_PICKUP_BLINDEYE"
+        },
+        {
+            "string": "MP_PERK_PICKUP_COLDBLOODED"
+        },
+        {
+            "string": "MP_PERK_PICKUP_DEXTERITY"
+        },
+        {
+            "string": "MP_PERK_PICKUP_EXO_BATTERY"
+        },
+        {
+            "string": "MP_PERK_PICKUP_EXO_BLASTSUPPRESSOR"
+        },
+        {
+            "string": "MP_PERK_PICKUP_FASTHANDS"
+        },
+        {
+            "string": "MP_PERK_PICKUP_FLAKJACKET"
+        },
+        {
+            "string": "MP_PERK_PICKUP_GENERIC"
+        },
+        {
+            "string": "MP_PERK_PICKUP_GENERIC_MULTIPLE"
+        },
+        {
+            "string": "MP_PERK_PICKUP_GUNGHO"
+        },
+        {
+            "string": "MP_PERK_PICKUP_HARDLINE"
+        },
+        {
+            "string": "MP_PERK_PICKUP_HARDWIRED"
+        },
+        {
+            "string": "MP_PERK_PICKUP_LIGHTWEIGHT"
+        },
+        {
+            "string": "MP_PERK_PICKUP_LOWPROFILE"
+        },
+        {
+            "string": "MP_PERK_PICKUP_PERIPHERALS"
+        },
+        {
+            "string": "MP_PERK_PICKUP_QUICKDRAW"
+        },
+        {
+            "string": "MP_PERK_PICKUP_SCAVENGER"
+        },
+        {
+            "string": "MP_PERK_PICKUP_TOUGHNESS"
+        },
+        {
+            "string": "MP_PICKUP_EXPLOSIVE_DRONE"
+        },
+        {
+            "string": "MP_PLANTING_EXPLOSIVE"
+        },
+        {
+            "string": "MP_PLAYERS_FORFEITED"
+        },
+        {
+            "string": "MP_PLUS"
+        },
+        {
+            "string": "MP_PRISON_SENSOR_PICKUP"
+        },
+        {
+            "string": "MP_RECON_UGV_PICKUP"
+        },
+        {
+            "string": "MP_RELOAD_ORBITALSUPPORT"
+        },
+        {
+            "string": "MP_REMOTE_MG_TURRET_PICKUP"
+        },
+        {
+            "string": "MP_REMOTE_UAV_CANNOT_PLACE"
+        },
+        {
+            "string": "MP_REMOTE_UAV_PLACE"
+        },
+        {
+            "string": "MP_REPULSOR_ACTIVE"
+        },
+        {
+            "string": "MP_RETURNING_FLAG"
+        },
+        {
+            "string": "MP_ROUNDEND"
+        },
+        {
+            "string": "MP_ROUND_DRAW"
+        },
+        {
+            "string": "MP_ROUND_LIMIT_REACHED"
+        },
+        {
+            "string": "MP_ROUND_LOSS"
+        },
+        {
+            "string": "MP_ROUND_WIN"
+        },
+        {
+            "string": "MP_SCORE_LIMIT_REACHED"
+        },
+        {
+            "string": "MP_SECURING_POSITION"
+        },
+        {
+            "string": "MP_SENTINEL"
+        },
+        {
+            "string": "MP_SENTINEL_ELIMINATED"
+        },
+        {
+            "string": "MP_SENTINEL_FORFEITED"
+        },
+        {
+            "string": "MP_SENTINEL_SHORT_NAME"
+        },
+        {
+            "string": "MP_SENTRY_PICKUP"
+        },
+        {
+            "string": "MP_SIEGE_RESUPPLY"
+        },
+        {
+            "string": "MP_SLOW_ORBITALSUPPORT"
+        },
+        {
+            "string": "MP_SPAWN_NEXT_ROUND"
+        },
+        {
+            "string": "MP_SPAWN_TAG_WAIT"
+        },
+        {
+            "string": "MP_SPECIALIST_STREAKING_XP"
+        },
+        {
+            "string": "MP_STRAFING_RUN_AIRSTRIKE_PICKUP"
+        },
+        {
+            "string": "MP_SUDDEN_DEATH"
+        },
+        {
+            "string": "MP_SUICIDE_PUNISHED"
+        },
+        {
+            "string": "MP_SWITCHING_SIDES"
+        },
+        {
+            "string": "MP_SWITCH_ORBITALSUPPORT"
+        },
+        {
+            "string": "MP_TACTICAL_NUKE"
+        },
+        {
+            "string": "MP_TACTICAL_NUKE_CALLED"
+        },
+        {
+            "string": "MP_TARGET_DESTROYED"
+        },
+        {
+            "string": "MP_TARGET_ORBITALSUPPORT"
+        },
+        {
+            "string": "MP_TIE_BREAKER"
+        },
+        {
+            "string": "MP_TIME_LIMIT_REACHED"
+        },
+        {
+            "string": "MP_TOO_MANY_VEHICLES"
+        },
+        {
+            "string": "MP_TRACKING_DRONE_RADAR"
+        },
+        {
+            "string": "MP_TURRET_CANNOT_PLACE"
+        },
+        {
+            "string": "MP_TURRET_DROP"
+        },
+        {
+            "string": "MP_TURRET_PICKUP_HEAD"
+        },
+        {
+            "string": "MP_TURRET_PLACE"
+        },
+        {
+            "string": "MP_TURRET_RIP_OFF"
+        },
+        {
+            "string": "MP_TWAR_MOMENTUM_BAR_VALUE"
+        },
+        {
+            "string": "MP_TWAR_MOMENTUM_METER"
+        },
+        {
+            "string": "MP_UAV_PICKUP"
+        },
+        {
+            "string": "MP_UNAVAILABLE_FOR_N"
+        },
+        {
+            "string": "MP_UNAVAILABLE_FOR_N_WHEN_EMP"
+        },
+        {
+            "string": "MP_UNAVAILABLE_FOR_N_WHEN_NUKE"
+        },
+        {
+            "string": "MP_UNAVAILABLE_USING_TURRET"
+        },
+        {
+            "string": "MP_UNAVAILABLE_WHEN_INCAP"
+        },
+        {
+            "string": "MP_UNAVILABLE_IN_LASTSTAND"
+        },
+        {
+            "string": "MP_VICTORY"
+        },
+        {
+            "string": "MP_WAITING_FOR_HQ"
+        },
+        {
+            "string": "MP_WAITING_FOR_MORE_PLAYERS"
+        },
+        {
+            "string": "MP_WAITING_FOR_PLAYERS"
+        },
+        {
+            "string": "MP_WAITING_FOR_TEAMS"
+        },
+        {
+            "string": "MP_WAITING_TO_SPAWN"
+        },
+        {
+            "string": "MP_WAIT_FOR_MORTAR_READY"
+        },
+        {
+            "string": "MP_WARBIRD_CLOAKED"
+        },
+        {
+            "string": "MP_WARBIRD_CLOAK_DURATION"
+        },
+        {
+            "string": "MP_WARBIRD_COOLDOWN"
+        },
+        {
+            "string": "MP_WARBIRD_COUNTER"
+        },
+        {
+            "string": "MP_WARBIRD_MG_OVERHEAT"
+        },
+        {
+            "string": "MP_WARBIRD_OVERHEAT_WARNING"
+        },
+        {
+            "string": "MP_WARBIRD_PICKUP"
+        },
+        {
+            "string": "MP_WARBIRD_ROCKETS_AI_PICKUP"
+        },
+        {
+            "string": "MP_WARBIRD_ROCKETS_PICKUP"
+        },
+        {
+            "string": "MP_WARBIRD_ROCKET_RELOAD"
+        },
+        {
+            "string": "MP_WARBIRD_THREAT"
+        },
+        {
+            "string": "MP_WEAPON"
+        },
+        {
+            "string": "MP_YOUR_FLAG_RETURNING_IN"
+        },
+        {
+            "string": "MP_YOU_HAVE_RECOVERED_THE_BOMB"
+        },
+        {
+            "string": "MP_ZOOM"
+        },
+        {
+            "string": "PERKS_BLASTSHIELD"
+        },
+        {
+            "string": "PERKS_BLINDEYE"
+        },
+        {
+            "string": "PERKS_COLDBLOODED"
+        },
+        {
+            "string": "PERKS_DANGERCLOSE"
+        },
+        {
+            "string": "PERKS_DEXTERITY"
+        },
+        {
+            "string": "PERKS_EMP_GRENADE"
+        },
+        {
+            "string": "PERKS_EXO_BATTERY"
+        },
+        {
+            "string": "PERKS_EXO_BLASTSUPPRESSOR"
+        },
+        {
+            "string": "PERKS_FASTHANDS"
+        },
+        {
+            "string": "PERKS_FLAKJACKET"
+        },
+        {
+            "string": "PERKS_HARDLINE"
+        },
+        {
+            "string": "PERKS_HARDWIRED"
+        },
+        {
+            "string": "PERKS_LIGHTWEIGHT"
+        },
+        {
+            "string": "PERKS_LOWPROFILE"
+        },
+        {
+            "string": "PERKS_PERIPHERALS"
+        },
+        {
+            "string": "PERKS_QUICKDRAW"
+        },
+        {
+            "string": "PERKS_SCAVENGER"
+        },
+        {
+            "string": "PERKS_SMOKE_GRENADE"
+        },
+        {
+            "string": "PERKS_STUN_GRENADE"
+        },
+        {
+            "string": "PERKS_TOUGHNESS"
+        },
+        {
+            "string": "PLATFORM_CALL_NUKE"
+        },
+        {
+            "string": "PLATFORM_COWARDS_WAY_OUT"
+        },
+        {
+            "string": "PLATFORM_GET_KILLSTREAK"
+        },
+        {
+            "string": "PLATFORM_GET_RANDOM"
+        },
+        {
+            "string": "PLATFORM_HOLD_TO_DEFUSE_EXPLOSIVES"
+        },
+        {
+            "string": "PLATFORM_HOLD_TO_DROP"
+        },
+        {
+            "string": "PLATFORM_HOLD_TO_PLANT_EXPLOSIVES"
+        },
+        {
+            "string": "PLATFORM_HOLD_TO_USE"
+        },
+        {
+            "string": "PLATFORM_PRESS_TO_COPYCAT"
+        },
+        {
+            "string": "PLATFORM_PRESS_TO_RESPAWN"
+        },
+        {
+            "string": "PLATFORM_PRESS_TO_SKIP"
+        },
+        {
+            "string": "PLATFORM_PRESS_TO_SPAWN"
+        },
+        {
+            "string": "PLATFORM_REVIVE"
+        },
+        {
+            "string": "RANK_1STLT_FULL"
+        },
+        {
+            "string": "RANK_1STLT_FULL_N"
+        },
+        {
+            "string": "RANK_1STSGT_FULL"
+        },
+        {
+            "string": "RANK_1STSGT_FULL_N"
+        },
+        {
+            "string": "RANK_2NDLT_FULL"
+        },
+        {
+            "string": "RANK_2NDLT_FULL_N"
+        },
+        {
+            "string": "RANK_BGEN_FULL"
+        },
+        {
+            "string": "RANK_BGEN_FULL_N"
+        },
+        {
+            "string": "RANK_CAPT_FULL"
+        },
+        {
+            "string": "RANK_CAPT_FULL_N"
+        },
+        {
+            "string": "RANK_COL_FULL"
+        },
+        {
+            "string": "RANK_COL_FULL_N"
+        },
+        {
+            "string": "RANK_COMM_FULL"
+        },
+        {
+            "string": "RANK_CPL_FULL"
+        },
+        {
+            "string": "RANK_CPL_FULL_N"
+        },
+        {
+            "string": "RANK_CSM_FULL"
+        },
+        {
+            "string": "RANK_CSM_FULL_N"
+        },
+        {
+            "string": "RANK_GEN_FULL"
+        },
+        {
+            "string": "RANK_GEN_FULL_N"
+        },
+        {
+            "string": "RANK_LTCOL_FULL"
+        },
+        {
+            "string": "RANK_LTCOL_FULL_N"
+        },
+        {
+            "string": "RANK_LTGEN_FULL"
+        },
+        {
+            "string": "RANK_LTGEN_FULL_N"
+        },
+        {
+            "string": "RANK_MAJGEN_FULL"
+        },
+        {
+            "string": "RANK_MAJGEN_FULL_N"
+        },
+        {
+            "string": "RANK_MAJ_FULL"
+        },
+        {
+            "string": "RANK_MAJ_FULL_N"
+        },
+        {
+            "string": "RANK_MSGT_FULL"
+        },
+        {
+            "string": "RANK_MSGT_FULL_N"
+        },
+        {
+            "string": "RANK_PFC_FULL"
+        },
+        {
+            "string": "RANK_PFC_FULL_N"
+        },
+        {
+            "string": "RANK_PLAYER_WAS_PROMOTED"
+        },
+        {
+            "string": "RANK_PLAYER_WAS_PROMOTED_N"
+        },
+        {
+            "string": "RANK_PROMOTED"
+        },
+        {
+            "string": "RANK_PROMOTED_WEAPON"
+        },
+        {
+            "string": "RANK_PVT_FULL"
+        },
+        {
+            "string": "RANK_PVT_FULL_N"
+        },
+        {
+            "string": "RANK_ROMANI"
+        },
+        {
+            "string": "RANK_ROMANII"
+        },
+        {
+            "string": "RANK_ROMANIII"
+        },
+        {
+            "string": "RANK_SFC_FULL"
+        },
+        {
+            "string": "RANK_SFC_FULL_N"
+        },
+        {
+            "string": "RANK_SGTMAJ_FULL"
+        },
+        {
+            "string": "RANK_SGTMAJ_FULL_N"
+        },
+        {
+            "string": "RANK_SGT_FULL"
+        },
+        {
+            "string": "RANK_SGT_FULL_N"
+        },
+        {
+            "string": "RANK_SPC_FULL"
+        },
+        {
+            "string": "RANK_SPC_FULL_N"
+        },
+        {
+            "string": "RANK_SSGT_FULL"
+        },
+        {
+            "string": "RANK_SSGT_FULL_N"
+        },
+        {
+            "string": "RANK_WEAPON_WAS_PROMOTED"
+        },
+        {
+            "string": "SPLASHES_AIR_TO_AIR_KILL"
+        },
+        {
+            "string": "SPLASHES_AIR_TO_AIR_KILL_DESC"
+        },
+        {
+            "string": "SPLASHES_AIR_TO_GROUND_KILL"
+        },
+        {
+            "string": "SPLASHES_AIR_TO_GROUND_KILL_DESC"
+        },
+        {
+            "string": "SPLASHES_ASSISTEDSUICIDE"
+        },
+        {
+            "string": "SPLASHES_AVENGER"
+        },
+        {
+            "string": "SPLASHES_BUZZKILL"
+        },
+        {
+            "string": "SPLASHES_COMEBACK"
+        },
+        {
+            "string": "SPLASHES_COOP_TAG"
+        },
+        {
+            "string": "SPLASHES_DEFENDER"
+        },
+        {
+            "string": "SPLASHES_DENIED_KILL"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_CAREPACKAGE"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_ORBITALSUPPORT"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_REMOTE_MORTAR"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_REMOTE_UAV"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_TRACKING_DRONE"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_WARBIRD"
+        },
+        {
+            "string": "SPLASHES_DOUBLEKILL"
+        },
+        {
+            "string": "SPLASHES_EXECUTION"
+        },
+        {
+            "string": "SPLASHES_FIRSTBLOOD"
+        },
+        {
+            "string": "SPLASHES_GROUND_TO_AIR_KILL"
+        },
+        {
+            "string": "SPLASHES_GROUND_TO_AIR_KILL_DESC"
+        },
+        {
+            "string": "SPLASHES_HEADSHOT"
+        },
+        {
+            "string": "SPLASHES_HIJACKER"
+        },
+        {
+            "string": "SPLASHES_INDOC_CONVERT"
+        },
+        {
+            "string": "SPLASHES_INDOC_CONVERT_DENIED"
+        },
+        {
+            "string": "SPLASHES_KILL_CONFIRMED"
+        },
+        {
+            "string": "SPLASHES_KILL_DENIED"
+        },
+        {
+            "string": "SPLASHES_KILL_STREAK_MARKED"
+        },
+        {
+            "string": "SPLASHES_KINGS_BOUNTY_INCREASED"
+        },
+        {
+            "string": "SPLASHES_KINGS_BOUNTY_INCREASED_DESC"
+        },
+        {
+            "string": "SPLASHES_KINGS_CURRENTLY_KING"
+        },
+        {
+            "string": "SPLASHES_KINGS_CURRENTLY_KING_DESC"
+        },
+        {
+            "string": "SPLASHES_KING_KILLED"
+        },
+        {
+            "string": "SPLASHES_KING_KILLED_DESC"
+        },
+        {
+            "string": "SPLASHES_KING_KILLED_KING_ENEMY"
+        },
+        {
+            "string": "SPLASHES_KING_KILLED_KING_ENEMY_DESC"
+        },
+        {
+            "string": "SPLASHES_KING_KILLED_KING_FRIENDLY"
+        },
+        {
+            "string": "SPLASHES_KING_KILLED_KING_FRIENDLY_DESC"
+        },
+        {
+            "string": "SPLASHES_KNIFETHROW"
+        },
+        {
+            "string": "SPLASHES_KOTM_ATTACK"
+        },
+        {
+            "string": "SPLASHES_KOTM_ATTACK_DESC"
+        },
+        {
+            "string": "SPLASHES_KOTM_DEFEND"
+        },
+        {
+            "string": "SPLASHES_KOTM_DEFEND_DESC"
+        },
+        {
+            "string": "SPLASHES_KOTM_DIFFERENT_ZONES"
+        },
+        {
+            "string": "SPLASHES_KOTM_DIFFERENT_ZONES_DESC"
+        },
+        {
+            "string": "SPLASHES_KOTM_SAME_ZONE"
+        },
+        {
+            "string": "SPLASHES_KOTM_SAME_ZONE_DESC"
+        },
+        {
+            "string": "SPLASHES_LONGSHOT"
+        },
+        {
+            "string": "SPLASHES_MARKED_BY_ORBITALSUPPORT"
+        },
+        {
+            "string": "SPLASHES_MARKED_BY_RECONE_UGV"
+        },
+        {
+            "string": "SPLASHES_MARKED_BY_REMOTE_UAV"
+        },
+        {
+            "string": "SPLASHES_MULTIKILL"
+        },
+        {
+            "string": "SPLASHES_NOW_ON_ALLIES"
+        },
+        {
+            "string": "SPLASHES_NOW_ON_ALLIES_DESC"
+        },
+        {
+            "string": "SPLASHES_NOW_ON_AXIS"
+        },
+        {
+            "string": "SPLASHES_NOW_ON_AXIS_DESC"
+        },
+        {
+            "string": "SPLASHES_ONE_SHOT_KILL"
+        },
+        {
+            "string": "SPLASHES_PATHFINDER_PICKUP_COMMON"
+        },
+        {
+            "string": "SPLASHES_PATHFINDER_PICKUP_RARE"
+        },
+        {
+            "string": "SPLASHES_PATHFINDER_PICKUP_SPECIAL"
+        },
+        {
+            "string": "SPLASHES_POSTHUMOUS"
+        },
+        {
+            "string": "SPLASHES_PROXIMITYASSIST"
+        },
+        {
+            "string": "SPLASHES_PROXIMITYKILL"
+        },
+        {
+            "string": "SPLASHES_RANKED_UP"
+        },
+        {
+            "string": "SPLASHES_RANKED_UP_DESC"
+        },
+        {
+            "string": "SPLASHES_REMOTE_UAV_ASSIST"
+        },
+        {
+            "string": "SPLASHES_REVENGE"
+        },
+        {
+            "string": "SPLASHES_SEC_DEFENSE"
+        },
+        {
+            "string": "SPLASHES_TAGS_RETRIEVED"
+        },
+        {
+            "string": "SPLASHES_TEAM_CONFIRMED"
+        },
+        {
+            "string": "SPLASHES_TRIPLEKILL"
+        },
+        {
+            "string": "SPLASHES_TURRET_MARKED_BY_ORBITALSUPPORT"
+        },
+        {
+            "string": "SPLASHES_TURRET_MARKED_BY_REMOTE_UAV"
+        },
+        {
+            "string": "SPLASHES_VIP"
+        },
+        {
+            "string": "SPLASHES_X2_BONUS"
+        },
+        {
+            "string": "WEAPON_ATTACHMENT_LASERSIGHT"
+        },
+        {
+            "string": "WEAPON_ATTACHMENT_LONGRANGE"
+        },
+        {
+            "string": "WEAPON_ATTACHMENT_QUICKDRAW"
+        },
+        {
+            "string": "WEAPON_ATTACHMENT_STOCK"
+        },
+        {
+            "string": "WEAPON_BAL27LOOT0"
+        },
+        {
+            "string": "WEAPON_BAL27LOOT1"
+        },
+        {
+            "string": "WEAPON_BAL27LOOT2"
+        },
+        {
+            "string": "WEAPON_BAL27LOOT3"
+        },
+        {
+            "string": "WEAPON_BAL27LOOT4"
+        },
+        {
+            "string": "WEAPON_BAL27LOOT5"
+        },
+        {
+            "string": "WEAPON_BAL27LOOT6"
+        },
+        {
+            "string": "WEAPON_BAL27LOOT7"
+        },
+        {
+            "string": "WEAPON_BAL27LOOT8"
+        },
+        {
+            "string": "WEAPON_BAL27LOOT9"
+        },
+        {
+            "string": "WEAPON_COMBAT_KNIFE"
+        },
+        {
+            "string": "WEAPON_MICRODRONELAUNCHER"
+        },
+        {
+            "string": "WEAPON_PAINTGRENADE"
+        },
+        {
+            "string": "WEAPON_SN6LOOT0"
+        },
+        {
+            "string": "WEAPON_SN6LOOT1"
+        },
+        {
+            "string": "WEAPON_SN6LOOT2"
+        },
+        {
+            "string": "WEAPON_SN6LOOT3"
+        },
+        {
+            "string": "WEAPON_SN6LOOT4"
+        },
+        {
+            "string": "WEAPON_SN6LOOT5"
+        },
+        {
+            "string": "WEAPON_SN6LOOT6"
+        },
+        {
+            "string": "WEAPON_SN6LOOT7"
+        },
+        {
+            "string": "WEAPON_SN6LOOT8"
+        },
+        {
+            "string": "WEAPON_SN6LOOT9"
+        },
+        {
+            "string": "WEAPON_TRACKING_DRONE_RADAR"
+        },
+        {
+            "string": "WEAPON_UPLINK_DRONE"
+        }
+    ]
+}

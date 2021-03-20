@@ -1,0 +1,62 @@
+{
+    "name": "ncs_mat_patch_common_mp",
+    "stringType": 1,
+    "sourceType": 2,
+    "entryCount": 18,
+    "strings": [
+        {
+            "string": "rank_prestige16"
+        },
+        {
+            "string": "rank_prestige17"
+        },
+        {
+            "string": "rank_prestige18"
+        },
+        {
+            "string": "rank_prestige19"
+        },
+        {
+            "string": "rank_prestige20"
+        },
+        {
+            "string": "rank_prestige21"
+        },
+        {
+            "string": "rank_prestige22"
+        },
+        {
+            "string": "rank_prestige23"
+        },
+        {
+            "string": "rank_prestige24"
+        },
+        {
+            "string": "rank_prestige25"
+        },
+        {
+            "string": "rank_prestige26"
+        },
+        {
+            "string": "rank_prestige27"
+        },
+        {
+            "string": "rank_prestige28"
+        },
+        {
+            "string": "rank_prestige29"
+        },
+        {
+            "string": "rank_prestige30"
+        },
+        {
+            "string": "rank_prestigegrandmaster"
+        },
+        {
+            "string": "rank_prestigemaster"
+        },
+        {
+            "string": "scoreboard_dog_tag"
+        }
+    ]
+}

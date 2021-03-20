@@ -1,0 +1,377 @@
+{
+    "name": "ncs_mat_common_core_mp",
+    "stringType": 1,
+    "sourceType": 2,
+    "entryCount": 123,
+    "strings": [
+        {
+            "string": "ac130_overlay_grain"
+        },
+        {
+            "string": "compass_objpoint_airstrike_busy"
+        },
+        {
+            "string": "compass_objpoint_airstrike_friendly"
+        },
+        {
+            "string": "compass_objpoint_ammo_enemy"
+        },
+        {
+            "string": "compass_objpoint_ammo_friendly"
+        },
+        {
+            "string": "compass_objpoint_deploy_ammo_friendly"
+        },
+        {
+            "string": "compass_objpoint_deploy_friendly"
+        },
+        {
+            "string": "compass_objpoint_enemy_target"
+        },
+        {
+            "string": "compass_objpoint_trap_friendly"
+        },
+        {
+            "string": "compass_waypoint_farp"
+        },
+        {
+            "string": "dpad_killstreak_guard_dog"
+        },
+        {
+            "string": "dpad_killstreak_guard_dog_inactive"
+        },
+        {
+            "string": "dpad_killstreak_orbital_carepackage"
+        },
+        {
+            "string": "dpad_killstreak_orbital_carepackage_inactive"
+        },
+        {
+            "string": "dpad_killstreak_orbital_carepackage_static"
+        },
+        {
+            "string": "faction_128_delta"
+        },
+        {
+            "string": "faction_128_delta_fade"
+        },
+        {
+            "string": "faction_128_pmc"
+        },
+        {
+            "string": "faction_128_pmc_fade"
+        },
+        {
+            "string": "headicon_fed"
+        },
+        {
+            "string": "headicon_us"
+        },
+        {
+            "string": "hud_fofbox_hostile_ms_target"
+        },
+        {
+            "string": "hud_gas_enemy"
+        },
+        {
+            "string": "hud_gas_friendly"
+        },
+        {
+            "string": "hud_scoreboard_dead_marker"
+        },
+        {
+            "string": "icon_hunted"
+        },
+        {
+            "string": "killiconsuicide"
+        },
+        {
+            "string": "lab_gas_overlay"
+        },
+        {
+            "string": "objpoint_flag_delta"
+        },
+        {
+            "string": "objpoint_flag_pmc"
+        },
+        {
+            "string": "odin_hud"
+        },
+        {
+            "string": "overlay_static"
+        },
+        {
+            "string": "scoreboard_dog_tag"
+        },
+        {
+            "string": "specialty_trap_crate"
+        },
+        {
+            "string": "throw_knife_sm"
+        },
+        {
+            "string": "uav_crosshair"
+        },
+        {
+            "string": "veh_hud_friendly"
+        },
+        {
+            "string": "waypoint_ammo_friendly"
+        },
+        {
+            "string": "waypoint_bomb"
+        },
+        {
+            "string": "waypoint_bomb_green"
+        },
+        {
+            "string": "waypoint_bomb_red"
+        },
+        {
+            "string": "waypoint_capture"
+        },
+        {
+            "string": "waypoint_capture_a"
+        },
+        {
+            "string": "waypoint_capture_b"
+        },
+        {
+            "string": "waypoint_capture_c"
+        },
+        {
+            "string": "waypoint_capture_flag"
+        },
+        {
+            "string": "waypoint_captureneutral_a"
+        },
+        {
+            "string": "waypoint_captureneutral_b"
+        },
+        {
+            "string": "waypoint_captureneutral_c"
+        },
+        {
+            "string": "waypoint_contested"
+        },
+        {
+            "string": "waypoint_contested_a"
+        },
+        {
+            "string": "waypoint_contested_b"
+        },
+        {
+            "string": "waypoint_contested_c"
+        },
+        {
+            "string": "waypoint_defend"
+        },
+        {
+            "string": "waypoint_defend_a"
+        },
+        {
+            "string": "waypoint_defend_b"
+        },
+        {
+            "string": "waypoint_defend_c"
+        },
+        {
+            "string": "waypoint_defend_flag"
+        },
+        {
+            "string": "waypoint_defend_yellow"
+        },
+        {
+            "string": "waypoint_defuse"
+        },
+        {
+            "string": "waypoint_defuse_a"
+        },
+        {
+            "string": "waypoint_defuse_b"
+        },
+        {
+            "string": "waypoint_dogtags_friendlys"
+        },
+        {
+            "string": "waypoint_escort"
+        },
+        {
+            "string": "waypoint_esports_ctf_dropped_blue"
+        },
+        {
+            "string": "waypoint_esports_ctf_dropped_red"
+        },
+        {
+            "string": "waypoint_esports_ctf_flag_blue"
+        },
+        {
+            "string": "waypoint_esports_ctf_flag_missing_blue"
+        },
+        {
+            "string": "waypoint_esports_ctf_flag_missing_red"
+        },
+        {
+            "string": "waypoint_esports_ctf_flag_red"
+        },
+        {
+            "string": "waypoint_esports_ctf_taken_blue"
+        },
+        {
+            "string": "waypoint_esports_ctf_taken_red"
+        },
+        {
+            "string": "waypoint_esports_dom_blue_a"
+        },
+        {
+            "string": "waypoint_esports_dom_blue_b"
+        },
+        {
+            "string": "waypoint_esports_dom_blue_c"
+        },
+        {
+            "string": "waypoint_esports_dom_blue_losing_a"
+        },
+        {
+            "string": "waypoint_esports_dom_blue_losing_b"
+        },
+        {
+            "string": "waypoint_esports_dom_blue_losing_c"
+        },
+        {
+            "string": "waypoint_esports_dom_blue_taking_a"
+        },
+        {
+            "string": "waypoint_esports_dom_blue_taking_b"
+        },
+        {
+            "string": "waypoint_esports_dom_blue_taking_c"
+        },
+        {
+            "string": "waypoint_esports_dom_contested_a"
+        },
+        {
+            "string": "waypoint_esports_dom_contested_b"
+        },
+        {
+            "string": "waypoint_esports_dom_contested_c"
+        },
+        {
+            "string": "waypoint_esports_dom_red_a"
+        },
+        {
+            "string": "waypoint_esports_dom_red_b"
+        },
+        {
+            "string": "waypoint_esports_dom_red_c"
+        },
+        {
+            "string": "waypoint_esports_dom_red_losing_a"
+        },
+        {
+            "string": "waypoint_esports_dom_red_losing_b"
+        },
+        {
+            "string": "waypoint_esports_dom_red_losing_c"
+        },
+        {
+            "string": "waypoint_esports_dom_red_taking_a"
+        },
+        {
+            "string": "waypoint_esports_dom_red_taking_b"
+        },
+        {
+            "string": "waypoint_esports_dom_red_taking_c"
+        },
+        {
+            "string": "waypoint_esports_dom_white_a"
+        },
+        {
+            "string": "waypoint_esports_dom_white_b"
+        },
+        {
+            "string": "waypoint_esports_dom_white_c"
+        },
+        {
+            "string": "waypoint_esports_hardpoint_blue"
+        },
+        {
+            "string": "waypoint_esports_hardpoint_red"
+        },
+        {
+            "string": "waypoint_esports_hardpoint_white"
+        },
+        {
+            "string": "waypoint_esports_snd_planted_a"
+        },
+        {
+            "string": "waypoint_esports_snd_planted_b"
+        },
+        {
+            "string": "waypoint_esports_snd_target_a_white"
+        },
+        {
+            "string": "waypoint_esports_snd_target_b_white"
+        },
+        {
+            "string": "waypoint_esports_uplink_ball_blue"
+        },
+        {
+            "string": "waypoint_esports_uplink_ball_red"
+        },
+        {
+            "string": "waypoint_esports_uplink_ball_white"
+        },
+        {
+            "string": "waypoint_esports_uplink_blue"
+        },
+        {
+            "string": "waypoint_esports_uplink_red"
+        },
+        {
+            "string": "waypoint_kill"
+        },
+        {
+            "string": "waypoint_losing_a"
+        },
+        {
+            "string": "waypoint_losing_b"
+        },
+        {
+            "string": "waypoint_losing_c"
+        },
+        {
+            "string": "waypoint_return_flag"
+        },
+        {
+            "string": "waypoint_revive"
+        },
+        {
+            "string": "waypoint_taking_a"
+        },
+        {
+            "string": "waypoint_taking_b"
+        },
+        {
+            "string": "waypoint_taking_c"
+        },
+        {
+            "string": "waypoint_target"
+        },
+        {
+            "string": "waypoint_target_a"
+        },
+        {
+            "string": "waypoint_target_b"
+        },
+        {
+            "string": "waypoint_targetneutral"
+        },
+        {
+            "string": "waypoint_waitfor_flag"
+        },
+        {
+            "string": "waypoint_waitfor_flag_neutral"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "name": "ncs_mat_level",
+    "stringType": 1,
+    "sourceType": 0,
+    "entryCount": 20,
+    "strings": [
+        {
+            "string": "compass_objpoint_ammo_enemy"
+        },
+        {
+            "string": "compass_objpoint_ammo_friendly"
+        },
+        {
+            "string": "damage_feedback_armored"
+        },
+        {
+            "string": "equipment_contact"
+        },
+        {
+            "string": "hint_health_zm"
+        },
+        {
+            "string": "hud_carepkg_world_goliath"
+        },
+        {
+            "string": "hud_carepkg_world_repulsionturret"
+        },
+        {
+            "string": "hud_carepkg_world_squadmate"
+        },
+        {
+            "string": "hud_drop_sm_infiniteammo"
+        },
+        {
+            "string": "hud_drop_sm_overcharge"
+        },
+        {
+            "string": "hud_upgrade_reward"
+        },
+        {
+            "string": "objpoint_flag_gign"
+        },
+        {
+            "string": "screen_blood_directional_center_green"
+        },
+        {
+            "string": "screen_blood_directional_center_yellow"
+        },
+        {
+            "string": "screen_blood_directional_left_green"
+        },
+        {
+            "string": "screen_blood_directional_left_yellow"
+        },
+        {
+            "string": "screen_blood_directional_right_green"
+        },
+        {
+            "string": "screen_blood_directional_right_yellow"
+        },
+        {
+            "string": "waypoint_cure_zone"
+        },
+        {
+            "string": "waypoint_infected"
+        }
+    ]
+}

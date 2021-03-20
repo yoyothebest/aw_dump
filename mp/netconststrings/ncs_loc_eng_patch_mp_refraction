@@ -1,0 +1,14 @@
+{
+    "name": "ncs_loc_eng_patch_mp_refraction",
+    "stringType": 5,
+    "sourceType": 1,
+    "entryCount": 2,
+    "strings": [
+        {
+            "string": "MP_REFRACTION_IN_USE"
+        },
+        {
+            "string": "MP_REFRACTION_MAP_KILLSTREAK_PICKUP"
+        }
+    ]
+}

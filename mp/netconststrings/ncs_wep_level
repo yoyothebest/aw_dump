@@ -1,0 +1,317 @@
+{
+    "name": "ncs_wep_level",
+    "stringType": 16,
+    "sourceType": 0,
+    "entryCount": 103,
+    "strings": [
+        {
+            "string": "airdrop_sentry_marker_mp"
+        },
+        {
+            "string": "boost_slam_mp"
+        },
+        {
+            "string": "boss_oz_mounted_turret_mp"
+        },
+        {
+            "string": "boss_oz_rocket_mp"
+        },
+        {
+            "string": "boss_oz_sentry_minigun_mp"
+        },
+        {
+            "string": "camera_10fov"
+        },
+        {
+            "string": "camera_20fov"
+        },
+        {
+            "string": "camera_30fov"
+        },
+        {
+            "string": "camera_45fov"
+        },
+        {
+            "string": "camera_5fov"
+        },
+        {
+            "string": "char_intro_execzm_mp"
+        },
+        {
+            "string": "char_intro_guardzm_mp"
+        },
+        {
+            "string": "char_intro_itzm_mp"
+        },
+        {
+            "string": "char_intro_janitorzm_mp"
+        },
+        {
+            "string": "char_intro_pilotidlezm_mp"
+        },
+        {
+            "string": "char_intro_pilotzm_mp"
+        },
+        {
+            "string": "contact_grenade_throw_zombies_mp"
+        },
+        {
+            "string": "contact_grenade_zombies_mp"
+        },
+        {
+            "string": "distraction_drone_throw_zombie_mp"
+        },
+        {
+            "string": "distraction_drone_zombie_mp"
+        },
+        {
+            "string": "dna_aoe_grenade_throw_zombie_mp"
+        },
+        {
+            "string": "dna_aoe_grenade_zombie_mp"
+        },
+        {
+            "string": "drone_assault_remote_turret_mp"
+        },
+        {
+            "string": "emp_grenade_mp"
+        },
+        {
+            "string": "emp_grenade_mp_lefthand"
+        },
+        {
+            "string": "exo_suit_equip_execzm_mp"
+        },
+        {
+            "string": "exo_suit_equip_guardzm_mp"
+        },
+        {
+            "string": "exo_suit_equip_itzm_mp"
+        },
+        {
+            "string": "exo_suit_equip_janitorzm_mp"
+        },
+        {
+            "string": "exo_suit_equip_pilotzm_mp"
+        },
+        {
+            "string": "exo_suit_perk_healthzm_mp"
+        },
+        {
+            "string": "exo_suit_perk_slamzm_mp"
+        },
+        {
+            "string": "exo_suit_perk_speedzm_mp"
+        },
+        {
+            "string": "exo_suit_perk_stabilizerzm_mp"
+        },
+        {
+            "string": "exo_suit_perk_stimzm_mp"
+        },
+        {
+            "string": "exploder_zm_large_mp"
+        },
+        {
+            "string": "exploder_zm_small_mp"
+        },
+        {
+            "string": "explosive_drone_throw_zombie_mp"
+        },
+        {
+            "string": "explosive_drone_zombie_mp"
+        },
+        {
+            "string": "explosive_touch_zombies_mp"
+        },
+        {
+            "string": "frag_grenade_mp"
+        },
+        {
+            "string": "frag_grenade_mp_lefthand"
+        },
+        {
+            "string": "frag_grenade_throw_zombies_mp"
+        },
+        {
+            "string": "frag_grenade_zombies_mp"
+        },
+        {
+            "string": "iw5_ak12zm_mp"
+        },
+        {
+            "string": "iw5_arx160zm_mp"
+        },
+        {
+            "string": "iw5_asawzm_mp"
+        },
+        {
+            "string": "iw5_asm1zm_mp"
+        },
+        {
+            "string": "iw5_bal27zm_mp"
+        },
+        {
+            "string": "iw5_combatknifegoliath_mp"
+        },
+        {
+            "string": "iw5_dlcgun1zm_mp"
+        },
+        {
+            "string": "iw5_dlcgun2zm_mp"
+        },
+        {
+            "string": "iw5_dlcgun3zm_mp"
+        },
+        {
+            "string": "iw5_dlcgun4zm_mp"
+        },
+        {
+            "string": "iw5_em1zm_mp"
+        },
+        {
+            "string": "iw5_exocrossbowzm_mp"
+        },
+        {
+            "string": "iw5_exominigunzm_mp"
+        },
+        {
+            "string": "iw5_fusionzm_mp"
+        },
+        {
+            "string": "iw5_gm6zm_mp"
+        },
+        {
+            "string": "iw5_hbra3zm_mp"
+        },
+        {
+            "string": "iw5_himarzm_mp"
+        },
+        {
+            "string": "iw5_hmr9zm_mp"
+        },
+        {
+            "string": "iw5_juggernautrocketszm_mp"
+        },
+        {
+            "string": "iw5_lsatzm_mp"
+        },
+        {
+            "string": "iw5_m182sprzm_mp"
+        },
+        {
+            "string": "iw5_mahemzm_mp"
+        },
+        {
+            "string": "iw5_maulzm_mp"
+        },
+        {
+            "string": "iw5_mp11zm_mp"
+        },
+        {
+            "string": "iw5_rhinozm_mp"
+        },
+        {
+            "string": "iw5_rw1zm_mp"
+        },
+        {
+            "string": "iw5_sac3zm_mp"
+        },
+        {
+            "string": "iw5_sn6zm_mp"
+        },
+        {
+            "string": "iw5_titan45zm_mp"
+        },
+        {
+            "string": "iw5_tridentzm_mp"
+        },
+        {
+            "string": "iw5_underwater_mp"
+        },
+        {
+            "string": "iw5_uts19zm_mp"
+        },
+        {
+            "string": "iw5_vbrzm_mp"
+        },
+        {
+            "string": "juggernaut_sentry_mg_zm_mp"
+        },
+        {
+            "string": "killstreak_predator_missile_mp"
+        },
+        {
+            "string": "killstreak_remote_turret_mp"
+        },
+        {
+            "string": "killstreak_uav_mp"
+        },
+        {
+            "string": "orbital_carepackage_droppod_zm_mp"
+        },
+        {
+            "string": "orbital_carepackage_pod_zm_mp"
+        },
+        {
+            "string": "orbital_drop_pod_mp"
+        },
+        {
+            "string": "playermech_rocket_swarm_zm_mp"
+        },
+        {
+            "string": "playermech_rocket_zm_mp"
+        },
+        {
+            "string": "remote_disruptor_turret_mp"
+        },
+        {
+            "string": "remote_energy_turret_mp"
+        },
+        {
+            "string": "remote_turret_mp"
+        },
+        {
+            "string": "repulsor_zombie_mp"
+        },
+        {
+            "string": "scavenger_bag_mp"
+        },
+        {
+            "string": "semtex_mp"
+        },
+        {
+            "string": "semtex_mp_lefthand"
+        },
+        {
+            "string": "sentry_minigun_mp"
+        },
+        {
+            "string": "stun_grenade_mp"
+        },
+        {
+            "string": "stun_grenade_mp_lefthand"
+        },
+        {
+            "string": "teleport_throw_zombies_mp"
+        },
+        {
+            "string": "teleport_zombies_mp"
+        },
+        {
+            "string": "trap_zm_mp"
+        },
+        {
+            "string": "turretheadenergy_mp"
+        },
+        {
+            "string": "turretheadmg_mp"
+        },
+        {
+            "string": "ugv_missile_mp"
+        },
+        {
+            "string": "zombie_trap_turret_mp"
+        }
+    ]
+}

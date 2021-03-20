@@ -1,0 +1,389 @@
+{
+    "name": "ncs_snl_common_mp",
+    "stringType": 8,
+    "sourceType": 2,
+    "entryCount": 127,
+    "strings": [
+        {
+            "string": "alarm_small_outside_loop_ver_01"
+        },
+        {
+            "string": "assault_drn_idle_high"
+        },
+        {
+            "string": "assault_drn_idle_low"
+        },
+        {
+            "string": "assault_drn_move_high"
+        },
+        {
+            "string": "assault_drn_move_low"
+        },
+        {
+            "string": "bombrun_jet_dist_loop"
+        },
+        {
+            "string": "bombrun_jet_mid_loop"
+        },
+        {
+            "string": "bombrun_jet_near_loop"
+        },
+        {
+            "string": "cobra_helicopter_dying_layer"
+        },
+        {
+            "string": "cobra_helicopter_dying_loop"
+        },
+        {
+            "string": "deaths_door_loop"
+        },
+        {
+            "string": "drone_explosion"
+        },
+        {
+            "string": "emt_road_flare_burn"
+        },
+        {
+            "string": "ims_destroyed_sparks"
+        },
+        {
+            "string": "move_105mm_proj_loop1"
+        },
+        {
+            "string": "move_105mm_proj_loop2"
+        },
+        {
+            "string": "move_40mm_proj_loop1"
+        },
+        {
+            "string": "move_40mm_proj_loop2"
+        },
+        {
+            "string": "mp_cobra_helicopter"
+        },
+        {
+            "string": "mp_dam_surge_sparks"
+        },
+        {
+            "string": "mp_hind_helicopter"
+        },
+        {
+            "string": "mp_hud_malfunction"
+        },
+        {
+            "string": "mp_tracking_drone_lock"
+        },
+        {
+            "string": "mstrike_missile_dist_lp"
+        },
+        {
+            "string": "mstrike_missile_near_lp"
+        },
+        {
+            "string": "mstrike_missile_projectile_lp"
+        },
+        {
+            "string": "mus_after_action_menu_bet"
+        },
+        {
+            "string": "mus_after_action_menu_cap"
+        },
+        {
+            "string": "mus_after_action_menu_cra"
+        },
+        {
+            "string": "mus_after_action_menu_det"
+        },
+        {
+            "string": "mus_after_action_menu_df"
+        },
+        {
+            "string": "mus_after_action_menu_est"
+        },
+        {
+            "string": "mus_after_action_menu_fus"
+        },
+        {
+            "string": "mus_after_action_menu_gre"
+        },
+        {
+            "string": "mus_after_action_menu_lab"
+        },
+        {
+            "string": "mus_after_action_menu_lag"
+        },
+        {
+            "string": "mus_after_action_menu_rec"
+        },
+        {
+            "string": "mus_after_action_menu_seo"
+        },
+        {
+            "string": "mus_after_action_menu_sfa"
+        },
+        {
+            "string": "mus_after_action_menu_sfb"
+        },
+        {
+            "string": "mus_practice_round_backing_track"
+        },
+        {
+            "string": "mute_device_active_lp"
+        },
+        {
+            "string": "orbital_drop_pod_platform_lp"
+        },
+        {
+            "string": "orbital_drop_pod_proj"
+        },
+        {
+            "string": "orbital_laser"
+        },
+        {
+            "string": "orbital_pkg_drone_move_lp"
+        },
+        {
+            "string": "orbital_pkg_pod_dist_lp"
+        },
+        {
+            "string": "orbital_pkg_pod_near_lp"
+        },
+        {
+            "string": "orbital_strike_laser"
+        },
+        {
+            "string": "osprey_engine_low"
+        },
+        {
+            "string": "osprey_idle_low"
+        },
+        {
+            "string": "paladin_flight_loop_dist"
+        },
+        {
+            "string": "paladin_flight_loop_near"
+        },
+        {
+            "string": "recon_drn_idle_high"
+        },
+        {
+            "string": "recon_drn_idle_low"
+        },
+        {
+            "string": "recon_drn_move_high"
+        },
+        {
+            "string": "recon_drn_move_low"
+        },
+        {
+            "string": "recondrone_destroyed_sparks"
+        },
+        {
+            "string": "recondrone_eng_high"
+        },
+        {
+            "string": "recondrone_eng_low"
+        },
+        {
+            "string": "recondrone_idle_high"
+        },
+        {
+            "string": "recondrone_idle_low"
+        },
+        {
+            "string": "sentry_gun_laser_loop_fire_lo_npc"
+        },
+        {
+            "string": "sentry_gun_laser_loop_fire_lo_plr"
+        },
+        {
+            "string": "sentry_gun_laser_loop_fire_npc"
+        },
+        {
+            "string": "sentry_gun_laser_loop_fire_plr"
+        },
+        {
+            "string": "sentry_gun_lat_move_lp"
+        },
+        {
+            "string": "sentry_gun_remote_view_bg"
+        },
+        {
+            "string": "sentry_gun_vert_move_lp"
+        },
+        {
+            "string": "sentry_hydraulics"
+        },
+        {
+            "string": "sentry_spin"
+        },
+        {
+            "string": "sentry_spinloop"
+        },
+        {
+            "string": "shellshock_loop"
+        },
+        {
+            "string": "shellshock_loop_silent"
+        },
+        {
+            "string": "snd_bomb_button_press_lp"
+        },
+        {
+            "string": "tac_insert_spark_lp"
+        },
+        {
+            "string": "talon_destroyed_sparks"
+        },
+        {
+            "string": "trackingdrone_eng_high"
+        },
+        {
+            "string": "trackingdrone_eng_low"
+        },
+        {
+            "string": "trackingdrone_idle_high"
+        },
+        {
+            "string": "trackingdrone_idle_low"
+        },
+        {
+            "string": "ugv_engine_high"
+        },
+        {
+            "string": "ugv_engine_low"
+        },
+        {
+            "string": "ugv_idle_high"
+        },
+        {
+            "string": "ugv_idle_low"
+        },
+        {
+            "string": "ui_eus_upgrage_xp_bar_fill_lp"
+        },
+        {
+            "string": "veh_aastrike_flyover_close_loop"
+        },
+        {
+            "string": "veh_aastrike_flyover_loop"
+        },
+        {
+            "string": "veh_aastrike_flyover_mid_loop"
+        },
+        {
+            "string": "veh_aastrike_flyover_outgoing_loop"
+        },
+        {
+            "string": "veh_ac130_ext_close"
+        },
+        {
+            "string": "veh_ac130_ext_dist"
+        },
+        {
+            "string": "veh_ac130_ext_medium"
+        },
+        {
+            "string": "veh_b2_close_loop"
+        },
+        {
+            "string": "veh_b2_dist_loop"
+        },
+        {
+            "string": "veh_b2_mid_loop"
+        },
+        {
+            "string": "veh_tracking_drone_eng_hi_lp"
+        },
+        {
+            "string": "veh_tracking_drone_eng_low_lp"
+        },
+        {
+            "string": "veh_tracking_drone_idle_hi_lp"
+        },
+        {
+            "string": "veh_tracking_drone_idle_low_lp"
+        },
+        {
+            "string": "veh_tracking_drone_jets_lp"
+        },
+        {
+            "string": "veh_tracking_drone_lock_lp"
+        },
+        {
+            "string": "veh_warbird_close_hi_lp"
+        },
+        {
+            "string": "veh_warbird_close_lo_lp"
+        },
+        {
+            "string": "veh_warbird_idle_hi_lp"
+        },
+        {
+            "string": "veh_warbird_idle_lo_lp"
+        },
+        {
+            "string": "vulcan_beam_loop_npc"
+        },
+        {
+            "string": "vulcan_beam_loop_plr"
+        },
+        {
+            "string": "vulcan_impact_loop_npc"
+        },
+        {
+            "string": "vulcan_interior_loop_plr"
+        },
+        {
+            "string": "vulcan_lshow_beam_lfe"
+        },
+        {
+            "string": "vulcan_lshow_beam_loop_plr"
+        },
+        {
+            "string": "vulcan_lshow_beam_loop_plr_lyr"
+        },
+        {
+            "string": "vulcan_std_beam_loop_plr"
+        },
+        {
+            "string": "vulcan_std_beam_loop_plr_lo"
+        },
+        {
+            "string": "vulcan_wide_beam_lfe"
+        },
+        {
+            "string": "vulcan_wide_beam_loop_plr"
+        },
+        {
+            "string": "vulcan_wide_beam_loop_plr_lyr"
+        },
+        {
+            "string": "warbird_chopper_dist_lp"
+        },
+        {
+            "string": "warbird_close_lp"
+        },
+        {
+            "string": "warbird_close_stress_lp"
+        },
+        {
+            "string": "warbird_death_spin_loop"
+        },
+        {
+            "string": "wpn_sentry_rocket_lp"
+        },
+        {
+            "string": "wpn_sentry_rocket_lyr_lp"
+        },
+        {
+            "string": "wpn_wraith_turret_last_shot"
+        },
+        {
+            "string": "wpn_wraith_turret_npc_lp"
+        },
+        {
+            "string": "wpn_wraith_turret_scan_lp"
+        }
+    ]
+}

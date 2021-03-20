@@ -1,0 +1,26 @@
+{
+    "name": "ncs_hnt_eng_patch_mp_zombie_lab",
+    "stringType": 18,
+    "sourceType": 1,
+    "entryCount": 6,
+    "strings": [
+        {
+            "string": "ZOMBIE_LAB_DOOR_TO_ADMIN"
+        },
+        {
+            "string": "ZOMBIE_LAB_DOOR_TO_COURTYARD"
+        },
+        {
+            "string": "ZOMBIE_LAB_DOOR_TO_EXPER"
+        },
+        {
+            "string": "ZOMBIE_LAB_DOOR_TO_LAB"
+        },
+        {
+            "string": "ZOMBIE_LAB_DOOR_TO_MILITARY"
+        },
+        {
+            "string": "ZOMBIE_LAB_DOOR_TO_ROUNDABOUT"
+        }
+    ]
+}

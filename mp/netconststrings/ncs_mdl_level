@@ -1,0 +1,1058 @@
+{
+    "name": "ncs_mdl_level",
+    "stringType": 0,
+    "sourceType": 0,
+    "entryCount": 350,
+    "strings": [
+        {
+            "string": "atm_money_zm_01"
+        },
+        {
+            "string": "boss_oz_mounted_turret"
+        },
+        {
+            "string": "com_plasticcase_gign"
+        },
+        {
+            "string": "com_plasticcase_green_big_us_dirt"
+        },
+        {
+            "string": "dlc3_power_station_zark"
+        },
+        {
+            "string": "dlc3_repulsor_device_01_holo"
+        },
+        {
+            "string": "dlc3_teleport_grenade_01"
+        },
+        {
+            "string": "dlc3_teleport_grenade_01_holo"
+        },
+        {
+            "string": "dlc_badge_decker"
+        },
+        {
+            "string": "dlc_badge_generic_anim"
+        },
+        {
+            "string": "dlc_badge_lilith"
+        },
+        {
+            "string": "dlc_distraction_drone_01"
+        },
+        {
+            "string": "dlc_distraction_drone_01_holo"
+        },
+        {
+            "string": "dlc_dogtags_zombie_invisible"
+        },
+        {
+            "string": "dlc_exo_buy_station_01"
+        },
+        {
+            "string": "dlc_exo_upgrade_station_01"
+        },
+        {
+            "string": "dlc_goliath_rocket"
+        },
+        {
+            "string": "dlc_power_station"
+        },
+        {
+            "string": "dlc_trap_activation_console_01_active"
+        },
+        {
+            "string": "dlc_trap_activation_console_01_cooldown"
+        },
+        {
+            "string": "dlc_trap_activation_console_01_no_signal"
+        },
+        {
+            "string": "dlc_trap_activation_console_01_ready"
+        },
+        {
+            "string": "dlc_weapon_box_01"
+        },
+        {
+            "string": "dlc_weapon_mystery_box_01"
+        },
+        {
+            "string": "dlc_weapon_upgrade_station_01"
+        },
+        {
+            "string": "executive_body"
+        },
+        {
+            "string": "executive_body_exo"
+        },
+        {
+            "string": "executive_head"
+        },
+        {
+            "string": "executive_head_z"
+        },
+        {
+            "string": "generic_prop_raven"
+        },
+        {
+            "string": "genericprop_x3"
+        },
+        {
+            "string": "genericprop_x5"
+        },
+        {
+            "string": "h2o_buy_door_01_left"
+        },
+        {
+            "string": "h2o_buy_door_01_left_tidal"
+        },
+        {
+            "string": "h2o_buy_door_01_right"
+        },
+        {
+            "string": "h2o_buy_door_01_right_tidal"
+        },
+        {
+            "string": "h2o_buy_door_01_top"
+        },
+        {
+            "string": "h2o_buy_door_01_top_tidal"
+        },
+        {
+            "string": "h2o_buy_door_large_01_left"
+        },
+        {
+            "string": "h2o_buy_door_large_01_right"
+        },
+        {
+            "string": "h2o_buy_door_large_01_top"
+        },
+        {
+            "string": "h2o_easter_egg_platform_01"
+        },
+        {
+            "string": "h2o_easter_egg_platform_02"
+        },
+        {
+            "string": "h2o_easter_egg_platform_03"
+        },
+        {
+            "string": "h2o_easteregg_panel_exterior_01"
+        },
+        {
+            "string": "h2o_exo_station_glass_cylinder_01"
+        },
+        {
+            "string": "h2o_mantaray_01_anim"
+        },
+        {
+            "string": "h2o_pneumatic_tube_glass"
+        },
+        {
+            "string": "h2o_sign_ee_scoreboard_no_0"
+        },
+        {
+            "string": "h2o_sign_ee_scoreboard_no_1"
+        },
+        {
+            "string": "h2o_sign_ee_scoreboard_no_2"
+        },
+        {
+            "string": "h2o_sign_ee_scoreboard_no_3"
+        },
+        {
+            "string": "h2o_sign_ee_scoreboard_no_4"
+        },
+        {
+            "string": "h2o_sign_ee_scoreboard_no_5"
+        },
+        {
+            "string": "h2o_sign_ee_scoreboard_no_6"
+        },
+        {
+            "string": "h2o_sign_ee_scoreboard_no_7"
+        },
+        {
+            "string": "h2o_sign_ee_scoreboard_no_8"
+        },
+        {
+            "string": "h2o_sign_ee_scoreboard_no_9"
+        },
+        {
+            "string": "h2o_tidal_blade"
+        },
+        {
+            "string": "h2o_trophies_burger"
+        },
+        {
+            "string": "h2o_trophies_bus"
+        },
+        {
+            "string": "h2o_trophies_bus_b"
+        },
+        {
+            "string": "h2o_trophies_shark"
+        },
+        {
+            "string": "h2o_trophies_shark_b"
+        },
+        {
+            "string": "h2o_trophies_trident"
+        },
+        {
+            "string": "h2o_trophies_trident_b"
+        },
+        {
+            "string": "h2o_valve_easteregg"
+        },
+        {
+            "string": "h2o_windtower_fan"
+        },
+        {
+            "string": "head_ally_delta_sniper"
+        },
+        {
+            "string": "head_hero_cormack_sentinel_halo"
+        },
+        {
+            "string": "head_opforce_russian_urban_sniper"
+        },
+        {
+            "string": "janitor_body_dlc2"
+        },
+        {
+            "string": "janitor_body_exo_dlc2"
+        },
+        {
+            "string": "janitor_head_dlc2"
+        },
+        {
+            "string": "lab2_bio_rack_04_full"
+        },
+        {
+            "string": "lab2_bio_rack_04_missing1"
+        },
+        {
+            "string": "lab2_bio_rack_04_missing2"
+        },
+        {
+            "string": "lilith_body"
+        },
+        {
+            "string": "lilith_body_exo"
+        },
+        {
+            "string": "lilith_head"
+        },
+        {
+            "string": "lilith_head_z"
+        },
+        {
+            "string": "mp_body_ally_ghillie_urban_sniper"
+        },
+        {
+            "string": "mp_body_opforce_ghillie_urban_sniper"
+        },
+        {
+            "string": "npc_ak12_base_static_holo"
+        },
+        {
+            "string": "npc_ameli_base_static_holo"
+        },
+        {
+            "string": "npc_arx160_base_static_holo"
+        },
+        {
+            "string": "npc_asm1_base_static_holo"
+        },
+        {
+            "string": "npc_bal27_base_black_static_holo"
+        },
+        {
+            "string": "npc_blunderbuss_base_holo"
+        },
+        {
+            "string": "npc_cbj_ms_base_static_holo"
+        },
+        {
+            "string": "npc_crossbow_base_static_holo"
+        },
+        {
+            "string": "npc_crossbow_bolt"
+        },
+        {
+            "string": "npc_dear_base_static_holo"
+        },
+        {
+            "string": "npc_drone_explosive_main"
+        },
+        {
+            "string": "npc_drone_explosive_main_holo"
+        },
+        {
+            "string": "npc_drone_explosive_spike"
+        },
+        {
+            "string": "npc_drone_explosive_spike_holo"
+        },
+        {
+            "string": "npc_drone_tracking_projectile"
+        },
+        {
+            "string": "npc_drone_tracking_projectile_holo"
+        },
+        {
+            "string": "npc_em1_base_static_holo"
+        },
+        {
+            "string": "npc_exo_armor_ingress"
+        },
+        {
+            "string": "npc_exo_armor_minigun_barrel"
+        },
+        {
+            "string": "npc_exo_armor_minigun_handle"
+        },
+        {
+            "string": "npc_exo_armor_mp_base"
+        },
+        {
+            "string": "npc_exo_launcher_grenade"
+        },
+        {
+            "string": "npc_exo_launcher_grenade_holo"
+        },
+        {
+            "string": "npc_fusion_shotgun_base_holo"
+        },
+        {
+            "string": "npc_gm6_base_static_holo"
+        },
+        {
+            "string": "npc_hbra3_base_static_holo"
+        },
+        {
+            "string": "npc_heavy_exo_armor_missile_pack_base"
+        },
+        {
+            "string": "npc_himar_base_static_holo"
+        },
+        {
+            "string": "npc_hmr9_base_static_holo"
+        },
+        {
+            "string": "npc_kf5_base_static_holo"
+        },
+        {
+            "string": "npc_lmg_shotgun_base_static_holo"
+        },
+        {
+            "string": "npc_lsat_base_static_holo"
+        },
+        {
+            "string": "npc_m1_irons_base_static_holo"
+        },
+        {
+            "string": "npc_maaws_base_holo"
+        },
+        {
+            "string": "npc_mahem_base_holo"
+        },
+        {
+            "string": "npc_maul_base_static_holo"
+        },
+        {
+            "string": "npc_mdl_projectile"
+        },
+        {
+            "string": "npc_mk14_ebr_static_holo"
+        },
+        {
+            "string": "npc_mp443_base_static_holo"
+        },
+        {
+            "string": "npc_rhino_base_static_holo"
+        },
+        {
+            "string": "npc_rw1_main_base_static_holo"
+        },
+        {
+            "string": "npc_sac3_base_static_holo"
+        },
+        {
+            "string": "npc_sentry_disruptor_turret_base"
+        },
+        {
+            "string": "npc_sentry_disruptor_turret_base_red_obj"
+        },
+        {
+            "string": "npc_sentry_disruptor_turret_base_yellow_obj"
+        },
+        {
+            "string": "npc_sentry_disruptor_turret_empty_base"
+        },
+        {
+            "string": "npc_sentry_energy_turret_base"
+        },
+        {
+            "string": "npc_sentry_energy_turret_base_red_obj"
+        },
+        {
+            "string": "npc_sentry_energy_turret_base_yellow_obj"
+        },
+        {
+            "string": "npc_sentry_energy_turret_empty_base"
+        },
+        {
+            "string": "npc_sentry_minigun_base"
+        },
+        {
+            "string": "npc_sentry_minigun_turret_base"
+        },
+        {
+            "string": "npc_sentry_minigun_turret_base_red_obj"
+        },
+        {
+            "string": "npc_sentry_minigun_turret_base_yellow_obj"
+        },
+        {
+            "string": "npc_sentry_minigun_turret_empty_base"
+        },
+        {
+            "string": "npc_sentry_rocket_turret_base"
+        },
+        {
+            "string": "npc_sentry_rocket_turret_base_red_obj"
+        },
+        {
+            "string": "npc_sentry_rocket_turret_base_yellow_obj"
+        },
+        {
+            "string": "npc_sentry_rocket_turret_empty_base"
+        },
+        {
+            "string": "npc_sn6_base_black_static_holo"
+        },
+        {
+            "string": "npc_stingerm7_base_black_holo"
+        },
+        {
+            "string": "npc_titan45_base_static_holo"
+        },
+        {
+            "string": "npc_uts19_base_static_holo"
+        },
+        {
+            "string": "npc_variable_grenade_lethal"
+        },
+        {
+            "string": "npc_vbr_base_static_holo"
+        },
+        {
+            "string": "npc_zom_line_gun_projectile"
+        },
+        {
+            "string": "npc_zom_trident_base_holo"
+        },
+        {
+            "string": "orbital_carepackage_pod_01_ai"
+        },
+        {
+            "string": "orbital_carepackage_pod_01_ai_bombsquad"
+        },
+        {
+            "string": "orbital_carepackage_pod_01_clr_01_ai"
+        },
+        {
+            "string": "orbital_carepackage_pod_01_logo_trap_ai"
+        },
+        {
+            "string": "orbital_carepackage_pod_01_projectile_invis"
+        },
+        {
+            "string": "orbital_carepackage_pod_01_vehicle"
+        },
+        {
+            "string": "pickups_zombies_01_apocalypse"
+        },
+        {
+            "string": "pickups_zombies_01_double_points"
+        },
+        {
+            "string": "pickups_zombies_01_insta_kill"
+        },
+        {
+            "string": "pickups_zombies_01_max_ammo"
+        },
+        {
+            "string": "pickups_zombies_01_power_surge"
+        },
+        {
+            "string": "pickups_zombies_01_tombstone"
+        },
+        {
+            "string": "pilot_body_nohelmet"
+        },
+        {
+            "string": "pilot_body_nohelmet_exo"
+        },
+        {
+            "string": "pilot_head"
+        },
+        {
+            "string": "pilot_head_z"
+        },
+        {
+            "string": "projectile_at4"
+        },
+        {
+            "string": "security_access_card_01"
+        },
+        {
+            "string": "security_guard_body"
+        },
+        {
+            "string": "security_guard_body_exo"
+        },
+        {
+            "string": "security_guard_head"
+        },
+        {
+            "string": "security_guard_head_z"
+        },
+        {
+            "string": "sentinel_udt_strike_body_a"
+        },
+        {
+            "string": "sentinel_udt_strike_head_a"
+        },
+        {
+            "string": "tag_laser"
+        },
+        {
+            "string": "vehicle_atlas_aerial_drone_01_assult_mp_noturret_clr_50p"
+        },
+        {
+            "string": "vehicle_atlas_aerial_drone_01_mp_turret_50p"
+        },
+        {
+            "string": "vehicle_atlas_aerial_drone_01_patrol_mp_static_clr_01_50p"
+        },
+        {
+            "string": "vehicle_drop_pod"
+        },
+        {
+            "string": "vehicle_treasure_drone_01_ai"
+        },
+        {
+            "string": "viewhands_executive"
+        },
+        {
+            "string": "viewhands_executive_exo"
+        },
+        {
+            "string": "viewhands_iw5_ghillie_urban"
+        },
+        {
+            "string": "viewhands_janitor"
+        },
+        {
+            "string": "viewhands_janitor_exo"
+        },
+        {
+            "string": "viewhands_lilith"
+        },
+        {
+            "string": "viewhands_lilith_exo"
+        },
+        {
+            "string": "viewhands_pilot_bcambell"
+        },
+        {
+            "string": "viewhands_pilot_bcambell_exo"
+        },
+        {
+            "string": "viewhands_s1_pmc"
+        },
+        {
+            "string": "viewhands_security_guard"
+        },
+        {
+            "string": "viewhands_security_guard_exo"
+        },
+        {
+            "string": "viewhands_sentinel"
+        },
+        {
+            "string": "vm_view_arms_mech_mp"
+        },
+        {
+            "string": "xom1_data_hub"
+        },
+        {
+            "string": "xom_biometric_lock"
+        },
+        {
+            "string": "xom_host_cure_station"
+        },
+        {
+            "string": "zark_buy_door_01"
+        },
+        {
+            "string": "zark_buy_door_01_split_gray"
+        },
+        {
+            "string": "zark_buy_door_01_split_orange"
+        },
+        {
+            "string": "zark_grenadebag_01_obj"
+        },
+        {
+            "string": "zark_money_01_obj"
+        },
+        {
+            "string": "zark_teleporter_01_lights"
+        },
+        {
+            "string": "zark_trap_turret"
+        },
+        {
+            "string": "zom_blink_head_a"
+        },
+        {
+            "string": "zom_blink_l_arm_a_slice"
+        },
+        {
+            "string": "zom_blink_l_leg_a_slice"
+        },
+        {
+            "string": "zom_blink_r_arm_a_slice"
+        },
+        {
+            "string": "zom_blink_r_leg_a_slice"
+        },
+        {
+            "string": "zom_blink_torso_a_slice"
+        },
+        {
+            "string": "zom_civ_ruban_male_l_arm_phys"
+        },
+        {
+            "string": "zom_civ_ruban_male_l_arm_slice"
+        },
+        {
+            "string": "zom_civ_ruban_male_l_arm_slice_ab"
+        },
+        {
+            "string": "zom_civ_ruban_male_l_arm_slice_b"
+        },
+        {
+            "string": "zom_civ_ruban_male_l_arm_slice_c"
+        },
+        {
+            "string": "zom_civ_ruban_male_l_leg_phys"
+        },
+        {
+            "string": "zom_civ_ruban_male_l_leg_slice"
+        },
+        {
+            "string": "zom_civ_ruban_male_r_arm_phys"
+        },
+        {
+            "string": "zom_civ_ruban_male_r_arm_slice"
+        },
+        {
+            "string": "zom_civ_ruban_male_r_arm_slice_ab"
+        },
+        {
+            "string": "zom_civ_ruban_male_r_arm_slice_b"
+        },
+        {
+            "string": "zom_civ_ruban_male_r_arm_slice_c"
+        },
+        {
+            "string": "zom_civ_ruban_male_r_leg_phys"
+        },
+        {
+            "string": "zom_civ_ruban_male_r_leg_slice"
+        },
+        {
+            "string": "zom_civ_ruban_male_torso_slice"
+        },
+        {
+            "string": "zom_civ_ruban_male_torso_slice_ab"
+        },
+        {
+            "string": "zom_civ_ruban_male_torso_slice_b"
+        },
+        {
+            "string": "zom_civ_ruban_male_torso_slice_c"
+        },
+        {
+            "string": "zom_civ_urban_male_head_phys"
+        },
+        {
+            "string": "zom_civ_urban_male_head_slice"
+        },
+        {
+            "string": "zom_cmb_armor_emp_body"
+        },
+        {
+            "string": "zom_cmb_armor_emp_nofx_body"
+        },
+        {
+            "string": "zom_cmb_blink_fire_head_a"
+        },
+        {
+            "string": "zom_cmb_blink_fire_l_arm_a_slice"
+        },
+        {
+            "string": "zom_cmb_blink_fire_l_leg_a_slice"
+        },
+        {
+            "string": "zom_cmb_blink_fire_nofx_torso_a_slice"
+        },
+        {
+            "string": "zom_cmb_blink_fire_r_arm_a_slice"
+        },
+        {
+            "string": "zom_cmb_blink_fire_r_leg_a_slice"
+        },
+        {
+            "string": "zom_cmb_blink_fire_torso_a_slice"
+        },
+        {
+            "string": "zom_cmb_blink_spike_head_a"
+        },
+        {
+            "string": "zom_cmb_blink_spike_l_arm_a_slice"
+        },
+        {
+            "string": "zom_cmb_blink_spike_l_leg_a_slice"
+        },
+        {
+            "string": "zom_cmb_blink_spike_nofx_l_arm_a_slice"
+        },
+        {
+            "string": "zom_cmb_blink_spike_nofx_r_arm_a_slice"
+        },
+        {
+            "string": "zom_cmb_blink_spike_nofx_torso_a_slice"
+        },
+        {
+            "string": "zom_cmb_blink_spike_r_arm_a_slice"
+        },
+        {
+            "string": "zom_cmb_blink_spike_r_leg_a_slice"
+        },
+        {
+            "string": "zom_cmb_blink_spike_torso_a_slice"
+        },
+        {
+            "string": "zom_dog_150p"
+        },
+        {
+            "string": "zom_dog_emz"
+        },
+        {
+            "string": "zom_host_fullbody"
+        },
+        {
+            "string": "zom_marine_exo_l_arm_phys"
+        },
+        {
+            "string": "zom_marine_exo_l_arm_slice"
+        },
+        {
+            "string": "zom_marine_exo_l_leg_phys"
+        },
+        {
+            "string": "zom_marine_exo_l_leg_slice"
+        },
+        {
+            "string": "zom_marine_exo_l_leg_slice_ab"
+        },
+        {
+            "string": "zom_marine_exo_r_arm_phys"
+        },
+        {
+            "string": "zom_marine_exo_r_arm_slice"
+        },
+        {
+            "string": "zom_marine_exo_r_leg_phys"
+        },
+        {
+            "string": "zom_marine_exo_r_leg_slice"
+        },
+        {
+            "string": "zom_marine_exo_r_leg_slice_ab"
+        },
+        {
+            "string": "zom_marine_exo_torso_slice"
+        },
+        {
+            "string": "zom_marine_exo_torso_slice_ab"
+        },
+        {
+            "string": "zom_marine_m_emp_exo_l_arm_slice"
+        },
+        {
+            "string": "zom_marine_m_emp_exo_l_leg_slice"
+        },
+        {
+            "string": "zom_marine_m_emp_exo_l_leg_slice_ab"
+        },
+        {
+            "string": "zom_marine_m_emp_exo_r_arm_slice"
+        },
+        {
+            "string": "zom_marine_m_emp_exo_r_leg_slice"
+        },
+        {
+            "string": "zom_marine_m_emp_exo_r_leg_slice_ab"
+        },
+        {
+            "string": "zom_marine_m_emp_exo_torso_slice"
+        },
+        {
+            "string": "zom_marine_m_emp_exo_torso_slice_ab"
+        },
+        {
+            "string": "zom_marine_m_emp_nofx_exo_l_arm_slice"
+        },
+        {
+            "string": "zom_marine_m_emp_nofx_exo_l_leg_slice"
+        },
+        {
+            "string": "zom_marine_m_emp_nofx_exo_l_leg_slice_ab"
+        },
+        {
+            "string": "zom_marine_m_emp_nofx_exo_r_arm_slice"
+        },
+        {
+            "string": "zom_marine_m_emp_nofx_exo_r_leg_slice"
+        },
+        {
+            "string": "zom_marine_m_emp_nofx_exo_r_leg_slice_ab"
+        },
+        {
+            "string": "zom_marine_m_emp_nofx_exo_torso_slice"
+        },
+        {
+            "string": "zom_marine_m_emp_nofx_exo_torso_slice_ab"
+        },
+        {
+            "string": "zom_marine_m_fire_exo_l_arm_slice"
+        },
+        {
+            "string": "zom_marine_m_fire_exo_l_leg_slice"
+        },
+        {
+            "string": "zom_marine_m_fire_exo_l_leg_slice_ab"
+        },
+        {
+            "string": "zom_marine_m_fire_exo_r_arm_slice"
+        },
+        {
+            "string": "zom_marine_m_fire_exo_r_leg_slice"
+        },
+        {
+            "string": "zom_marine_m_fire_exo_r_leg_slice_ab"
+        },
+        {
+            "string": "zom_marine_m_fire_exo_torso_slice"
+        },
+        {
+            "string": "zom_marine_m_fire_exo_torso_slice_ab"
+        },
+        {
+            "string": "zom_marine_m_fire_nofx_exo_torso_slice"
+        },
+        {
+            "string": "zom_marine_m_fire_nofx_exo_torso_slice_ab"
+        },
+        {
+            "string": "zom_marine_m_ovr_exo_l_arm_slice"
+        },
+        {
+            "string": "zom_marine_m_ovr_exo_l_leg_slice"
+        },
+        {
+            "string": "zom_marine_m_ovr_exo_l_leg_slice_ab"
+        },
+        {
+            "string": "zom_marine_m_ovr_exo_r_arm_slice"
+        },
+        {
+            "string": "zom_marine_m_ovr_exo_r_leg_slice"
+        },
+        {
+            "string": "zom_marine_m_ovr_exo_r_leg_slice_ab"
+        },
+        {
+            "string": "zom_marine_m_ovr_exo_torso_slice"
+        },
+        {
+            "string": "zom_marine_m_ovr_exo_torso_slice_ab"
+        },
+        {
+            "string": "zom_marine_m_ovr_nofx_exo_l_arm_slice"
+        },
+        {
+            "string": "zom_marine_m_ovr_nofx_exo_l_leg_slice"
+        },
+        {
+            "string": "zom_marine_m_ovr_nofx_exo_l_leg_slice_ab"
+        },
+        {
+            "string": "zom_marine_m_ovr_nofx_exo_r_arm_slice"
+        },
+        {
+            "string": "zom_marine_m_ovr_nofx_exo_r_leg_slice"
+        },
+        {
+            "string": "zom_marine_m_ovr_nofx_exo_r_leg_slice_ab"
+        },
+        {
+            "string": "zom_marine_m_ovr_nofx_exo_torso_slice"
+        },
+        {
+            "string": "zom_marine_m_spikes_exo_l_arm_slice"
+        },
+        {
+            "string": "zom_marine_m_spikes_exo_r_arm_slice"
+        },
+        {
+            "string": "zom_marine_m_spikes_exo_torso_slice"
+        },
+        {
+            "string": "zom_marine_shotgun_l_arm_slice"
+        },
+        {
+            "string": "zom_marine_shotgun_l_arm_slice_bb"
+        },
+        {
+            "string": "zom_marine_shotgun_l_leg_slice"
+        },
+        {
+            "string": "zom_marine_shotgun_l_leg_slice_bb"
+        },
+        {
+            "string": "zom_marine_shotgun_r_arm_slice"
+        },
+        {
+            "string": "zom_marine_shotgun_r_arm_slice_bb"
+        },
+        {
+            "string": "zom_marine_shotgun_r_leg_slice"
+        },
+        {
+            "string": "zom_marine_shotgun_r_leg_slice_bb"
+        },
+        {
+            "string": "zom_marine_shotgun_torso_slice"
+        },
+        {
+            "string": "zom_marine_shotgun_torso_slice_bb"
+        },
+        {
+            "string": "zom_mut_armor_body"
+        },
+        {
+            "string": "zom_mut_cmb_spikes_emp_head_slice"
+        },
+        {
+            "string": "zom_mut_cmb_spikes_emp_l_arm_slice"
+        },
+        {
+            "string": "zom_mut_cmb_spikes_emp_l_leg_slice"
+        },
+        {
+            "string": "zom_mut_cmb_spikes_emp_nofx_l_arm_slice"
+        },
+        {
+            "string": "zom_mut_cmb_spikes_emp_nofx_r_arm_slice"
+        },
+        {
+            "string": "zom_mut_cmb_spikes_emp_nofx_torso_slice"
+        },
+        {
+            "string": "zom_mut_cmb_spikes_emp_r_arm_slice"
+        },
+        {
+            "string": "zom_mut_cmb_spikes_emp_r_leg_slice"
+        },
+        {
+            "string": "zom_mut_cmb_spikes_emp_torso_slice"
+        },
+        {
+            "string": "zom_mut_spikes_head_slice"
+        },
+        {
+            "string": "zom_mut_spikes_l_leg_slice"
+        },
+        {
+            "string": "zom_mut_spikes_r_leg_slice"
+        },
+        {
+            "string": "zom_oz_boss_stage1"
+        },
+        {
+            "string": "zom_oz_boss_stage2"
+        },
+        {
+            "string": "zombie_helmet"
+        },
+        {
+            "string": "zombie_helmet_collision"
+        },
+        {
+            "string": "zombies_head_cau_dlc_a"
+        },
+        {
+            "string": "zombies_head_cau_dlc_b"
+        },
+        {
+            "string": "zombies_head_cau_dlc_c"
+        },
+        {
+            "string": "zombies_head_mutator_emp"
+        },
+        {
+            "string": "zombies_head_mutator_emp_cau_a"
+        },
+        {
+            "string": "zombies_head_mutator_emp_cau_b"
+        },
+        {
+            "string": "zombies_head_mutator_emp_cau_c"
+        },
+        {
+            "string": "zombies_head_mutator_fire"
+        },
+        {
+            "string": "zombies_head_mutator_fire_cau_a"
+        },
+        {
+            "string": "zombies_head_mutator_fire_cau_b"
+        },
+        {
+            "string": "zombies_head_mutator_fire_cau_c"
+        },
+        {
+            "string": "zombies_head_mutator_overcharge"
+        },
+        {
+            "string": "zombies_head_mutator_ovrchrg_cau_a"
+        },
+        {
+            "string": "zombies_head_mutator_ovrchrg_cau_b"
+        },
+        {
+            "string": "zombies_head_mutator_ovrchrg_cau_c"
+        },
+        {
+            "string": "zombies_head_shg_dlc_b"
+        }
+    ]
+}

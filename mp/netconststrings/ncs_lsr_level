@@ -1,0 +1,17 @@
+{
+    "name": "ncs_lsr_level",
+    "stringType": 23,
+    "sourceType": 0,
+    "entryCount": 3,
+    "strings": [
+        {
+            "string": "mp_sentry_turret"
+        },
+        {
+            "string": "trap_warning_zm"
+        },
+        {
+            "string": "trap_zm"
+        }
+    ]
+}

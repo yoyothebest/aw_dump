@@ -1,0 +1,11 @@
+{
+    "name": "ncs_vfx_patch_mp_zombie_lab",
+    "stringType": 4,
+    "sourceType": 1,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "vfx/gameplay/mp/zombie/dlc_pickup_zombies_01_dble_pts"
+        }
+    ]
+}

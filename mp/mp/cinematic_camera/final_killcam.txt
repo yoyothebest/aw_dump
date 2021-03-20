@@ -1,0 +1,118 @@
+//==================================================================
+// Final KillCam
+// USAGE: \game\share\raw\mp\cinematic_camera\_usage.txt
+//
+// In Final KC, you are viewing from the attacker's point of view
+// the "leading actor" is the attacker and the "supporting actor" is the victim
+//==========================================================================
+
+// update the version only when parser has changed
+<version> 4
+
+// rotate around the victim to reach a straight line position where both actors can be seen
+<cut>
+<movement> rotate 
+<orientation> target
+<tag> j_neck
+<angles_pitch> -10
+<angles_yaw> -225
+<angles_range_start> 60
+// rotate the yaw so that both lead and support actors are lined up and in view
+<rotate_yaw_both_actors> 1
+<rotate_degrees_pitch> 30
+<rotate_focus_supporting_actor> 1
+<time> 1.5
+<lerp> 0.1
+
+// pan from victim to attacker, focusing aim at attacker
+<cut>
+<movement> pan
+<orientation> target
+<tag_start> j_neck
+<tag_focus> j_neck
+<tag_end> j_neck
+<tag_end_pitch> -10
+<tag_end_yaw> -225
+<tag_end_range> 60
+<start_pos_from_current> 1
+<time> 0.75
+<lerp> 0.1
+
+// rotate around the killer
+<cut>
+<movement> rotate 
+<orientation> target
+<tag> j_neck
+<angles_pitch> -10
+<angles_yaw> -225
+<angles_range_start> 60
+<rotate_degrees_yaw> 245
+<rotate_degrees_pitch> 20
+<time> 1
+<lerp> 0.1
+
+// slam zoom into killer's head
+<cut>
+<movement> zoom
+<orientation> target
+<tag_start> tag_eye
+<tag_start_pitch> 0
+<tag_start_range> 60
+<tag_end> tag_eye
+<tag_end_pitch> 5
+<zoom_end_radius> 15
+<time> 0.160
+<lerp> 0.05
+
+// slam zoom flash
+<vision>
+<vision_start_time> 3.15
+<vision_name> "coup_sunblind"
+<vision_blend_duration> 100
+
+<vision>
+<vision_start_time> 3.25
+<vision_name> ""
+<vision_blend_duration> 450
+
+
+// blur background while rotating victim
+<dof>
+<dof_start_time> 0
+<dof_blend_duration> 250
+<dof_far_start> 100
+<dof_far_end> 500
+<dof_far_blur> 3.5
+
+// lighten the blur when panning to attacker
+<dof>
+<dof_start_time> 1.3
+<dof_blend_duration> 2000
+<dof_far_start> 500
+<dof_far_end> 1000
+<dof_far_blur> 1.5
+
+// blur background while rotating attacker
+<dof>
+<dof_start_time> 2.2
+<dof_blend_duration> 500
+<dof_far_start> 100
+<dof_far_end> 500
+<dof_far_blur> 3.5
+
+
+// SOUNDS
+//<sound>
+//<sound_start_time> 2.25
+//<sound_name> "mp_killcam_slomo_in"
+
+//<sound>
+//<sound_start_time> 2.85
+//<sound_name> "mp_killcam_slomo_out"
+
+// audio zone overrides
+//<sound>
+//<sound_is_zone_override> 1
+//<sound_start_time> 2.25
+//<sound_fade_duration> 750
+//<sound_name> "mp_killcam_slomo"

@@ -1,0 +1,140 @@
+{
+    "name": "ncs_fxt_common_mp",
+    "stringType": 20,
+    "sourceType": 2,
+    "entryCount": 44,
+    "strings": [
+        {
+            "string": "back_low"
+        },
+        {
+            "string": "back_mid"
+        },
+        {
+            "string": "j_ankle_le"
+        },
+        {
+            "string": "j_ankle_ri"
+        },
+        {
+            "string": "j_clavicle_le"
+        },
+        {
+            "string": "j_clavicle_ri"
+        },
+        {
+            "string": "j_elbow_le"
+        },
+        {
+            "string": "j_elbow_ri"
+        },
+        {
+            "string": "j_head"
+        },
+        {
+            "string": "j_head_end"
+        },
+        {
+            "string": "j_helmet"
+        },
+        {
+            "string": "j_hip_le"
+        },
+        {
+            "string": "j_hip_ri"
+        },
+        {
+            "string": "j_hiptwist_le"
+        },
+        {
+            "string": "j_hiptwist_ri"
+        },
+        {
+            "string": "j_knee_le"
+        },
+        {
+            "string": "j_knee_ri"
+        },
+        {
+            "string": "j_mainroot"
+        },
+        {
+            "string": "j_neck"
+        },
+        {
+            "string": "j_shoulder_le"
+        },
+        {
+            "string": "j_shoulder_ri"
+        },
+        {
+            "string": "j_shouldertwist_le"
+        },
+        {
+            "string": "j_shouldertwist_ri"
+        },
+        {
+            "string": "j_spine4"
+        },
+        {
+            "string": "j_spinelower"
+        },
+        {
+            "string": "j_spineupper"
+        },
+        {
+            "string": "j_wrist_le"
+        },
+        {
+            "string": "j_wrist_ri"
+        },
+        {
+            "string": "j_wristtwist_le"
+        },
+        {
+            "string": "j_wristtwist_ri"
+        },
+        {
+            "string": "jnt_eyeball_l"
+        },
+        {
+            "string": "jnt_eyeball_r"
+        },
+        {
+            "string": "pelvis"
+        },
+        {
+            "string": "tag_eye"
+        },
+        {
+            "string": "tag_inhand"
+        },
+        {
+            "string": "tag_origin"
+        },
+        {
+            "string": "tag_shield_back"
+        },
+        {
+            "string": "tag_stowed_back"
+        },
+        {
+            "string": "tag_stowed_hip_rear"
+        },
+        {
+            "string": "tag_sync"
+        },
+        {
+            "string": "tag_weapon_chest"
+        },
+        {
+            "string": "tag_weapon_left"
+        },
+        {
+            "string": "tag_weapon_right"
+        },
+        {
+            "string": "torso_stabilizer"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "name": "ncs_tag_patch_common_zm_mp",
+    "stringType": 11,
+    "sourceType": 2,
+    "entryCount": 25,
+    "strings": [
+        {
+            "string": "j_clavicle_le"
+        },
+        {
+            "string": "j_clavicle_ri"
+        },
+        {
+            "string": "j_elbow_le"
+        },
+        {
+            "string": "j_elbow_ri"
+        },
+        {
+            "string": "j_head"
+        },
+        {
+            "string": "j_helmet"
+        },
+        {
+            "string": "j_hip_le"
+        },
+        {
+            "string": "j_hip_ri"
+        },
+        {
+            "string": "j_knee_ri"
+        },
+        {
+            "string": "j_neck"
+        },
+        {
+            "string": "j_shoulder_le"
+        },
+        {
+            "string": "j_shoulder_ri"
+        },
+        {
+            "string": "j_spine4"
+        },
+        {
+            "string": "j_spineupper"
+        },
+        {
+            "string": "tag_fx_flag"
+        },
+        {
+            "string": "tag_handle"
+        },
+        {
+            "string": "tag_inhand"
+        },
+        {
+            "string": "tag_jetpack"
+        },
+        {
+            "string": "tag_origin"
+        },
+        {
+            "string": "tag_player"
+        },
+        {
+            "string": "tag_rocket4"
+        },
+        {
+            "string": "tag_shield_back"
+        },
+        {
+            "string": "tag_weapon"
+        },
+        {
+            "string": "tag_weapon_left"
+        },
+        {
+            "string": "tag_weapon_right"
+        }
+    ]
+}

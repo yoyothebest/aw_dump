@@ -1,0 +1,266 @@
+{
+    "name": "ncs_wep_common_horde_mp",
+    "stringType": 16,
+    "sourceType": 2,
+    "entryCount": 86,
+    "strings": [
+        {
+            "string": "agent_mp"
+        },
+        {
+            "string": "airdrop_juggernaut_mp"
+        },
+        {
+            "string": "airdrop_sentry_marker_mp"
+        },
+        {
+            "string": "airdrop_trap_explosive_mp"
+        },
+        {
+            "string": "airdrop_trap_marker_mp"
+        },
+        {
+            "string": "airstrike_missile_mp"
+        },
+        {
+            "string": "assaultdrone_c4_mp"
+        },
+        {
+            "string": "barrel_mp"
+        },
+        {
+            "string": "bomb_site_mp"
+        },
+        {
+            "string": "boost_slam_mp"
+        },
+        {
+            "string": "briefcase_bomb_defuse_mp"
+        },
+        {
+            "string": "briefcase_bomb_mp"
+        },
+        {
+            "string": "camera_10fov"
+        },
+        {
+            "string": "camera_20fov"
+        },
+        {
+            "string": "camera_30fov"
+        },
+        {
+            "string": "camera_45fov"
+        },
+        {
+            "string": "camera_5fov"
+        },
+        {
+            "string": "contact_grenade_horde_mp"
+        },
+        {
+            "string": "dam_turret_mp"
+        },
+        {
+            "string": "deployable_vest_marker_mp"
+        },
+        {
+            "string": "destructible_car"
+        },
+        {
+            "string": "destructible_toy"
+        },
+        {
+            "string": "drone_assault_remote_turret_mp"
+        },
+        {
+            "string": "emp_grenade_killstreak_mp"
+        },
+        {
+            "string": "exocloakhorde_equipment_mp"
+        },
+        {
+            "string": "exohoverhorde_equipment_mp"
+        },
+        {
+            "string": "exoshieldhorde_equipment_mp"
+        },
+        {
+            "string": "frag_grenade_horde_mp"
+        },
+        {
+            "string": "killstreak_air_strike_mp"
+        },
+        {
+            "string": "killstreak_dam_mp"
+        },
+        {
+            "string": "killstreak_emp_mp"
+        },
+        {
+            "string": "killstreak_laser2_mp"
+        },
+        {
+            "string": "killstreak_missile_strike_mp"
+        },
+        {
+            "string": "killstreak_orbital_laser_mp"
+        },
+        {
+            "string": "killstreak_orbital_strike_mp"
+        },
+        {
+            "string": "killstreak_orbitalsupport_mp"
+        },
+        {
+            "string": "killstreak_predator_missile_mp"
+        },
+        {
+            "string": "killstreak_refraction_mp"
+        },
+        {
+            "string": "killstreak_remote_turret_mp"
+        },
+        {
+            "string": "killstreak_solar_mp"
+        },
+        {
+            "string": "killstreak_strike_missile_gas_mp"
+        },
+        {
+            "string": "killstreak_uav_mp"
+        },
+        {
+            "string": "mp_dam_railgun"
+        },
+        {
+            "string": "nuke_mp"
+        },
+        {
+            "string": "orbital_carepackage_droppod_mp"
+        },
+        {
+            "string": "orbital_carepackage_pod_mp"
+        },
+        {
+            "string": "orbital_carepackage_pod_plane_mp"
+        },
+        {
+            "string": "orbital_drop_pod_mp"
+        },
+        {
+            "string": "orbital_laser_fov_mp"
+        },
+        {
+            "string": "orbitalsupport_105mm_mp"
+        },
+        {
+            "string": "orbitalsupport_40mm_mp"
+        },
+        {
+            "string": "orbitalsupport_40mmbuddy_mp"
+        },
+        {
+            "string": "orbitalsupport_big_turret_mp"
+        },
+        {
+            "string": "orbitalsupport_buddy_turret_mp"
+        },
+        {
+            "string": "orbitalsupport_marker_mp"
+        },
+        {
+            "string": "orbitalsupport_missile_mp"
+        },
+        {
+            "string": "paint_grenade_horde_mp"
+        },
+        {
+            "string": "paint_grenade_killstreak_mp"
+        },
+        {
+            "string": "paint_missile_killstreak_mp"
+        },
+        {
+            "string": "pdrone_turret"
+        },
+        {
+            "string": "pdrone_weapon"
+        },
+        {
+            "string": "pdrone_weapon_bullet"
+        },
+        {
+            "string": "recon_drone_turret_mp"
+        },
+        {
+            "string": "remote_energy_turret_mp"
+        },
+        {
+            "string": "remote_turret_mp"
+        },
+        {
+            "string": "remotemissile_projectile_cluster_child_hellfire_mp"
+        },
+        {
+            "string": "remotemissile_projectile_cluster_child_mp"
+        },
+        {
+            "string": "remotemissile_projectile_cluster_parent_mp"
+        },
+        {
+            "string": "remotemissile_projectile_drone_mp"
+        },
+        {
+            "string": "remotemissile_projectile_gas_mp"
+        },
+        {
+            "string": "remotemissile_projectile_mp"
+        },
+        {
+            "string": "remotemissile_projectile_secondary_mp"
+        },
+        {
+            "string": "s1_tactical_insertion_device_mp"
+        },
+        {
+            "string": "semtex_horde_mp"
+        },
+        {
+            "string": "sentry_minigun_mp"
+        },
+        {
+            "string": "smart_grenade_mp"
+        },
+        {
+            "string": "stealth_bomb_mp"
+        },
+        {
+            "string": "stun_grenade_horde_mp"
+        },
+        {
+            "string": "turretheadenergy_mp"
+        },
+        {
+            "string": "turretheadmg_mp"
+        },
+        {
+            "string": "uav_remote_mp"
+        },
+        {
+            "string": "ugv_missile_mp"
+        },
+        {
+            "string": "ugv_turret_mp"
+        },
+        {
+            "string": "warbird_missile_mp"
+        },
+        {
+            "string": "warbird_remote_turret_mp"
+        },
+        {
+            "string": "warbird_turret"
+        }
+    ]
+}

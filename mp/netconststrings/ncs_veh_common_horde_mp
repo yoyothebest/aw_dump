@@ -1,0 +1,50 @@
+{
+    "name": "ncs_veh_common_horde_mp",
+    "stringType": 3,
+    "sourceType": 2,
+    "entryCount": 14,
+    "strings": [
+        {
+            "string": "assault_uav_horde"
+        },
+        {
+            "string": "assault_uav_mp"
+        },
+        {
+            "string": "assault_ugv_mp"
+        },
+        {
+            "string": "heavy_assault_ugv_mp"
+        },
+        {
+            "string": "mg_assault_uav_mp"
+        },
+        {
+            "string": "mg_assault_ugv_mp"
+        },
+        {
+            "string": "orbital_carepackage_drone_mp"
+        },
+        {
+            "string": "orbital_laser_strike_mp"
+        },
+        {
+            "string": "orbital_strike_mp"
+        },
+        {
+            "string": "recon_uav_mp"
+        },
+        {
+            "string": "recon_ugv_mp"
+        },
+        {
+            "string": "vehicle_tracking_drone_mp"
+        },
+        {
+            "string": "warbird_player_mp"
+        },
+        {
+            "string": "xh9_warbird"
+        }
+    ]
+}

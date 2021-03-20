@@ -1,0 +1,137 @@
+{
+    "name": "ncs_mat_common_horde_mp",
+    "stringType": 1,
+    "sourceType": 2,
+    "entryCount": 43,
+    "strings": [
+        {
+            "string": "ac130_overlay_grain"
+        },
+        {
+            "string": "compass_objpoint_airstrike_busy"
+        },
+        {
+            "string": "compass_objpoint_airstrike_friendly"
+        },
+        {
+            "string": "compass_objpoint_ammo_enemy"
+        },
+        {
+            "string": "compass_objpoint_ammo_friendly"
+        },
+        {
+            "string": "compass_objpoint_deploy_ammo_friendly"
+        },
+        {
+            "string": "compass_objpoint_deploy_friendly"
+        },
+        {
+            "string": "compass_objpoint_enemy_target"
+        },
+        {
+            "string": "compass_objpoint_trap_friendly"
+        },
+        {
+            "string": "compass_waypoint_farp"
+        },
+        {
+            "string": "dpad_killstreak_guard_dog"
+        },
+        {
+            "string": "dpad_killstreak_guard_dog_inactive"
+        },
+        {
+            "string": "dpad_killstreak_orbital_carepackage"
+        },
+        {
+            "string": "dpad_killstreak_orbital_carepackage_inactive"
+        },
+        {
+            "string": "dpad_killstreak_orbital_carepackage_static"
+        },
+        {
+            "string": "faction_128_delta"
+        },
+        {
+            "string": "faction_128_delta_fade"
+        },
+        {
+            "string": "faction_128_pmc"
+        },
+        {
+            "string": "faction_128_pmc_fade"
+        },
+        {
+            "string": "headicon_fed"
+        },
+        {
+            "string": "headicon_us"
+        },
+        {
+            "string": "hud_fofbox_hostile_ms_target"
+        },
+        {
+            "string": "hud_gas_enemy"
+        },
+        {
+            "string": "hud_gas_friendly"
+        },
+        {
+            "string": "hud_scoreboard_dead_marker"
+        },
+        {
+            "string": "lab_gas_overlay"
+        },
+        {
+            "string": "objective_sm"
+        },
+        {
+            "string": "objpoint_flag_delta"
+        },
+        {
+            "string": "objpoint_flag_pmc"
+        },
+        {
+            "string": "odin_hud"
+        },
+        {
+            "string": "overlay_static"
+        },
+        {
+            "string": "specialty_s1_weaponsfree"
+        },
+        {
+            "string": "specialty_trap_crate"
+        },
+        {
+            "string": "specops_ui_airsupport"
+        },
+        {
+            "string": "specops_ui_equipmentstore"
+        },
+        {
+            "string": "specops_ui_exostore"
+        },
+        {
+            "string": "specops_ui_weaponstore"
+        },
+        {
+            "string": "throw_knife_sm"
+        },
+        {
+            "string": "uav_crosshair"
+        },
+        {
+            "string": "upgrade_point_icon"
+        },
+        {
+            "string": "veh_hud_friendly"
+        },
+        {
+            "string": "waypoint_defend"
+        },
+        {
+            "string": "waypoint_revive"
+        }
+    ]
+}

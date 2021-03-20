@@ -1,0 +1,47 @@
+{
+    "name": "ncs_loc_eng_patch_mp_zombie_ark",
+    "stringType": 5,
+    "sourceType": 1,
+    "entryCount": 13,
+    "strings": [
+        {
+            "string": "KILLSTREAKS_DLC3_DISRUPTOR_TURRET"
+        },
+        {
+            "string": "ZOMBIE_ARK_SQ_CAGE"
+        },
+        {
+            "string": "ZOMBIE_ARK_SQ_DIG"
+        },
+        {
+            "string": "ZOMBIE_ARK_SQ_FISH"
+        },
+        {
+            "string": "ZOMBIE_ARK_SQ_FISH_GRAB"
+        },
+        {
+            "string": "ZOMBIE_ARK_SQ_RUM"
+        },
+        {
+            "string": "ZOMBIE_ARK_SQ_TELEPORT"
+        },
+        {
+            "string": "ZOMBIE_ARK_SQ_WEAPON_DISPOSAL"
+        },
+        {
+            "string": "ZOMBIE_DLC3_REPULSOR"
+        },
+        {
+            "string": "ZOMBIE_DLC3_TELEPORT_GRENADE"
+        },
+        {
+            "string": "ZOMBIE_DLC3_TELEPORT_GRENADE_AMMO"
+        },
+        {
+            "string": "ZOMBIE_SQUADMATE_SENTINEL"
+        },
+        {
+            "string": "ZOMBIE_SQUADMATE_SQUADMATE"
+        }
+    ]
+}

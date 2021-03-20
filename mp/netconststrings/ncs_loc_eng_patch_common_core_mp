@@ -1,0 +1,155 @@
+{
+    "name": "ncs_loc_eng_patch_common_core_mp",
+    "stringType": 5,
+    "sourceType": 2,
+    "entryCount": 49,
+    "strings": [
+        {
+            "string": "OBJECTIVES_ATDM"
+        },
+        {
+            "string": "OBJECTIVES_ATDM_HINT"
+        },
+        {
+            "string": "OBJECTIVES_ATDM_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_BALL"
+        },
+        {
+            "string": "OBJECTIVES_BALL_HINT"
+        },
+        {
+            "string": "OBJECTIVES_BALL_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_BOOT"
+        },
+        {
+            "string": "OBJECTIVES_BOOT_HINT"
+        },
+        {
+            "string": "OBJECTIVES_BOOT_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_CONF"
+        },
+        {
+            "string": "OBJECTIVES_CONF_HINT"
+        },
+        {
+            "string": "OBJECTIVES_CONF_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_CTF"
+        },
+        {
+            "string": "OBJECTIVES_DM"
+        },
+        {
+            "string": "OBJECTIVES_DM_HINT"
+        },
+        {
+            "string": "OBJECTIVES_DM_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_DOM"
+        },
+        {
+            "string": "OBJECTIVES_DOM_HINT"
+        },
+        {
+            "string": "OBJECTIVES_DOM_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_FLAG_AWAY"
+        },
+        {
+            "string": "OBJECTIVES_FLAG_HOME"
+        },
+        {
+            "string": "OBJECTIVES_FLAG_NAME"
+        },
+        {
+            "string": "OBJECTIVES_INDOC"
+        },
+        {
+            "string": "OBJECTIVES_INDOC_HINT"
+        },
+        {
+            "string": "OBJECTIVES_INDOC_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_INFECT_HINT"
+        },
+        {
+            "string": "OBJECTIVES_KOTM"
+        },
+        {
+            "string": "OBJECTIVES_KOTM_HINT"
+        },
+        {
+            "string": "OBJECTIVES_KOTM_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_ONE_FLAG_ATTACKER_HINT"
+        },
+        {
+            "string": "OBJECTIVES_ONE_FLAG_ATTACKER_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_ONE_FLAG_DEFENDER_HINT"
+        },
+        {
+            "string": "OBJECTIVES_ONE_FLAG_DEFENDER_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_PFLAGS"
+        },
+        {
+            "string": "OBJECTIVES_PFLAGS_HINT"
+        },
+        {
+            "string": "OBJECTIVES_PFLAGS_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_SD_ATTACKER"
+        },
+        {
+            "string": "OBJECTIVES_SD_ATTACKER_HINT"
+        },
+        {
+            "string": "OBJECTIVES_SD_ATTACKER_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_SD_DEFENDER"
+        },
+        {
+            "string": "OBJECTIVES_SD_DEFENDER_HINT"
+        },
+        {
+            "string": "OBJECTIVES_SD_DEFENDER_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_SD_PRE_TEAM"
+        },
+        {
+            "string": "OBJECTIVES_TWAR"
+        },
+        {
+            "string": "OBJECTIVES_TWAR_HINT"
+        },
+        {
+            "string": "OBJECTIVES_TWAR_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_WAR"
+        },
+        {
+            "string": "OBJECTIVES_WAR_HINT"
+        },
+        {
+            "string": "OBJECTIVES_WAR_SCORE"
+        }
+    ]
+}

@@ -1,0 +1,290 @@
+{
+    "name": "ncs_hnt_eng_patch_code_post_gfx_zm_mp",
+    "stringType": 18,
+    "sourceType": 2,
+    "entryCount": 94,
+    "strings": [
+        {
+            "string": "ZOMBIES_AK12"
+        },
+        {
+            "string": "ZOMBIES_ALL_USED"
+        },
+        {
+            "string": "ZOMBIES_ARX160"
+        },
+        {
+            "string": "ZOMBIES_ASAW"
+        },
+        {
+            "string": "ZOMBIES_ASM1"
+        },
+        {
+            "string": "ZOMBIES_ASSAULT_DRONE"
+        },
+        {
+            "string": "ZOMBIES_BAL27"
+        },
+        {
+            "string": "ZOMBIES_BULLDOG"
+        },
+        {
+            "string": "ZOMBIES_BUY_EXO_SUIT"
+        },
+        {
+            "string": "ZOMBIES_BUY_HOST_CURE"
+        },
+        {
+            "string": "ZOMBIES_BUY_MONEY"
+        },
+        {
+            "string": "ZOMBIES_BUY_MONEY_EMPTY"
+        },
+        {
+            "string": "ZOMBIES_BUY_MYSTERY_BOX"
+        },
+        {
+            "string": "ZOMBIES_BUY_PERK_HEALTH"
+        },
+        {
+            "string": "ZOMBIES_BUY_PERK_RELOAD"
+        },
+        {
+            "string": "ZOMBIES_BUY_PERK_REVIVE"
+        },
+        {
+            "string": "ZOMBIES_BUY_PERK_SLAM"
+        },
+        {
+            "string": "ZOMBIES_BUY_PERK_STABILIZER"
+        },
+        {
+            "string": "ZOMBIES_BUY_PERK_TACTICALARMOR"
+        },
+        {
+            "string": "ZOMBIES_CONTACT"
+        },
+        {
+            "string": "ZOMBIES_CONTACT_AMMO"
+        },
+        {
+            "string": "ZOMBIES_COST_10"
+        },
+        {
+            "string": "ZOMBIES_COST_100"
+        },
+        {
+            "string": "ZOMBIES_COST_1000"
+        },
+        {
+            "string": "ZOMBIES_COST_1250"
+        },
+        {
+            "string": "ZOMBIES_COST_1500"
+        },
+        {
+            "string": "ZOMBIES_COST_1750"
+        },
+        {
+            "string": "ZOMBIES_COST_200"
+        },
+        {
+            "string": "ZOMBIES_COST_2000"
+        },
+        {
+            "string": "ZOMBIES_COST_250"
+        },
+        {
+            "string": "ZOMBIES_COST_2500"
+        },
+        {
+            "string": "ZOMBIES_COST_300"
+        },
+        {
+            "string": "ZOMBIES_COST_3000"
+        },
+        {
+            "string": "ZOMBIES_COST_400"
+        },
+        {
+            "string": "ZOMBIES_COST_4000"
+        },
+        {
+            "string": "ZOMBIES_COST_500"
+        },
+        {
+            "string": "ZOMBIES_COST_5000"
+        },
+        {
+            "string": "ZOMBIES_COST_600"
+        },
+        {
+            "string": "ZOMBIES_COST_700"
+        },
+        {
+            "string": "ZOMBIES_COST_750"
+        },
+        {
+            "string": "ZOMBIES_COST_800"
+        },
+        {
+            "string": "ZOMBIES_COST_900"
+        },
+        {
+            "string": "ZOMBIES_CRATE_MONEY"
+        },
+        {
+            "string": "ZOMBIES_CRATE_SHIELD"
+        },
+        {
+            "string": "ZOMBIES_CROSSBOW"
+        },
+        {
+            "string": "ZOMBIES_CURE_ACTIVE_HINT"
+        },
+        {
+            "string": "ZOMBIES_CURE_COOLDOWN_HINT"
+        },
+        {
+            "string": "ZOMBIES_DISTRACTION_DRONE"
+        },
+        {
+            "string": "ZOMBIES_DLC_GUN_1"
+        },
+        {
+            "string": "ZOMBIES_DNA_AOE"
+        },
+        {
+            "string": "ZOMBIES_DOOR_BUY"
+        },
+        {
+            "string": "ZOMBIES_DRONE_AMMO"
+        },
+        {
+            "string": "ZOMBIES_EM1"
+        },
+        {
+            "string": "ZOMBIES_EMPTY_STRING"
+        },
+        {
+            "string": "ZOMBIES_EXPLOSIVE_DRONE"
+        },
+        {
+            "string": "ZOMBIES_FIRE_SALE_MAGIC_BOX"
+        },
+        {
+            "string": "ZOMBIES_FUSION_RIFLE"
+        },
+        {
+            "string": "ZOMBIES_GM6"
+        },
+        {
+            "string": "ZOMBIES_HBRA3"
+        },
+        {
+            "string": "ZOMBIES_HMR9"
+        },
+        {
+            "string": "ZOMBIES_IMR"
+        },
+        {
+            "string": "ZOMBIES_LASER_TURRET"
+        },
+        {
+            "string": "ZOMBIES_LSAT"
+        },
+        {
+            "string": "ZOMBIES_MAHEM"
+        },
+        {
+            "string": "ZOMBIES_MK14"
+        },
+        {
+            "string": "ZOMBIES_MP11"
+        },
+        {
+            "string": "ZOMBIES_PC_LOAD_LETTER"
+        },
+        {
+            "string": "ZOMBIES_PICKUP_EXPLOSIVE_DRONE"
+        },
+        {
+            "string": "ZOMBIES_POWER_ON"
+        },
+        {
+            "string": "ZOMBIES_PRINTER_OFFLINE"
+        },
+        {
+            "string": "ZOMBIES_REQUIRES_EXO"
+        },
+        {
+            "string": "ZOMBIES_REQUIRES_POWER"
+        },
+        {
+            "string": "ZOMBIES_RHINO"
+        },
+        {
+            "string": "ZOMBIES_ROCKET_DRONE"
+        },
+        {
+            "string": "ZOMBIES_ROCKET_TURRET"
+        },
+        {
+            "string": "ZOMBIES_RW1"
+        },
+        {
+            "string": "ZOMBIES_SAC3"
+        },
+        {
+            "string": "ZOMBIES_SENTRY_TURRET"
+        },
+        {
+            "string": "ZOMBIES_SN6"
+        },
+        {
+            "string": "ZOMBIES_TAC19"
+        },
+        {
+            "string": "ZOMBIES_TELEPORT_USE"
+        },
+        {
+            "string": "ZOMBIES_TRAP_COOLDOWN"
+        },
+        {
+            "string": "ZOMBIES_TRAP_READY"
+        },
+        {
+            "string": "ZOMBIES_USE_TOKEN"
+        },
+        {
+            "string": "ZOMBIES_USE_TOKEN_10"
+        },
+        {
+            "string": "ZOMBIES_USE_TOKEN_15"
+        },
+        {
+            "string": "ZOMBIES_USE_TOKEN_20"
+        },
+        {
+            "string": "ZOMBIES_USE_TOKEN_25"
+        },
+        {
+            "string": "ZOMBIES_USE_TOKEN_5"
+        },
+        {
+            "string": "ZOMBIES_VBR"
+        },
+        {
+            "string": "ZOMBIES_WALL_BUY_AMMO"
+        },
+        {
+            "string": "ZOMBIES_WALL_BUY_AMMO_ERROR"
+        },
+        {
+            "string": "ZOMBIES_WEAPON_LEVEL_BOX"
+        },
+        {
+            "string": "ZOMBIES_WEAPON_LEVEL_MAX"
+        }
+    ]
+}

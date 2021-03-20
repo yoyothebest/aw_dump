@@ -1,0 +1,11 @@
+{
+    "name": "ncs_shk_level",
+    "stringType": 9,
+    "sourceType": 0,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "zm_infected_start"
+        }
+    ]
+}

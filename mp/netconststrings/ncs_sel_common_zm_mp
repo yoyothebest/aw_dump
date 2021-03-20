@@ -1,0 +1,11 @@
+{
+    "name": "ncs_sel_common_zm_mp",
+    "stringType": 15,
+    "sourceType": 2,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "map_artillery_selector"
+        }
+    ]
+}
