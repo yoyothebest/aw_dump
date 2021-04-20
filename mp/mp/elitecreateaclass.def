@@ -1,0 +1,5359 @@
+{
+    "name": "mp/elitecreateaclass.def",
+    "version": 14,
+    "formatChecksum": 3911705618,
+    "enumCount": 7,
+    "enums": [
+        {
+            "entryCount": 32,
+            "reservedEntryCount": 32,
+            "entries": [
+                {
+                    "string": "none",
+                    "index": 0
+                },
+                {
+                    "string": "gl",
+                    "index": 30
+                },
+                {
+                    "string": "akimbo",
+                    "index": 1
+                },
+                {
+                    "string": "xmags",
+                    "index": 2
+                },
+                {
+                    "string": "dualmag",
+                    "index": 3
+                },
+                {
+                    "string": "tactical",
+                    "index": 4
+                },
+                {
+                    "string": "parabolicmicrophone",
+                    "index": 5
+                },
+                {
+                    "string": "opticsreddot",
+                    "index": 6
+                },
+                {
+                    "string": "opticsacog2",
+                    "index": 7
+                },
+                {
+                    "string": "opticseotech",
+                    "index": 8
+                },
+                {
+                    "string": "opticsthermal",
+                    "index": 9
+                },
+                {
+                    "string": "silencer01",
+                    "index": 10
+                },
+                {
+                    "string": "sensorheartbeat",
+                    "index": 11
+                },
+                {
+                    "string": "foregrip",
+                    "index": 12
+                },
+                {
+                    "string": "variablereddot",
+                    "index": 13
+                },
+                {
+                    "string": "directhack",
+                    "index": 14
+                },
+                {
+                    "string": "opticstargetenhancer",
+                    "index": 15
+                },
+                {
+                    "string": "firerate",
+                    "index": 16
+                },
+                {
+                    "string": "longrange",
+                    "index": 17
+                },
+                {
+                    "string": "quickdraw",
+                    "index": 18
+                },
+                {
+                    "string": "stock",
+                    "index": 19
+                },
+                {
+                    "string": "lasersight",
+                    "index": 20
+                },
+                {
+                    "string": "scopevz",
+                    "index": 21
+                },
+                {
+                    "string": "trackrounds",
+                    "index": 22
+                },
+                {
+                    "string": "stabilizer",
+                    "index": 23
+                },
+                {
+                    "string": "heatsink",
+                    "index": 24
+                },
+                {
+                    "string": "ironsights",
+                    "index": 25
+                },
+                {
+                    "string": "shieldfastmelee",
+                    "index": 26
+                },
+                {
+                    "string": "shieldfastplant",
+                    "index": 27
+                },
+                {
+                    "string": "shieldshockplant",
+                    "index": 28
+                },
+                {
+                    "string": "rw1scopebase",
+                    "index": 29
+                },
+                {
+                    "string": "crossbowscopebase",
+                    "index": 31
+                }
+            ]
+        },
+        {
+            "entryCount": 690,
+            "reservedEntryCount": 690,
+            "entries": [
+                {
+                    "string": "none",
+                    "index": 0
+                },
+                {
+                    "string": "iw5_usp45",
+                    "index": 1
+                },
+                {
+                    "string": "iw5_pp90m1",
+                    "index": 2
+                },
+                {
+                    "string": "iw5_mp5",
+                    "index": 3
+                },
+                {
+                    "string": "iw5_spas12",
+                    "index": 4
+                },
+                {
+                    "string": "iw5_barrett",
+                    "index": 5
+                },
+                {
+                    "string": "iw5_msr",
+                    "index": 6
+                },
+                {
+                    "string": "gl",
+                    "index": 7
+                },
+                {
+                    "string": "rpg",
+                    "index": 8
+                },
+                {
+                    "string": "javelin",
+                    "index": 9
+                },
+                {
+                    "string": "stinger",
+                    "index": 10
+                },
+                {
+                    "string": "m320",
+                    "index": 11
+                },
+                {
+                    "string": "frag_grenade",
+                    "index": 12
+                },
+                {
+                    "string": "frag_scavenger_grenade",
+                    "index": 13
+                },
+                {
+                    "string": "exoshield_equipment_mp",
+                    "index": 14
+                },
+                {
+                    "string": "exoshieldhorde_equipment_mp",
+                    "index": 15
+                },
+                {
+                    "string": "adrenaline_mp",
+                    "index": 16
+                },
+                {
+                    "string": "extra_health_mp",
+                    "index": 17
+                },
+                {
+                    "string": "exocloak_equipment_mp",
+                    "index": 18
+                },
+                {
+                    "string": "exoping_equipment_mp",
+                    "index": 19
+                },
+                {
+                    "string": "exohover_equipment_mp",
+                    "index": 20
+                },
+                {
+                    "string": "exorepulsor_equipment_mp",
+                    "index": 21
+                },
+                {
+                    "string": "exomute_equipment_mp",
+                    "index": 22
+                },
+                {
+                    "string": "frag_grenade_horde",
+                    "index": 23
+                },
+                {
+                    "string": "contact_grenade_horde",
+                    "index": 24
+                },
+                {
+                    "string": "semtex_horde",
+                    "index": 25
+                },
+                {
+                    "string": "paint_grenade_horde",
+                    "index": 26
+                },
+                {
+                    "string": "frag_grenade_mp",
+                    "index": 27
+                },
+                {
+                    "string": "frag_grenade_horde_mp",
+                    "index": 28
+                },
+                {
+                    "string": "frag_grenade_mp_lefthand",
+                    "index": 29
+                },
+                {
+                    "string": "paint_grenade_horde_mp",
+                    "index": 30
+                },
+                {
+                    "string": "semtex_mp",
+                    "index": 31
+                },
+                {
+                    "string": "semtex_horde_mp",
+                    "index": 32
+                },
+                {
+                    "string": "semtex_mp_lefthand",
+                    "index": 33
+                },
+                {
+                    "string": "stun_grenade_var_mp",
+                    "index": 34
+                },
+                {
+                    "string": "stun_grenade_var_mp_lefthand",
+                    "index": 35
+                },
+                {
+                    "string": "contact_grenade_horde_mp",
+                    "index": 36
+                },
+                {
+                    "string": "stun_grenade_mp",
+                    "index": 37
+                },
+                {
+                    "string": "stun_grenade_mp_lefthand",
+                    "index": 38
+                },
+                {
+                    "string": "emp_grenade_mp",
+                    "index": 39
+                },
+                {
+                    "string": "emp_grenade_mp_lefthand",
+                    "index": 40
+                },
+                {
+                    "string": "paint_grenade_mp",
+                    "index": 41
+                },
+                {
+                    "string": "paint_grenade_mp_lefthand",
+                    "index": 42
+                },
+                {
+                    "string": "smoke_grenade_mp",
+                    "index": 43
+                },
+                {
+                    "string": "smoke_grenade_mp_lefthand",
+                    "index": 44
+                },
+                {
+                    "string": "throwingknife_mp",
+                    "index": 45
+                },
+                {
+                    "string": "exoknife_mp",
+                    "index": 46
+                },
+                {
+                    "string": "exoknife_mp_lefthand",
+                    "index": 47
+                },
+                {
+                    "string": "tracking_drone_mp",
+                    "index": 48
+                },
+                {
+                    "string": "tracking_drone_mp_lefthand",
+                    "index": 49
+                },
+                {
+                    "string": "explosive_drone",
+                    "index": 50
+                },
+                {
+                    "string": "explosive_drone_mp",
+                    "index": 51
+                },
+                {
+                    "string": "explosive_drone_mp_lefthand",
+                    "index": 52
+                },
+                {
+                    "string": "riotshield",
+                    "index": 53
+                },
+                {
+                    "string": "throwingknife",
+                    "index": 54
+                },
+                {
+                    "string": "exoknife",
+                    "index": 55
+                },
+                {
+                    "string": "uav_strike_marker_mp",
+                    "index": 56
+                },
+                {
+                    "string": "uav",
+                    "index": 57
+                },
+                {
+                    "string": "double_uav",
+                    "index": 58
+                },
+                {
+                    "string": "triple_uav",
+                    "index": 59
+                },
+                {
+                    "string": "laser_designator",
+                    "index": 60
+                },
+                {
+                    "string": "manned_minigun_turret",
+                    "index": 61
+                },
+                {
+                    "string": "manned_gl_turret",
+                    "index": 62
+                },
+                {
+                    "string": "manned_littlebird_minigun",
+                    "index": 63
+                },
+                {
+                    "string": "manned_littlebird_sniper",
+                    "index": 64
+                },
+                {
+                    "string": "airdrop_trap_explosive",
+                    "index": 65
+                },
+                {
+                    "string": "uav_strike_projectile",
+                    "index": 66
+                },
+                {
+                    "string": "remote_mortar_missile",
+                    "index": 67
+                },
+                {
+                    "string": "remote_turret_mp",
+                    "index": 68
+                },
+                {
+                    "string": "turret_remote_mp",
+                    "index": 69
+                },
+                {
+                    "string": "uav_remote_mp",
+                    "index": 70
+                },
+                {
+                    "string": "orbital_drop_pod_mp",
+                    "index": 71
+                },
+                {
+                    "string": "orbital_laser_mp",
+                    "index": 72
+                },
+                {
+                    "string": "orbital_laser_fov_mp",
+                    "index": 73
+                },
+                {
+                    "string": "killstreak_orbital_laser_mp",
+                    "index": 74
+                },
+                {
+                    "string": "killstreak_strike_missile_gas_mp",
+                    "index": 75
+                },
+                {
+                    "string": "remotemissile_projectile_gas_mp",
+                    "index": 76
+                },
+                {
+                    "string": "killstreak_orbital_strike_mp",
+                    "index": 77
+                },
+                {
+                    "string": "remotemissile_projectile_cluster_parent_mp",
+                    "index": 78
+                },
+                {
+                    "string": "remotemissile_projectile_cluster_child_mp",
+                    "index": 79
+                },
+                {
+                    "string": "remotemissile_projectile_cluster_child_hellfire_mp",
+                    "index": 80
+                },
+                {
+                    "string": "killstreak_missile_strike_mp",
+                    "index": 81
+                },
+                {
+                    "string": "remotemissile_projectile_drone_mp",
+                    "index": 82
+                },
+                {
+                    "string": "remotemissile_projectile_secondary_mp",
+                    "index": 83
+                },
+                {
+                    "string": "killstreak_orbital_carepackage_mp",
+                    "index": 84
+                },
+                {
+                    "string": "orbital_carepackage_pod_mp",
+                    "index": 85
+                },
+                {
+                    "string": "aerial_placed_mine_cannon_mp",
+                    "index": 86
+                },
+                {
+                    "string": "aerial_placed_mine_mp",
+                    "index": 87
+                },
+                {
+                    "string": "killstreak_aerial_placed_mines_mp",
+                    "index": 88
+                },
+                {
+                    "string": "killstreak_warbird_mp",
+                    "index": 89
+                },
+                {
+                    "string": "killstreak_prison_mp",
+                    "index": 90
+                },
+                {
+                    "string": "killstreak_solar_mp",
+                    "index": 91
+                },
+                {
+                    "string": "killstreak_laser2_mp",
+                    "index": 92
+                },
+                {
+                    "string": "killstreak_dam_mp",
+                    "index": 93
+                },
+                {
+                    "string": "killstreak_refraction_mp",
+                    "index": 94
+                },
+                {
+                    "string": "killstreak_terrace_mp",
+                    "index": 95
+                },
+                {
+                    "string": "killstreak_comeback_mp",
+                    "index": 96
+                },
+                {
+                    "string": "mp_dam_railgun",
+                    "index": 97
+                },
+                {
+                    "string": "agent_mp",
+                    "index": 98
+                },
+                {
+                    "string": "warbird_player_turret_mp",
+                    "index": 99
+                },
+                {
+                    "string": "warbird_turret_mp",
+                    "index": 100
+                },
+                {
+                    "string": "warbird_25mm_mp",
+                    "index": 101
+                },
+                {
+                    "string": "warbird_missile_mp",
+                    "index": 102
+                },
+                {
+                    "string": "refraction_turret_mp",
+                    "index": 103
+                },
+                {
+                    "string": "mp_prison_gas",
+                    "index": 104
+                },
+                {
+                    "string": "mp_dam_fire",
+                    "index": 105
+                },
+                {
+                    "string": "mp_lab_gas",
+                    "index": 106
+                },
+                {
+                    "string": "mp_lab_gas_explosion",
+                    "index": 107
+                },
+                {
+                    "string": "mp_torqued_beam",
+                    "index": 108
+                },
+                {
+                    "string": "mp_laser2_core",
+                    "index": 109
+                },
+                {
+                    "string": "killstreak_orbitalsupport_mp",
+                    "index": 110
+                },
+                {
+                    "string": "orbitalsupport_105mm_mp",
+                    "index": 111
+                },
+                {
+                    "string": "orbitalsupport_40mm_mp",
+                    "index": 112
+                },
+                {
+                    "string": "orbitalsupport_25mm_mp",
+                    "index": 113
+                },
+                {
+                    "string": "orbitalsupport_marker_mp",
+                    "index": 114
+                },
+                {
+                    "string": "orbitalsupport_marker_zoom_mp",
+                    "index": 115
+                },
+                {
+                    "string": "orbitalsupport_big_turret_mp",
+                    "index": 116
+                },
+                {
+                    "string": "orbitalsupport_medium_turret_mp",
+                    "index": 117
+                },
+                {
+                    "string": "orbitalsupport_small_turret_mp",
+                    "index": 118
+                },
+                {
+                    "string": "orbitalsupport_missile_mp",
+                    "index": 119
+                },
+                {
+                    "string": "warbird_remote_turret_mp",
+                    "index": 120
+                },
+                {
+                    "string": "assaultdrone_c4_mp",
+                    "index": 121
+                },
+                {
+                    "string": "dam_turret_mp",
+                    "index": 122
+                },
+                {
+                    "string": "drone_assault_remote_turret_mp",
+                    "index": 123
+                },
+                {
+                    "string": "recon_drone_turret_mp",
+                    "index": 124
+                },
+                {
+                    "string": "iw5_riotshieldjugg",
+                    "index": 126
+                },
+                {
+                    "string": "iw5_juggmicrodronelauncher",
+                    "index": 127
+                },
+                {
+                    "string": "iw5_juggvbr",
+                    "index": 128
+                },
+                {
+                    "string": "iw5_asm1jugg",
+                    "index": 129
+                },
+                {
+                    "string": "iw5_juggernautrockets_mp",
+                    "index": 130
+                },
+                {
+                    "string": "juggernaut_sentry_mg_mp",
+                    "index": 131
+                },
+                {
+                    "string": "iw5_ak12",
+                    "index": 132
+                },
+                {
+                    "string": "iw5_bal27",
+                    "index": 133
+                },
+                {
+                    "string": "iw5_hbra3",
+                    "index": 134
+                },
+                {
+                    "string": "iw5_lsat",
+                    "index": 135
+                },
+                {
+                    "string": "iw5_himar",
+                    "index": 136
+                },
+                {
+                    "string": "iw5_arx160",
+                    "index": 137
+                },
+                {
+                    "string": "iw5_m182spr",
+                    "index": 138
+                },
+                {
+                    "string": "iw5_mp11",
+                    "index": 139
+                },
+                {
+                    "string": "iw5_sn6",
+                    "index": 140
+                },
+                {
+                    "string": "iw5_hmr9",
+                    "index": 141
+                },
+                {
+                    "string": "iw5_sac3",
+                    "index": 142
+                },
+                {
+                    "string": "iw5_asm1",
+                    "index": 143
+                },
+                {
+                    "string": "iw5_kf5",
+                    "index": 144
+                },
+                {
+                    "string": "iw5_m990",
+                    "index": 145
+                },
+                {
+                    "string": "iw5_mors",
+                    "index": 146
+                },
+                {
+                    "string": "iw5_gm6",
+                    "index": 147
+                },
+                {
+                    "string": "iw5_thor",
+                    "index": 148
+                },
+                {
+                    "string": "iw5_riotshieldt6",
+                    "index": 149
+                },
+                {
+                    "string": "iw5_riotshieldt6loot0",
+                    "index": 150
+                },
+                {
+                    "string": "iw5_riotshieldt6loot1",
+                    "index": 151
+                },
+                {
+                    "string": "iw5_riotshieldt6loot2",
+                    "index": 152
+                },
+                {
+                    "string": "iw5_riotshieldt6loot3",
+                    "index": 153
+                },
+                {
+                    "string": "iw5_vbr",
+                    "index": 154
+                },
+                {
+                    "string": "iw5_pbw",
+                    "index": 155
+                },
+                {
+                    "string": "iw5_rw1",
+                    "index": 156
+                },
+                {
+                    "string": "iw5_titan45",
+                    "index": 157
+                },
+                {
+                    "string": "iw5_maul",
+                    "index": 158
+                },
+                {
+                    "string": "iw5_rhino",
+                    "index": 159
+                },
+                {
+                    "string": "iw5_uts19",
+                    "index": 160
+                },
+                {
+                    "string": "iw5_maaws",
+                    "index": 161
+                },
+                {
+                    "string": "iw5_mahem",
+                    "index": 162
+                },
+                {
+                    "string": "iw5_stingerm7",
+                    "index": 163
+                },
+                {
+                    "string": "iw5_ak12loot0",
+                    "index": 164
+                },
+                {
+                    "string": "iw5_ak12loot1",
+                    "index": 165
+                },
+                {
+                    "string": "iw5_ak12loot2",
+                    "index": 166
+                },
+                {
+                    "string": "iw5_ak12loot3",
+                    "index": 167
+                },
+                {
+                    "string": "iw5_ak12loot4",
+                    "index": 168
+                },
+                {
+                    "string": "iw5_ak12loot5",
+                    "index": 169
+                },
+                {
+                    "string": "iw5_ak12loot6",
+                    "index": 170
+                },
+                {
+                    "string": "iw5_ak12loot7",
+                    "index": 171
+                },
+                {
+                    "string": "iw5_ak12loot8",
+                    "index": 172
+                },
+                {
+                    "string": "iw5_ak12loot9",
+                    "index": 173
+                },
+                {
+                    "string": "iw5_ak12ghosts",
+                    "index": 174
+                },
+                {
+                    "string": "iw5_bal27loot0",
+                    "index": 175
+                },
+                {
+                    "string": "iw5_bal27loot1",
+                    "index": 176
+                },
+                {
+                    "string": "iw5_bal27loot2",
+                    "index": 177
+                },
+                {
+                    "string": "iw5_bal27loot3",
+                    "index": 178
+                },
+                {
+                    "string": "iw5_bal27loot4",
+                    "index": 179
+                },
+                {
+                    "string": "iw5_bal27loot5",
+                    "index": 180
+                },
+                {
+                    "string": "iw5_bal27loot6",
+                    "index": 181
+                },
+                {
+                    "string": "iw5_bal27loot7",
+                    "index": 182
+                },
+                {
+                    "string": "iw5_bal27loot8",
+                    "index": 183
+                },
+                {
+                    "string": "iw5_bal27loot9",
+                    "index": 184
+                },
+                {
+                    "string": "iw5_bal27atlas",
+                    "index": 185
+                },
+                {
+                    "string": "iw5_sn6loot0",
+                    "index": 186
+                },
+                {
+                    "string": "iw5_sn6loot1",
+                    "index": 187
+                },
+                {
+                    "string": "iw5_sn6loot2",
+                    "index": 188
+                },
+                {
+                    "string": "iw5_sn6loot3",
+                    "index": 189
+                },
+                {
+                    "string": "iw5_sn6loot4",
+                    "index": 190
+                },
+                {
+                    "string": "iw5_sn6loot5",
+                    "index": 191
+                },
+                {
+                    "string": "iw5_sn6loot6",
+                    "index": 192
+                },
+                {
+                    "string": "iw5_sn6loot7",
+                    "index": 193
+                },
+                {
+                    "string": "iw5_sn6loot8",
+                    "index": 194
+                },
+                {
+                    "string": "iw5_sn6loot9",
+                    "index": 195
+                },
+                {
+                    "string": "iw5_morsloot0",
+                    "index": 196
+                },
+                {
+                    "string": "iw5_morsloot1",
+                    "index": 197
+                },
+                {
+                    "string": "iw5_morsloot2",
+                    "index": 198
+                },
+                {
+                    "string": "iw5_morsloot3",
+                    "index": 199
+                },
+                {
+                    "string": "iw5_morsloot4",
+                    "index": 200
+                },
+                {
+                    "string": "iw5_morsloot5",
+                    "index": 201
+                },
+                {
+                    "string": "iw5_morsloot6",
+                    "index": 202
+                },
+                {
+                    "string": "iw5_morsloot7",
+                    "index": 203
+                },
+                {
+                    "string": "iw5_morsloot8",
+                    "index": 204
+                },
+                {
+                    "string": "iw5_morsloot9",
+                    "index": 205
+                },
+                {
+                    "string": "iw5_uts19loot0",
+                    "index": 206
+                },
+                {
+                    "string": "iw5_uts19loot1",
+                    "index": 207
+                },
+                {
+                    "string": "iw5_uts19loot2",
+                    "index": 208
+                },
+                {
+                    "string": "iw5_uts19loot3",
+                    "index": 209
+                },
+                {
+                    "string": "iw5_uts19loot4",
+                    "index": 210
+                },
+                {
+                    "string": "iw5_uts19loot5",
+                    "index": 211
+                },
+                {
+                    "string": "iw5_uts19loot6",
+                    "index": 212
+                },
+                {
+                    "string": "iw5_uts19loot7",
+                    "index": 213
+                },
+                {
+                    "string": "iw5_uts19loot8",
+                    "index": 214
+                },
+                {
+                    "string": "iw5_uts19loot9",
+                    "index": 215
+                },
+                {
+                    "string": "iw5_em1",
+                    "index": 216
+                },
+                {
+                    "string": "iw5_em1gold",
+                    "index": 217
+                },
+                {
+                    "string": "iw5_em1atlas",
+                    "index": 218
+                },
+                {
+                    "string": "iw5_combatknife",
+                    "index": 219
+                },
+                {
+                    "string": "iw5_combatknifegoliath",
+                    "index": 220
+                },
+                {
+                    "string": "iw5_zombiemelee",
+                    "index": 221
+                },
+                {
+                    "string": "iw5_microdronelauncher",
+                    "index": 222
+                },
+                {
+                    "string": "iw5_exocrossbow",
+                    "index": 223
+                },
+                {
+                    "string": "iw5_exocrossbowblops2",
+                    "index": 224
+                },
+                {
+                    "string": "iw5_titan45loot0",
+                    "index": 225
+                },
+                {
+                    "string": "iw5_titan45loot1",
+                    "index": 226
+                },
+                {
+                    "string": "iw5_titan45loot2",
+                    "index": 227
+                },
+                {
+                    "string": "iw5_titan45loot3",
+                    "index": 228
+                },
+                {
+                    "string": "iw5_titan45loot4",
+                    "index": 229
+                },
+                {
+                    "string": "iw5_titan45loot5",
+                    "index": 230
+                },
+                {
+                    "string": "iw5_titan45loot6",
+                    "index": 231
+                },
+                {
+                    "string": "iw5_titan45loot7",
+                    "index": 232
+                },
+                {
+                    "string": "iw5_titan45loot8",
+                    "index": 233
+                },
+                {
+                    "string": "iw5_titan45loot9",
+                    "index": 234
+                },
+                {
+                    "string": "iw5_titan45atlas",
+                    "index": 235
+                },
+                {
+                    "string": "iw5_em1loot0",
+                    "index": 236
+                },
+                {
+                    "string": "iw5_em1loot1",
+                    "index": 237
+                },
+                {
+                    "string": "iw5_em1loot2",
+                    "index": 238
+                },
+                {
+                    "string": "iw5_em1loot3",
+                    "index": 239
+                },
+                {
+                    "string": "iw5_em1loot4",
+                    "index": 240
+                },
+                {
+                    "string": "iw5_em1loot5",
+                    "index": 241
+                },
+                {
+                    "string": "iw5_em1loot6",
+                    "index": 242
+                },
+                {
+                    "string": "iw5_em1loot7",
+                    "index": 243
+                },
+                {
+                    "string": "iw5_em1loot8",
+                    "index": 244
+                },
+                {
+                    "string": "iw5_em1loot9",
+                    "index": 245
+                },
+                {
+                    "string": "iw5_pbwloot0",
+                    "index": 246
+                },
+                {
+                    "string": "iw5_pbwloot1",
+                    "index": 247
+                },
+                {
+                    "string": "iw5_pbwloot2",
+                    "index": 248
+                },
+                {
+                    "string": "iw5_pbwloot3",
+                    "index": 249
+                },
+                {
+                    "string": "iw5_pbwloot4",
+                    "index": 250
+                },
+                {
+                    "string": "iw5_pbwloot5",
+                    "index": 251
+                },
+                {
+                    "string": "iw5_pbwloot6",
+                    "index": 252
+                },
+                {
+                    "string": "iw5_pbwloot7",
+                    "index": 253
+                },
+                {
+                    "string": "iw5_pbwloot8",
+                    "index": 254
+                },
+                {
+                    "string": "iw5_pbwloot9",
+                    "index": 255
+                },
+                {
+                    "string": "iw5_maulloot0",
+                    "index": 256
+                },
+                {
+                    "string": "iw5_maulloot1",
+                    "index": 257
+                },
+                {
+                    "string": "iw5_maulloot2",
+                    "index": 258
+                },
+                {
+                    "string": "iw5_maulloot3",
+                    "index": 259
+                },
+                {
+                    "string": "iw5_maulloot4",
+                    "index": 260
+                },
+                {
+                    "string": "iw5_maulloot5",
+                    "index": 261
+                },
+                {
+                    "string": "iw5_maulloot6",
+                    "index": 262
+                },
+                {
+                    "string": "iw5_maulloot7",
+                    "index": 263
+                },
+                {
+                    "string": "iw5_maulloot8",
+                    "index": 264
+                },
+                {
+                    "string": "iw5_maulloot9",
+                    "index": 265
+                },
+                {
+                    "string": "iw5_gm6loot0",
+                    "index": 266
+                },
+                {
+                    "string": "iw5_gm6loot1",
+                    "index": 267
+                },
+                {
+                    "string": "iw5_gm6loot2",
+                    "index": 268
+                },
+                {
+                    "string": "iw5_gm6loot3",
+                    "index": 269
+                },
+                {
+                    "string": "iw5_gm6loot4",
+                    "index": 270
+                },
+                {
+                    "string": "iw5_gm6loot5",
+                    "index": 271
+                },
+                {
+                    "string": "iw5_gm6loot6",
+                    "index": 272
+                },
+                {
+                    "string": "iw5_gm6loot7",
+                    "index": 273
+                },
+                {
+                    "string": "iw5_gm6loot8",
+                    "index": 274
+                },
+                {
+                    "string": "iw5_gm6loot9",
+                    "index": 275
+                },
+                {
+                    "string": "iw5_vbrloot0",
+                    "index": 276
+                },
+                {
+                    "string": "iw5_vbrloot1",
+                    "index": 277
+                },
+                {
+                    "string": "iw5_vbrloot2",
+                    "index": 278
+                },
+                {
+                    "string": "iw5_vbrloot3",
+                    "index": 279
+                },
+                {
+                    "string": "iw5_vbrloot4",
+                    "index": 280
+                },
+                {
+                    "string": "iw5_vbrloot5",
+                    "index": 281
+                },
+                {
+                    "string": "iw5_vbrloot6",
+                    "index": 282
+                },
+                {
+                    "string": "iw5_vbrloot7",
+                    "index": 283
+                },
+                {
+                    "string": "iw5_vbrloot8",
+                    "index": 284
+                },
+                {
+                    "string": "iw5_vbrloot9",
+                    "index": 285
+                },
+                {
+                    "string": "iw5_arx160loot0",
+                    "index": 286
+                },
+                {
+                    "string": "iw5_arx160loot1",
+                    "index": 287
+                },
+                {
+                    "string": "iw5_arx160loot2",
+                    "index": 288
+                },
+                {
+                    "string": "iw5_arx160loot3",
+                    "index": 289
+                },
+                {
+                    "string": "iw5_arx160loot4",
+                    "index": 290
+                },
+                {
+                    "string": "iw5_arx160loot5",
+                    "index": 291
+                },
+                {
+                    "string": "iw5_arx160loot6",
+                    "index": 292
+                },
+                {
+                    "string": "iw5_arx160loot7",
+                    "index": 293
+                },
+                {
+                    "string": "iw5_arx160loot8",
+                    "index": 294
+                },
+                {
+                    "string": "iw5_arx160loot9",
+                    "index": 295
+                },
+                {
+                    "string": "iw5_m182sprloot0",
+                    "index": 296
+                },
+                {
+                    "string": "iw5_m182sprloot1",
+                    "index": 297
+                },
+                {
+                    "string": "iw5_m182sprloot2",
+                    "index": 298
+                },
+                {
+                    "string": "iw5_m182sprloot3",
+                    "index": 299
+                },
+                {
+                    "string": "iw5_m182sprloot4",
+                    "index": 300
+                },
+                {
+                    "string": "iw5_m182sprloot5",
+                    "index": 301
+                },
+                {
+                    "string": "iw5_m182sprloot6",
+                    "index": 302
+                },
+                {
+                    "string": "iw5_m182sprloot7",
+                    "index": 303
+                },
+                {
+                    "string": "iw5_m182sprloot8",
+                    "index": 304
+                },
+                {
+                    "string": "iw5_m182sprloot9",
+                    "index": 305
+                },
+                {
+                    "string": "iw5_maawsloot0",
+                    "index": 306
+                },
+                {
+                    "string": "iw5_maawsloot1",
+                    "index": 307
+                },
+                {
+                    "string": "iw5_maawsloot2",
+                    "index": 308
+                },
+                {
+                    "string": "iw5_maawsloot3",
+                    "index": 309
+                },
+                {
+                    "string": "iw5_stingerm7loot0",
+                    "index": 310
+                },
+                {
+                    "string": "iw5_stingerm7loot1",
+                    "index": 311
+                },
+                {
+                    "string": "iw5_stingerm7loot2",
+                    "index": 312
+                },
+                {
+                    "string": "iw5_stingerm7loot3",
+                    "index": 313
+                },
+                {
+                    "string": "iw5_microdronelauncherloot0",
+                    "index": 314
+                },
+                {
+                    "string": "iw5_microdronelauncherloot1",
+                    "index": 315
+                },
+                {
+                    "string": "iw5_microdronelauncherloot2",
+                    "index": 316
+                },
+                {
+                    "string": "iw5_microdronelauncherloot3",
+                    "index": 317
+                },
+                {
+                    "string": "iw5_kf5loot0",
+                    "index": 318
+                },
+                {
+                    "string": "iw5_kf5loot1",
+                    "index": 319
+                },
+                {
+                    "string": "iw5_kf5loot2",
+                    "index": 320
+                },
+                {
+                    "string": "iw5_kf5loot3",
+                    "index": 321
+                },
+                {
+                    "string": "iw5_kf5loot4",
+                    "index": 322
+                },
+                {
+                    "string": "iw5_kf5loot5",
+                    "index": 323
+                },
+                {
+                    "string": "iw5_kf5loot6",
+                    "index": 324
+                },
+                {
+                    "string": "iw5_kf5loot7",
+                    "index": 325
+                },
+                {
+                    "string": "iw5_kf5loot8",
+                    "index": 326
+                },
+                {
+                    "string": "iw5_kf5loot9",
+                    "index": 327
+                },
+                {
+                    "string": "iw5_asm1loot0",
+                    "index": 328
+                },
+                {
+                    "string": "iw5_asm1loot1",
+                    "index": 329
+                },
+                {
+                    "string": "iw5_asm1loot2",
+                    "index": 330
+                },
+                {
+                    "string": "iw5_asm1loot3",
+                    "index": 331
+                },
+                {
+                    "string": "iw5_asm1loot4",
+                    "index": 332
+                },
+                {
+                    "string": "iw5_asm1loot5",
+                    "index": 333
+                },
+                {
+                    "string": "iw5_asm1loot6",
+                    "index": 334
+                },
+                {
+                    "string": "iw5_asm1loot7",
+                    "index": 335
+                },
+                {
+                    "string": "iw5_asm1loot8",
+                    "index": 336
+                },
+                {
+                    "string": "iw5_asm1loot9",
+                    "index": 337
+                },
+                {
+                    "string": "iw5_himarloot0",
+                    "index": 338
+                },
+                {
+                    "string": "iw5_himarloot1",
+                    "index": 339
+                },
+                {
+                    "string": "iw5_himarloot2",
+                    "index": 340
+                },
+                {
+                    "string": "iw5_himarloot3",
+                    "index": 341
+                },
+                {
+                    "string": "iw5_himarloot4",
+                    "index": 342
+                },
+                {
+                    "string": "iw5_himarloot5",
+                    "index": 343
+                },
+                {
+                    "string": "iw5_himarloot6",
+                    "index": 344
+                },
+                {
+                    "string": "iw5_himarloot7",
+                    "index": 345
+                },
+                {
+                    "string": "iw5_himarloot8",
+                    "index": 346
+                },
+                {
+                    "string": "iw5_himarloot9",
+                    "index": 347
+                },
+                {
+                    "string": "iw5_hbra3loot0",
+                    "index": 348
+                },
+                {
+                    "string": "iw5_hbra3loot1",
+                    "index": 349
+                },
+                {
+                    "string": "iw5_hbra3loot2",
+                    "index": 350
+                },
+                {
+                    "string": "iw5_hbra3loot3",
+                    "index": 351
+                },
+                {
+                    "string": "iw5_hbra3loot4",
+                    "index": 352
+                },
+                {
+                    "string": "iw5_hbra3loot5",
+                    "index": 353
+                },
+                {
+                    "string": "iw5_hbra3loot6",
+                    "index": 354
+                },
+                {
+                    "string": "iw5_hbra3loot7",
+                    "index": 355
+                },
+                {
+                    "string": "iw5_hbra3loot8",
+                    "index": 356
+                },
+                {
+                    "string": "iw5_hbra3loot9",
+                    "index": 357
+                },
+                {
+                    "string": "iw5_hmr9loot0",
+                    "index": 358
+                },
+                {
+                    "string": "iw5_hmr9loot1",
+                    "index": 359
+                },
+                {
+                    "string": "iw5_hmr9loot2",
+                    "index": 360
+                },
+                {
+                    "string": "iw5_hmr9loot3",
+                    "index": 361
+                },
+                {
+                    "string": "iw5_hmr9loot4",
+                    "index": 362
+                },
+                {
+                    "string": "iw5_hmr9loot5",
+                    "index": 363
+                },
+                {
+                    "string": "iw5_hmr9loot6",
+                    "index": 364
+                },
+                {
+                    "string": "iw5_hmr9loot7",
+                    "index": 365
+                },
+                {
+                    "string": "iw5_hmr9loot8",
+                    "index": 366
+                },
+                {
+                    "string": "iw5_hmr9loot9",
+                    "index": 367
+                },
+                {
+                    "string": "iw5_mp11loot0",
+                    "index": 368
+                },
+                {
+                    "string": "iw5_mp11loot1",
+                    "index": 369
+                },
+                {
+                    "string": "iw5_mp11loot2",
+                    "index": 370
+                },
+                {
+                    "string": "iw5_mp11loot3",
+                    "index": 371
+                },
+                {
+                    "string": "iw5_mp11loot4",
+                    "index": 372
+                },
+                {
+                    "string": "iw5_mp11loot5",
+                    "index": 373
+                },
+                {
+                    "string": "iw5_mp11loot6",
+                    "index": 374
+                },
+                {
+                    "string": "iw5_mp11loot7",
+                    "index": 375
+                },
+                {
+                    "string": "iw5_mp11loot8",
+                    "index": 376
+                },
+                {
+                    "string": "iw5_mp11loot9",
+                    "index": 377
+                },
+                {
+                    "string": "iw5_sac3loot0",
+                    "index": 378
+                },
+                {
+                    "string": "iw5_sac3loot1",
+                    "index": 379
+                },
+                {
+                    "string": "iw5_sac3loot2",
+                    "index": 380
+                },
+                {
+                    "string": "iw5_sac3loot3",
+                    "index": 381
+                },
+                {
+                    "string": "iw5_sac3loot4",
+                    "index": 382
+                },
+                {
+                    "string": "iw5_sac3loot5",
+                    "index": 383
+                },
+                {
+                    "string": "iw5_sac3loot6",
+                    "index": 384
+                },
+                {
+                    "string": "iw5_sac3loot7",
+                    "index": 385
+                },
+                {
+                    "string": "iw5_sac3loot8",
+                    "index": 386
+                },
+                {
+                    "string": "iw5_sac3loot9",
+                    "index": 387
+                },
+                {
+                    "string": "iw5_asawloot0",
+                    "index": 388
+                },
+                {
+                    "string": "iw5_asawloot1",
+                    "index": 389
+                },
+                {
+                    "string": "iw5_asawloot2",
+                    "index": 390
+                },
+                {
+                    "string": "iw5_asawloot3",
+                    "index": 391
+                },
+                {
+                    "string": "iw5_asawloot4",
+                    "index": 392
+                },
+                {
+                    "string": "iw5_asawloot5",
+                    "index": 393
+                },
+                {
+                    "string": "iw5_asawloot6",
+                    "index": 394
+                },
+                {
+                    "string": "iw5_asawloot7",
+                    "index": 395
+                },
+                {
+                    "string": "iw5_asawloot8",
+                    "index": 396
+                },
+                {
+                    "string": "iw5_asawloot9",
+                    "index": 397
+                },
+                {
+                    "string": "iw5_lsatloot0",
+                    "index": 398
+                },
+                {
+                    "string": "iw5_lsatloot1",
+                    "index": 399
+                },
+                {
+                    "string": "iw5_lsatloot2",
+                    "index": 400
+                },
+                {
+                    "string": "iw5_lsatloot3",
+                    "index": 401
+                },
+                {
+                    "string": "iw5_lsatloot4",
+                    "index": 402
+                },
+                {
+                    "string": "iw5_lsatloot5",
+                    "index": 403
+                },
+                {
+                    "string": "iw5_lsatloot6",
+                    "index": 404
+                },
+                {
+                    "string": "iw5_lsatloot7",
+                    "index": 405
+                },
+                {
+                    "string": "iw5_lsatloot8",
+                    "index": 406
+                },
+                {
+                    "string": "iw5_lsatloot9",
+                    "index": 407
+                },
+                {
+                    "string": "iw5_exoxmgloot0",
+                    "index": 408
+                },
+                {
+                    "string": "iw5_exoxmgloot1",
+                    "index": 409
+                },
+                {
+                    "string": "iw5_exoxmgloot2",
+                    "index": 410
+                },
+                {
+                    "string": "iw5_exoxmgloot3",
+                    "index": 411
+                },
+                {
+                    "string": "iw5_exoxmgloot4",
+                    "index": 412
+                },
+                {
+                    "string": "iw5_exoxmgloot5",
+                    "index": 413
+                },
+                {
+                    "string": "iw5_exoxmgloot6",
+                    "index": 414
+                },
+                {
+                    "string": "iw5_exoxmgloot7",
+                    "index": 415
+                },
+                {
+                    "string": "iw5_exoxmgloot8",
+                    "index": 416
+                },
+                {
+                    "string": "iw5_exoxmgloot9",
+                    "index": 417
+                },
+                {
+                    "string": "iw5_epm3loot0",
+                    "index": 418
+                },
+                {
+                    "string": "iw5_epm3loot1",
+                    "index": 419
+                },
+                {
+                    "string": "iw5_epm3loot2",
+                    "index": 420
+                },
+                {
+                    "string": "iw5_epm3loot3",
+                    "index": 421
+                },
+                {
+                    "string": "iw5_epm3loot4",
+                    "index": 422
+                },
+                {
+                    "string": "iw5_epm3loot5",
+                    "index": 423
+                },
+                {
+                    "string": "iw5_epm3loot6",
+                    "index": 424
+                },
+                {
+                    "string": "iw5_epm3loot7",
+                    "index": 425
+                },
+                {
+                    "string": "iw5_epm3loot8",
+                    "index": 426
+                },
+                {
+                    "string": "iw5_epm3loot9",
+                    "index": 427
+                },
+                {
+                    "string": "iw5_rw1loot0",
+                    "index": 428
+                },
+                {
+                    "string": "iw5_rw1loot1",
+                    "index": 429
+                },
+                {
+                    "string": "iw5_rw1loot2",
+                    "index": 430
+                },
+                {
+                    "string": "iw5_rw1loot3",
+                    "index": 431
+                },
+                {
+                    "string": "iw5_rw1loot4",
+                    "index": 432
+                },
+                {
+                    "string": "iw5_rw1loot5",
+                    "index": 433
+                },
+                {
+                    "string": "iw5_rw1loot6",
+                    "index": 434
+                },
+                {
+                    "string": "iw5_rw1loot7",
+                    "index": 435
+                },
+                {
+                    "string": "iw5_rw1loot8",
+                    "index": 436
+                },
+                {
+                    "string": "iw5_rw1loot9",
+                    "index": 437
+                },
+                {
+                    "string": "iw5_exocrossbowloot0",
+                    "index": 438
+                },
+                {
+                    "string": "iw5_exocrossbowloot1",
+                    "index": 439
+                },
+                {
+                    "string": "iw5_exocrossbowloot2",
+                    "index": 440
+                },
+                {
+                    "string": "iw5_exocrossbowloot3",
+                    "index": 441
+                },
+                {
+                    "string": "iw5_mahemloot0",
+                    "index": 442
+                },
+                {
+                    "string": "iw5_mahemloot1",
+                    "index": 443
+                },
+                {
+                    "string": "iw5_mahemloot2",
+                    "index": 444
+                },
+                {
+                    "string": "iw5_mahemloot3",
+                    "index": 445
+                },
+                {
+                    "string": "iw5_m990loot0",
+                    "index": 446
+                },
+                {
+                    "string": "iw5_m990loot1",
+                    "index": 447
+                },
+                {
+                    "string": "iw5_m990loot2",
+                    "index": 448
+                },
+                {
+                    "string": "iw5_m990loot3",
+                    "index": 449
+                },
+                {
+                    "string": "iw5_m990loot4",
+                    "index": 450
+                },
+                {
+                    "string": "iw5_m990loot5",
+                    "index": 451
+                },
+                {
+                    "string": "iw5_m990loot6",
+                    "index": 452
+                },
+                {
+                    "string": "iw5_m990loot7",
+                    "index": 453
+                },
+                {
+                    "string": "iw5_m990loot8",
+                    "index": 454
+                },
+                {
+                    "string": "iw5_m990loot9",
+                    "index": 455
+                },
+                {
+                    "string": "iw5_thorloot0",
+                    "index": 456
+                },
+                {
+                    "string": "iw5_thorloot1",
+                    "index": 457
+                },
+                {
+                    "string": "iw5_thorloot2",
+                    "index": 458
+                },
+                {
+                    "string": "iw5_thorloot3",
+                    "index": 459
+                },
+                {
+                    "string": "iw5_thorloot4",
+                    "index": 460
+                },
+                {
+                    "string": "iw5_thorloot5",
+                    "index": 461
+                },
+                {
+                    "string": "iw5_thorloot6",
+                    "index": 462
+                },
+                {
+                    "string": "iw5_thorloot7",
+                    "index": 463
+                },
+                {
+                    "string": "iw5_thorloot8",
+                    "index": 464
+                },
+                {
+                    "string": "iw5_thorloot9",
+                    "index": 465
+                },
+                {
+                    "string": "iw5_rhinoloot0",
+                    "index": 466
+                },
+                {
+                    "string": "iw5_rhinoloot1",
+                    "index": 467
+                },
+                {
+                    "string": "iw5_rhinoloot2",
+                    "index": 468
+                },
+                {
+                    "string": "iw5_rhinoloot3",
+                    "index": 469
+                },
+                {
+                    "string": "iw5_rhinoloot4",
+                    "index": 470
+                },
+                {
+                    "string": "iw5_rhinoloot5",
+                    "index": 471
+                },
+                {
+                    "string": "iw5_rhinoloot6",
+                    "index": 472
+                },
+                {
+                    "string": "iw5_rhinoloot7",
+                    "index": 473
+                },
+                {
+                    "string": "iw5_rhinoloot8",
+                    "index": 474
+                },
+                {
+                    "string": "iw5_rhinoloot9",
+                    "index": 475
+                },
+                {
+                    "string": "iw5_asaw",
+                    "index": 476
+                },
+                {
+                    "string": "remote_sniper_turret_mp",
+                    "index": 477
+                },
+                {
+                    "string": "remote_energy_turret_mp",
+                    "index": 478
+                },
+                {
+                    "string": "killstreakmahem",
+                    "index": 479
+                },
+                {
+                    "string": "turretheadmg",
+                    "index": 480
+                },
+                {
+                    "string": "turretheadenergy",
+                    "index": 481
+                },
+                {
+                    "string": "turretheadrocket",
+                    "index": 482
+                },
+                {
+                    "string": "s1_tactical_insertion_device_mp",
+                    "index": 483
+                },
+                {
+                    "string": "frag_grenade_var",
+                    "index": 484
+                },
+                {
+                    "string": "contact_grenade_var",
+                    "index": 485
+                },
+                {
+                    "string": "semtex_grenade_var",
+                    "index": 486
+                },
+                {
+                    "string": "stun_grenade_var",
+                    "index": 487
+                },
+                {
+                    "string": "emp_grenade_var",
+                    "index": 488
+                },
+                {
+                    "string": "paint_grenade_var",
+                    "index": 489
+                },
+                {
+                    "string": "smoke_grenade_var",
+                    "index": 490
+                },
+                {
+                    "string": "boost_slam",
+                    "index": 491
+                },
+                {
+                    "string": "iw5_exoxmg",
+                    "index": 492
+                },
+                {
+                    "string": "iw5_epm3",
+                    "index": 493
+                },
+                {
+                    "string": "paint_grenade_killstreak_mp",
+                    "index": 494
+                },
+                {
+                    "string": "emp_grenade_killstreak_mp",
+                    "index": 495
+                },
+                {
+                    "string": "iw5_juggtitan45",
+                    "index": 496
+                },
+                {
+                    "string": "iw5_exoxmgjugg",
+                    "index": 497
+                },
+                {
+                    "string": "iw5_exominigun",
+                    "index": 498
+                },
+                {
+                    "string": "killstreak_goliathsd",
+                    "index": 499
+                },
+                {
+                    "string": "iw5_carrydrone",
+                    "index": 500
+                },
+                {
+                    "string": "paint_missile_killstreak_mp",
+                    "index": 501
+                },
+                {
+                    "string": "iw5_mechpunch",
+                    "index": 502
+                },
+                {
+                    "string": "playermech_rocket",
+                    "index": 503
+                },
+                {
+                    "string": "exoknife_jug",
+                    "index": 504
+                },
+                {
+                    "string": "orbital_carepackage_droppod_mp",
+                    "index": 505
+                },
+                {
+                    "string": "airstrike_missile_mp",
+                    "index": 506
+                },
+                {
+                    "string": "iw5_underwater",
+                    "index": 507
+                },
+                {
+                    "string": "iw5_underwater_mp",
+                    "index": 508
+                },
+                {
+                    "string": "iw5_dlcgun1",
+                    "index": 509
+                },
+                {
+                    "string": "iw5_dlcgun2",
+                    "index": 510
+                },
+                {
+                    "string": "iw5_dlcgun3",
+                    "index": 511
+                },
+                {
+                    "string": "iw5_dlcgun4",
+                    "index": 512
+                },
+                {
+                    "string": "iw5_dlcgun5",
+                    "index": 513
+                },
+                {
+                    "string": "iw5_dlcgun6",
+                    "index": 514
+                },
+                {
+                    "string": "iw5_dlcgun7",
+                    "index": 515
+                },
+                {
+                    "string": "iw5_dlcgun8",
+                    "index": 516
+                },
+                {
+                    "string": "iw5_dlcgun9",
+                    "index": 517
+                },
+                {
+                    "string": "iw5_dlcgun10",
+                    "index": 518
+                },
+                {
+                    "string": "iw5_dlcgun11",
+                    "index": 519
+                },
+                {
+                    "string": "iw5_dlcgun12",
+                    "index": 520
+                },
+                {
+                    "string": "iw5_dlcgun1loot0",
+                    "index": 521
+                },
+                {
+                    "string": "iw5_dlcgun1loot1",
+                    "index": 522
+                },
+                {
+                    "string": "iw5_dlcgun1loot2",
+                    "index": 523
+                },
+                {
+                    "string": "iw5_dlcgun1loot3",
+                    "index": 524
+                },
+                {
+                    "string": "iw5_dlcgun1loot4",
+                    "index": 525
+                },
+                {
+                    "string": "iw5_dlcgun1loot5",
+                    "index": 526
+                },
+                {
+                    "string": "iw5_dlcgun1loot6",
+                    "index": 527
+                },
+                {
+                    "string": "iw5_dlcgun1loot7",
+                    "index": 528
+                },
+                {
+                    "string": "iw5_dlcgun1loot8",
+                    "index": 529
+                },
+                {
+                    "string": "iw5_dlcgun1loot9",
+                    "index": 530
+                },
+                {
+                    "string": "iw5_dlcgun2loot0",
+                    "index": 531
+                },
+                {
+                    "string": "iw5_dlcgun2loot1",
+                    "index": 532
+                },
+                {
+                    "string": "iw5_dlcgun2loot2",
+                    "index": 533
+                },
+                {
+                    "string": "iw5_dlcgun2loot3",
+                    "index": 534
+                },
+                {
+                    "string": "iw5_dlcgun2loot4",
+                    "index": 535
+                },
+                {
+                    "string": "iw5_dlcgun2loot5",
+                    "index": 536
+                },
+                {
+                    "string": "iw5_dlcgun2loot6",
+                    "index": 537
+                },
+                {
+                    "string": "iw5_dlcgun2loot7",
+                    "index": 538
+                },
+                {
+                    "string": "iw5_dlcgun2loot8",
+                    "index": 539
+                },
+                {
+                    "string": "iw5_dlcgun2loot9",
+                    "index": 540
+                },
+                {
+                    "string": "iw5_dlcgun3loot0",
+                    "index": 541
+                },
+                {
+                    "string": "iw5_dlcgun3loot1",
+                    "index": 542
+                },
+                {
+                    "string": "iw5_dlcgun3loot2",
+                    "index": 543
+                },
+                {
+                    "string": "iw5_dlcgun3loot3",
+                    "index": 544
+                },
+                {
+                    "string": "iw5_dlcgun3loot4",
+                    "index": 545
+                },
+                {
+                    "string": "iw5_dlcgun3loot5",
+                    "index": 546
+                },
+                {
+                    "string": "iw5_dlcgun3loot6",
+                    "index": 547
+                },
+                {
+                    "string": "iw5_dlcgun3loot7",
+                    "index": 548
+                },
+                {
+                    "string": "iw5_dlcgun3loot8",
+                    "index": 549
+                },
+                {
+                    "string": "iw5_dlcgun3loot9",
+                    "index": 550
+                },
+                {
+                    "string": "iw5_dlcgun4loot0",
+                    "index": 551
+                },
+                {
+                    "string": "iw5_dlcgun4loot1",
+                    "index": 552
+                },
+                {
+                    "string": "iw5_dlcgun4loot2",
+                    "index": 553
+                },
+                {
+                    "string": "iw5_dlcgun4loot3",
+                    "index": 554
+                },
+                {
+                    "string": "iw5_dlcgun4loot4",
+                    "index": 555
+                },
+                {
+                    "string": "iw5_dlcgun4loot5",
+                    "index": 556
+                },
+                {
+                    "string": "iw5_dlcgun4loot6",
+                    "index": 557
+                },
+                {
+                    "string": "iw5_dlcgun4loot7",
+                    "index": 558
+                },
+                {
+                    "string": "iw5_dlcgun4loot8",
+                    "index": 559
+                },
+                {
+                    "string": "iw5_dlcgun4loot9",
+                    "index": 560
+                },
+                {
+                    "string": "iw5_dlcgun5loot0",
+                    "index": 561
+                },
+                {
+                    "string": "iw5_dlcgun5loot1",
+                    "index": 562
+                },
+                {
+                    "string": "iw5_dlcgun5loot2",
+                    "index": 563
+                },
+                {
+                    "string": "iw5_dlcgun5loot3",
+                    "index": 564
+                },
+                {
+                    "string": "iw5_dlcgun5loot4",
+                    "index": 565
+                },
+                {
+                    "string": "iw5_dlcgun5loot5",
+                    "index": 566
+                },
+                {
+                    "string": "iw5_dlcgun5loot6",
+                    "index": 567
+                },
+                {
+                    "string": "iw5_dlcgun5loot7",
+                    "index": 568
+                },
+                {
+                    "string": "iw5_dlcgun5loot8",
+                    "index": 569
+                },
+                {
+                    "string": "iw5_dlcgun5loot9",
+                    "index": 570
+                },
+                {
+                    "string": "iw5_dlcgun6loot0",
+                    "index": 571
+                },
+                {
+                    "string": "iw5_dlcgun6loot1",
+                    "index": 572
+                },
+                {
+                    "string": "iw5_dlcgun6loot2",
+                    "index": 573
+                },
+                {
+                    "string": "iw5_dlcgun6loot3",
+                    "index": 574
+                },
+                {
+                    "string": "iw5_dlcgun6loot4",
+                    "index": 575
+                },
+                {
+                    "string": "iw5_dlcgun6loot5",
+                    "index": 576
+                },
+                {
+                    "string": "iw5_dlcgun6loot6",
+                    "index": 577
+                },
+                {
+                    "string": "iw5_dlcgun6loot7",
+                    "index": 578
+                },
+                {
+                    "string": "iw5_dlcgun6loot8",
+                    "index": 579
+                },
+                {
+                    "string": "iw5_dlcgun6loot9",
+                    "index": 580
+                },
+                {
+                    "string": "iw5_dlcgun7loot0",
+                    "index": 581
+                },
+                {
+                    "string": "iw5_dlcgun7loot1",
+                    "index": 582
+                },
+                {
+                    "string": "iw5_dlcgun7loot2",
+                    "index": 583
+                },
+                {
+                    "string": "iw5_dlcgun7loot3",
+                    "index": 584
+                },
+                {
+                    "string": "iw5_dlcgun7loot4",
+                    "index": 585
+                },
+                {
+                    "string": "iw5_dlcgun7loot5",
+                    "index": 586
+                },
+                {
+                    "string": "iw5_dlcgun7loot6",
+                    "index": 587
+                },
+                {
+                    "string": "iw5_dlcgun7loot7",
+                    "index": 588
+                },
+                {
+                    "string": "iw5_dlcgun7loot8",
+                    "index": 589
+                },
+                {
+                    "string": "iw5_dlcgun7loot9",
+                    "index": 590
+                },
+                {
+                    "string": "iw5_dlcgun8loot0",
+                    "index": 591
+                },
+                {
+                    "string": "iw5_dlcgun8loot1",
+                    "index": 592
+                },
+                {
+                    "string": "iw5_dlcgun8loot2",
+                    "index": 593
+                },
+                {
+                    "string": "iw5_dlcgun8loot3",
+                    "index": 594
+                },
+                {
+                    "string": "iw5_dlcgun8loot4",
+                    "index": 595
+                },
+                {
+                    "string": "iw5_dlcgun8loot5",
+                    "index": 596
+                },
+                {
+                    "string": "iw5_dlcgun8loot6",
+                    "index": 597
+                },
+                {
+                    "string": "iw5_dlcgun8loot7",
+                    "index": 598
+                },
+                {
+                    "string": "iw5_dlcgun8loot8",
+                    "index": 599
+                },
+                {
+                    "string": "iw5_dlcgun8loot9",
+                    "index": 600
+                },
+                {
+                    "string": "iw5_dlcgun9loot0",
+                    "index": 601
+                },
+                {
+                    "string": "iw5_dlcgun9loot1",
+                    "index": 602
+                },
+                {
+                    "string": "iw5_dlcgun9loot2",
+                    "index": 603
+                },
+                {
+                    "string": "iw5_dlcgun9loot3",
+                    "index": 604
+                },
+                {
+                    "string": "iw5_dlcgun9loot4",
+                    "index": 605
+                },
+                {
+                    "string": "iw5_dlcgun9loot5",
+                    "index": 606
+                },
+                {
+                    "string": "iw5_dlcgun9loot6",
+                    "index": 607
+                },
+                {
+                    "string": "iw5_dlcgun9loot7",
+                    "index": 608
+                },
+                {
+                    "string": "iw5_dlcgun9loot8",
+                    "index": 609
+                },
+                {
+                    "string": "iw5_dlcgun9loot9",
+                    "index": 610
+                },
+                {
+                    "string": "iw5_dlcgun10loot0",
+                    "index": 611
+                },
+                {
+                    "string": "iw5_dlcgun10loot1",
+                    "index": 612
+                },
+                {
+                    "string": "iw5_dlcgun10loot2",
+                    "index": 613
+                },
+                {
+                    "string": "iw5_dlcgun10loot3",
+                    "index": 614
+                },
+                {
+                    "string": "iw5_dlcgun10loot4",
+                    "index": 615
+                },
+                {
+                    "string": "iw5_dlcgun10loot5",
+                    "index": 616
+                },
+                {
+                    "string": "iw5_dlcgun10loot6",
+                    "index": 617
+                },
+                {
+                    "string": "iw5_dlcgun10loot7",
+                    "index": 618
+                },
+                {
+                    "string": "iw5_dlcgun10loot8",
+                    "index": 619
+                },
+                {
+                    "string": "iw5_dlcgun10loot9",
+                    "index": 620
+                },
+                {
+                    "string": "iw5_dlcgun11loot0",
+                    "index": 621
+                },
+                {
+                    "string": "iw5_dlcgun11loot1",
+                    "index": 622
+                },
+                {
+                    "string": "iw5_dlcgun11loot2",
+                    "index": 623
+                },
+                {
+                    "string": "iw5_dlcgun11loot3",
+                    "index": 624
+                },
+                {
+                    "string": "iw5_dlcgun11loot4",
+                    "index": 625
+                },
+                {
+                    "string": "iw5_dlcgun11loot5",
+                    "index": 626
+                },
+                {
+                    "string": "iw5_dlcgun11loot6",
+                    "index": 627
+                },
+                {
+                    "string": "iw5_dlcgun11loot7",
+                    "index": 628
+                },
+                {
+                    "string": "iw5_dlcgun11loot8",
+                    "index": 629
+                },
+                {
+                    "string": "iw5_dlcgun11loot9",
+                    "index": 630
+                },
+                {
+                    "string": "iw5_dlcgun12loot0",
+                    "index": 631
+                },
+                {
+                    "string": "iw5_dlcgun12loot1",
+                    "index": 632
+                },
+                {
+                    "string": "iw5_dlcgun12loot2",
+                    "index": 633
+                },
+                {
+                    "string": "iw5_dlcgun12loot3",
+                    "index": 634
+                },
+                {
+                    "string": "iw5_dlcgun12loot4",
+                    "index": 635
+                },
+                {
+                    "string": "iw5_dlcgun12loot5",
+                    "index": 636
+                },
+                {
+                    "string": "iw5_dlcgun12loot6",
+                    "index": 637
+                },
+                {
+                    "string": "iw5_dlcgun12loot7",
+                    "index": 638
+                },
+                {
+                    "string": "iw5_dlcgun12loot8",
+                    "index": 639
+                },
+                {
+                    "string": "iw5_dlcgun12loot9",
+                    "index": 640
+                },
+                {
+                    "string": "airdrop_trap_explosive_mp",
+                    "index": 641
+                },
+                {
+                    "string": "stealth_bomb_mp",
+                    "index": 642
+                },
+                {
+                    "string": "orbital_carepackage_pod_plane_mp",
+                    "index": 643
+                },
+                {
+                    "string": "ugv_missile_mp",
+                    "index": 644
+                },
+                {
+                    "string": "remotemissile_projectile_mp",
+                    "index": 645
+                },
+                {
+                    "string": "nuke_mp",
+                    "index": 646
+                },
+                {
+                    "string": "orbitalsupport_40mmbuddy_mp",
+                    "index": 647
+                },
+                {
+                    "string": "sentry_minigun_mp",
+                    "index": 648
+                },
+                {
+                    "string": "detroit_tram_turret_mp",
+                    "index": 649
+                },
+                {
+                    "string": "tablet_use_weapon_mp",
+                    "index": 125
+                },
+                {
+                    "string": "iw5_dlcgun13",
+                    "index": 650
+                },
+                {
+                    "string": "iw5_dlcgun14",
+                    "index": 651
+                },
+                {
+                    "string": "iw5_dlcgun15",
+                    "index": 652
+                },
+                {
+                    "string": "iw5_dlcgun16",
+                    "index": 653
+                },
+                {
+                    "string": "iw5_dlcgun17",
+                    "index": 654
+                },
+                {
+                    "string": "iw5_dlcgun18",
+                    "index": 655
+                },
+                {
+                    "string": "iw5_dlcgun19",
+                    "index": 656
+                },
+                {
+                    "string": "iw5_dlcgun20",
+                    "index": 657
+                },
+                {
+                    "string": "iw5_dlcgun21",
+                    "index": 658
+                },
+                {
+                    "string": "iw5_dlcgun22",
+                    "index": 659
+                },
+                {
+                    "string": "iw5_dlcgun23",
+                    "index": 660
+                },
+                {
+                    "string": "iw5_dlcgun24",
+                    "index": 661
+                },
+                {
+                    "string": "iw5_dlcgun25",
+                    "index": 662
+                },
+                {
+                    "string": "iw5_dlcgun26",
+                    "index": 663
+                },
+                {
+                    "string": "iw5_dlcgun27",
+                    "index": 664
+                },
+                {
+                    "string": "iw5_dlcgun28",
+                    "index": 665
+                },
+                {
+                    "string": "iw5_dlcgun29",
+                    "index": 666
+                },
+                {
+                    "string": "iw5_dlcgun30",
+                    "index": 667
+                },
+                {
+                    "string": "iw5_dlcgun31",
+                    "index": 668
+                },
+                {
+                    "string": "iw5_dlcgun32",
+                    "index": 669
+                },
+                {
+                    "string": "iw5_dlcgun33",
+                    "index": 670
+                },
+                {
+                    "string": "iw5_dlcgun34",
+                    "index": 671
+                },
+                {
+                    "string": "iw5_dlcgun35",
+                    "index": 672
+                },
+                {
+                    "string": "iw5_dlcgun36",
+                    "index": 673
+                },
+                {
+                    "string": "iw5_dlcgun37",
+                    "index": 674
+                },
+                {
+                    "string": "iw5_dlcgun38",
+                    "index": 675
+                },
+                {
+                    "string": "iw5_dlcgun39",
+                    "index": 676
+                },
+                {
+                    "string": "iw5_dlcgun40",
+                    "index": 677
+                },
+                {
+                    "string": "iw5_dlcgun41",
+                    "index": 678
+                },
+                {
+                    "string": "iw5_dlcgun42",
+                    "index": 679
+                },
+                {
+                    "string": "iw5_dlcgun43",
+                    "index": 680
+                },
+                {
+                    "string": "iw5_dlcgun44",
+                    "index": 681
+                },
+                {
+                    "string": "iw5_dlcgun45",
+                    "index": 682
+                },
+                {
+                    "string": "iw5_dlcgun46",
+                    "index": 683
+                },
+                {
+                    "string": "iw5_dlcgun47",
+                    "index": 684
+                },
+                {
+                    "string": "iw5_dlcgun48",
+                    "index": 685
+                },
+                {
+                    "string": "iw5_dlcgun49",
+                    "index": 686
+                },
+                {
+                    "string": "iw5_dlcgun50",
+                    "index": 687
+                },
+                {
+                    "string": "iw5_dlcgun51",
+                    "index": 688
+                },
+                {
+                    "string": "iw5_dlcgun52",
+                    "index": 689
+                }
+            ]
+        },
+        {
+            "entryCount": 245,
+            "reservedEntryCount": 245,
+            "entries": [
+                {
+                    "string": "exoshield_equipment_mp",
+                    "index": 151
+                },
+                {
+                    "string": "adrenaline_mp",
+                    "index": 152
+                },
+                {
+                    "string": "extra_health_mp",
+                    "index": 154
+                },
+                {
+                    "string": "exocloak_equipment_mp",
+                    "index": 156
+                },
+                {
+                    "string": "exoping_equipment_mp",
+                    "index": 157
+                },
+                {
+                    "string": "exohover_equipment_mp",
+                    "index": 158
+                },
+                {
+                    "string": "exorepulsor_equipment_mp",
+                    "index": 163
+                },
+                {
+                    "string": "exomute_equipment_mp",
+                    "index": 167
+                },
+                {
+                    "string": "frag_grenade_mp",
+                    "index": 128
+                },
+                {
+                    "string": "frag_grenade_horde_mp",
+                    "index": 129
+                },
+                {
+                    "string": "frag_grenade_mp_lefthand",
+                    "index": 130
+                },
+                {
+                    "string": "paint_grenade_horde_mp",
+                    "index": 131
+                },
+                {
+                    "string": "semtex_mp",
+                    "index": 125
+                },
+                {
+                    "string": "semtex_horde_mp",
+                    "index": 126
+                },
+                {
+                    "string": "semtex_mp_lefthand",
+                    "index": 127
+                },
+                {
+                    "string": "stun_grenade_var_mp",
+                    "index": 237
+                },
+                {
+                    "string": "stun_grenade_var_mp_lefthand",
+                    "index": 238
+                },
+                {
+                    "string": "contact_grenade_horde_mp",
+                    "index": 135
+                },
+                {
+                    "string": "stun_grenade_mp",
+                    "index": 136
+                },
+                {
+                    "string": "stun_grenade_mp_lefthand",
+                    "index": 137
+                },
+                {
+                    "string": "emp_grenade_mp",
+                    "index": 145
+                },
+                {
+                    "string": "emp_grenade_mp_lefthand",
+                    "index": 146
+                },
+                {
+                    "string": "paint_grenade_mp",
+                    "index": 147
+                },
+                {
+                    "string": "paint_grenade_mp_lefthand",
+                    "index": 148
+                },
+                {
+                    "string": "smoke_grenade_mp",
+                    "index": 138
+                },
+                {
+                    "string": "smoke_grenade_mp_lefthand",
+                    "index": 139
+                },
+                {
+                    "string": "throwingknife_mp",
+                    "index": 122
+                },
+                {
+                    "string": "exoknife_mp",
+                    "index": 123
+                },
+                {
+                    "string": "exoknife_mp_lefthand",
+                    "index": 124
+                },
+                {
+                    "string": "tracking_drone_mp",
+                    "index": 149
+                },
+                {
+                    "string": "tracking_drone_mp_lefthand",
+                    "index": 150
+                },
+                {
+                    "string": "explosive_drone_mp",
+                    "index": 165
+                },
+                {
+                    "string": "explosive_drone_mp_lefthand",
+                    "index": 166
+                },
+                {
+                    "string": "s1_tactical_insertion_device_mp",
+                    "index": 118
+                },
+                {
+                    "string": "specialty_null",
+                    "index": 0
+                },
+                {
+                    "string": "specialty_null_gl",
+                    "index": 1
+                },
+                {
+                    "string": "specialty_null_grip",
+                    "index": 2
+                },
+                {
+                    "string": "specialty_null_shotgun",
+                    "index": 3
+                },
+                {
+                    "string": "specialty_null_attachment",
+                    "index": 4
+                },
+                {
+                    "string": "specialty_parabolic",
+                    "index": 5
+                },
+                {
+                    "string": "specialty_gpsjammer",
+                    "index": 6
+                },
+                {
+                    "string": "specialty_holdbreath",
+                    "index": 7
+                },
+                {
+                    "string": "specialty_quieter",
+                    "index": 8
+                },
+                {
+                    "string": "specialty_longersprint",
+                    "index": 9
+                },
+                {
+                    "string": "specialty_detectexplosive",
+                    "index": 10
+                },
+                {
+                    "string": "specialty_explosivedamage",
+                    "index": 11
+                },
+                {
+                    "string": "specialty_bulletaccuracy",
+                    "index": 12
+                },
+                {
+                    "string": "specialty_bulletaccuracy2",
+                    "index": 13
+                },
+                {
+                    "string": "specialty_rof",
+                    "index": 14
+                },
+                {
+                    "string": "specialty_fastreload",
+                    "index": 15
+                },
+                {
+                    "string": "specialty_extraammo",
+                    "index": 16
+                },
+                {
+                    "string": "specialty_twoprimaries",
+                    "index": 17
+                },
+                {
+                    "string": "specialty_armorvest",
+                    "index": 18
+                },
+                {
+                    "string": "specialty_fraggrenade",
+                    "index": 19
+                },
+                {
+                    "string": "specialty_specialgrenade",
+                    "index": 20
+                },
+                {
+                    "string": "specialty_burstfire",
+                    "index": 21
+                },
+                {
+                    "string": "specialty_blastshield",
+                    "index": 22
+                },
+                {
+                    "string": "specialty_akimbo",
+                    "index": 23
+                },
+                {
+                    "string": "specialty_siege",
+                    "index": 24
+                },
+                {
+                    "string": "specialty_shield",
+                    "index": 25
+                },
+                {
+                    "string": "specialty_falldamage",
+                    "index": 26
+                },
+                {
+                    "string": "specialty_delaymine",
+                    "index": 27
+                },
+                {
+                    "string": "specialty_feigndeath",
+                    "index": 28
+                },
+                {
+                    "string": "specialty_jumpdive",
+                    "index": 29
+                },
+                {
+                    "string": "specialty_localjammer",
+                    "index": 30
+                },
+                {
+                    "string": "specialty_shellshock",
+                    "index": 31
+                },
+                {
+                    "string": "specialty_fastmantle",
+                    "index": 32
+                },
+                {
+                    "string": "specialty_explosivebullets",
+                    "index": 33
+                },
+                {
+                    "string": "specialty_thermal",
+                    "index": 34
+                },
+                {
+                    "string": "specialty_lightweight",
+                    "index": 35
+                },
+                {
+                    "string": "specialty_blackbox",
+                    "index": 36
+                },
+                {
+                    "string": "specialty_steelnerves",
+                    "index": 37
+                },
+                {
+                    "string": "specialty_quickdraw",
+                    "index": 38
+                },
+                {
+                    "string": "specialty_flashgrenade",
+                    "index": 39
+                },
+                {
+                    "string": "specialty_concussiongrenade",
+                    "index": 40
+                },
+                {
+                    "string": "specialty_smokegrenade",
+                    "index": 41
+                },
+                {
+                    "string": "specialty_empgrenade",
+                    "index": 42
+                },
+                {
+                    "string": "specialty_scavenger",
+                    "index": 43
+                },
+                {
+                    "string": "specialty_sitrep",
+                    "index": 44
+                },
+                {
+                    "string": "specialty_amplify",
+                    "index": 45
+                },
+                {
+                    "string": "specialty_extendedmags",
+                    "index": 46
+                },
+                {
+                    "string": "specialty_saboteur",
+                    "index": 47
+                },
+                {
+                    "string": "specialty_coldblooded",
+                    "index": 48
+                },
+                {
+                    "string": "specialty_blindeye",
+                    "index": 49
+                },
+                {
+                    "string": "specialty_marathon",
+                    "index": 50
+                },
+                {
+                    "string": "specialty_challenger",
+                    "index": 51
+                },
+                {
+                    "string": "specialty_rearview",
+                    "index": 52
+                },
+                {
+                    "string": "specialty_endgame",
+                    "index": 53
+                },
+                {
+                    "string": "specialty_onemanarmy",
+                    "index": 54
+                },
+                {
+                    "string": "specialty_littlebird_support",
+                    "index": 55
+                },
+                {
+                    "string": "specialty_extendedmelee",
+                    "index": 56
+                },
+                {
+                    "string": "specialty_bling",
+                    "index": 57
+                },
+                {
+                    "string": "specialty_heartbreaker",
+                    "index": 58
+                },
+                {
+                    "string": "specialty_selectivehearing",
+                    "index": 59
+                },
+                {
+                    "string": "specialty_fastsnipe",
+                    "index": 60
+                },
+                {
+                    "string": "specialty_improvedholdbreath",
+                    "index": 61
+                },
+                {
+                    "string": "specialty_primarydeath",
+                    "index": 62
+                },
+                {
+                    "string": "specialty_secondarybling",
+                    "index": 63
+                },
+                {
+                    "string": "specialty_spygame",
+                    "index": 64
+                },
+                {
+                    "string": "specialty_spygame2",
+                    "index": 65
+                },
+                {
+                    "string": "specialty_automantle",
+                    "index": 66
+                },
+                {
+                    "string": "specialty_fastsprintrecovery",
+                    "index": 67
+                },
+                {
+                    "string": "specialty_hardline",
+                    "index": 68
+                },
+                {
+                    "string": "specialty_laststandoffhand",
+                    "index": 69
+                },
+                {
+                    "string": "specialty_dangerclose",
+                    "index": 70
+                },
+                {
+                    "string": "specialty_fmj",
+                    "index": 71
+                },
+                {
+                    "string": "specialty_jhp",
+                    "index": 72
+                },
+                {
+                    "string": "specialty_ap",
+                    "index": 73
+                },
+                {
+                    "string": "specialty_stalker",
+                    "index": 74
+                },
+                {
+                    "string": "specialty_steadyaimpro",
+                    "index": 75
+                },
+                {
+                    "string": "_specialty_blastshield",
+                    "index": 76
+                },
+                {
+                    "string": "specialty_stun_resistance",
+                    "index": 77
+                },
+                {
+                    "string": "specialty_double_load",
+                    "index": 78
+                },
+                {
+                    "string": "specialty_hard_shell",
+                    "index": 79
+                },
+                {
+                    "string": "specialty_regenspeed",
+                    "index": 80
+                },
+                {
+                    "string": "specialty_quickswap",
+                    "index": 81
+                },
+                {
+                    "string": "specialty_lowprofile",
+                    "index": 82
+                },
+                {
+                    "string": "specialty_empimmune",
+                    "index": 83
+                },
+                {
+                    "string": "specialty_detectgrenade",
+                    "index": 84
+                },
+                {
+                    "string": "specialty_moreminimap",
+                    "index": 85
+                },
+                {
+                    "string": "specialty_enhancedtracer",
+                    "index": 86
+                },
+                {
+                    "string": "specialty_overkillpro",
+                    "index": 87
+                },
+                {
+                    "string": "specialty_throwback",
+                    "index": 88
+                },
+                {
+                    "string": "specialty_anytwo",
+                    "index": 89
+                },
+                {
+                    "string": "specialty_assists",
+                    "index": 90
+                },
+                {
+                    "string": "specialty_fasterlockon",
+                    "index": 91
+                },
+                {
+                    "string": "specialty_fastoffhand",
+                    "index": 92
+                },
+                {
+                    "string": "specialty_paint",
+                    "index": 93
+                },
+                {
+                    "string": "specialty_paint_pro",
+                    "index": 94
+                },
+                {
+                    "string": "specialty_crouchmovement",
+                    "index": 95
+                },
+                {
+                    "string": "specialty_sprintfire",
+                    "index": 96
+                },
+                {
+                    "string": "specialty_sprintreload",
+                    "index": 97
+                },
+                {
+                    "string": "specialty_sprintequipment",
+                    "index": 98
+                },
+                {
+                    "string": "specialty_countersilencer",
+                    "index": 99
+                },
+                {
+                    "string": "specialty_threatdetection",
+                    "index": 100
+                },
+                {
+                    "string": "specialty_personaluav",
+                    "index": 101
+                },
+                {
+                    "string": "specialty_explosiveammoresupply",
+                    "index": 102
+                },
+                {
+                    "string": "specialty_lethalresupply",
+                    "index": 103
+                },
+                {
+                    "string": "specialty_tacticalresupply",
+                    "index": 104
+                },
+                {
+                    "string": "specialty_extralethal",
+                    "index": 105
+                },
+                {
+                    "string": "specialty_extratactical",
+                    "index": 106
+                },
+                {
+                    "string": "specialty_highroller",
+                    "index": 107
+                },
+                {
+                    "string": "specialty_unwrapper",
+                    "index": 108
+                },
+                {
+                    "string": "specialty_nojumpfriction",
+                    "index": 109
+                },
+                {
+                    "string": "specialty_radarimmune",
+                    "index": 110
+                },
+                {
+                    "string": "specialty_plainsight",
+                    "index": 111
+                },
+                {
+                    "string": "specialty_fastclimb",
+                    "index": 112
+                },
+                {
+                    "string": "specialty_bulletresupply",
+                    "index": 113
+                },
+                {
+                    "string": "streaktype_assault",
+                    "index": 114
+                },
+                {
+                    "string": "javelin_mp",
+                    "index": 115
+                },
+                {
+                    "string": "stinger_mp",
+                    "index": 116
+                },
+                {
+                    "string": "c4_mp",
+                    "index": 117
+                },
+                {
+                    "string": "claymore_mp",
+                    "index": 119
+                },
+                {
+                    "string": "rpg_mp",
+                    "index": 120
+                },
+                {
+                    "string": "m79_mp",
+                    "index": 121
+                },
+                {
+                    "string": "bouncingbetty_mp",
+                    "index": 132
+                },
+                {
+                    "string": "flash_grenade_mp",
+                    "index": 133
+                },
+                {
+                    "string": "flash_grenade_horde_mp",
+                    "index": 134
+                },
+                {
+                    "string": "concussion_grenade_mp",
+                    "index": 140
+                },
+                {
+                    "string": "tacticalinsertion_mp",
+                    "index": 141
+                },
+                {
+                    "string": "trophy_mp",
+                    "index": 142
+                },
+                {
+                    "string": "scrambler_mp",
+                    "index": 143
+                },
+                {
+                    "string": "portable_radar_mp",
+                    "index": 144
+                },
+                {
+                    "string": "mute_bomb_mp",
+                    "index": 153
+                },
+                {
+                    "string": "fast_heal_mp",
+                    "index": 155
+                },
+                {
+                    "string": "tri_drone_mp",
+                    "index": 159
+                },
+                {
+                    "string": "exoboost_equipment_mp",
+                    "index": 160
+                },
+                {
+                    "string": "exododge_equipment_mp",
+                    "index": 161
+                },
+                {
+                    "string": "exoslide_equipment_mp",
+                    "index": 162
+                },
+                {
+                    "string": "explosive_gel_mp",
+                    "index": 164
+                },
+                {
+                    "string": "specialty_juiced",
+                    "index": 168
+                },
+                {
+                    "string": "specialty_grenadepulldeath",
+                    "index": 169
+                },
+                {
+                    "string": "specialty_finalstand",
+                    "index": 170
+                },
+                {
+                    "string": "specialty_pistoldeath",
+                    "index": 171
+                },
+                {
+                    "string": "specialty_carepackage",
+                    "index": 172
+                },
+                {
+                    "string": "specialty_light_armor",
+                    "index": 173
+                },
+                {
+                    "string": "specialty_revenge",
+                    "index": 174
+                },
+                {
+                    "string": "specialty_stopping_power",
+                    "index": 175
+                },
+                {
+                    "string": "specialty_bulletdamage",
+                    "index": 176
+                },
+                {
+                    "string": "specialty_uav",
+                    "index": 177
+                },
+                {
+                    "string": "specialty_copycat",
+                    "index": 178
+                },
+                {
+                    "string": "specialty_combathigh",
+                    "index": 179
+                },
+                {
+                    "string": "specialty_bulletpenetration",
+                    "index": 180
+                },
+                {
+                    "string": "specialty_marksman",
+                    "index": 181
+                },
+                {
+                    "string": "specialty_sharp_focus",
+                    "index": 182
+                },
+                {
+                    "string": "specialty_armorpiercing",
+                    "index": 183
+                },
+                {
+                    "string": "specialty_holdbreathwhileads",
+                    "index": 184
+                },
+                {
+                    "string": "specialty_longerrange",
+                    "index": 185
+                },
+                {
+                    "string": "specialty_fastermelee",
+                    "index": 186
+                },
+                {
+                    "string": "specialty_reducedsway",
+                    "index": 187
+                },
+                {
+                    "string": "specialty_moredamage",
+                    "index": 188
+                },
+                {
+                    "string": "specialty_omaquickchange",
+                    "index": 189
+                },
+                {
+                    "string": "specialty_fastmeleerecovery",
+                    "index": 190
+                },
+                {
+                    "string": "specialty_rollover",
+                    "index": 191
+                },
+                {
+                    "string": "specialty_extraspecialduration",
+                    "index": 192
+                },
+                {
+                    "string": "specialty_freerunner",
+                    "index": 193
+                },
+                {
+                    "string": "specialty_luckycharm",
+                    "index": 194
+                },
+                {
+                    "string": "specialty_hardjack",
+                    "index": 195
+                },
+                {
+                    "string": "specialty_autospot",
+                    "index": 196
+                },
+                {
+                    "string": "specialty_fastsprintads",
+                    "index": 197
+                },
+                {
+                    "string": "specialty_class_lightweight",
+                    "index": 198
+                },
+                {
+                    "string": "specialty_class_hardline",
+                    "index": 199
+                },
+                {
+                    "string": "specialty_class_hardwired",
+                    "index": 200
+                },
+                {
+                    "string": "specialty_class_flakjacket",
+                    "index": 201
+                },
+                {
+                    "string": "specialty_class_quickdraw",
+                    "index": 202
+                },
+                {
+                    "string": "specialty_class_scavenger",
+                    "index": 203
+                },
+                {
+                    "string": "specialty_class_coldblooded",
+                    "index": 204
+                },
+                {
+                    "string": "specialty_class_fasthands",
+                    "index": 205
+                },
+                {
+                    "string": "specialty_class_dexterity",
+                    "index": 206
+                },
+                {
+                    "string": "specialty_class_blindeye",
+                    "index": 207
+                },
+                {
+                    "string": "specialty_class_gungho",
+                    "index": 208
+                },
+                {
+                    "string": "specialty_class_lowprofile",
+                    "index": 209
+                },
+                {
+                    "string": "specialty_class_peripherals",
+                    "index": 210
+                },
+                {
+                    "string": "specialty_class_toughness",
+                    "index": 211
+                },
+                {
+                    "string": "specialty_class_dangerclose",
+                    "index": 212
+                },
+                {
+                    "string": "specialty_exo_blastsuppressor",
+                    "index": 213
+                },
+                {
+                    "string": "specialty_exo_dodgethruster",
+                    "index": 214
+                },
+                {
+                    "string": "specialty_exo_slamboots",
+                    "index": 215
+                },
+                {
+                    "string": "specialty_exo_skidplates",
+                    "index": 216
+                },
+                {
+                    "string": "specialty_exo_dashextender",
+                    "index": 217
+                },
+                {
+                    "string": "specialty_exo_blade",
+                    "index": 218
+                },
+                {
+                    "string": "specialty_exo_shoulderlauncher",
+                    "index": 219
+                },
+                {
+                    "string": "specialty_exo_battery",
+                    "index": 220
+                },
+                {
+                    "string": "specialty_exo_boostshocks",
+                    "index": 221
+                },
+                {
+                    "string": "specialty_extended_battery",
+                    "index": 222
+                },
+                {
+                    "string": "specialty_wildcard_perkslot1",
+                    "index": 223
+                },
+                {
+                    "string": "specialty_wildcard_perkslot2",
+                    "index": 224
+                },
+                {
+                    "string": "specialty_wildcard_perkslot3",
+                    "index": 225
+                },
+                {
+                    "string": "specialty_wildcard_primaryattachment",
+                    "index": 226
+                },
+                {
+                    "string": "specialty_wildcard_secondaryattachment",
+                    "index": 227
+                },
+                {
+                    "string": "specialty_wildcard_dualprimaries",
+                    "index": 228
+                },
+                {
+                    "string": "specialty_wildcard_dualtacticals",
+                    "index": 229
+                },
+                {
+                    "string": "specialty_wildcard_duallethals",
+                    "index": 230
+                },
+                {
+                    "string": "specialty_wildcard_extrastreak",
+                    "index": 231
+                },
+                {
+                    "string": "specialty_horde_weaponsfree",
+                    "index": 232
+                },
+                {
+                    "string": "specialty_horde_dualprimary",
+                    "index": 233
+                },
+                {
+                    "string": "frag_grenade_var_mp",
+                    "index": 234
+                },
+                {
+                    "string": "contact_grenade_var_mp",
+                    "index": 235
+                },
+                {
+                    "string": "semtex_grenade_var_mp",
+                    "index": 236
+                },
+                {
+                    "string": "emp_grenade_var_mp",
+                    "index": 239
+                },
+                {
+                    "string": "emp_grenade_var_mp_lefthand",
+                    "index": 240
+                },
+                {
+                    "string": "paint_grenade_var_mp",
+                    "index": 241
+                },
+                {
+                    "string": "paint_grenade_var_mp_lefthand",
+                    "index": 242
+                },
+                {
+                    "string": "smoke_grenade_var_mp",
+                    "index": 243
+                },
+                {
+                    "string": "smoke_grenade_var_mp_lefthand",
+                    "index": 244
+                }
+            ]
+        },
+        {
+            "entryCount": 76,
+            "reservedEntryCount": 76,
+            "entries": [
+                {
+                    "string": "none",
+                    "index": 0
+                },
+                {
+                    "string": "multicame",
+                    "index": 1
+                },
+                {
+                    "string": "multicamd",
+                    "index": 2
+                },
+                {
+                    "string": "urban",
+                    "index": 3
+                },
+                {
+                    "string": "stranden",
+                    "index": 4
+                },
+                {
+                    "string": "wooldand",
+                    "index": 5
+                },
+                {
+                    "string": "raid",
+                    "index": 6
+                },
+                {
+                    "string": "digital3",
+                    "index": 7
+                },
+                {
+                    "string": "highlander",
+                    "index": 8
+                },
+                {
+                    "string": "yeti",
+                    "index": 9
+                },
+                {
+                    "string": "digital1",
+                    "index": 10
+                },
+                {
+                    "string": "concrete",
+                    "index": 11
+                },
+                {
+                    "string": "urbanjet",
+                    "index": 12
+                },
+                {
+                    "string": "neptune",
+                    "index": 13
+                },
+                {
+                    "string": "tiger",
+                    "index": 14
+                },
+                {
+                    "string": "carbon",
+                    "index": 15
+                },
+                {
+                    "string": "gold",
+                    "index": 16
+                },
+                {
+                    "string": "diamond",
+                    "index": 17
+                },
+                {
+                    "string": "sentinel",
+                    "index": 18
+                },
+                {
+                    "string": "clan01",
+                    "index": 19
+                },
+                {
+                    "string": "clan02",
+                    "index": 20
+                },
+                {
+                    "string": "camo01",
+                    "index": 21
+                },
+                {
+                    "string": "camo02",
+                    "index": 22
+                },
+                {
+                    "string": "camo03",
+                    "index": 23
+                },
+                {
+                    "string": "camo04",
+                    "index": 24
+                },
+                {
+                    "string": "camo05",
+                    "index": 25
+                },
+                {
+                    "string": "camo06",
+                    "index": 26
+                },
+                {
+                    "string": "camo07",
+                    "index": 27
+                },
+                {
+                    "string": "camo08",
+                    "index": 28
+                },
+                {
+                    "string": "camo09",
+                    "index": 29
+                },
+                {
+                    "string": "camo10",
+                    "index": 30
+                },
+                {
+                    "string": "camo11",
+                    "index": 31
+                },
+                {
+                    "string": "camo12",
+                    "index": 32
+                },
+                {
+                    "string": "camo13",
+                    "index": 33
+                },
+                {
+                    "string": "camo14",
+                    "index": 34
+                },
+                {
+                    "string": "camo15",
+                    "index": 35
+                },
+                {
+                    "string": "camo16",
+                    "index": 36
+                },
+                {
+                    "string": "camo17",
+                    "index": 37
+                },
+                {
+                    "string": "camo18",
+                    "index": 38
+                },
+                {
+                    "string": "camo19",
+                    "index": 39
+                },
+                {
+                    "string": "camo20",
+                    "index": 40
+                },
+                {
+                    "string": "camo21",
+                    "index": 41
+                },
+                {
+                    "string": "camo22",
+                    "index": 42
+                },
+                {
+                    "string": "camo23",
+                    "index": 43
+                },
+                {
+                    "string": "camo24",
+                    "index": 44
+                },
+                {
+                    "string": "camo25",
+                    "index": 45
+                },
+                {
+                    "string": "camo26",
+                    "index": 46
+                },
+                {
+                    "string": "camo27",
+                    "index": 47
+                },
+                {
+                    "string": "camo28",
+                    "index": 48
+                },
+                {
+                    "string": "camo29",
+                    "index": 49
+                },
+                {
+                    "string": "camo30",
+                    "index": 50
+                },
+                {
+                    "string": "camo31",
+                    "index": 51
+                },
+                {
+                    "string": "camo32",
+                    "index": 52
+                },
+                {
+                    "string": "camo33",
+                    "index": 53
+                },
+                {
+                    "string": "camo34",
+                    "index": 54
+                },
+                {
+                    "string": "camo35",
+                    "index": 55
+                },
+                {
+                    "string": "camo36",
+                    "index": 56
+                },
+                {
+                    "string": "camo37",
+                    "index": 57
+                },
+                {
+                    "string": "camo38",
+                    "index": 58
+                },
+                {
+                    "string": "camo39",
+                    "index": 59
+                },
+                {
+                    "string": "camo40",
+                    "index": 60
+                },
+                {
+                    "string": "camo41",
+                    "index": 61
+                },
+                {
+                    "string": "camo42",
+                    "index": 62
+                },
+                {
+                    "string": "camo43",
+                    "index": 63
+                },
+                {
+                    "string": "camo44",
+                    "index": 64
+                },
+                {
+                    "string": "camo45",
+                    "index": 65
+                },
+                {
+                    "string": "camo46",
+                    "index": 66
+                },
+                {
+                    "string": "camo47",
+                    "index": 67
+                },
+                {
+                    "string": "camo48",
+                    "index": 68
+                },
+                {
+                    "string": "camo49",
+                    "index": 69
+                },
+                {
+                    "string": "camo50",
+                    "index": 70
+                },
+                {
+                    "string": "camo51",
+                    "index": 71
+                },
+                {
+                    "string": "camo52",
+                    "index": 72
+                },
+                {
+                    "string": "camo53",
+                    "index": 73
+                },
+                {
+                    "string": "camo54",
+                    "index": 74
+                },
+                {
+                    "string": "camo55",
+                    "index": 75
+                }
+            ]
+        },
+        {
+            "entryCount": 67,
+            "reservedEntryCount": 67,
+            "entries": [
+                {
+                    "string": "none",
+                    "index": 0
+                },
+                {
+                    "string": "ret1",
+                    "index": 1
+                },
+                {
+                    "string": "ret2",
+                    "index": 2
+                },
+                {
+                    "string": "ret3",
+                    "index": 3
+                },
+                {
+                    "string": "ret4",
+                    "index": 4
+                },
+                {
+                    "string": "ret5",
+                    "index": 5
+                },
+                {
+                    "string": "ret6",
+                    "index": 6
+                },
+                {
+                    "string": "ret7",
+                    "index": 7
+                },
+                {
+                    "string": "ret8",
+                    "index": 8
+                },
+                {
+                    "string": "ret9",
+                    "index": 9
+                },
+                {
+                    "string": "retclan01",
+                    "index": 10
+                },
+                {
+                    "string": "retclan02",
+                    "index": 11
+                },
+                {
+                    "string": "retdlc01",
+                    "index": 12
+                },
+                {
+                    "string": "retdlc02",
+                    "index": 13
+                },
+                {
+                    "string": "retdlc03",
+                    "index": 14
+                },
+                {
+                    "string": "retdlc04",
+                    "index": 15
+                },
+                {
+                    "string": "retdlc05",
+                    "index": 16
+                },
+                {
+                    "string": "retdlc06",
+                    "index": 17
+                },
+                {
+                    "string": "retdlc07",
+                    "index": 18
+                },
+                {
+                    "string": "retdlc08",
+                    "index": 19
+                },
+                {
+                    "string": "retdlc09",
+                    "index": 20
+                },
+                {
+                    "string": "retdlc10",
+                    "index": 21
+                },
+                {
+                    "string": "retdlc11",
+                    "index": 22
+                },
+                {
+                    "string": "retdlc12",
+                    "index": 23
+                },
+                {
+                    "string": "retdlc13",
+                    "index": 24
+                },
+                {
+                    "string": "retdlc14",
+                    "index": 25
+                },
+                {
+                    "string": "retdlc15",
+                    "index": 26
+                },
+                {
+                    "string": "retdlc16",
+                    "index": 27
+                },
+                {
+                    "string": "retdlc17",
+                    "index": 28
+                },
+                {
+                    "string": "retdlc18",
+                    "index": 29
+                },
+                {
+                    "string": "retdlc19",
+                    "index": 30
+                },
+                {
+                    "string": "retdlc20",
+                    "index": 31
+                },
+                {
+                    "string": "retdlc21",
+                    "index": 32
+                },
+                {
+                    "string": "retdlc22",
+                    "index": 33
+                },
+                {
+                    "string": "retdlc23",
+                    "index": 34
+                },
+                {
+                    "string": "retdlc24",
+                    "index": 35
+                },
+                {
+                    "string": "retdlc25",
+                    "index": 36
+                },
+                {
+                    "string": "retdlc26",
+                    "index": 37
+                },
+                {
+                    "string": "retdlc27",
+                    "index": 38
+                },
+                {
+                    "string": "retdlc28",
+                    "index": 39
+                },
+                {
+                    "string": "retdlc29",
+                    "index": 40
+                },
+                {
+                    "string": "retdlc30",
+                    "index": 41
+                },
+                {
+                    "string": "retdlc31",
+                    "index": 42
+                },
+                {
+                    "string": "retdlc32",
+                    "index": 43
+                },
+                {
+                    "string": "retdlc33",
+                    "index": 44
+                },
+                {
+                    "string": "retdlc34",
+                    "index": 45
+                },
+                {
+                    "string": "retdlc35",
+                    "index": 46
+                },
+                {
+                    "string": "retdlc36",
+                    "index": 47
+                },
+                {
+                    "string": "retdlc37",
+                    "index": 48
+                },
+                {
+                    "string": "retdlc38",
+                    "index": 49
+                },
+                {
+                    "string": "retdlc39",
+                    "index": 50
+                },
+                {
+                    "string": "retdlc40",
+                    "index": 51
+                },
+                {
+                    "string": "retdlc41",
+                    "index": 52
+                },
+                {
+                    "string": "retdlc42",
+                    "index": 53
+                },
+                {
+                    "string": "retdlc43",
+                    "index": 54
+                },
+                {
+                    "string": "retdlc44",
+                    "index": 55
+                },
+                {
+                    "string": "retdlc45",
+                    "index": 56
+                },
+                {
+                    "string": "retdlc46",
+                    "index": 57
+                },
+                {
+                    "string": "retdlc47",
+                    "index": 58
+                },
+                {
+                    "string": "retdlc48",
+                    "index": 59
+                },
+                {
+                    "string": "retdlc49",
+                    "index": 60
+                },
+                {
+                    "string": "retdlc50",
+                    "index": 61
+                },
+                {
+                    "string": "retdlc51",
+                    "index": 62
+                },
+                {
+                    "string": "retdlc52",
+                    "index": 63
+                },
+                {
+                    "string": "retdlc53",
+                    "index": 64
+                },
+                {
+                    "string": "retdlc54",
+                    "index": 65
+                },
+                {
+                    "string": "retdlc55",
+                    "index": 66
+                }
+            ]
+        },
+        {
+            "entryCount": 62,
+            "reservedEntryCount": 62,
+            "entries": [
+                {
+                    "string": "none",
+                    "index": 0
+                },
+                {
+                    "string": "uav",
+                    "index": 1
+                },
+                {
+                    "string": "triple_uav",
+                    "index": 15
+                },
+                {
+                    "string": "uav_support",
+                    "index": 2
+                },
+                {
+                    "string": "counter_uav",
+                    "index": 3
+                },
+                {
+                    "string": "airdrop_assault",
+                    "index": 4
+                },
+                {
+                    "string": "airdrop_reinforcement_common",
+                    "index": 5
+                },
+                {
+                    "string": "airdrop_reinforcement_uncommon",
+                    "index": 6
+                },
+                {
+                    "string": "airdrop_reinforcement_rare",
+                    "index": 7
+                },
+                {
+                    "string": "airdrop_reinforcement_practice",
+                    "index": 8
+                },
+                {
+                    "string": "airdrop_sentry_minigun",
+                    "index": 9
+                },
+                {
+                    "string": "sentry",
+                    "index": 10
+                },
+                {
+                    "string": "airdrop_juggernaut",
+                    "index": 11
+                },
+                {
+                    "string": "juggernaut",
+                    "index": 12
+                },
+                {
+                    "string": "deployable_vest",
+                    "index": 13
+                },
+                {
+                    "string": "airdrop_trap",
+                    "index": 14
+                },
+                {
+                    "string": "remote_mg_turret",
+                    "index": 16
+                },
+                {
+                    "string": "emp",
+                    "index": 17
+                },
+                {
+                    "string": "airdrop_juggernaut_recon",
+                    "index": 18
+                },
+                {
+                    "string": "juggernaut_recon",
+                    "index": 19
+                },
+                {
+                    "string": "aerial_placed_mines",
+                    "index": 20
+                },
+                {
+                    "string": "orbital_strike",
+                    "index": 21
+                },
+                {
+                    "string": "orbital_strike_chem",
+                    "index": 22
+                },
+                {
+                    "string": "orbital_strike_laser",
+                    "index": 23
+                },
+                {
+                    "string": "orbital_strike_laser_chem",
+                    "index": 24
+                },
+                {
+                    "string": "orbital_strike_cluster",
+                    "index": 25
+                },
+                {
+                    "string": "orbital_strike_drone",
+                    "index": 26
+                },
+                {
+                    "string": "nuke",
+                    "index": 27
+                },
+                {
+                    "string": "missile_strike",
+                    "index": 28
+                },
+                {
+                    "string": "orbital_carepackage",
+                    "index": 29
+                },
+                {
+                    "string": "map_killstreak",
+                    "index": 30
+                },
+                {
+                    "string": "mp_prison",
+                    "index": 31
+                },
+                {
+                    "string": "mp_recovery",
+                    "index": 32
+                },
+                {
+                    "string": "mp_lab2",
+                    "index": 33
+                },
+                {
+                    "string": "mp_solar",
+                    "index": 34
+                },
+                {
+                    "string": "mp_laser2",
+                    "index": 35
+                },
+                {
+                    "string": "mp_dam",
+                    "index": 36
+                },
+                {
+                    "string": "mp_refraction",
+                    "index": 37
+                },
+                {
+                    "string": "mp_terrace",
+                    "index": 38
+                },
+                {
+                    "string": "mp_detroit",
+                    "index": 39
+                },
+                {
+                    "string": "mp_torqued",
+                    "index": 40
+                },
+                {
+                    "string": "mp_instinct",
+                    "index": 41
+                },
+                {
+                    "string": "mp_odium",
+                    "index": 42
+                },
+                {
+                    "string": "mp_recreation",
+                    "index": 43
+                },
+                {
+                    "string": "mp_comeback",
+                    "index": 44
+                },
+                {
+                    "string": "warbird",
+                    "index": 45
+                },
+                {
+                    "string": "recon_ugv",
+                    "index": 46
+                },
+                {
+                    "string": "assault_ugv",
+                    "index": 47
+                },
+                {
+                    "string": "orbitalsupport",
+                    "index": 48
+                },
+                {
+                    "string": "heavy_exosuit",
+                    "index": 49
+                },
+                {
+                    "string": "remote_mg_sentry_turret",
+                    "index": 50
+                },
+                {
+                    "string": "drone_carepackage",
+                    "index": 51
+                },
+                {
+                    "string": "next_gen_exo",
+                    "index": 52
+                },
+                {
+                    "string": "strafing_run_airstrike",
+                    "index": 53
+                },
+                {
+                    "string": "mp_lost",
+                    "index": 54
+                },
+                {
+                    "string": "dlc_streak2",
+                    "index": 55
+                },
+                {
+                    "string": "dlc_streak3",
+                    "index": 56
+                },
+                {
+                    "string": "dlc_streak4",
+                    "index": 57
+                },
+                {
+                    "string": "dlc_streak5",
+                    "index": 58
+                },
+                {
+                    "string": "dlc_streak6",
+                    "index": 59
+                },
+                {
+                    "string": "dlc_streak7",
+                    "index": 60
+                },
+                {
+                    "string": "dlc_streak8",
+                    "index": 61
+                }
+            ]
+        },
+        {
+            "entryCount": 97,
+            "reservedEntryCount": 97,
+            "entries": [
+                {
+                    "string": "none",
+                    "index": 0
+                },
+                {
+                    "string": "uav_support",
+                    "index": 8
+                },
+                {
+                    "string": "uav_assist_points",
+                    "index": 1
+                },
+                {
+                    "string": "uav_scrambler",
+                    "index": 2
+                },
+                {
+                    "string": "uav_increased_time",
+                    "index": 3
+                },
+                {
+                    "string": "uav_advanced_updates",
+                    "index": 4
+                },
+                {
+                    "string": "uav_enemy_direction",
+                    "index": 5
+                },
+                {
+                    "string": "uav_paint_outline",
+                    "index": 6
+                },
+                {
+                    "string": "uav_orbit",
+                    "index": 7
+                },
+                {
+                    "string": "sentry_rocket_turret",
+                    "index": 9
+                },
+                {
+                    "string": "sentry_energy_turret",
+                    "index": 10
+                },
+                {
+                    "string": "sentry_rippable",
+                    "index": 11
+                },
+                {
+                    "string": "sentry_guardian",
+                    "index": 12
+                },
+                {
+                    "string": "sentry_360",
+                    "index": 13
+                },
+                {
+                    "string": "sentry_heavy_resistance",
+                    "index": 14
+                },
+                {
+                    "string": "sentry_anti_intrusion",
+                    "index": 15
+                },
+                {
+                    "string": "sentry_support",
+                    "index": 16
+                },
+                {
+                    "string": "missile_strike_cluster",
+                    "index": 17
+                },
+                {
+                    "string": "missile_strike_hellfire",
+                    "index": 18
+                },
+                {
+                    "string": "missile_strike_chem",
+                    "index": 19
+                },
+                {
+                    "string": "missile_strike_drone",
+                    "index": 20
+                },
+                {
+                    "string": "missile_strike_extra_1",
+                    "index": 21
+                },
+                {
+                    "string": "missile_strike_extra_2",
+                    "index": 22
+                },
+                {
+                    "string": "orbital_strike_laser_beam",
+                    "index": 23
+                },
+                {
+                    "string": "orbital_strike_laser_burst1",
+                    "index": 24
+                },
+                {
+                    "string": "orbital_strike_laser_burst2",
+                    "index": 25
+                },
+                {
+                    "string": "orbital_strike_laser_duration",
+                    "index": 26
+                },
+                {
+                    "string": "orbital_strike_laser_width",
+                    "index": 27
+                },
+                {
+                    "string": "drone_carepackage_roll",
+                    "index": 28
+                },
+                {
+                    "string": "drone_carepackage_odds",
+                    "index": 29
+                },
+                {
+                    "string": "drone_carepackage_hide",
+                    "index": 30
+                },
+                {
+                    "string": "drone_carepackage_trap",
+                    "index": 31
+                },
+                {
+                    "string": "drone_carepackage_support",
+                    "index": 32
+                },
+                {
+                    "string": "drone_carepackage_resistance",
+                    "index": 33
+                },
+                {
+                    "string": "recon_ugv_increased_time",
+                    "index": 34
+                },
+                {
+                    "string": "recon_ugv_assist_points",
+                    "index": 35
+                },
+                {
+                    "string": "recon_ugv_paint_grenade",
+                    "index": 36
+                },
+                {
+                    "string": "recon_ugv_cloak",
+                    "index": 37
+                },
+                {
+                    "string": "recon_ugv_ar_hud",
+                    "index": 38
+                },
+                {
+                    "string": "recon_ugv_stun",
+                    "index": 39
+                },
+                {
+                    "string": "recon_ugv_emp",
+                    "index": 40
+                },
+                {
+                    "string": "warbird_cloak",
+                    "index": 41
+                },
+                {
+                    "string": "warbird_rockets",
+                    "index": 42
+                },
+                {
+                    "string": "warbird_flares",
+                    "index": 43
+                },
+                {
+                    "string": "warbird_time",
+                    "index": 44
+                },
+                {
+                    "string": "warbird_ai_attack",
+                    "index": 45
+                },
+                {
+                    "string": "warbird_ai_follow",
+                    "index": 46
+                },
+                {
+                    "string": "warbird_coop_offensive",
+                    "index": 47
+                },
+                {
+                    "string": "assault_ugv_mg",
+                    "index": 48
+                },
+                {
+                    "string": "assault_ugv_rockets",
+                    "index": 49
+                },
+                {
+                    "string": "assault_ugv_mines",
+                    "index": 50
+                },
+                {
+                    "string": "assault_ugv_cloak",
+                    "index": 51
+                },
+                {
+                    "string": "assault_ugv_ai",
+                    "index": 52
+                },
+                {
+                    "string": "assault_ugv_hardened",
+                    "index": 53
+                },
+                {
+                    "string": "assault_ugv_ar_hud",
+                    "index": 54
+                },
+                {
+                    "string": "assault_ugv_uav",
+                    "index": 55
+                },
+                {
+                    "string": "orbitalsupport_rockets",
+                    "index": 56
+                },
+                {
+                    "string": "orbitalsupport_turret",
+                    "index": 57
+                },
+                {
+                    "string": "orbitalsupport_coop_offensive",
+                    "index": 58
+                },
+                {
+                    "string": "orbitalsupport_flares",
+                    "index": 59
+                },
+                {
+                    "string": "orbitalsupport_time",
+                    "index": 60
+                },
+                {
+                    "string": "orbitalsupport_ammo",
+                    "index": 61
+                },
+                {
+                    "string": "orbital_carepackage_roll",
+                    "index": 62
+                },
+                {
+                    "string": "orbital_carepackage_fast_pickup",
+                    "index": 63
+                },
+                {
+                    "string": "orbital_carepackage_trap",
+                    "index": 64
+                },
+                {
+                    "string": "orbital_carepackage_module1",
+                    "index": 65
+                },
+                {
+                    "string": "orbital_carepackage_module2",
+                    "index": 66
+                },
+                {
+                    "string": "orbital_carepackage_module3",
+                    "index": 67
+                },
+                {
+                    "string": "orbital_carepackage_speed",
+                    "index": 68
+                },
+                {
+                    "string": "orbital_carepackage_ar_hud",
+                    "index": 69
+                },
+                {
+                    "string": "orbital_carepackage_odds",
+                    "index": 70
+                },
+                {
+                    "string": "orbital_carepackage_hide",
+                    "index": 71
+                },
+                {
+                    "string": "orbital_carepackage_support",
+                    "index": 72
+                },
+                {
+                    "string": "emp_time_1",
+                    "index": 73
+                },
+                {
+                    "string": "emp_time_2",
+                    "index": 74
+                },
+                {
+                    "string": "emp_assist",
+                    "index": 75
+                },
+                {
+                    "string": "emp_flash",
+                    "index": 76
+                },
+                {
+                    "string": "emp_streak_kill",
+                    "index": 77
+                },
+                {
+                    "string": "emp_equipment_kill",
+                    "index": 78
+                },
+                {
+                    "string": "emp_exo_kill",
+                    "index": 79
+                },
+                {
+                    "string": "emp_support",
+                    "index": 80
+                },
+                {
+                    "string": "strafing_run_airstrike_player",
+                    "index": 81
+                },
+                {
+                    "string": "strafing_run_airstrike_two",
+                    "index": 82
+                },
+                {
+                    "string": "strafing_run_airstrike_coop",
+                    "index": 83
+                },
+                {
+                    "string": "strafing_run_airstrike_flares",
+                    "index": 84
+                },
+                {
+                    "string": "strafing_run_airstrike_speed",
+                    "index": 85
+                },
+                {
+                    "string": "strafing_run_airstrike_package",
+                    "index": 86
+                },
+                {
+                    "string": "strafing_run_airstrike_stealth",
+                    "index": 87
+                },
+                {
+                    "string": "recon_ugv_support",
+                    "index": 88
+                },
+                {
+                    "string": "heavy_exosuit_radar",
+                    "index": 89
+                },
+                {
+                    "string": "heavy_exosuit_maniac",
+                    "index": 90
+                },
+                {
+                    "string": "heavy_exosuit_punch",
+                    "index": 91
+                },
+                {
+                    "string": "heavy_exosuit_trophy",
+                    "index": 92
+                },
+                {
+                    "string": "heavy_exosuit_rockets",
+                    "index": 93
+                },
+                {
+                    "string": "heavy_exosuit_ammo",
+                    "index": 94
+                },
+                {
+                    "string": "heavy_exosuit_eject",
+                    "index": 95
+                },
+                {
+                    "string": "orbital_carepackage_drone",
+                    "index": 96
+                }
+            ]
+        }
+    ],
+    "structCount": 5,
+    "structs": [
+        {
+            "propertyCount": 2,
+            "properties": [
+                {
+                    "name": "customClasses",
+                    "type": 6,
+                    "index": 7,
+                    "offset": 8,
+                    "validation": 1
+                },
+                {
+                    "name": "privateMatchCustomClasses",
+                    "type": 6,
+                    "index": 8,
+                    "offset": 1928,
+                    "validation": 1
+                }
+            ],
+            "size": 2568,
+            "bitOffset": 0
+        },
+        {
+            "propertyCount": 4,
+            "properties": [
+                {
+                    "name": "weapon",
+                    "type": 4,
+                    "index": 1,
+                    "offset": 0,
+                    "validation": 0
+                },
+                {
+                    "name": "attachment",
+                    "type": 6,
+                    "index": 0,
+                    "offset": 2,
+                    "validation": 0
+                },
+                {
+                    "name": "camo",
+                    "type": 4,
+                    "index": 3,
+                    "offset": 8,
+                    "validation": 0
+                },
+                {
+                    "name": "reticle",
+                    "type": 4,
+                    "index": 4,
+                    "offset": 10,
+                    "validation": 0
+                }
+            ],
+            "size": 12,
+            "bitOffset": 0
+        },
+        {
+            "propertyCount": 2,
+            "properties": [
+                {
+                    "name": "equipment",
+                    "type": 4,
+                    "index": 2,
+                    "offset": 0,
+                    "validation": 0
+                },
+                {
+                    "name": "extra",
+                    "type": 2,
+                    "index": 0,
+                    "offset": 16,
+                    "validation": 0
+                }
+            ],
+            "size": 3,
+            "bitOffset": 17
+        },
+        {
+            "propertyCount": 2,
+            "properties": [
+                {
+                    "name": "streak",
+                    "type": 4,
+                    "index": 5,
+                    "offset": 0,
+                    "validation": 0
+                },
+                {
+                    "name": "modules",
+                    "type": 6,
+                    "index": 1,
+                    "offset": 2,
+                    "validation": 0
+                }
+            ],
+            "size": 8,
+            "bitOffset": 0
+        },
+        {
+            "propertyCount": 9,
+            "properties": [
+                {
+                    "name": "inUse",
+                    "type": 2,
+                    "index": 0,
+                    "offset": 0,
+                    "validation": 0
+                },
+                {
+                    "name": "weaponSetups",
+                    "type": 6,
+                    "index": 2,
+                    "offset": 1,
+                    "validation": 0
+                },
+                {
+                    "name": "equipmentSetups",
+                    "type": 6,
+                    "index": 3,
+                    "offset": 25,
+                    "validation": 0
+                },
+                {
+                    "name": "specialGrenade",
+                    "type": 4,
+                    "index": 1,
+                    "offset": 31,
+                    "validation": 0
+                },
+                {
+                    "name": "name",
+                    "type": 3,
+                    "index": 21,
+                    "offset": 33,
+                    "validation": 0
+                },
+                {
+                    "name": "perkSlots",
+                    "type": 6,
+                    "index": 4,
+                    "offset": 54,
+                    "validation": 0
+                },
+                {
+                    "name": "wildcardSlots",
+                    "type": 6,
+                    "index": 5,
+                    "offset": 66,
+                    "validation": 0
+                },
+                {
+                    "name": "streaktype",
+                    "type": 4,
+                    "index": 2,
+                    "offset": 72,
+                    "validation": 0
+                },
+                {
+                    "name": "assaultStreaks",
+                    "type": 6,
+                    "index": 6,
+                    "offset": 74,
+                    "validation": 0
+                }
+            ],
+            "size": 128,
+            "bitOffset": 1
+        }
+    ],
+    "indexedArrayCount": 9,
+    "indexedArrays": [
+        {
+            "arraySize": 3,
+            "type": 4,
+            "index": 0,
+            "elementSize": 2
+        },
+        {
+            "arraySize": 3,
+            "type": 4,
+            "index": 6,
+            "elementSize": 2
+        },
+        {
+            "arraySize": 2,
+            "type": 5,
+            "index": 1,
+            "elementSize": 12
+        },
+        {
+            "arraySize": 2,
+            "type": 5,
+            "index": 2,
+            "elementSize": 3
+        },
+        {
+            "arraySize": 6,
+            "type": 4,
+            "index": 2,
+            "elementSize": 2
+        },
+        {
+            "arraySize": 3,
+            "type": 4,
+            "index": 2,
+            "elementSize": 2
+        },
+        {
+            "arraySize": 4,
+            "type": 5,
+            "index": 3,
+            "elementSize": 8
+        },
+        {
+            "arraySize": 15,
+            "type": 5,
+            "index": 4,
+            "elementSize": 128
+        },
+        {
+            "arraySize": 5,
+            "type": 5,
+            "index": 4,
+            "elementSize": 128
+        }
+    ],
+    "enumedArrayCount": 0,
+    "enumedArrays": null,
+    "type": 5,
+    "index": 0,
+    "size": 2568
+}

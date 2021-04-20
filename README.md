@@ -8,6 +8,7 @@
 <ul>
   <li>Rawfile</li>
   <li>StringTable</li>
+  <li>StructuredData</li>
   <li>NetConstStrings</li>
   <li>Fonts</li>
 </ul>

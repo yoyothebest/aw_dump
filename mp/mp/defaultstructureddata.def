@@ -1,0 +1,23 @@
+{
+    "name": "mp/defaultstructureddata.def",
+    "version": 41,
+    "formatChecksum": 1104745215,
+    "enumCount": 0,
+    "enums": null,
+    "structCount": 1,
+    "structs": [
+        {
+            "propertyCount": 0,
+            "properties": null,
+            "size": 0,
+            "bitOffset": 0
+        }
+    ],
+    "indexedArrayCount": 0,
+    "indexedArrays": null,
+    "enumedArrayCount": 0,
+    "enumedArrays": null,
+    "type": 5,
+    "index": 0,
+    "size": 0
+}

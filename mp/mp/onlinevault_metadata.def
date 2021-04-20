@@ -1,0 +1,80 @@
+{
+    "name": "mp/onlinevault_metadata.def",
+    "version": 1,
+    "formatChecksum": 554172022,
+    "enumCount": 0,
+    "enums": null,
+    "structCount": 1,
+    "structs": [
+        {
+            "propertyCount": 8,
+            "properties": [
+                {
+                    "name": "name",
+                    "type": 3,
+                    "index": 65,
+                    "offset": 8,
+                    "validation": 0
+                },
+                {
+                    "name": "desc",
+                    "type": 3,
+                    "index": 65,
+                    "offset": 73,
+                    "validation": 0
+                },
+                {
+                    "name": "author",
+                    "type": 3,
+                    "index": 33,
+                    "offset": 138,
+                    "validation": 0
+                },
+                {
+                    "name": "nameModified",
+                    "type": 2,
+                    "index": 0,
+                    "offset": 1368,
+                    "validation": 0
+                },
+                {
+                    "name": "descModified",
+                    "type": 2,
+                    "index": 0,
+                    "offset": 1369,
+                    "validation": 0
+                },
+                {
+                    "name": "createTime",
+                    "type": 0,
+                    "index": 0,
+                    "offset": 172,
+                    "validation": 0
+                },
+                {
+                    "name": "duration",
+                    "type": 0,
+                    "index": 0,
+                    "offset": 176,
+                    "validation": 0
+                },
+                {
+                    "name": "cgmChecksum",
+                    "type": 0,
+                    "index": 0,
+                    "offset": 180,
+                    "validation": 0
+                }
+            ],
+            "size": 184,
+            "bitOffset": 1306
+        }
+    ],
+    "indexedArrayCount": 0,
+    "indexedArrays": null,
+    "enumedArrayCount": 0,
+    "enumedArrays": null,
+    "type": 5,
+    "index": 0,
+    "size": 184
+}
